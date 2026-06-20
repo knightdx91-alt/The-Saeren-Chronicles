@@ -6,7 +6,7 @@ She woke to a face.
 
 Not a hand on her shoulder, not the chime, not the gray light coming through the round window. A face, a hand's width from her own, two storm-lit eyes open and patient and far too close, and the warm gust of breath that smelled, faintly, of last night's soup.
 
-Viridia did not startle. She had learned, in three days, not to. She only lay there and looked back at him, and let her heart settle out of the small jolt it had given, and thought that this was, in fact, the most ordinary thing that had happened to her since she came through the gate. A girl waking with a tiger an inch from her nose. There was something restful in how completely unremarkable it had already become.
+Viridia did not startle. Three days had taught her better. She only lay there and looked back at him, and let her heart settle out of the small jolt it had given, and thought that this was, in fact, the most ordinary thing that had happened to her since she came through the gate. A girl waking with a tiger an inch from her nose. There was something restful in how completely unremarkable it had already become.
 
 *You sleep like the dead,* Lor-ar observed, not moving. *I have watched lesser creatures hibernate with more conviction, but only just.*
 
@@ -56,13 +56,13 @@ She wanted to argue. She could feel the shape of the argument in her, all the cl
 
 *Am I to take it that a creature cannot know what came before it was born? Then you know nothing, little one, having been alive a scant fourteen years, and we may stop talking and you may go back to your soup.* The whiskers moved; it was as close to a grin as he came. *I am a spirit walker. It is what the* -ar *means, on the end of my name. Lor is what I was called. -ar is what I became. There are a handful of us in a generation, and we are permitted to walk down into the place where the past keeps itself, and to look. I have looked. I am not guessing.*
 
-She turned that over. A creature who could walk into the past. A tree of names a thousand years deep folded into her mother's book. A focus that had been thirsty since before any of this was a country. The pieces did not yet make a picture, but they had begun, faintly, to face the same direction, and she did not like the picture they were facing.
+She turned that over. A creature who could walk into the past. A thousand years of ancestors folded into her mother's book. A rod that had gone parched and waiting since before any of this was a country. The pieces did not yet make a picture, but they had begun, faintly, to face the same direction, and she did not like the picture they were facing.
 
 "And me," she said. Quietly. The same question she had asked in the dark last night, only this time he could not duck out the door, because he had promised, and because her eyes were open. "What about me."
 
 ———
 
-For answer, he came up off the blanket and put his great head against her chest, his brow to her breastbone, the bone-white horns sliding past her cheeks, and held it there.
+For answer, he rose off the blanket and laid his broad brow against her breastbone, the bone-white horns sliding past her cheeks, and held it there.
 
 *Look at me,* he said, his voice arriving inside her skull and nowhere else. *Not with your eyes. With your magic. Reach into the place the cane drinks from, and bring up both halves of it, the light and the dark together, the way you did in the clearing, and lay them over your eyes like a film of water. Both halves. It does not work with one.*
 
@@ -74,7 +74,7 @@ She closed her eyes. She found, under her ribs, the thing she still flinched fro
 
 The room had caught fire. Not with heat. With light.
 
-She made a small involuntary sound. Everything that had been ordinary—the desk, the wardrobe, the cold tray—sat dim and unchanged, ordinary objects in ordinary morning. But Lor-ar, an inch from her face, blazed. He was lit from the inside out, every line of him laced with moving energy, the way a window is laced with frost except that this moved, ran, breathed; and at the center of him, where his chest pressed against hers, a core turned slowly on itself, white and black braided into one wheeling thing, and she understood without being told that she was looking at the most private fact a creature owned, and that she was seeing it because he had let her.
+She made a small involuntary sound. Everything that had been ordinary—the desk, the wardrobe, the cold tray—sat dim and unchanged, ordinary objects in ordinary morning. But Lor-ar, an inch from her face, blazed. He was lit from the inside out, every line of him laced with moving energy, the way a window is laced with frost except that this moved, ran, breathed; and at the center of him, where his chest pressed against hers, a core turned slowly on itself, the two colors plaited into one wheeling thing, and she understood without being told that she was looking at the most private fact a creature owned, and that she was seeing it because he had let her.
 
 *There,* he said. *Now you see as I see. Tell me what you find. The first three things.*
 
@@ -82,7 +82,7 @@ She turned her head, slowly, drunk on it.
 
 The first thing was the window. Through the glass, the lawn outside ran with thin threads of light, low to the ground, hundreds of them, going about their small bright business; *grass,* she thought, dazed, *that's the grass alive,* and under it deeper threads that must be roots, and she had to look away before it pulled her out the window entirely.
 
-The second thing was her mother's stone, at her own throat. It held a small flame, pale and steady, light-side only, a tidy little ember of a thing.
+The second thing was her mother's stone, where it hung against her collarbone. It held a small flame, pale and steady, light-side only, a tidy little ember of a thing.
 
 The third thing was the soup.
 
@@ -90,7 +90,9 @@ The third thing was the soup.
 
 *Vegetables are stubborn,* he said, with enormous dignity. *They take a long while to admit they are food. It is one of the more tedious facts of the living world and I am glad it amuses you.*
 
-She laughed again, and pressed the back of her wrist to her mouth, and the laugh ran down into something steadier, and she sat in the burning room and looked at all of it, and for one whole minute she was not grieving and not frightened and not managing her face. She was only a girl seeing the world for the first time as it actually was, which was *alive,* impossibly, everywhere, all at once, and she had been walking through the middle of it blind.
+There was a fourth thing too, when she looked for it. The cane at her hip had its own slow light, banked and waiting, a thread of it reaching toward her like a plant leaning at a window; and where the cane's light met the edge of her own, the two did not so much touch as recognize each other, the way a key finds the one lock it was filed for. She had carried it three days against her body and never known it had been quietly trying to come home to her the whole time.
+
+She laughed again, the sound surprising her a second time, and pressed the back of her wrist to her mouth, and the laugh ran down into something steadier, and she sat in the burning room and looked at all of it, and for one whole minute she was not grieving and not frightened and not managing her face. She was only a girl seeing the world for the first time as it actually was, which was *alive,* impossibly, everywhere, all at once, and she had been walking through the middle of it blind.
 
 Then Lor-ar drew his head back, and the loss of him left a clear line of sight straight down, and she looked, because of course she looked, and saw her own core.
 
@@ -100,7 +102,7 @@ She forgot the carrots.
 
 She had braced, vaguely, for something like the stone at her throat: a pale flame, light-side only, the broken half she had been told she was. Or perhaps, if Lor-ar was right, the small black smudge she had glimpsed on Amber, the secret thing under the necklace. She had not braced for this.
 
-Her own core was Lor-ar's, white and black braided into one turning wheel, and it was vast. Where his was a coal, hers was a hearth. Where his turned slow and certain, hers wheeled with a banked, patient force that she could feel as well as see, a deep furnace-rumble in her own chest that she had been living on top of her entire life and never once heard. It dwarfed the pale ember of her mother's stone the way the sun dwarfs a struck match. It was, she thought, the size of three of his.
+Her own core was the twin of his, the same plaited wheel of light and dark, and it was vast. Where his was a coal, hers was a hearth. Where his turned slow and certain, hers wheeled with a banked, patient force that she could feel as well as see, a deep furnace-rumble in her own chest that she had been living on top of her entire life and never once heard. It dwarfed the pale ember of her mother's stone the way the sun dwarfs a struck match. It was, she thought, the size of three of his.
 
 She sat very still.
 
@@ -136,7 +138,7 @@ It was a pale flame. Light-side only. A small steady candle of a thing in the ce
 
 *She is broken. As all of them are. As you alone are not.*
 
-Viridia watched Alice reach the door below and fumble it open one-handed, books sliding, and recover them with a small graceless lunge, and disappear inside, off to be useful, off to sit with the parts magic could not heal, off to build her own bright life one ordinary day at a time. She thought about going down. She thought about catching her on the stairs and putting a hand over her eyes the way Lor-ar had put his head to her chest, and showing her—*look, look what you really are, look what the world did to all of you*—and watching Alice's whole face open the way it opened at everything, with helpless friendly wonder.
+Viridia watched Alice reach the door below and fumble it open one-handed, books sliding, and recover them with a small graceless lunge, and disappear inside, off to be useful, off to keep company with the hurts magic left untouched, off to build her own bright life one ordinary day at a time. She thought about going down. She thought about catching her on the stairs and putting a hand over her eyes the way Lor-ar had put his head to her chest, and showing her—*look, look what you really are, look what the world did to all of you*—and watching Alice's whole face open the way it opened at everything, with helpless friendly wonder.
 
 She did not move.
 
@@ -152,7 +154,7 @@ So she let the sight go. The room dimmed back to morning. Alice's pale candle, t
 
 ———
 
-She got dressed, after that, because the office would not wait forever and there was nothing left to do with her hands. She put on the uniform, the black vest with its white H, the brown skirt, and she slid the cane through the loop at her waist where it sat now, primed, four feet of silver that knew more about her than she did. Lor-ar shrank, without being asked, to his house-cat size, and sat on the end of the bed washing one paw with the unbothered air of a thing that has all the time in the world.
+She got dressed, after that, because the office would not wait forever and there was nothing left to do with her hands. She dressed in the school's colors, the vest and the skirt and the long socks, and slid the cane into the loop sewn at her hip, where it rode now, primed, four feet of silver that knew more about her than she did. Lor-ar shrank, without being asked, to his house-cat size, and sat on the end of the bed washing one paw with the unbothered air of a thing that has all the time in the world.
 
 She had one more question. She had been carrying it since the clearing, turning it over under all the others, and she had not asked it because she was afraid of the answer and afraid, more, of there being no answer at all.
 
@@ -160,7 +162,7 @@ She had one more question. She had been carrying it since the clearing, turning 
 
 *Mm.*
 
-"My parents." She kept her voice level. She kept her hands still. "If I was born with both halves, split, the old way—then it came from somewhere. The book has a tree of names a thousand years deep, light and dark, all tangled together on the same branches, and the focus came down my mother's side. So." She made herself say it. "Did they have it too? Both halves? Were they—were they like me, and just never—" The sentence ran out of road. *Never said. Never showed me. Be careful who you let see you do it.* "Did they know? What I am?"
+"My parents." She kept her voice level. She kept her hands still. "If I was born with both halves, split, the old way—then it came from somewhere. The book has a tree of names a thousand years deep, the bright kind and the shadowed kind knotted onto one bough, and the focus came down my mother's side. So." She made herself say it. "Did they have it too? Both halves? Were they—were they like me, and just never—" The sentence ran out of road. *Never said. Never showed me. Be careful who you let see you do it.* "Did they know? What I am?"
 
 Lor-ar stopped washing his paw.
 
@@ -190,6 +192,6 @@ It should have felt like a gift. Some of it did. But she stood at the door and u
 
 Lor-ar wound once around her ankles, warm, the prickle of a held storm in the air of him.
 
-*Come, little one,* he said. *The Headmistress is waiting, and she, of all of them, has been watching that stone at your throat since the day you walked in. Let us go and find out how much she already knows.*
+*Come along,* he said. *The Headmistress is waiting, and she, of all of them, has had her eye on that bauble of yours since the day you walked in. Let us go and find out how much she already knows.*
 
 Viridia drew one breath, around the held place, the way she did, and opened the door, and went out to be looked at.
