@@ -93,12 +93,12 @@ reader_personas:
 
 entity_state:
   created: true
-  last_updated_chapter: 15
+  last_updated_chapter: 18
   open_contradictions: 0
 
 continuity:
   outline_audit: {critical: 0, warning: 0}
-  manuscript_audit: {critical: 0, warning: 0}
+  manuscript_audit: {critical: 0, warning: 0, minor: 3, scope: full}
 
 quality_gate:
   chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]

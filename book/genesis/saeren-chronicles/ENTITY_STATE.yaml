@@ -1,5 +1,5 @@
 # ENTITY_STATE — canonical state keeper (BUILD over chapter-1.md + character-bible.md)
-last_updated_chapter: 15
+last_updated_chapter: 18
 mode: UPDATE
 
 characters:
@@ -88,8 +88,15 @@ world_rules:
   magic: "energy, harnessed via focus; both-sided gift severed long ago; Moravian language writes intent directly"
   uniform: "black vest, white H over right breast, white undershirt, brown skirt above knee, long white socks, black shoes"
 
+events_ch16_18:
+  fall_of_hazel: "Ch.16: capital army attacks Hazel at night by the Chancellor's signed decree (he confirmed Lightwell trains dark mages via the glasses of true seeing). School burns. Many dead. Viridia kills 3 soldiers + unmakes a captain (explosion rune linked to his protection rune = a death-symbol). Lightwell (true dark core unhidden) duels the Chancellor in the main hall, was winning when last seen; her fate after = unconfirmed (presumed dead per Jazen). Lightwell's last telepathic order to Viridia: save who you can, find Jazen, 'you were chosen.'"
+  escape: "Viridia opens her own portal (well-gift, Ch.14), evacuates 8 girls (3 second-years, 5 third-years; NO first-years) + Amber + Lor-ar to moonlit woods near Jazen's camp. Amber's protective shield holds until she crosses (magic cuts off across a portal); portal closed; Amber slumps from drain. Raizen was AWAY hunting with Drake (alive via True Bond, cannot be located — portals span any distance)."
+  alice_status: "UNKNOWN. Alice on overflow duty in the medical ward when the attack began; Viridia could not reach the ward and chose to save the 8 (the cost). No survivor saw Alice fall or flee (Ch.17). Jazen promises to put the word out and bring 'true news, alive or dead' (Ch.18). = the open wound / Book-Two thread."
+  lost_in_fire: "Viridia's mother's spellbook (with the family-tree name that doesn't fit + Bella's letter) and her silver focus/cane BURNED in the school. NOTE for Bk2: the family-tree-name seed (Ch.2) was destroyed with the book — must be re-introduced via another route."
+  camp: "Jazen's hidden resistance village; invisible via a ward only ~3 mages can power (Jazen, Hiram, Abe); lived-in, children, Moravian taught openly to dark-mage kids. Council: Coram (old, soft-voiced, decides to march), Brutus (sunburned, built the place, fears its loss), woman-in-blue (silver/gold spectacles, locket, grandchildren), stately silver-bun woman (cold arithmetic). Ch.18: council yields to Jazen; march on the capital in ~1 week."
+
 resistance_jazen:
-  jazen: {role: "resistance leader, most powerful dark mage alive, mid-20s", backstory: "sister Jan burned in a raid 2 yrs ago; killed a town's worth of soldiers alone in grief; suing for peace ever since, terrified of losing control again", relation: "Lady Lightwell's son (Viridia does NOT yet know)", ultimatum_ch9: "peace until ONE more dark mage killed by capital decree, then war"}
+  jazen: {role: "resistance leader, most powerful dark mage alive, mid-20s", physical: "lean/lanky, close-cropped dark hair, brown trousers, dark blue shirt, kerchief; lets his grief show (cried openly Ch.17, unlike Viridia)", backstory: "sister Jan burned in a raid 2 yrs ago; killed a town's worth of soldiers alone in grief; suing for peace ever since, terrified of losing control again", relation: "Lady Lightwell's son — REVEALED TO VIRIDIA Ch.17 (she did not know before; Amber knew, withheld)", ultimatum_ch9: "peace until ONE more dark mage killed by capital decree, then war", ch18: "decree broken (Hazel) → goes to war; marches on the capital in ~1 week; offers Viridia a place ('we're done with small'); will hunt for news of Alice Pembrook"}
   resistance: {via: "Hazel fourth-years run supplies + rare family-rescues; compartmentalized so no one taken can give up the rest", camp: "main camp where Jazen lives = evac destination if war"}
   hidden_dark_mages_at_hazel: "~4-5 girls seen by Viridia Ch.9 wearing light-core necklaces over dark cores (plus Amber, Lightwell)"
 
