@@ -42,7 +42,7 @@ phase:
 
 chapters:
   total_planned: 18
-  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   scores:
     "2": {floor: 8.5, average: 8.5}
     "3": {floor: 8.5, average: 8.6}
@@ -57,6 +57,7 @@ chapters:
     "12": {floor: 8.5, average: 8.6}
     "13": {floor: 8.5, average: 8.7}
     "14": {floor: 8.5, average: 8.7}
+    "15": {floor: 8.5, average: 8.7}
 
 genesis_score:
   current_floor: 0.0
@@ -89,7 +90,7 @@ reader_personas:
 
 entity_state:
   created: true
-  last_updated_chapter: 9
+  last_updated_chapter: 15
   open_contradictions: 0
 
 continuity:
@@ -97,7 +98,7 @@ continuity:
   manuscript_audit: {critical: 0, warning: 0}
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   chapters_escalated: []
 
 decisions:
