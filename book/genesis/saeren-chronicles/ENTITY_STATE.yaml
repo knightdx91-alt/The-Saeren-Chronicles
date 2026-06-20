@@ -1,5 +1,5 @@
 # ENTITY_STATE — canonical state keeper (BUILD over chapter-1.md + character-bible.md)
-last_updated_chapter: 2
+last_updated_chapter: 9
 mode: UPDATE
 
 characters:
@@ -11,7 +11,9 @@ characters:
     posture: "shoulders drawn slightly inward; spine that does not bend"
     grief: "worn inward; NO ONE sees her cry"
     item: "dark-blue stone necklace (mother's), carved symbols faintly lit; gripped when stressed"
-    magic: "both halves merged into one whole core (hidden); does not yet know its full nature"
+    magic: "both halves merged into one whole core (hidden); now KNOWS its nature (Ch.7): she is whole, not broken; her core is ~3x Lor-ar's (a 'hearth'). Has always-on mana sight from Ch.7-8 (will-held in 7, automatic after Raizen bond in 8)."
+    knows_at_ch9_end: "she is the only whole person she's met; Alice's core is broken (chose NOT to tell her, Ch.7); cannot know if parents shared her nature (Lor-ar doesn't know, Ch.7); True Bonded to Raizen (Ch.8); Lightwell is a dark mage running a resistance through the school + Jazen's story (Ch.9); can see hidden dark cores under light-core necklaces on ~4-5 girls"
+    skin_change: "begins to harden like dragon-hide post-True-Bond (Varissa's warning, Ch.8)"
     focus: "silver rod, mother's side, Moravian inscription; not yet primed at Ch.1 end"
     knows_at_ch1_end: "parents dead 3 days; arrived at Hazel; met Amber, Alice, Lady Lightwell"
     location_ch1_end: "orientation hall, leaving with Alice"
@@ -39,7 +41,9 @@ characters:
     dress: "autumn — burnished gold, dark rose, emerald green collar"
     shoes: "blue, plain, slightly scuffed (human contradiction)"
     secret_core: "dark core (black swirling mass) under a light-core necklace — SHOWN never stated"
-    secret_identity: "Jazen's mother; runs resistance through the school"
+    secret_identity: "Jazen's mother (NOT yet known to Viridia); runs resistance through the school"
+    revealed_to_viridia_ch9: "Viridia now SEES her hidden dark core; Lightwell acknowledges it openly — 'mutual trust' / 'each other by the throat'. Confirms the resistance, the fourth-years' real jobs, Jazen's story (sister Jan burned), Jazen's ultimatum (one more dark mage killed by decree = war). Plan: if war comes, pull dark-mage girls (incl. Viridia) to Jazen's camp. Advice to Viridia: 'Notice quietly.'"
+    office_warded: "Ch.9: office door warded like a vault (Moravian-script runes) — Viridia notes it's more than a study"
     office: "plain wooden desk; large white crystal (right), onyx crystal (left); steel-banded door, red runes"
   lor_ar:
     species: "sylvan tiger, spirit walker"; age: 300
@@ -48,9 +52,9 @@ characters:
     verbal: "'little one' RATION; affection via honesty"
     bond: "summoned bond (not True Bond); released end of Book Two"
     status: "SUMMONED & BONDED Ch.5; house-cat size indoors, full size outdoors; refuses the bracelet"
-  raizen: {species: "prismatic dragon", status: "not yet hatched (Ch.8)", bond: "True Bond w/ Viridia", parents: "Drake & Varissa", note: "speaks ~2 weeks after birth"}
-  drake: {age: 6000, form: "pitch black; jet-black death flames", affinity: "death", teaches: "portals + DEATH SYMBOL", manner: "gruff = grief"}
-  varissa: {age: 5000, form: "brilliant scarlet", abilities: "portals, drain spell, spatial lock", note: "fierce re Raizen ('my baby')"}
+  raizen: {species: "prismatic dragon", status: "HATCHED & True-Bonded Ch.8; newborn, cat-sized, all-colors scales", bond: "True Bond w/ Viridia (life-tied; if one dies both die)", parents: "Drake & Varissa", speech: "does NOT speak yet at Ch.9; speaks ~2 weeks after birth (Ch.10)", carry: "rides Viridia's shoulder, tail wound round her arm", note: "wordless contentment travels the bond; short-range telepathy with Viridia to come"}
+  drake: {age: "~6000", form: "pitch black; jet-black death flames", affinity: "death", teaches: "portals + DEATH SYMBOL (later)", manner: "gruff = grief; 'doesn't look like much'", canon_ch8: "was present at the making of the human-beast pact; human form = dark-haired man, tan breeches, white shirt; grieves loudly from a height; lost a child in the last war"}
+  varissa: {age: "~5000", form: "brilliant scarlet, breathes flame", abilities: "portals, drain spell, spatial lock", human_form: "tall, pale, flame-red hair, black dress", note: "fierce re Raizen; grieves 'closer to the ground' (quiet, like Viridia); delivered the burn-down-the-school warning Ch.8 (relayed to Lightwell Ch.9, word-for-word)"}
   mrs_zoran: {role: "Intro to Magic teacher", physical: "frizzy brown hair, large glasses, too-big red dress, silver hoops, ring focus", trait: "enthusiastic, open-minded, risk-taking", backstory_NEW_ch3: "had an older brother, a dark mage and beekeeper, killed for what he might one day become — root of her open-mindedness (added Ch.3, consistent w/ bible)"}
   high_chancellor_meros: {name: "Erik Meros", role: "antagonist", physical: "short, bald, white robe, light-gold sash, silver-framed glasses of true seeing", note: "PLANT glasses early; underestimates Viridia; killed by Drake's flames (Bk2)"}
   aleric_porter: {role: "Viridia's patron", note: "brought her by motorcar; well-meaning, oblivious; references brochure Leon received"}
@@ -74,6 +78,11 @@ world_rules:
   sponsorship: "fourth-years sponsor one first-year; mistakes hurt sponsor's ranking; one 'favor' from Lightwell"
   magic: "energy, harnessed via focus; both-sided gift severed long ago; Moravian language writes intent directly"
   uniform: "black vest, white H over right breast, white undershirt, brown skirt above knee, long white socks, black shoes"
+
+resistance_jazen:
+  jazen: {role: "resistance leader, most powerful dark mage alive, mid-20s", backstory: "sister Jan burned in a raid 2 yrs ago; killed a town's worth of soldiers alone in grief; suing for peace ever since, terrified of losing control again", relation: "Lady Lightwell's son (Viridia does NOT yet know)", ultimatum_ch9: "peace until ONE more dark mage killed by capital decree, then war"}
+  resistance: {via: "Hazel fourth-years run supplies + rare family-rescues; compartmentalized so no one taken can give up the rest", camp: "main camp where Jazen lives = evac destination if war"}
+  hidden_dark_mages_at_hazel: "~4-5 girls seen by Viridia Ch.9 wearing light-core necklaces over dark cores (plus Amber, Lightwell)"
 
 canon_guardrails:
   - "Alice surname = PEMBROOK; Jazen (not Jasen); Lightwell rose-tinted"
