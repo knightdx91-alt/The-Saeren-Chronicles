@@ -50,7 +50,7 @@ Viridia let her eyes travel the script as if it were strange to her, and shook h
 
 "I no be surprised. There do be few these days who study such things." The old woman traced the words herself with one yellowed nail, and read them out in a voice gone suddenly soft and old and careful. "It do say: *Dust to dust, from whence we came; so all may fear he who wields this cane.*" She looked up. "That do be a strange thing to find in a light mage's hand, do it not."
 
-"Yes," Viridia said, and meant it, and set it away among the things she kept for the uncomfortable later, because a light-mage school did not keep a rod inscribed in the dark mages' tongue with a promise of fear and death unless the line between the two was thinner and older than anyone said. "Where did it come from?"
+"Yes," Viridia said, and the word was true, and she set it away among the things she kept for the uncomfortable later, because a light-mage school did not keep a rod inscribed in the dark mages' tongue with a promise of fear and death unless the line between the two was thinner and older than anyone said. "Where did it come from?"
 
 "The vaults. For the test, all rods do be brought from the vaults, even such as that one." Quina drew a flat silver disc from her pocket, set it on the table, and the moment for questions closed. "Now. Five scenarios do be in this disc. I push the button; a memory do come into your mind; you choose the rod that best do solve what you find there. It do test your knowledge, your reading of magic, and your judgment when there do be no clean answer. Do you be ready?"
 

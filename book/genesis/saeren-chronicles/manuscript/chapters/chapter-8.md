@@ -90,7 +90,7 @@ Viridia sat very still by the fire. She had asked, four days ago, for something 
 
 "It is not your doing," Varissa said.
 
-She had not stopped tending the egg. Viridia turned to find the scarlet head lowered near her, the slit-pupiled eye warm in the firelight, watching her with something that was almost gentleness.
+She had not stopped tending the egg. Viridia turned to find the scarlet head lowered near her, the slit-pupiled eye warm in the firelight, watching her with what looked, on a dragon, very near to gentleness.
 
 *He has told you the count of years, I expect, and the one we lost,* she said. *He always does; it is how he keeps the wound where he can watch it. What he will not have told you is the rest. That after the last one we did not speak of trying again for forty years. That when this egg quickened I would not let myself believe in it until it moved under my own breath, for fear of how it would be to lose another. That I have spent every night since with my fire on this shell, not because it needs it, but because it is the only thing left that I am permitted to do for him.* The great head tilted toward Viridia. *I do not tell you this to lay the weight on you. I tell you so you will hold the size of it. We are handing you our only child. Do you understand that I would not do this for a soul I had any choice about?*
 
@@ -102,7 +102,7 @@ High above, Drake's plume of black fire tore the dark again, farther off now, sm
 
 *He will circle until he has burned it out of himself,* Varissa said, following Viridia's glance. *It is how the big ones grieve. Loudly, and from a height, and then not at all, ever, for a thousand years.* There was no scorn in it; there was a long marriage in it. *I grieve closer to the ground. Someone must, or nothing would get done.* The slit eye came back to Viridia. *You grieve like me, I think. Quietly. With your back straight and your hands busy. Yes?*
 
-Viridia did not answer. She did not have to; the not-answering was the answer, and Varissa let it stand, and that, more than anything anyone had said to her in four days, made Viridia's throat close. It was the first time someone had named the thing she did and not asked her to stop doing it.
+Viridia did not answer. There was no need; the not-answering was the answer, and Varissa let it stand, and that, more than anything anyone had said to her in four days, made Viridia's throat close. It was the first time someone had named the thing she did and not asked her to stop doing it.
 
 *Then you will manage him,* Varissa said gently. *A grief held quiet leaves room in the hands for a small thing that needs holding. You will see.* She bent her head and laid one more long breath of fire over the egg, and the shell glowed scarlet, and then—
 
@@ -112,7 +112,7 @@ A sound came out of the egg. A crack, sharp as a snapped bone, loud in the clear
 
 * * *
 
-Viridia was on her knees in front of the egg before she had decided to move.
+Viridia was on her knees in front of the egg before any decision reached her.
 
 The shell was hot under her hands, not burning, alive with the heat of two dragons' fire, and it shuddered. A second crack ran across it. From inside came a sound, a small high reaching sound, and then a snout pushed through the broken place, a snout that was not one color but all of them, scales that threw the firelight back in red and gold and green and blue at once, shifting as they moved.
 
@@ -130,7 +130,7 @@ She was changed in that moment. She knew it as it happened, which was the strang
 
 And under all of it, deeper than the sharpened senses, in the warm turning dark below her ribs where the hearth lived, there was now a second presence. A small new fire, his fire, sitting close beside her own and tied to it past any untying. She could feel him in there the way you can feel someone in a dark room with you, a warmth and a weight and a faint contentment that was not hers. He was frightened and he was new and he was, already, not afraid of her, and the not-being-afraid came down the new thread between them and settled in her chest, and she thought she might understand, now, a little of what Varissa meant about the hands and the holding.
 
-She looked down at the dragon in her hands, and a name came up out of her and out of her mouth before she had chosen it.
+She looked down at the dragon in her hands, and a name rose up through her and out of her mouth before she had chosen it.
 
 "Raizen."
 

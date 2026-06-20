@@ -24,7 +24,7 @@ adaptation:
     chapter_roadmap: "research/chapter-roadmap.md"     # outline (binding, scene-level)
     master_checklist: "research/master-checklist.md"   # revision tasks per chapter
     original_draft:  "research/original-draft.txt"     # raw prose for ch.2-18 to revise/expand
-  chapter_1_locked: true   # already revised (~4,740 words); do not rewrite
+  chapter_1_locked: false  # UNLOCKED by author for round-2 revision pass (2026-06-20); voice still benchmark, but edited like the rest
   chapters_to_produce: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
   manuscript_min_words: 85000   # HARD FLOOR — finished Book One must be >= 85k words
   manuscript_target_words: 90000
@@ -32,7 +32,7 @@ adaptation:
 
 phase:
   current: 3
-  status: "COMPLETE — all 18 chapters finalized; external-review revision pass applied 2026-06-20 (85,535 words; all per-chapter style ceilings clean; Genesis Floor >= 8.5 held)"
+  status: "COMPLETE — all 18 chapters finalized; round-2 external-review revision pass applied 2026-06-20 (86,528 words; cross-manuscript style gate CLEAN incl. em-dash <=4/ch; climax causal joint fixed; war-clock re-threaded Ch.10-12; Alice climax-eve agency added; family-tree gun mourned/re-seeded; Meros humanized; show-don't-tell tics varied; Genesis Floor >= 8.5 held)"
   history:
     - "Ch.1 drafted (Session 1, ~4,740 words) — locked as chapter-1.md"
     - "Phase 2/2.5: foundation.md, outline.md, voice-dna.md, voice-bank samples written"

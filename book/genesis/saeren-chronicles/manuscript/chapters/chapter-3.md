@@ -138,9 +138,9 @@ Alice had been bouncing in her seat for the whole exchange and could contain it 
 
 "You don't know that."
 
-"No," Viridia agreed. "But you make the focus warm up, and you've never been taught a thing, and you knew which star was yours the second you touched it. That's not nothing. That's a great deal of something, with nobody to help it." She had not meant to say so much. She rarely did. But Alice had looked, for half a second, the way Viridia felt all the time, and Viridia had not been able to leave her there.
+"No," Viridia agreed. "But you make the focus warm up, and you've never been taught a thing, and you knew which star was yours the second you touched it. That's not nothing. That's a great deal of something, with nobody to help it." It was more than she usually let out. She rarely said so much. But Alice had looked, for half a second, the way Viridia felt all the time, and Viridia could not leave her standing there in it alone.
 
-Alice's eyes went bright again, differently. "There you go again," she said, thick. "Stop it, I'll cry into the man's flowerpots." She knuckled at one eye and laughed and put the star carefully away inside her collar, where it sat over her heart and pulsed where no one could see it.
+Alice's eyes went bright again, differently. "There you go again," she said, thick. "Stop it, I'll cry into the man's flowerpots." She knuckled at one eye and laughed and put the star carefully away inside her collar, where it sat over her heart and pulsed against her skin, hidden.
 
 Then Viridia looked down at her own cane, white scrollwork and a thirsty seam, and the thought came before she could stop it. "I'm not sure I'll be able to hide this."
 
@@ -174,7 +174,7 @@ She let it sit.
 
 "That first part, *knowledge is power,* has been a kind of war-cry, in its time. The creed of a great many dark mages, down the years. The belief that no knowledge should be kept from anyone. That no law has the right to govern a person's conduct, only their own conscience." She turned the cane in her hands. "It has started wars, that idea. It has ended them. The light mages have spent six hundred years afraid of it." She looked up. "I am about to tell you something I'd be wiser to keep behind my teeth. I'll have to trust you to be wiser with it than I'm being."
 
-"You can," Viridia said. She did not know if it was true. She found she wanted it to be.
+"You can," Viridia said. Whether it was true she could not have said. She found she wanted it to be.
 
 "This focus wasn't made for a light mage." Mrs. Zoran said it quietly. "Nor for a dark one, exactly. It was made for someone with *both.*"
 
@@ -194,9 +194,9 @@ The words sat between them. Mrs. Zoran did not ask the question. Viridia could s
 
 "Then keep it that way." Mrs. Zoran was quiet a moment, turning something over behind the owl glasses, and when she spoke again it was lower still, almost to herself. "I had a brother. Older than me. He was born with the dark side, and I with the light, same parents, same kitchen, same bread, and you'd have thought, the way the world treated us, that we'd been got by different fathers entirely." She smoothed her too-big sleeve. "He was the gentlest soul I ever knew. He kept bees. He couldn't kill a wasp, never mind a person. And they came for him all the same, because of what he *might* one day choose to be, and that was reason enough." She blinked, and the brightness came back up over the memory, a curtain drawn against a draught. "So you'll forgive an old woman for caring rather a lot about who gets called wicked for the shape of the thing they were handed. It's not a tidy subject for me."
 
-Viridia did not know what to say to that, so she said the true thing. "I'm sorry."
+There was nothing to set against a grief that old. So Viridia gave her the true thing instead. "I'm sorry."
 
-"It was a long time ago." Which was not, Viridia noticed, the same as saying it no longer hurt. Mrs. Zoran reached out and, just for a moment, put her hand over Viridia's where it gripped the cane. "I'll tell you what I believe, and then I'll stop, because I've already said more than's safe." She leaned in. "I don't think the dark side of the gift makes a person wicked. I've known kind dark mages and cruel light ones, and the gift had nothing to do with either. It's only ever how you use the thing you were handed." She drew back, and the warning came up in her like a finger raised. "But you must understand. There are very few people in this school as easy in their minds about all this as Lady Lightwell and I. Out there." She nodded toward the window, the gate, the world. "Fewer still. So whatever you carry, carry it quietly. Especially the day you walk back out that gate."
+"It was a long time ago." Which was not, Viridia noticed, the same as saying it no longer hurt. Mrs. Zoran reached out and, just for a moment, put her hand over Viridia's where it gripped the cane. "I'll tell you what I believe, and then I'll stop, because I've already said more than's safe." She leaned in. "I don't think the dark side of the gift makes a person wicked. I've known kind dark mages and cruel light ones, and the gift made no difference to either. It's only ever how you use the thing you were handed." She drew back, and the warning came up in her like a finger raised. "But you must understand. There are very few people in this school as easy in their minds about all this as Lady Lightwell and I. Out there." She nodded toward the window, the gate, the world. "Fewer still. So whatever you carry, carry it quietly. Especially the day you walk back out that gate."
 
 She rose, stiff in the knees, and helped Viridia up after her. "Off with you. I've made you late for poor Mr. Cote, and there's no quicker way to age a girl than an hour of his lecturing." The cheer was back, mostly. "Go on."
 
@@ -206,7 +206,7 @@ Viridia thanked her, for the cane, for the words, for the risk she had only half
 
 The corridor was empty. The class had gone on; Alice was waiting somewhere down by History; the school went about its loud distant business one floor up and one floor down. For a moment there was nobody, and Viridia stopped, and held the cane up before her in the grey window-light.
 
-She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But she let herself, for the length of one held breath in an empty corridor, feel the thing she had not felt in days, not grief, not its grey weight, not the careful work of holding her face still.
+She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But standing alone in the empty corridor, she allowed in, briefly, something that grief had crowded out for days, not its grey weight, not the careful work of holding her face still.
 
 She turned the cane once more and watched the grey light slide down the white scroll. A focus that had been thirsty long enough to frighten Mrs. Zoran. A focus made for someone whole, in an age when whole had been ordinary, handed down a tree of names a thousand years deep to a girl in a corridor who could not read its writing. It ought to have been too large a thing to hold. It sat balanced and easy in her hand, the way the rod had sat in the loop of her skirt, the skirt sewn around it. As though, somewhere down all those branches, someone had measured her without ever having met her.
 

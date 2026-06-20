@@ -14,7 +14,7 @@ Amber caught up with the easy lope of someone who had never once in her life hur
 
 "Amber." She shook it, gravely, and let it go. "Fourth-year. Viridia's sponsor, as of about an hour ago, which I'm told is faster than anyone's supposed to do it." She made a small face. "I've always been a bit impulsive."
 
-Viridia turned the word *sponsor* over and found she did not know what to do with it. She had been chosen for something twice now in three days, and both times by people who would not quite tell her why.
+Viridia turned the word *sponsor* over and could find no place to set it down. She had been chosen for something twice now in three days, and both times by people who would not quite tell her why.
 
 "What does that mean," she said. Not quite a question. She rarely asked things outright; she preferred to set a sentence down between herself and a person and watch what they did with it.
 
@@ -48,7 +48,7 @@ The third suitcase was different. The fabric had sigils stitched into it in thre
 
 Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at one end. And tucked beside it, folded once, a note in a hand she had never seen, not her mother's looping script, not her father's careful block letters, not the school's gold-stamp efficiency. A stranger's hand, and a steady one.
 
-*This is called a focus. To the best of my knowledge it has been passed down on your mother's side for a very long time. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
+*This is called a focus. To the best of my knowledge it has been passed down on your mother's side for more generations than anyone has counted. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
 
 That was all. No name. No *love.* No spirits-guide-you. Just an instruction, given by someone who knew where she was going to be before she had known it herself.
 
@@ -56,7 +56,7 @@ She picked the rod up. It was lighter than it looked and colder than the room. T
 
 *Keep this with you always.*
 
-Somebody had wanted her to have this. Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and decided what she would and would not tell a teacher she had not yet met. It should have been frightening. It mostly was. But under the fright, small and unwelcome, was the other thing, the thing she had not felt in three days: she wanted to know who. She wanted to know why.
+Somebody had wanted her to have this. Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and decided what she would and would not tell a teacher she had not yet met. It should have been frightening. It mostly was. But under the fright, small and unwelcome, was a thing grief had crowded out for three days: she wanted to know who. She wanted to know why.
 
 She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
@@ -154,7 +154,7 @@ For a long moment nobody touched the food. Then somewhere down the second-year t
 
 "I'm not going in the forest," Alice said, very firmly, to her soup. "Ever. They can fail me."
 
-"You'd survive the forest," Viridia said. "It's the dragons you'd want to leave alone." She did not know yet that she would not take her own advice. She thought she was making a joke.
+"You'd survive the forest," Viridia said. "It's the dragons you'd want to leave alone." She had no idea, saying it, that she would soon ignore her own advice entirely. She thought she was making a joke.
 
 Alice snorted into her bowl, which Viridia counted, privately, as a small victory.
 
@@ -170,7 +170,7 @@ They came back to room fourteen quiet, the way the whole school had gone quiet, 
 
 "Goodnight."
 
-Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of a person who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had not been able to do that, drop off the edge of a day and trust it to catch you, since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
+Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of someone who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had lost the trick of that, dropping off the edge of a day and trusting it to catch you, since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
 
 When she was sure of Alice's breathing, she reached under the bed and drew out the second suitcase.
 

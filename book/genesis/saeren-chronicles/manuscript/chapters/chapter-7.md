@@ -36,7 +36,7 @@ She ate her bread.
 
 * * *
 
-It came out of him slowly, in the way she was learning he gave the things that mattered, not as a lecture but as a man turning a stone over in his hands and naming what he found on each face of it. He had had, he said, three hundred years to learn patience, and he spent it freely, and the spending of it was itself a kind of argument: that this was old, that it would keep, that she did not have to swallow it all at once.
+It came out of him slowly, in the way she was learning he gave the things that mattered, not as a lecture but as a man turning a stone over in his hands and naming what he found on each face of it. He had had, he said, three hundred years to learn patience, and he spent it freely, and the spending of it was itself a kind of argument: that this was old, that it would keep, that there was no need to swallow it all at once.
 
 "One side each," she said, when he had laid the bones of it out. "Light, dark, or none at all. That isn't a wound. That's just the shape of us."
 
