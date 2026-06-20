@@ -130,6 +130,8 @@ Viridia went.
 
 And in the corridor outside, with the door shut behind her and the wards humming faint in the wood, she stopped, and let the sight rest where it wanted to rest, on the girls passing in the hall.
 
+A girl going past caught Viridia staring and frowned, uncertain, and Viridia let her eyes drop to the carpet and emptied her expression in the space of a breath — the old reflex, drilled into her by a mother who had never once said aloud what it was for. *Notice quietly.* She had practiced it her whole childhood. Only now did she grasp the price of being caught.
+
 She had seen it all morning and not understood what she was seeing. Now she understood, and she made herself stand there and count, because counting was what she did with things too large to feel all at once.
 
 One on the stair: a tall third-year with her hair in a plait, laughing at something, and under the thin chain at her throat, where the borrowed pale stone sat, a small dark mass turning slow and careful, hidden behind the stone's stolen flame. One at the far end by the windows, a quiet girl Viridia had seen at meals and never spoken to, the same. The fourth-year coming up from the dining hall with a stack of books, the same. Not many. Four, five, that she could find from where she stood. But more than none, and now that she knew the shape of the thing she was looking for she understood that there would be more she could not see from here, scattered through the years and the classrooms, each one wearing a light mage's face over a dark mage's heart because the alternative was to be hunted.
@@ -138,7 +140,7 @@ Dark mages. In a school for light mages. Walking the corridors in their stolen l
 
 The war was not coming to Hazel.
 
-The war was already here, inside the walls, sitting in the desks, wearing the uniform, hidden behind borrowed flames in the chests of girls who smiled at the teachers and went down to breakfast and pretended, because they had to, that they were something they were not. It had been here the whole time. She had simply not been able to see it until someone taught her how, and now that she could, she understood that she would never again walk this corridor and think it only a corridor, full of only girls, on only an ordinary morning.
+The war was already here, inside the walls, sitting in the desks, hidden behind borrowed flames in the chests of girls who smiled at the teachers and pretended, because they had to, that they were something they were not. It had been here the whole time. She had simply not been able to see it until someone taught her how — and now she would never again walk this corridor and think it only a corridor, full of only girls, on only an ordinary morning.
 
 Raizen woke against her neck, and yawned, a small gust of heat, and pushed his blunt new head into the angle of her jaw. He could not speak yet; that would come, Lor-ar said, in time. But the warmth of him came down the bond all the same, a wordless small contentment, untroubled, certain of her, and it asked nothing and explained nothing and was, just then, the only honest comfort in the building.
 
