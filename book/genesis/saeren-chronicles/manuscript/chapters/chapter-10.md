@@ -1,0 +1,151 @@
+# Chapter 10: The Language of Magic
+
+<!-- Structure: time-spanning, scene-anchored (weeks) | Target 4,800-5,600 | Anchor: She is beginning to heal — which is when things get worse. -->
+
+The first lesson happened by the fountain, after dark, the night Lor-ar decided she was ready to be shown what magic actually was.
+
+The fountain stood behind the school, a stone basin where carved dolphins spat water into a pool, and at night, when the windows had gone dark and the first and second years were shut in by curfew, it became theirs. Lor-ar had chosen it, she suspected, because it was out of sight of the windows and within sight of the forest, so that he could keep half an eye on the dark line of the trees while he taught. He sat back on his haunches in the moonlight, full size, the storm-charge prickling faint in the air around him, and he held up both forepaws, and over the left one a black flame came into being, and over the right one a white one.
+
+It was, she would think later, the true beginning of everything that came after, more than the gate or the summoning or even the hatching, though none of them had felt like beginnings at the time. Beginnings rarely did. They only announced themselves once you knew what they had begun.
+
+Viridia, sitting on the bench with the cane across her knees and the newborn dragon asleep in her lap, stopped breathing.
+
+She had seen flame her whole life. She had never seen dark flame. The black fire over Lor-ar's left paw gave off no light at all; it ate the moonlight near it, a flame that burned downward into itself, and beside it the white flame burned clean and ordinary, and the two of them sat there in his paws, separate, balanced, waiting.
+
+*Watch the magic, not the fire,* he said. *You have the sight. Use it.*
+
+She looked, and saw it: two distinct streams running up out of his core, one bright and one dark, each feeding its own flame, neither touching the other. And then, slowly, deliberately, he brought his paws together, and the streams came with them, and the two flames met.
+
+She braced for one to swallow the other. Neither did. They became a single flame, white shot through with flickers of a black so pure it had no shine to it at all, and it burned brighter than either had burned alone, and the two streams went on feeding it side by side, light and dark, balanced, whole.
+
+"It should be impossible," she said. "One should win."
+
+*Only if they are at war with each other. They are not. They are two halves of one thing, and a thing is not at war with itself unless someone has taught it to be.* He let the flame go out. *That is the secret your people lost when they lost the dark. Not the dark alone. The balance. Everything you do with one side, little one, you can do better with both. Now.* He looked at her. *Your turn. Do not make fire. Only call them up, dark to your left hand, light to your right, and hold them ready, and do not let either one go out.*
+
+———
+
+She got it wrong for a week.
+
+That was the part the histories never told you, she thought, lying awake some nights with her hands still tingling from the effort: that the extraordinary was mostly failure, patiently repeated. The paintings on the school walls showed light mages at the height of their powers, calling down fire, holding back floods, their faces serene. No one painted the years of guttered flames and torn nerves and sitting in the dark feeling stupid that came first. She was beginning to think that was the real difference between the people on the walls and everyone else: not that they had never failed, but that they had failed long enough, and privately enough, to come out the other side.
+
+The first night her dark flame went out the instant she lit the light one, as though she could only attend to one child at a time. The second night she held them both, and then, reaching to bring them together as Lor-ar had, lost her grip on both at once and sat there with empty hands while a tiger watched her with the infinite patience of a thing that has nowhere else to be for the next two hundred years. The third night something tore a little when she pushed too hard, a small bright pain behind her sternum, sharp enough that she gasped, and Lor-ar was on his feet at once and made her stop, and would not let her begin again that night for anything.
+
+*You forget what you spent, calling me,* he said, more gently than usual. *And what you spent again, the night the egg hatched. You are not a bottomless thing, little one, whatever the size of your core. The hearth is large, but a fire still goes out if you throw the whole woodpile on it at once. Slowly. We have time. Of all the things you and I have, time is the one we have most of.*
+
+*You are trying to force it,* he said, *the way your people force everything, with the will, because the will is all they were left. You do not need to force it. You need only to ask the two halves to do what they already wish to do, which is to be together. They have been kept apart your whole life. They are very glad to be asked.*
+
+After that it came easier. By the end of the week she could hold both, light over the right hand and dark over the left, steady, for as long as she liked, and bring them together into the one bright balanced flame, and let them part again. Lor-ar watched her do it on the seventh night and said nothing for a while, which from Lor-ar was high praise.
+
+*Good,* he said at last. *Now we may begin the part that matters. The fire was only to teach your hands. The thing I am going to teach you next is the thing your people would kill to keep buried, and would kill you for knowing.* He settled. *Magic is a language. It has always been a language. And you are going to learn to read it.*
+
+———
+
+Alice found out on the ninth night, because Alice found out everything eventually.
+
+She came down to the fountain in her nightclothes and her pink wool socks with a book under her arm and the particular look of a person who has decided to be brave about a thing she has been working up to all day. "I know you come out here," she said. "I'm not daft. You think I sleep through you climbing out the window? I've just been letting you have your secret, because that's what you do, you let people have their things. But I lie there awake every night now wondering, and I'd rather you tell me to go away than wonder, so." She sat down on the end of the bench, decided, and folded her hands. "Tell me to go away."
+
+Viridia looked at her. She thought about all the things she could not tell her: the dragons, the pact, the size of her own core, the wound in Alice's own chest that Alice would never feel. And she thought about the thing she could.
+
+"I'm not going to tell you to go away," she said. "I'm going to teach you to see."
+
+She did what Lor-ar had done to her, that first morning. She put her hand gently over Alice's eyes, and reached up both halves of herself, and coated Alice's eyes with light and dark together the way she had been taught, and then she took her hand away and said, "Open them."
+
+Alice opened her eyes, and the world caught fire, and Alice made a sound Viridia would remember for a long time.
+
+"Oh," Alice breathed. "Oh, *Viridia.*" She turned her head, slowly, taking in the burning grass and the lit fountain and the great blazing shape of Lor-ar, and her whole face had opened into the helpless wonder that was simply how she met everything good, and there were tears standing in her eyes, and she did not bother to hide them, because Alice never hid anything. "It's *alive.* All of it. The whole world's *alive* and nobody told us." She pressed both hands to her mouth. "How long does it last? Can I always—will I always be able to—"
+
+"Only while I keep it on you," Viridia said. "A few hours. But there's another way. A way you can learn, so you don't need me to do it. It's harder. But you can."
+
+"Teach me," Alice said at once, the way the best of her always came out, all in a rush with nothing held back. "Teach me everything. I don't care how hard it is. *Teach me.*"
+
+———
+
+So Alice joined the night lessons, and the strange thing was how much better it went, with two of them.
+
+Lor-ar took to her at once, in his dry way, and complained about it constantly, which was how Viridia knew. *Your friend asks better questions than you do,* he informed Viridia, *because she does not pretend to already understand. It is restful. You should try not understanding things aloud more often.* Alice could not hold the twin flames the way Viridia could; she had only the one half, the light, and that was the plain limit of her, and she met it without bitterness, the way she met everything. But she did not need the flames for the part that mattered. She needed the language, and the language did not care which half you carried, only whether you could call the right shape to your mind fast enough to mean it.
+
+And here was the wonder of it, the thing that made Viridia stay up too late and pay too little attention in her daytime classes. The language was real. It was old, older than the dragons themselves, and it had a name, and a people. Lor-ar told her on the eleventh night, while Alice traced a shape over and over in the dust until it sat right.
+
+"They were called the Moravians," he said. "They are gone now, all of them, so long gone that even I can only find the edges of them when I walk in the past. But they were the first, as far as I or the dragons have ever learned, to do a thing no people had done before. They listened to magic until they understood that it was speaking, and then they wrote down what it said." He let that settle. "Every other people who ever worked magic has been shouting at it in a language it does not speak, and forcing it, by sheer will, to roughly do as they meant. The Moravians learned its own words. With the words you do not force anything. You simply say the true thing, and magic, which has been waiting an age to be addressed properly, does exactly and only what you asked."
+
+It was not a figure of speech. She understood that better with every shape she learned. A focus, she saw now, was a translator and a crude one: you fed it your will and your wish for fire, and it did the rough work of turning that into something magic could obey, and it took a portion of the meaning in the trade, the way every translation does. The shapes took nothing. The shape for fire did not approximate fire. It was the word *fire,* in the tongue the thing itself answered to, and when she set it in her mind and let her magic run into it the fire came clean and exact and entirely hers.
+
+She learned the shape for growth first, because Lor-ar said the gentle ones were safest to fail at. She drew it for Alice in the dirt by the fountain, and Alice, who could not hold the twin flames but could hold a shape as well as anyone, learned it too. The next morning in Mrs. Zoran's class Alice coaxed a dead twig into putting out a single green leaf without touching her star focus once, and looked across the room at Viridia with her eyes shining, and Viridia had to study the grain of her own desk for a moment to keep her face in order.
+
+There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it. She was building, she had noticed, a long and growing list of things filed for later, and she was beginning to suspect that the later they were filed for was not going to be a comfortable one.
+
+———
+
+Two weeks after he hatched, Raizen spoke.
+
+He had been growing fast—half the size of Drake already, though he kept to a smaller form most of the day and rode her shoulder out of preference rather than need—and Viridia had felt him at the edge of her mind for days, the wordless warmth of the bond beginning to gather itself toward something. And then one night by the fountain, while she was struggling with a shape she could not get to sit still in her head, a voice arrived in her mind that was not Lor-ar's: younger, warmer, pleased with itself.
+
+*You are doing it wrong,* Raizen said. *You are thinking the shape. You should be remembering it.*
+
+Viridia went very still. Alice, beside her, had not heard it; it had come down the bond, hers alone. "Raizen?"
+
+*Yes.* A pause, and then, with the unmistakable delight of a creature trying out a new toy: *I can talk now. I have your memories, did you know? From the bond. So I already know how to. It is very strange, having someone else's words in my mouth before I have grown the mouth properly.* The small head tipped against her jaw. *You give the shapes too much effort. They are in you already, the way they are in me. Stop building them. Just recall them, the way you recall your own name.*
+
+She tried it that way. She stopped reaching to construct the shape and simply let it surface, the way a memory surfaces when you stop chasing it, and it came up whole and sat still and held, and the magic ran into it clean, and she laughed out loud in the dark with the sheer ease of it.
+
+*How do you know that,* she asked him, *if you're two weeks old?*
+
+*I told you. I have your memories, the ones that came down the bond. And dragons are born already knowing the language; it is in our blood, the way knowing how to fly is, even before the wings are strong enough.* A pause, pleased. *So I have your memories and my own knowing, both at once, which means I am, for the moment, cleverer than you. I expect it will not last. Enjoy it with me while it does.*
+
+Lor-ar's whiskers moved. *Two weeks out of the shell,* he said, *and already a better teacher than I am on that one particular point. It is intolerable. I have been alive three hundred years and a hatchling has corrected me.* But there was pride under it, the warm exasperated pride of an old creature watching a young one do well, and Raizen preened shamelessly, and Alice, who had heard none of it, asked what on earth was so funny. When Viridia told her *Raizen can talk now,* Alice shrieked with delight and clapped both hands over her mouth and woke, by the sound of the lamp that came on, at least one indignant girl in the west wing.
+
+———
+
+The day-scenes went on around the night ones, the way the ordinary world insists on going on.
+
+Viridia saw less of Alice in the daylight now, and the seeing-less had its own small ache to it, the hairline gap she had first felt the night Alice got her sponsor widening, gently, into a settled fact of life. Alice spent her free hours in the medical wing, and Viridia spent hers in the library reading things she was not strictly meant to, and they met at the ends of days, two lives that had briefly been one learning to run alongside each other instead.
+
+One afternoon Viridia went and found her there, because she missed her, and stood in the doorway of the long bright ward and watched Alice work before Alice saw her. It was not glamorous work. There was a child with a fever that no spell could quite break, and Alice was sitting with her, wringing out a cloth in cold water and laying it on the small hot forehead and talking, low, the steady inconsequential stream of talk that was Alice's truest gift, naming the things in the room one by one to give the fever something to follow that was not itself. The child's eyes tracked Alice's voice. The healers came and went with their focuses and their bright workings, and did the parts that magic could do, and Alice did the part it could not, which was to be a warm voice in the room so that no one had to be ill alone.
+
+Viridia did not go in. She watched a while, and went back to her library, and thought about it for a long time.
+
+That evening Alice came back later than usual and sat on the edge of her bed without taking her shoes off. "The man from the coast died this morning," she said. She said it plainly, and the plainness was its own held thing; Viridia recognized the shape of it, having a great deal of that shape herself. "The one with the burns. The healers had done everything there was to do, days ago. There wasn't any more magic for it. So at the end it was just sitting." She looked at her hands. "His own people couldn't reach here in time. So it was me. I held his hand." A silence. "I'm glad it was me. Is that a strange thing to be glad of? I keep thinking it must be. But I am. I'm glad he wasn't on his own."
+
+Viridia looked at her friend, at the steady pale candle that Alice would never know was only half of what she might once have been, and understood, with a clarity that hurt, that whatever the old severing had taken from Alice it had not laid a finger on the best thing in her, the thing that sat with a dying stranger so he would not have to make that particular crossing by himself. There were whole and broken, she thought, and then there was *this,* which the world's accounting had no column for at all.
+
+"It isn't strange," Viridia said. "It's the least strange thing I've ever heard." She paused, and gave Alice a piece of the truth she did not give often, because it was true and because Alice had earned it. "I think you might be the best person I know."
+
+Alice went pink to the ears and told her to shut up, fondly, and hid her face in the green book she had brought, the way she did when a feeling got too large to sit still under, and the moment lifted before it could turn heavy, which was its own kind of gift, the lifting.
+
+And Mrs. Zoran stayed after class one afternoon, and shut the door, and said, with her frizzy hair and her too-big red dress and her glasses pushed up, "I do not think you need this class, Miss Saeren."
+
+Viridia had been waiting for it. She glanced at Lor-ar, curled in cat-shape on the desk. *How much,* she asked him silently. *Everything you wish,* he said, *but nothing of the pact or the dragons' kind.* So Viridia took out her notebook, and drew the shape for growth, and the two shapes that limited it, and explained them, while Mrs. Zoran leaned against her desk and watched with a face that grew slowly more astonished and more hungry. "Our magic is a language," Viridia said. "An old one. If you learn it, you don't need the focus at all. You write your intent directly. It's how I've been—how I've gotten ahead."
+
+Mrs. Zoran looked at the shapes on the page for a long time.
+
+"Knowledge is power," she said at last, quietly, the same words she had said the day she risked herself to read Viridia's focus aloud. "I have spent my whole life teaching girls to push their magic through a crutch because no one ever told me there was a pen." She looked up, and there were tears in her eyes too, but different from Alice's, the tears of a person shown, late in life, a thing she could have spent that life loving. "Show me. Show me how to make one."
+
+She got it wrong for a week, the same as Viridia had, and there was something both funny and moving in watching a grown woman fail at the thing in exactly the same order a fourteen-year-old had failed at it. She cursed, quietly, in a way Viridia had not known teachers could. She came in some mornings hollow-eyed from staying up at it. Once she nearly wept with frustration, and caught herself, and said, "Listen to me. Forty-six and crying over a houseplant," and laughed instead, and went back to it.
+
+And then one morning Viridia came into class early and found Mrs. Zoran already there, a pot on her desk, and in the pot a flower that had not been there the day before, small and red and entirely ordinary, and Mrs. Zoran standing over it with her hands shaking and her face wet and lit from within.
+
+"I did it," she whispered. "No focus. I took the ring off and put it in the drawer and I just held the shape in my mind, the way you showed me, and I told the magic the true thing, and it—" Her voice broke. She laughed, a wet astonished laugh that had a whole life in it. "I'm forty-six years old. I have been a mage since I was eleven. And I have just, this morning, in an empty classroom, spoken to my own magic in its own language for the first time. Do you know what that's like? It's like discovering, in middle age, that you'd been mouthing the words to a song you never actually knew, your whole life, and someone has finally told you what it means."
+
+She wiped her face with the heel of her hand, and looked at the flower, and then she straightened, and Viridia saw the change come over her, the same fierce decided thing she had seen only once before, the day Mrs. Zoran had risked herself to read a dark mage's inscription aloud.
+
+"I'm going to teach the class," she said. "All of them. Every girl who comes through this room. They have a right to their own language and nobody ever gave it to them, and I have spent twenty years handing them crutches and calling it walking." Her jaw set. "Lady Lightwell will let me; she lets me a great deal, that woman, more than I think either of us has ever quite said out loud. And if it disturbs somebody's comfort in the capital, then it disturbs it. Knowledge is power, Miss Saeren. I've said those words to you twice now. It's past time I started living as though I believed them."
+
+———
+
+It was late spring by then, and Viridia had not noticed it arriving, which was itself a kind of news.
+
+She noticed it on a night walk, after a lesson, when Alice was talking—she was always talking, on the walks back, the day's small overflow pouring out of her—about something inconsequential, a girl in the medical wing who had named all the cabinets, and a thing the head nurse had said, and how the windows there fogged up in a particular way in the mornings. Nothing. The kind of ordinary nothing that two people who live together share at the end of a day. And Alice said something—Viridia could never afterward remember exactly what, only that it was small and silly and perfectly timed—and Viridia laughed.
+
+She laughed the way she had not laughed since the morning the world ended.
+
+It came up out of her without her deciding, real and helpless and surprising, and it ran on longer than the joke deserved, and somewhere in the middle of it she understood what was happening to her and nearly stopped from the strangeness of it. She was laughing. In the dark, on the lawn, with a tiger pacing ahead and a dragon on her shoulder and her one friend grinning at her, she was laughing, easily, the way she had used to laugh at her father's burnt toast, the way she had thought, in the cold house, in the first weeks, she would never do again.
+
+The grief was still there. It would always be there; she had stopped expecting it to leave, and there was a kind of peace even in that, in no longer waking each morning to the small fresh shock of it being true. But it had moved over, a little, to make room. She had thought, in the cold house, that grief filled a person entirely, edge to edge, and left no space for anything else ever again. She had been wrong about that, the way she was learning she had been wrong about a great many things she had been told. Grief made room, if you let it, if you stopped fighting it and stopped feeding it and simply carried it. And in the room it made, a person could laugh on a spring lawn at a friend's silly joke, and the laughing did not betray the dead. That was the thing no one had told her. The laughing did not betray them at all.
+
+She thought of her mother, suddenly, and of how her mother had laughed, rarely, but fully, the whole of her face giving way to it. She thought her mother would have liked Alice. She thought her mother would have liked the tiger, and the dragon, and the language, and Mrs. Zoran weeping over her flower. The thought did not hurt the way it would have a month ago. It sat warm, alongside the grief, in the room the grief had made.
+
+She was healing. She let herself, for one whole night, know it. She was assembling a life out here in the dark, a strange one, a tiger and a dragon and a language and a friend and a teacher who had wept over a flower, and underneath the grief, alongside it, not instead of it, she was healing.
+
+What she did not know—what she could not have known, walking back across the spring grass with her friend's laugh still warm in the air—was that this was the high point. That a thing learns the shape of how much it can lose only after it has let itself have something worth losing. She had spent the worst weeks of her life arriving at the place where she had something to lose again.
+
+And the world, which had taken her parents in a single ordinary morning, was not finished with her yet.
