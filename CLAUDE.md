@@ -125,7 +125,8 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
   (healing, intelligence, therapy, building) are **separate post-Hazel schools**.
 - **Do NOT introduce Johnathan Masters or the void woman** in this trilogy (they
   belong to the separate "Masters of the Void" series).
-- Chapter 1 is **locked** — do not rewrite it; use it as the voice benchmark.
+- Chapter 1 is the voice benchmark but is **no longer locked** — the author approved
+  revising it in the round-2 pass. Preserve its voice, but edit it like the rest.
 - If the roadmap and the original draft conflict, follow the **roadmap** and log
   the deviation in `evaluations/`.
 
