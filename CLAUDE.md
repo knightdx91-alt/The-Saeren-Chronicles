@@ -150,3 +150,28 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 - **Books Two and Three are not started.** When ready, set them up as their own
   pipeline projects (e.g. `book/genesis/saeren-chronicles-book-2/`) seeded from
   the same Series Roadmap + the Book One ENTITY_STATE.yaml.
+
+## Other books (folder-per-book in this repo)
+
+This repo holds multiple book projects, one folder each under `book/genesis/<slug>/`.
+A reusable template + scaffold makes new books quick to start:
+
+- `book/genesis/_template/` — the starter (STATE.yaml, CLAUDE.md, tools/style_check.py).
+- `book/genesis/new_book.sh` — scaffold script. Create a new book with:
+  ```
+  bash book/genesis/new_book.sh <slug> "<Book Title>"
+  ```
+  It creates the standard structure and fills in title + date.
+
+**To start a new book (any fresh session can do this):**
+1. `bash book/genesis/new_book.sh <slug> "<Title>"`.
+2. Pull the book's source material from Google Drive into `book/genesis/<slug>/research/`
+   (the original draft, plus any roadmap/bible).
+3. Fill in `book/genesis/<slug>/STATE.yaml` (premise, genre, comps, canon_sources,
+   guardrails, open author decisions) and the ALLOWLIST in its `tools/style_check.py`.
+4. Install the Best Seller Studio agents (see install block above) and run the adapted
+   pipeline chapter by chapter, honoring the per-book `CLAUDE.md` and the two gates
+   (Genesis Floor ≥ 8.5 + style_check.py clean) and the word floor.
+
+Each book's own `book/genesis/<slug>/CLAUDE.md` is the per-book playbook; read it first.
+You do NOT need any particular chat to continue — the repo is the memory.
