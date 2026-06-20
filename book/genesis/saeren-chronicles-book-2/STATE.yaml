@@ -1,0 +1,78 @@
+project:
+  title: "The Saeren Chronicles — Book Two: The Resistance"
+  genre: "Fantasy"
+  subgenre: "YA epic fantasy / war story"
+  language: "English"
+  word_count_target: 95000
+  comp_titles:
+    - "Leigh Bardugo — Grisha trilogy"
+    - "Tamora Pierce — Tortall"
+    - "Garth Nix — Old Kingdom"
+  engagement_type: {primary: "emotional", secondary: "moral/intellectual", tertiary: "world-building"}
+  premise: "A fifteen-year-old refugee with world-altering knowledge must decide whether she has the right to remake everyone's magic without consent, while a war she cannot stop closes in and the leader who mirrors her grief marches toward his death."
+  created: "2026-06-20"
+  updated: "2026-06-20"
+
+# ADAPTED RUN — continues the trilogy. Book One is COMPLETE (../saeren-chronicles).
+adaptation:
+  mode: "sequel-from-canon"
+  continues_from: "../saeren-chronicles (Book One, 18 ch, complete)"
+  canon_sources:
+    series_roadmap:    "research/series-roadmap.md"        # Book Two section is binding (premise, 3 levels of conflict, ending, additions needed)
+    character_bible:   "research/character-bible.md"       # character canon (binding)
+    master_checklist:  "research/master-checklist.md"      # Book Two high-level tasks
+    book1_entity_state:"research/book1-entity-state.yaml"  # canonical state at end of Book One — seed ENTITY_STATE.yaml from this
+    book1_voice_dna:   "research/book1-voice-dna.md"       # match Book One voice
+    book1_foundation:  "research/book1-foundation.md"
+    book1_final_chapter:"research/book1-final-chapter-18.md" # continuity anchor — Book Two opens right after
+  opens_where: "Resistance camp, immediately after Book One's ending (Viridia just arrived; Jazen revealed as Lightwell's son)."
+
+# NOTE: There is NO scene-by-scene Book Two roadmap yet. The architect must BUILD
+# foundation.md + outline.md for Book Two from the Series Roadmap's Book Two section
+# and the 'KEY ADDITIONS NEEDED FOR BOOK TWO' list, then the chapter loop runs.
+
+word_floor:
+  manuscript_min_words: 90000   # Book Two target band is 90-100k
+  manuscript_target_words: 95000
+  per_chapter_min_words: 4600
+
+phase:
+  current: 2          # needs architect (foundation + outline) first; research/premise are fixed by canon
+  status: "scaffolded — awaiting architect (foundation + outline) then chapter loop"
+  history:
+    - "Project scaffolded from Book One canon (entity state, voice DNA, foundation, final chapter) + Series Roadmap Book Two section."
+
+chapters:
+  total_planned: 0   # set by architect from the Book Two outline
+  completed: []
+
+binding_book_two_beats:   # from Series Roadmap — must be delivered
+  - "Alice's fate resolved in the first three chapters."
+  - "Jazen developed as a full character across >= 4 chapters before his death."
+  - ">= 3 named villagers whose deaths in the battle matter."
+  - "Viridia's real attempts at a peaceful solution — what she tries, what fails."
+  - "Explicit moral challenge: Amber asks whether Viridia has the right to remake everyone's magic."
+  - "Drake and Varissa consulted/involved; they say goodbye to Raizen."
+  - "Jazen's death given full weight (beheaded by the High Chancellor before both armies)."
+  - "The magical rebirth scene expanded to >= 3 pages."
+  - "Raizen's transformation into human form, with wonder and humor."
+  - "Lor-ar released from his bond, returns to the forest."
+  - "Ending: war over; High Chancellor dead; Jazen gone; village destroyed; everyone's magic made whole and none know why; final beat seeds Marick/the lab."
+
+open_author_decisions:
+  - "Alice's ultimate fate (survives the school attack? how/where?) — REQUIRED early in Book Two."
+  - "Who wrote the unsigned note packed with Viridia's focus."
+  - "Raizen's elemental affinity."
+  - "Re-seed the 'family-tree name that doesn't fit' — its Book One vehicle (the spellbook) burned in Ch.16."
+
+guardrails:
+  - "Match Book One voice (research/book1-voice-dna.md) and the style ceilings (tools/style_check.py: simile <=4/1k, em-dash <=~10/1k, no cross-chapter repeated phrases, tics under ceiling)."
+  - "Word floor >= 90,000."
+  - "Canon: Pembrook; rose-tinted spectacles; JAZEN; Viridia silver-blonde/green-eyed/slight 5'5', grief inward, no one sees her cry."
+  - "Do NOT introduce Johnathan Masters or the void woman (Masters of the Void series) — void awareness stays an abstract absence."
+  - "Genesis Floor >= 8.5 gate per chapter; independent style_check.py gate."
+
+decisions:
+  - "Book Two is its own pipeline project at book/genesis/saeren-chronicles-book-2/."
+  - "Seed ENTITY_STATE.yaml from Book One's final entity state, then UPDATE as chapters are written."
+revision_cycles: 0

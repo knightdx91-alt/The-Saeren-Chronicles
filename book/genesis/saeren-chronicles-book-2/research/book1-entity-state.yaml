@@ -1,0 +1,126 @@
+# ENTITY_STATE — canonical state keeper (BUILD over chapter-1.md + character-bible.md)
+last_updated_chapter: 18
+mode: UPDATE
+
+characters:
+  viridia_saeren:
+    age: 14
+    hair: "silver-blonde, mid-back, worn loose"
+    eyes: "green"
+    build: "slight, fine-boned, 5'5\" (slight NOT short)"
+    posture: "shoulders drawn slightly inward; spine that does not bend"
+    grief: "worn inward; NO ONE sees her cry"
+    item: "dark-blue stone necklace (mother's), carved symbols faintly lit; gripped when stressed"
+    magic: "both halves merged into one whole core (hidden); now KNOWS its nature (Ch.7): she is whole, not broken; her core is ~3x Lor-ar's (a 'hearth'). Has always-on mana sight from Ch.7-8 (will-held in 7, automatic after Raizen bond in 8)."
+    knows_at_ch9_end: "she is the only whole person she's met; Alice's core is broken (chose NOT to tell her, Ch.7); cannot know if parents shared her nature (Lor-ar doesn't know, Ch.7); True Bonded to Raizen (Ch.8); Lightwell is a dark mage running a resistance through the school + Jazen's story (Ch.9); can see hidden dark cores under light-core necklaces on ~4-5 girls"
+    skin_change: "begins to harden like dragon-hide post-True-Bond (Varissa's warning, Ch.8)"
+    focus: "silver rod, mother's side, Moravian inscription; not yet primed at Ch.1 end"
+    knows_at_ch1_end: "parents dead 3 days; arrived at Hazel; met Amber, Alice, Lady Lightwell"
+    location_ch1_end: "orientation hall, leaving with Alice"
+    knows_at_ch15_end: "(adds to ch9) The ranking-test/Chancellor arc (Ch.12-14): excused from Intro-to-Magic class (Ch.12, no longer needed). THE WELL/SOURCE (Ch.14): touched the source of all magic; learned the pact (2nd war) + the DELIBERATE partial severing of mankind's dark-half connection (fear of equals, not monsters) = why dark mages are rare; the dark connection is frayed but NOT gone (might be mended — hope/hubris, untested); her core grew ~100x (was a 'hearth', now a 'furnace'); a personal THREAD with her mother (Bella) running DOWN into the source's depths that she could see but COULD NOT follow (Bk2 mystery); a strange ABSENCE at the rim of the world's lattice that the source itself flinches from (void precursor — abstract, no entity). Chancellor's cover story: the well only gives a larger core, once only, don't tell friends. She HID that her experience differed; lied to his trap-question ('did you see/hear anything?') with a worried face while he wore the glasses. THE THRESHOLD (Ch.15, via Amber): peace holds only until ONE more dark mage killed BY DECREE; then Jazen goes to war; if it breaks, Lightwell evacuates the dark-mage girls (incl. Viridia) to Jazen's camp."
+    core_size: "post-well (Ch.14): vastly larger ('furnace'); must now bank it down to a flicker by daylight (practiced Ch.14-15)"
+    can_cast_portals: "YES, learned from touching the source/recognizing the modified portal scroll (Ch.14); opens her own portal in the attack (Ch.16)"
+    weapons: "4 Damascus spears + quiver (Ch.11); kept in her room corner; the Heart of the Spear pendant (Ch.12, Dangris token) worn beside the dark-blue stone"
+  bella_saeren: {role: "mother, deceased", manner: "deep-water stillness; meaning delivered sideways", line: "be careful who you let see you do it", no_pet_name: true}
+  leon_saeren: {role: "father, deceased", job: "factory worker", smell: "soap and machine oil", trait: "gently comic (burnt toast)"}
+  alice_pembrook:
+    age: 14
+    hair: "long blond"; eyes: "green"; nose: "freckles"
+    teeth: "wide smile, one tooth turned slightly out of line"
+    build: "a bit heavier"
+    background: "first-generation mage, quietly self-conscious"
+    role: "Viridia's first genuine friend; roommate (West wing, room 14 per draft)"
+    location_ch1_end: "leaving orientation with Viridia"
+  amber_summers:
+    age: "17-18, fourth-year"
+    hair: "long black, ponytail"; nails: "black, chipped"
+    item_visible: "thin chain, pale stone (artificial light-core necklace from Lightwell)"
+    item_hidden: "necklace sharing symbols with Viridia's (sustains her shattered core)"
+    backstory: "parents murdered at age 8; shattered own light core to say goodbye"
+    secret_she_keeps: "Lady Lightwell is Jazen's mother (does NOT tell Viridia)"
+    promise_unpaid_at_ch1: "I'll come find you the second it's over (pays off opening Ch.2)"
+  lady_isolde_lightwell:
+    role: "Headmistress (~15 years)"
+    spectacles: "ROSE-TINTED (never plain glasses)"
+    dress: "autumn — burnished gold, dark rose, emerald green collar"
+    shoes: "blue, plain, slightly scuffed (human contradiction)"
+    secret_core: "dark core (black swirling mass) under a light-core necklace — SHOWN never stated"
+    secret_identity: "Jazen's mother (NOT yet known to Viridia); runs resistance through the school"
+    revealed_to_viridia_ch9: "Viridia now SEES her hidden dark core; Lightwell acknowledges it openly — 'mutual trust' / 'each other by the throat'. Confirms the resistance, the fourth-years' real jobs, Jazen's story (sister Jan burned), Jazen's ultimatum (one more dark mage killed by decree = war). Plan: if war comes, pull dark-mage girls (incl. Viridia) to Jazen's camp. Advice to Viridia: 'Notice quietly.'"
+    office_warded: "Ch.9: office door warded like a vault (Moravian-script runes) — Viridia notes it's more than a study"
+    office: "plain wooden desk; large white crystal (right), onyx crystal (left); steel-banded door, red runes"
+  lor_ar:
+    species: "sylvan tiger, spirit walker"; age: 300
+    physical: "7ft nose-to-tail; sky-blue/forest-green fur; bone-white blue-veined horns; saber fangs; lightning-blue eyes"
+    abilities: "shrink to house-cat; static lock; always-on mana sight; spirit walking; both sides of gift; twin flames"
+    verbal: "'little one' RATION; affection via honesty"
+    bond: "summoned bond (not True Bond); released end of Book Two"
+    status: "SUMMONED & BONDED Ch.5; house-cat size indoors, full size outdoors; refuses the bracelet"
+  raizen: {species: "prismatic dragon", status: "HATCHED & True-Bonded Ch.8; newborn, cat-sized, all-colors scales", bond: "True Bond w/ Viridia (life-tied; if one dies both die)", parents: "Drake & Varissa", speech: "does NOT speak yet at Ch.9; speaks ~2 weeks after birth (Ch.10)", carry: "rides Viridia's shoulder, tail wound round her arm", note: "wordless contentment travels the bond; short-range telepathy with Viridia to come"}
+  drake: {age: "~6000", form: "pitch black; jet-black death flames", affinity: "death", teaches: "portals + DEATH SYMBOL (later)", manner: "gruff = grief; 'doesn't look like much'", canon_ch8: "was present at the making of the human-beast pact; human form = dark-haired man, tan breeches, white shirt; grieves loudly from a height; lost a child in the last war"}
+  varissa: {age: "~5000", form: "brilliant scarlet, breathes flame", abilities: "portals, drain spell, spatial lock", human_form: "tall, pale, flame-red hair, black dress", note: "fierce re Raizen; grieves 'closer to the ground' (quiet, like Viridia); delivered the burn-down-the-school warning Ch.8 (relayed to Lightwell Ch.9, word-for-word)"}
+  mrs_zoran: {role: "Intro to Magic teacher", physical: "frizzy brown hair, large glasses, too-big red dress, silver hoops, ring focus", trait: "enthusiastic, open-minded, risk-taking", backstory_NEW_ch3: "had an older brother, a dark mage and beekeeper, killed for what he might one day become — root of her open-mindedness (added Ch.3, consistent w/ bible)"}
+  high_chancellor_meros: {name: "Erik Meros", role: "antagonist", physical: "short, bald, white robe, light-gold sash, silver-framed glasses of true seeing", note: "PLANT glasses early; underestimates Viridia; killed by Drake's flames (Bk2)", ch12_15: "Oversaw the ranking test IN PERSON (unprecedented — arrived/left by portal). Wore the glasses of true seeing while assessing Viridia in the dining hall + the private arena exercise (Ch.13-14 PLANT/payoff-Ch.16). Sent her through the reward-portal to the well (Ch.14). Asked a trap-question ('did you see/hear anything?') — half-suspects she saw more than a larger core. Said 'it will feel like only tomorrow that you leave this place' (ominous). His decision after this visit drives the attack (Ch.16): he confirmed Lightwell trains dark mages and signed the decree."}
+  quina: {role: "ranking-test examiner (52 yrs)", physical: "elderly, white hair, runed cane, yellow crooked teeth", speech: "'do be' constructions", note: "scoring disc has a will of its own; reads Moravian. Ch.13: read the bone-white Moravian-inscribed death-rod aloud ('Dust to dust...so all may fear he who wields this cane'); the disc turned GOLD on Viridia (perfect, rare); warned her 'mind who else you let see that.'"}
+  tobias: {role: "combat-test admin", physical: "wiry, few years older", note: "self-described prodigy; respects Damascus spears. Ch.13: passed Viridia; advice 'practice the spear as hard as your magic, harder if you can.'"}
+  healer_brun: {role: "lead healer, medical ward", note: "NEW Ch.15; told Alice she has 'calm hands' (high praise); supervises the student helpers"}
+  petra: {role: "first-year classmate / ward helper", note: "NEW Ch.12-15; minor texture; 2 years on helper rotation; 'hands like a startled goose' per Brun"}
+  regina: {role: "fourth-year, rumored best of her year", note: "Ch.13: cried after her ranking test (out of character per Della) — texture for the test's difficulty"}
+  aleric_porter: {role: "Viridia's patron", note: "brought her by motorcar; well-meaning, oblivious; references brochure Leon received"}
+  quina: {role: "ranking-test examiner (52 yrs)", physical: "elderly, white hair, runed cane, yellow crooked teeth", speech: "'do be' constructions", note: "scoring disc has a will of its own; reads Moravian"}
+  tobias: {role: "combat-test admin", physical: "wiry, few years older", note: "self-described prodigy; respects Damascus spears"}
+  nargash: {role: "Kor-toh Dangris leader", note: "teaches 'always watch the body'; gifts Damascus spears"}
+  venquar: {role: "Dangris trainer", note: "moves like lightning; short spear; gifts quiver"}
+  rose: {role: "classmate", focus: "grandfather's hammer bracelet"}
+  della: {role: "first-year, room 17", trait: "first with bad news; quick whole-head turn", note: "= the dark-haired girl seeded Ch.1 S4; delivers the emergency-meeting news Ch.2"}
+  mr_cote: {role: "history teacher", physical: "large, brown tweed, gray beard, belly", room: "dim, dusty"}
+
+unnamed_to_resolve:
+  - "dark-haired first-year glancing at the door (Ch.1 S4) -> NAME in Ch.2 (tells them of emergency meeting)"
+  - "injured fourth-year (missing hand from dragon-bonding) -> appears Ch.2"
+  - "fourth-year who delivers Lightwell's message Ch.4 (visible dark core)"
+
+world_rules:
+  setting: "trains and motorcars exist"
+  school: "Hazel Preparatory, founded 1735 by Hazel Greenwich; NO houses/internal grouping — only year, ranking, fourth-year sponsorship"
+  specialty: "healing/intelligence/therapy/building = separate POST-Hazel schools"
+  sponsorship: "fourth-years sponsor one first-year; mistakes hurt sponsor's ranking; one 'favor' from Lightwell"
+  magic: "energy, harnessed via focus; both-sided gift severed long ago; Moravian language writes intent directly"
+  uniform: "black vest, white H over right breast, white undershirt, brown skirt above knee, long white socks, black shoes"
+
+events_ch16_18:
+  fall_of_hazel: "Ch.16: capital army attacks Hazel at night by the Chancellor's signed decree (he confirmed Lightwell trains dark mages via the glasses of true seeing). School burns. Many dead. Viridia kills 3 soldiers + unmakes a captain (explosion rune linked to his protection rune = a death-symbol). Lightwell (true dark core unhidden) duels the Chancellor in the main hall, was winning when last seen; her fate after = unconfirmed (presumed dead per Jazen). Lightwell's last telepathic order to Viridia: save who you can, find Jazen, 'you were chosen.'"
+  escape: "Viridia opens her own portal (well-gift, Ch.14), evacuates 8 girls (3 second-years, 5 third-years; NO first-years) + Amber + Lor-ar to moonlit woods near Jazen's camp. Amber's protective shield holds until she crosses (magic cuts off across a portal); portal closed; Amber slumps from drain. Raizen was AWAY hunting with Drake (alive via True Bond, cannot be located — portals span any distance)."
+  alice_status: "UNKNOWN. Alice on overflow duty in the medical ward when the attack began; Viridia could not reach the ward and chose to save the 8 (the cost). No survivor saw Alice fall or flee (Ch.17). Jazen promises to put the word out and bring 'true news, alive or dead' (Ch.18). = the open wound / Book-Two thread."
+  lost_in_fire: "Viridia's mother's spellbook (with the family-tree name that doesn't fit + Bella's letter) and her silver focus/cane BURNED in the school. NOTE for Bk2: the family-tree-name seed (Ch.2) was destroyed with the book — must be re-introduced via another route."
+  camp: "Jazen's hidden resistance village; invisible via a ward only ~3 mages can power (Jazen, Hiram, Abe); lived-in, children, Moravian taught openly to dark-mage kids. Council: Coram (old, soft-voiced, decides to march), Brutus (sunburned, built the place, fears its loss), woman-in-blue (silver/gold spectacles, locket, grandchildren), stately silver-bun woman (cold arithmetic). Ch.18: council yields to Jazen; march on the capital in ~1 week."
+
+resistance_jazen:
+  jazen: {role: "resistance leader, most powerful dark mage alive, mid-20s", physical: "lean/lanky, close-cropped dark hair, brown trousers, dark blue shirt, kerchief; lets his grief show (cried openly Ch.17, unlike Viridia)", backstory: "sister Jan burned in a raid 2 yrs ago; killed a town's worth of soldiers alone in grief; suing for peace ever since, terrified of losing control again", relation: "Lady Lightwell's son — REVEALED TO VIRIDIA Ch.17 (she did not know before; Amber knew, withheld)", ultimatum_ch9: "peace until ONE more dark mage killed by capital decree, then war", ch18: "decree broken (Hazel) → goes to war; marches on the capital in ~1 week; offers Viridia a place ('we're done with small'); will hunt for news of Alice Pembrook"}
+  resistance: {via: "Hazel fourth-years run supplies + rare family-rescues; compartmentalized so no one taken can give up the rest", camp: "main camp where Jazen lives = evac destination if war"}
+  hidden_dark_mages_at_hazel: "~4-5 girls seen by Viridia Ch.9 wearing light-core necklaces over dark cores (plus Amber, Lightwell)"
+
+canon_guardrails:
+  - "Alice surname = PEMBROOK; Jazen (not Jasen); Lightwell rose-tinted"
+  - "Do NOT introduce Johnathan Masters or the void woman"
+  - "If roadmap and draft conflict, follow roadmap; note deviation in evaluations/"
+
+objects_new_ch12_15:
+  heart_of_the_spear: {introduced: "ch-12", description: "small triangular Damascus blade on a leather thong, Dangris token from a spear that has killed in tribe-defense; given by Nargash; makes Viridia 'Kor-toh'", status: "background/worn", worn: "beside the dark-blue stone at her throat"}
+  bone_white_death_rod: {introduced: "ch-13", description: "twisted bone-white rod in the test vault, most-enchanted item Viridia has seen, Moravian inscription 'Dust to dust, from whence we came; so all may fear he who wields this cane'", status: "chekhov_open", note: "a death-magic rod kept in a LIGHT-mage vault — reinforces the severing theme + that the light/dark line is older/thinner than claimed"}
+  reward_portal_scroll: {introduced: "ch-14", description: "modified portal spell to the well/source; one use; light-touch activation", status: "chekhov_closed (used Ch.14)"}
+  scenario_disc: {introduced: "ch-13", description: "five-scenario judgment disc with a will of its own; turned GOLD for Viridia (perfect, rare); whispered 'well done' after she voted NO on killing dark mages", status: "background"}
+
+new_world_facts_ch12_15:
+  - "The well/source of all magic exists, reachable by a guarded capital portal; gives ordinary students a larger core; gave Viridia the full history + her core ~100x + the mother-thread + the void-absence."
+  - "The severing of the dark half was DELIBERATE (a frightened council cut mankind's connection at the root); dark mages were MADE rare, not born lesser; the cut is frayed but not total (possible mending = Bk2 thread)."
+  - "A 'void absence' at the rim of the world's lattice that the source itself fears (Ch.14 abstract plant; NOT the void woman; NOT named)."
+
+open_contradictions: 0
+open_mysteries:
+  - "What did the parents actually die from? (authorial truth set; Viridia doesn't know)"
+  - "Who wrote the unsigned note with the focus?"
+  - "The thread in the well connecting to Bella (Ch.14 seed) — she can see it, can't follow it"
+  - "The void-absence the source fears (Ch.14) — void precursor"
+  - "One family-tree name that doesn't fit (Ch.2 seed)"
+  - "What the Chancellor decides/decided after his visit (drives Ch.16 attack)"
