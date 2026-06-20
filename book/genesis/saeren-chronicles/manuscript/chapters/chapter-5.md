@@ -84,7 +84,7 @@ She went down on one knee in front of it, easy, unafraid. "Would you have me?" s
 
 Viridia stood in the green light with her cane in both hands and did not know what she was doing, which she had a feeling was going to be the way of most important things.
 
-*Broadcast your intent. And your need.* What did she need. She turned the question over, and to her surprise it did not feel like a school exercise. It felt like the realest question anyone had asked her since the morning the world ended, and she stood very still in the clearing and let herself, just this once, look straight at the answer instead of folding it away.
+*Broadcast your intent. And your need.* What did she need. It did not feel like a school exercise. It felt like the realest question anyone had asked her since the morning the world ended, and she allowed herself, just this once, to look straight at the answer instead of folding it away.
 
 She needed not to be alone.
 
@@ -102,7 +102,7 @@ The clearing had gone strange around her. With the orb burning white-and-black i
 
 "I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
 
-She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb all at once, and the cost of it hit her like a wave hitting a child, and her legs went, and she sat down hard on the clearing floor with her ears ringing and the world gone briefly white at the edges.
+She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was.
 
 On the bench, Amber started up to help her — and froze.
 
@@ -162,7 +162,7 @@ There was no other word for it. He simply diminished, fur and horns and saber-fa
 
 "I didn't know you could do that," Amber said weakly.
 
-*You were not meant to know.* He chuffed, a sound that was unmistakably laughter, and stood, and gave himself a shake. *Up, little one. You have spent yourself badly and you need to sleep before you fall down. I have decided I will permit it.*
+*You were not meant to know.* He chuffed, a sound that was unmistakably laughter, and stood, and gave himself a shake. Then his storm-eyes found the dried blood under her nose, and the amusement went out of them. *You poured yourself out like a jug with no bottom,* he said, quieter. *Someone will have to teach you where the bottom is, little one, and soon — before some hungry thing answers a call you never meant to send.* He held the silence a breath too long. *Up. You need to sleep before you fall down. I have decided I will permit it.*
 
 Viridia got to her feet, swaying, and Amber got an arm under her, and the three of them started back out of the green underwater light toward the lawns and the grey stone school. And the whole way, Lor-ar, three hundred years old, extinct, a spirit walker by some title Viridia did not yet understand, possessed of magic that had made a teacher sweat just to wake its cousin, ran ahead of them through the long grass and then came tearing back, and ran ahead again, and circled, and pounced at nothing, exactly like an overgrown kitten let out for the first time, and Viridia watched him do it through the fog of her exhaustion and felt, rising up through the drain and the grief and the careful held weight of everything, something warm and entirely unguarded that she had not felt in so long she had half forgotten its name.
 
