@@ -1,0 +1,94 @@
+#!/usr/bin/env python3
+"""Reassemble manuscript/full-manuscript.md from manuscript/chapters/chapter-*.md.
+
+- Title page (THE SAEREN CHRONICLES / Book One: The Hazel Years).
+- Each chapter rendered as:  CHAPTER <WORD>\n\n<Title>\n\n<prose>
+- Scene breaks (— runs / *** variants) normalized to "* * *".
+- Strips markdown headers (#), HTML comments, and chapter-1's legacy status block.
+"""
+import glob, os, re
+
+NUMWORDS = {1:"ONE",2:"TWO",3:"THREE",4:"FOUR",5:"FIVE",6:"SIX",7:"SEVEN",
+            8:"EIGHT",9:"NINE",10:"TEN",11:"ELEVEN",12:"TWELVE",13:"THIRTEEN",
+            14:"FOURTEEN",15:"FIFTEEN",16:"SIXTEEN",17:"SEVENTEEN",18:"EIGHTEEN"}
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CH_DIR = os.path.join(ROOT, "manuscript", "chapters")
+OUT = os.path.join(ROOT, "manuscript", "full-manuscript.md")
+
+CH1_TITLES = {1:"The Path to Hazel"}
+
+def is_scene_break(line):
+    s = line.strip()
+    if not s:
+        return False
+    # runs of em/en dashes or hyphens, or asterisk variants
+    if re.fullmatch(r"[—–-]{3,}", s):
+        return True
+    if re.fullmatch(r"\*(\s*\*){1,3}", s):
+        return True
+    return False
+
+def parse_chapter(path, num):
+    raw = open(path, encoding="utf-8").read()
+    lines = raw.splitlines()
+    title = None
+    body_start = 0
+
+    # markdown header form: "# Chapter N: Title"
+    m = None
+    for idx, ln in enumerate(lines):
+        m = re.match(r"^#\s*Chapter\s+\d+\s*:\s*(.+?)\s*$", ln)
+        if m:
+            title = m.group(1).strip()
+            body_start = idx + 1
+            break
+    if title is None and num in CH1_TITLES:
+        title = CH1_TITLES[num]
+        # ch1: body begins at first real prose line after the legacy header block
+        for idx, ln in enumerate(lines):
+            if ln.strip().startswith("The last ordinary morning"):
+                body_start = idx
+                break
+
+    body = lines[body_start:]
+    # drop HTML comments and end markers
+    cleaned = []
+    for ln in body:
+        if re.match(r"^\s*<!--", ln):
+            continue
+        if re.match(r"^\s*\[END OF CHAPTER", ln):
+            continue
+        cleaned.append(ln)
+    # collapse to text, normalizing scene breaks
+    out = []
+    for ln in cleaned:
+        if is_scene_break(ln):
+            out.append("* * *")
+        else:
+            out.append(ln.rstrip())
+    text = "\n".join(out).strip("\n")
+    # collapse 3+ blank lines to 1 blank
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return title, text
+
+def main():
+    files = sorted(glob.glob(os.path.join(CH_DIR, "chapter-*.md")),
+                   key=lambda p: int(re.search(r"chapter-(\d+)", p).group(1)))
+    parts = ["THE SAEREN CHRONICLES", "", "Book One: The Hazel Years", "", ""]
+    for f in files:
+        num = int(re.search(r"chapter-(\d+)", f).group(1))
+        title, text = parse_chapter(f, num)
+        parts.append(f"CHAPTER {NUMWORDS[num]}")
+        parts.append("")
+        if title:
+            parts.append(title)
+            parts.append("")
+        parts.append(text)
+        parts.append("")
+        parts.append("")
+    open(OUT, "w", encoding="utf-8").write("\n".join(parts).rstrip() + "\n")
+    print("wrote", OUT)
+
+if __name__ == "__main__":
+    main()

@@ -32,7 +32,7 @@ adaptation:
 
 phase:
   current: 3
-  status: "COMPLETE — all 18 chapters finalized; manuscript audit + whole-book checks done"
+  status: "COMPLETE — all 18 chapters finalized; external-review revision pass applied 2026-06-20 (85,535 words; all per-chapter style ceilings clean; Genesis Floor >= 8.5 held)"
   history:
     - "Ch.1 drafted (Session 1, ~4,740 words) — locked as chapter-1.md"
     - "Phase 2/2.5: foundation.md, outline.md, voice-dna.md, voice-bank samples written"
@@ -126,6 +126,16 @@ style_alignment_pass:
   new_repeated_phrases_in_scope: none
   preserved: ["water motif (Ch.1)", "planted lines (both)", "all canon", "voice/plot/continuity", "Genesis Floor >= 8.5"]
   note: "Resolves prior 'Ch.1-4 locked / ceiling breach' item; Ch.1 no longer the sole benchmark exception."
+
+external_review_pass:
+  date: 2026-06-20
+  scope: "All 18 chapters revised per feedback/external-review.md (HIGH: 1,4,5,6,7,16,17,18; MED: 2,3,8-15)."
+  result: clean
+  word_count: 85535   # chapter files; full-manuscript.md assembled = 85331 (headers stripped). Both >= 85,200 hard floor.
+  per_chapter_ceilings: "all clean (simile <=3.9/1k, em-dash <=9.1/1k, adverb <20/1k; no tic/fingerprint CEILING flags)"
+  global_fixes: ["trim reflection + add micro-active beats (Ch.1-7)", "cut 'small cold way' & similar tell-summaries", "vary sentence rhythm in action/emotional beats", "vary grief/water motif phrasing", "mana-sight external-threat seeds in Ch.12/13/15", "sharpen Ch.18 council"]
+  preserved: ["all canon (Pembrook, rose-tinted, Jazen, Viridia traits, no houses, no void woman)", "planted refrains EXACT (both)", "well/source + family-tree + Jazen=Lightwell's-son payoffs", "voice/plot/continuity", "Genesis Floor >= 8.5"]
+  deliverables: ["regenerated manuscript/full-manuscript.md (tools/assemble_manuscript.py)", "rebuilt delivery/production/Saeren-Chronicles-Book-One-6x9-interior.pdf"]
 
 style_alignment_pass_ch5_6_9:
   date: 2026-06-20
