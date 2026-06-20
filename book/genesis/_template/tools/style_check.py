@@ -65,8 +65,8 @@ def scan():
     ap.add_argument("--dir", default="manuscript/chapters")
     ap.add_argument("--max-simile", type=float, default=4.0)
     ap.add_argument("--max-adverb", type=float, default=20.0)
-    ap.add_argument("--max-emdash", type=float, default=8.0,
-                    help="em-dashes per 1,000 words ceiling")
+    ap.add_argument("--max-emdash", type=int, default=4,
+                    help="ABSOLUTE em-dashes allowed per chapter (AI tell — keep near zero)")
     ap.add_argument("--tic-ratio", type=float, default=6.0)
     args = ap.parse_args()
 
@@ -98,7 +98,7 @@ def scan():
         flags = []
         if sim1k > args.max_simile: flags.append(f"SIMILE {sim1k}/1k > {args.max_simile}"); problems += 1
         if adv1k > args.max_adverb: flags.append(f"ADVERB {adv1k}/1k > {args.max_adverb}"); problems += 1
-        if em1k > args.max_emdash:  flags.append(f"EM-DASH {em1k}/1k > {args.max_emdash}"); problems += 1
+        if emdash > args.max_emdash:  flags.append(f"EM-DASH {emdash}/chapter > {args.max_emdash} (density {em1k}/1k)"); problems += 1
 
         tic_hits = []
         low = text.lower()

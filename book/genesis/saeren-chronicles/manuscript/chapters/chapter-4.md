@@ -16,7 +16,7 @@ The reading was dry and Viridia drank it anyway. The first chapters laid out the
 
 The text did not call it a crusade. The text called it *consolidation.*
 
-Viridia's pencil stopped. *He kept bees,* Mrs. Zoran had said. *The gentlest soul I ever knew.* She underlined the word with her eye and did not underline it on the page.
+Viridia's pencil stopped. She thought of a beekeeper who could not bring himself to swat a wasp, and of what *consolidation* would have meant for him. She underlined the word with her eye and did not underline it on the page.
 
 She took notes: the years of the wars, the trade laws that had followed, the slow squeeze that had turned the dark-born and then the gift-less into people who got the work nobody else wanted. And once, near the end of the second chapter, in a paragraph plainly included so it could be dismissed, she read a thing that stopped her pencil.
 
