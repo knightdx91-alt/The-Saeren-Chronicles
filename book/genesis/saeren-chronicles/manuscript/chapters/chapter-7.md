@@ -26,7 +26,7 @@ So she ate the cold soup, because it was there and she was hungry, and because L
 
 He considered her. The light caught the blue veining in his horns and ran along it, and for a moment he seemed older than the room, older than the school, a thing that had wandered in from a much larger story and was tolerating the smallness of this one out of courtesy.
 
-*Very well,* he said. *Then I will begin where I began with your friend, last night, while you snored. I will tell you that your kind are broken. And before you bristle—* he flicked an ear, *—you will let me finish, because you bristled last night too, half-asleep, and it was not your best work.*
+*Very well,* he said. *Then I will begin where I began with your friend, last night, while you snored. I will tell you that your kind are broken. And before you bristle.* He flicked an ear. *You will let me finish, because you bristled last night too, half-asleep, and it was not your best work.*
 
 "I didn't bristle."
 
@@ -40,11 +40,11 @@ It came out of him slowly, in the way she was learning he gave the things that m
 
 "One side each," she said, when he had laid the bones of it out. "Light, dark, or none at all. That isn't a wound. That's just the shape of us."
 
-*It is the shape of the ones you have met. It is not the shape of a person.* He shifted his chin off her ankle and sat up, the better to look at her. *A coin cannot be minted with a single face. A flame cannot burn and cast no shadow. Every creature past a certain size is built of the giving and the taking both, and the grander the creature, the truer that runs. Small things may carry only the one—a mana toad, a finch. No harm in it; nothing was stolen from them. They were finished that way, and a pebble is finished too.* His gaze did not leave her. *Your kind were not finished that way. Your kind were meant to hold the two of them at once. And then, longer ago than your wars remember, hands reached in and pared the second half off, household by household, bloodline by bloodline, until the babies stopped arriving with it, and then stopped recalling they had ever owned it, and learned to name the scar a birthright.*
+*It is the shape of the ones you have met. It is not the shape of a person.* He shifted his chin off her ankle and sat up, the better to look at her. *A coin cannot be minted with a single face. A flame cannot burn and cast no shadow. Every creature past a certain size is built of the giving and the taking both, and the grander the creature, the truer that runs. Small things may carry only the one, a mana toad, a finch. No harm in it; nothing was stolen from them. They were finished that way, and a pebble is finished too.* His gaze did not leave her. *Your kind were not finished that way. Your kind were meant to hold the two of them at once. And then, longer ago than your wars remember, hands reached in and pared the second half off, household by household, bloodline by bloodline, until the babies stopped arriving with it, and then stopped recalling they had ever owned it, and learned to name the scar a birthright.*
 
 Viridia set the spoon down.
 
-She wanted to argue. She could feel the shape of the argument in her, all the clean familiar furniture of the world she had grown up inside—*light mages and dark mages, the wars, the way it had always been*—and she reached for it the way you reach for the side of a pool when the floor drops out from under you, and found that her hand closed on nothing. Because she had felt it. In the clearing, with the focus alight in two colors at the same instant, she had felt the floor of herself come back up to meet her, had felt the word that he was now putting to it: *whole.* She had not had a name for it then. She had only known that something she had not known was missing had, for one breath, stopped being missing.
+She wanted to argue. She could feel the shape of the argument in her, all the clean familiar furniture of the world she had grown up inside, *light mages and dark mages, the wars, the way it had always been,* and she reached for it the way you reach for the side of a pool when the floor drops out from under you, and found that her hand closed on nothing. Because she had felt it. In the clearing, with the focus alight in two colors at the same instant, she had felt the floor of herself come back up to meet her, had felt the word that he was now putting to it: *whole.* She had not had a name for it then. She had only known that something she had not known was missing had, for one breath, stopped being missing.
 
 "That's a very large thing to say," she said, "about everyone I've ever met."
 
@@ -78,7 +78,7 @@ She breathed. She tried again, smaller this time, and carried the two halves up 
 
 The room had caught fire. Not with heat. With light.
 
-She made a small involuntary sound. Everything that had been ordinary—the desk, the wardrobe, the cold tray—sat dim and unchanged, ordinary objects in ordinary morning. But Lor-ar, an inch from her face, blazed. He was lit from the inside out, every line of him laced with moving energy, the way a window is laced with frost except that this moved, ran, breathed; and at the center of him, where his chest pressed against hers, a core turned slowly on itself, the two colors plaited into one wheeling thing, and she understood without being told that she was looking at the most private fact a creature owned, and that she was seeing it because he had let her.
+She made a small involuntary sound. Everything that had been ordinary, the desk, the wardrobe, the cold tray, sat dim and unchanged, ordinary objects in ordinary morning. But Lor-ar, an inch from her face, blazed. He was lit from the inside out, every line of him laced with moving energy, the way a window is laced with frost except that this moved, ran, breathed; and at the center of him, where his chest pressed against hers, a core turned slowly on itself, the two colors plaited into one wheeling thing, and she understood without being told that she was looking at the most private fact a creature owned, and that she was seeing it because he had let her.
 
 *There,* he said. *Now you see as I see. Tell me what you find. The first three things.*
 
@@ -90,7 +90,7 @@ The second thing was her mother's stone, where it hung against her collarbone. I
 
 The third thing was the soup.
 
-"The soup's still a bit alive," she said, faintly, and heard how absurd it was the moment it left her, and could not help the laugh that came up after it, the first real one in days, cracked and surprised. "There's a—the carrots are still—Lor-ar, the *carrots* have a little—"
+"The soup's still a bit alive," she said, faintly, and heard how absurd it was the moment it left her, and could not help the laugh that came up after it, the first real one in days, cracked and surprised. "There's a. The carrots are still. Lor-ar, the *carrots* have a little..."
 
 *Vegetables are stubborn,* he said, with enormous dignity. *They take a long while to admit they are food. It is one of the more tedious facts of the living world and I am glad it amuses you.*
 
@@ -110,11 +110,11 @@ Her own core was the twin of his, the same plaited wheel of light and dark, and 
 
 She sat very still.
 
-"That's not right," she said. Her voice had gone flat, the way it went under pressure, the cataloguing voice, the naming voice. "That's bigger than yours. That's—you're three hundred. You're a spirit walker. I'm fourteen. That's not—"
+"That's not right," she said. Her voice had gone flat, the way it went under pressure, the cataloguing voice, the naming voice. "That's bigger than yours. That's. You're three hundred. You're a spirit walker. I'm fourteen. That's not possible..."
 
 *No,* Lor-ar agreed. *It is not what your world would call right. It is, however, what is true, and the two are not always on speaking terms.* He settled back on his haunches. *The cane did this. The focus your mother left you. It is from the old days, when some unfortunate few were still born with their two halves split apart, unjoined, a light core and a dark core sitting separate in the one chest, neither of them able to reach the other. A cruelty of the severing, in those who slipped through it half-done. So the people of that time made a thing to mend them. A focus that would take the two split halves and weld them into one. That is what was thirsty. That is why it drank a teacher half to nothing to wake, and you to nothing to use. It was not lighting a candle. It was joining two rivers, and rivers do not join cheaply.*
 
-"I felt it," she said, remembering. "The summoning. Something—shifted. Inside. Like a key going round."
+"I felt it," she said, remembering. "The summoning. Something shifted. Inside. Like a key going round."
 
 *Your two cores becoming one. That shift was the whole of you arriving in the same room for the first time.* The storm eyes were on her, and there was something in them that was not quite pity and not quite pride and was, she thought, simply the look of a very old creature watching a young one understand something that cannot be un-understood. *You were not born with the second half taken away, little one. You were born with both, split, the old way, and you have just spent everything you had to make them one. That is why you are the size of a hearth and I am the size of a coal. You are not a smaller, broken version of the world around you.*
 
@@ -126,7 +126,7 @@ He let it land.
 
 She did not cry. She wanted, suddenly and badly, to do something with her hands, so she picked up the tray and set it on the floor, and she did not cry, because no one saw her do it, that was the rule, the only rule that had held through everything, and there was no one here to see her but a tiger who already knew everything that mattered and had the grace not to watch her too closely while she got her breath back.
 
-It would have been easier, she thought, if it had been only frightening. Some of it was; there was a cold thread running beneath it, *the thing they kill people for,* her mother's voice at the breakfast table, *be careful who you let see you do it.* But beneath the fear sat the warm thing as well, and she was ashamed of how much room it took up. Because for three days she had believed the great vacancy her loss had left was the whole sum of her—a hollowed girl in a colder house. And here, wheeling slow under her own ribs, was the plain enormous fact that the hollow was not all she contained. There was the hearth as well. There had always been the hearth.
+It would have been easier, she thought, if it had been only frightening. Some of it was; there was a cold thread running beneath it, *the thing they kill people for,* her mother's voice at the breakfast table, *be careful who you let see you do it.* But beneath the fear sat the warm thing as well, and she was ashamed of how much room it took up. Because for three days she had believed the great vacancy her loss had left was the whole sum of her: a hollowed girl in a colder house. And here, wheeling slow under her own ribs, was the plain enormous fact that the hollow was not all she contained. There was the hearth as well. There had always been the hearth.
 
 She got up, because sitting with it was becoming unbearable, and crossed to the window to look out at the burning lawn, and that was when she saw Alice.
 
@@ -142,7 +142,7 @@ It was a pale flame. Light-side only. A small steady candle of a thing in the ce
 
 *She is broken. As all of them are. As you alone are not.*
 
-Viridia watched Alice reach the door below and fumble it open one-handed, books sliding, and recover them with a small graceless lunge, and disappear inside, off to be useful, off to keep company with the hurts magic left untouched, off to build her own bright life one ordinary day at a time. She thought about going down. She thought about catching her on the stairs and putting a hand over her eyes the way Lor-ar had put his head to her chest, and showing her—*look, look what you really are, look what the world did to all of you*—and watching Alice's whole face open the way it opened at everything, with helpless friendly wonder.
+Viridia watched Alice reach the door below and fumble it open one-handed, books sliding, and recover them with a small graceless lunge, and disappear inside, off to be useful, off to keep company with the hurts magic left untouched, off to build her own bright life one ordinary day at a time. She thought about going down. She thought about catching her on the stairs and putting a hand over her eyes the way Lor-ar had put his head to her chest, and showing her, *look, look what you really are, look what the world did to all of you,* and watching Alice's whole face open the way it opened at everything, with helpless friendly wonder.
 
 She did not move.
 
@@ -166,7 +166,7 @@ She had one more question. She had been carrying it since the clearing, turning 
 
 *Mm.*
 
-"My parents." She kept her voice level. She kept her hands still. "If I was born with both halves, split, the old way—then it came from somewhere. The book has a tree of names a thousand years deep, the bright kind and the shadowed kind knotted onto one bough, and the focus came down my mother's side. So." She made herself say it. "Did they have it too? Both halves? Were they—were they like me, and just never—" The sentence ran out of road. *Never said. Never showed me. Be careful who you let see you do it.* "Did they know? What I am?"
+"My parents." She kept her voice level. She kept her hands still. "If I was born with both halves, split, the old way, then it came from somewhere. The book has a tree of names a thousand years deep, the bright kind and the shadowed kind knotted onto one bough, and the focus came down my mother's side. So." She made herself say it. "Did they have it too? Both halves? Were they like me, and just never..." The sentence ran out of road. *Never said. Never showed me. Be careful who you let see you do it.* "Did they know? What I am?"
 
 Lor-ar stopped washing his paw.
 
