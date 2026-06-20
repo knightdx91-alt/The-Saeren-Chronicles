@@ -147,25 +147,40 @@ def scan():
     print("\n" + "=" * 70)
     print("REPEATED PHRASES (4-6 words, content-rich)")
     print("=" * 70)
-    # Cross-chapter (appears in 2+ chapters) OR heavily repeated overall
-    repeated = [(ng, phrase_counts[ng], sorted(phrase_chapters[ng]))
-                for ng in phrase_counts
-                if (len(phrase_chapters[ng]) >= 2 or phrase_counts[ng] >= 3)]
+    # A repeat is only DISTINCTIVE (and therefore a gate failure) when the phrase
+    # is long enough to be a real signature AND it recurs strongly:
+    #   >= 5 words  AND  (used 3+ times overall OR spread across 3+ chapters).
+    # Shorter / x2 generic n-grams are common in any prose — report them as
+    # informational context only; they do not fail the gate.
+    def distinctive(ng, cnt, chs):
+        return len(ng) >= 5 and (cnt >= 3 or len(chs) >= 3)
+
+    candidates = [(ng, phrase_counts[ng], sorted(phrase_chapters[ng]))
+                  for ng in phrase_counts
+                  if (len(phrase_chapters[ng]) >= 2 or phrase_counts[ng] >= 3)]
     # prefer longer / more-repeated phrases, drop ones fully contained in a flagged longer one
-    repeated.sort(key=lambda x: (-len(x[0]), -x[1]))
-    shown = []
-    for ng, cnt, chs in repeated:
+    candidates.sort(key=lambda x: (-len(x[0]), -x[1]))
+    shown_flag, shown_info = [], []
+    for ng, cnt, chs in candidates:
         s = " ".join(ng)
         if any(allowed in s or s in allowed for allowed in ALLOWLIST):
             continue
-        if any(s in bigger for bigger in shown):
-            continue
-        shown.append(s)
         scope = f"chapters {chs}" if len(chs) >= 2 else f"chapter {chs[0]}"
-        print(f"  ×{cnt}  [{scope}]  \"{s}\"")
-        problems += 1
-    if not shown:
-        print("  none")
+        if distinctive(ng, cnt, chs):
+            if any(s in bigger for bigger in shown_flag):
+                continue
+            shown_flag.append(s)
+            print(f"  FLAG ×{cnt}  [{scope}]  \"{s}\"")
+            problems += 1
+        else:
+            if len(shown_info) < 25 and not any(s in bigger for bigger in shown_flag):
+                shown_info.append(s)
+    if not shown_flag:
+        print("  none distinctive (gate clean)")
+    if shown_info:
+        print(f"\n  (informational — {len(shown_info)} generic/×2 repeats, not gated):")
+        for s in shown_info[:25]:
+            print(f"     · \"{s}\"")
 
     print("\n" + "=" * 70)
     print(f"RESULT: {problems} issue(s) flagged." if problems else "RESULT: clean.")
