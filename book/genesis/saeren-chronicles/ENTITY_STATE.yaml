@@ -47,7 +47,7 @@ characters:
     abilities: "shrink to house-cat; static lock; always-on mana sight; spirit walking; both sides of gift; twin flames"
     verbal: "'little one' RATION; affection via honesty"
     bond: "summoned bond (not True Bond); released end of Book Two"
-    status: "not yet summoned at Ch.1 (summoned Ch.5)"
+    status: "SUMMONED & BONDED Ch.5; house-cat size indoors, full size outdoors; refuses the bracelet"
   raizen: {species: "prismatic dragon", status: "not yet hatched (Ch.8)", bond: "True Bond w/ Viridia", parents: "Drake & Varissa", note: "speaks ~2 weeks after birth"}
   drake: {age: 6000, form: "pitch black; jet-black death flames", affinity: "death", teaches: "portals + DEATH SYMBOL", manner: "gruff = grief"}
   varissa: {age: 5000, form: "brilliant scarlet", abilities: "portals, drain spell, spatial lock", note: "fierce re Raizen ('my baby')"}

@@ -1,0 +1,171 @@
+# Chapter 5: Amber's Story
+
+<!-- Word count: ~4900 | Target: 4,000-5,000 | Anchor: the orb glowing white AND midnight black at once; Amber going still -->
+
+Amber did not take her to the forest first. She took her into an empty classroom and shut the door.
+
+It was a teaching room that nobody had taught in for a while — chairs upturned on tables, a smell of chalk and disuse, a long board still ghosted with the half-erased diagram of something that might have been a spell or might have been a plumbing repair. Amber checked the corridor before she closed the door, which Viridia noticed, and pulled two chairs down off a table, which Viridia also noticed, and sat in one and gestured at the other, and for a moment said nothing at all, which Viridia noticed most of everything.
+
+"You asked me why," Amber said finally. "Out there. Why I'd spend it on you." She turned a chip of nail polish over with her thumbnail. "I gave you three answers and none of them were the one. You knew that."
+
+"I knew that."
+
+"Yeah." Amber breathed out. "You're going to be a great deal of trouble, you know. People who notice things always are." She was quiet a moment longer. Then she reached into her collar and drew out a second necklace, one Viridia had not seen — it had been hidden under her shirt, under the pale stone everyone could see — and held it out into the dim light.
+
+It was a small dark orb on a chain, and carved into it, fine and close, were symbols. Viridia did not need to ask. She had carried the same symbols at her own throat for three days, traced them in the dark, watched them hold their faint light in plain sun. They were not quite the same — the arrangement was different, the way two pages in the same hand are different — but they were the same kind of thing. The same language. The same maker, or the same school of makers, across however many years.
+
+"They're like yours," Amber said. "I clocked yours at the door the first morning. That's the truth of it. I saw your necklace and I knew, and I went and found Lady Lightwell and told her I'd sponsor the new girl before I'd so much as heard you speak." She let the orb drop back against her chest. "Which was mad. Which was impulsive, like I keep telling everyone, except this time it wasn't impulsive at all. It was the least impulsive thing I've ever done. I just dressed it up as impulsive because the truth is a longer story and I didn't know you yet."
+
+"Tell me the longer story," Viridia said.
+
+So Amber did.
+
+She told it badly, which was how Viridia knew it was true. She did not tell it in order. She started in the middle, with the kitchen, and had to go back; she stopped twice and started again; she said *anyway* a great deal, the way people do when they are stepping over the parts that still have edges.
+
+She had been eight. There had been a robbery — four men, she thought, though she had only ever seen three, and to this day she did not know if the fourth was real or something she'd invented to make the geometry of it work. Her father had been hurt at the shoe factory a few months before; he'd lost a leg below the knee and was in bed most days, learning to be a different kind of man than he'd been. Her mother had been in the kitchen making dinner. Amber had been upstairs.
+
+"I heard it," she said. "I heard them come in and I heard my mum — she didn't even shout. That's the thing nobody tells you. She didn't shout. There was just a — sound, and then there wasn't her anymore making any sound." She was looking at the ghosted board, not at Viridia. "They hit her. With something. To make her be quiet, I think, except she was already quiet, she was the quietest person, she—" *Anyway.* "And my dad heard the noise and he got himself down the stairs somehow, on the one leg, all the way down, and he—"
+
+She stopped.
+
+"He found her on the floor," Amber said, more steadily, the way you say a thing you have said to yourself ten thousand times until it wore smooth. "And he went for them with his bare hands. A one-legged man who couldn't stand without the wall. He nearly killed two of them. They had a knife in the end. They cut him and they ran and he just — he sat down next to her, on the floor, and he held her hand, and he bled, and there was nobody to come, and by the time anybody came—" She spread her hands. There was nothing in them. "I was upstairs. The whole time. I was under my bed with my hands over my ears and I came down after it went quiet and they were both on the kitchen floor and the dinner was still cooking. The pot was still on. I remember the pot was still on."
+
+Viridia did not say anything. She had learned, in three days and a lifetime, that there was nothing to say to this, that the things people said were for the comfort of the people saying them. She just stayed where she was, near, the way Alice had stayed near, and let Amber get to the end of it.
+
+"So I did what any kid does," Amber said. "I tried to fix it. I knelt down between them and I — I reached for everything I had, all of it, every scrap, and I tried to make them be alive again." She smiled, and it was a terrible smile, fond and ruined at once. "Light mages aren't supposed to be able to touch death. It's not — it's not a light thing. But I didn't know that. I was eight. So I just *pushed,* with everything, until something tore."
+
+"Your core," Viridia said quietly.
+
+"My core." Amber tapped the pale stone at her throat, the one everyone could see. "Shattered it. Blew it apart from the inside reaching for something a light mage has no business reaching for. And it worked." She said it flatly, the most terrible part said most flatly. "For about a minute. They opened their eyes. Both of them. And I got to say goodbye. I got to tell them — I got to say it, the thing you'd want to say, and they heard it, I know they heard it, and then they were gone again and so was most of me." She shrugged, and the shrug cost her. "Worth it. I'd do it again. People ask me — well, nobody asks me, because nobody knows — but if they did. Worth it. A minute. To say goodbye." She looked at Viridia then, directly. "Most people don't get the minute."
+
+The room was very still. The dinner still cooking. The pot still on. Viridia held those two details the way she held the violet pressed flat in the green book, because she understood, now, that Amber had handed them to her the way you hand someone the one thing you have left of a person — carefully, and only once.
+
+And under it, unspoken, was the other thing. Viridia thought of a kitchen she had stood in three mornings ago, scorched bread and her mother's tea, the last ordinary one. She did not say *me too.* She did not say *I know.* She did not say anything at all. But something must have shown — not on her face, she was too good for that now, but somewhere — because Amber looked at her a moment and then nodded, slowly, as if a thing had been confirmed that neither of them would ever name.
+
+The silence after stretched out, and it was not an empty silence; it was the full kind, the kind with two people's whole histories sitting in it. Viridia became aware of small things — the chalk-dust in the slanted light, the upturned chairs, the half-erased diagram, a fly somewhere bumping the window over and over with the dull patience of a thing that cannot learn. She let herself look at the fly rather than at Amber, to give Amber a moment to put her face back together, because she understood by now that the kindness was sometimes in not watching.
+
+When she did look back, Amber was watching *her,* with an expression Viridia couldn't quite read — careful, and a little raw, and waiting.
+
+"Yeah," Amber said softly. "I thought so. The look you've got." She stood, briskly, putting the lounge back on like a coat. "Anyway. That's the longer story. The necklace—" she touched the dark orb through her shirt — "is what lets me have a life with a shattered core. I can't make my own light anymore, so I borrow it from this. Lady Lightwell gave it to me. *How* she did it isn't mine to tell — you want that, you ask her, and good luck — but she did it, and at some cost to herself, and that's why I'll do near enough anything she asks and never count it." She offered Viridia a hand up. "And it's why, when I saw a girl walk in with a stone like mine round her neck and the look of someone drowning, I didn't stop to think. Some things you don't get to think about. You just go."
+
+Viridia took the hand and stood. "Thank you," she said. It was too small. There was no word the right size.
+
+"Don't thank me yet." The grin came back, properly this time, dragging the heaviness off the room behind it. "You haven't seen what's about to come out of that forest when you call it." She opened the door and checked the corridor and tipped her head. "Come on, drowning girl. Let's go and get you something to hold on to."
+
+———
+
+The forest began where the lawns gave up.
+
+There was a classroom on the ground floor — the one with a great tree carved into its door — that had, improbably, a second door leading straight outside, onto the grass, with the dark line of the trees beyond. Amber explained it in passing: the creatures teacher kept it so she could march a class out to the things they were studying rather than dragging the things indoors. They cut across the edge of the lesson — seven second-years and a tired-looking woman who gave Amber a look that promised consequences — and out the side door into the open afternoon, and walked toward the trees.
+
+The forest was not like the school. The school was made; the forest was simply old. The light changed under the first branches, going green and underwater, and the noise of the place changed too — the bright thin chatter of the lawns dropping away, replaced by something deeper and busier, a constant low industry of wind and wing and small unseen movement, and under all of it a watchfulness, as though the wood had turned, without hurry, to see who had come in.
+
+The ground softened underfoot, all leaf-mould and the give of a thousand years of fallen things. The smell came up rich and dark, wet earth and rot and green growing over the rot, the whole patient cycle of a forest breathing in the gloom. Somewhere far off water moved. Somewhere nearer something with wings resettled itself with a sound like a sigh. Viridia found, to her surprise, that she was not afraid of it — that after the gilded careful corridors of the school, where everything was assessed and everyone was ranked and a stone at your throat could change a stranger's whole face, there was something almost restful in a place that did not care who she was at all. The forest would have looked at the Headmistress and the gift-less and the High Chancellor himself with exactly the same green indifference. It was the first thing she had met in three days that wanted nothing from her.
+
+"Keep close," Amber said, low, and something in the way she said it took the restfulness back down a notch. "It's restful right up until it isn't. People who forget that come back missing a hand, if they come back."
+
+"Right." Amber stopped where the trees thickened and handed Viridia a black metal bracelet. On her own left wrist, Viridia saw now, was a blue one. "Crash course. How many creatures a person can bond depends on two things — how much magic you've got, and how hungry the creature is for it. A little mana toad costs almost nothing and gives you a little back. Something bigger costs more. With me so far?"
+
+"What happens if you call something too big for you," Viridia said. She was already thinking it through, the arithmetic of it.
+
+Amber's face went serious. "Then it can kill you. The good ones won't let it get that far — most creatures can feel whether you've got the magic to hold them, and a decent one won't bond a person it'd burn out. But the bond runs both ways. If your creature dies, you lose whatever the bond cost you, until you heal. And the other way round." She let that sit. "That's why most people never do it. For some, the gain's worth the risk." She clapped her hands, dispelling the gravity. "We'll start gentle. Watch me first."
+
+They came to a small clearing with a worn stone bench at its center. Amber set Viridia on it, then drew from her pocket a little glass figure of a bear, no bigger than a thumb. She closed her fist around it and shut her eyes, and Viridia — with the new sense she still had no name for, the draught-from-an-open-door sense — felt Amber reach, not into the dark orb hidden against her chest, but into the pale stone everyone could see, drawing light from the thing that lent it to her. She fed the light into the glass bear, and then pushed it outward, into the trees, in three slow pulses. Then she came and sat down.
+
+"There. I called. Now we wait and see if anyone's listening." She stretched her legs out. "What I did: tapped my necklace — never could do this with my dark side, not since — fed the magic into the focus, sent it out carrying what I want. *Companion. Bond.* If something out there fancies it, it'll follow the pulses home."
+
+They waited. The wood breathed around them. And then, off to the right, a snuffling — and out of the undergrowth came a boar, broad and bristled, with a row of metal quills standing up along its lower back and two great tusks that looked, impossibly, to have been capped in iron. It rooted its way toward them, unhurried, and came to a stop in front of Amber.
+
+She went down on one knee in front of it, easy, unafraid. "Would you have me?" she asked it, looking into its small dark eye. The boar considered her. Then it leaned its snout into her open palm — and at the touch it came apart, dissolved into a swarm of tiny lights that drew together and settled, with a small bright finality, into a white charm now hanging on Amber's bracelet.
+
+"And that," Amber said, getting up and brushing off her knee, grinning at Viridia's face, "is that. I'll let him rest a bit before I call him back; rude to do it straight off. Don't be disheartened if nothing comes for you, by the way — some people call for weeks before they find their match." She gestured Viridia up off the bench. "Your turn."
+
+———
+
+Viridia stood in the green light with her cane in both hands and did not know what she was doing, which she had a feeling was going to be the way of most important things.
+
+*Broadcast your intent. And your need.* What did she need. She turned the question over, and to her surprise it did not feel like a school exercise. It felt like the realest question anyone had asked her since the morning the world ended, and she stood very still in the clearing and let herself, just this once, look straight at the answer instead of folding it away.
+
+She needed not to be alone.
+
+That was the whole of it, underneath everything — under the grief she held where no one could see, under the careful face, under the inheritance she kept beneath the bed. She had let exactly two people near her in three days and she was already terrified of losing them. She needed something that would not be taken. Something that would stay.
+
+She did not think about light or dark. She did not think about hiding. She thought only about the need, and she reached — and because she was not thinking, she reached with all of it.
+
+She felt the magic move and she did not stop it. It came up out of her core the way grief came up, fast, without asking, and poured down her arms into the cane, and the half-orb at its top kindled — but not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
+
+On the bench, Amber went still.
+
+Viridia did not see it; she was looking at the orb, at the two lights braided in it, and feeling — not fear, which was the strange part, but the opposite of fear. *Recognition.* As though she had been carrying something folded in half her whole life and had just, for the first time, let it open. Light and dark, two halves of a whole. *It's all about how you perceive it,* her mother had written, and here it was in her own hands, perceived, and something deep in her chest shifted and aligned and clicked home like a key she hadn't known she was turning, and for one impossible moment Viridia Saeren felt, of all things, *complete.*
+
+The clearing had gone strange around her. With the orb burning white-and-black in her hands she could see, suddenly, that the wood was not the green-dim quiet place it had seemed — it was alive with light, faint threads of it everywhere, in the trees, in the moss, in the small hidden moving things, a whole web of soft glow she had been walking through blind. She did not understand what she was seeing and did not stop to. She had no attention to spare. Every scrap of her was pouring down her arms and out through the cane, and the more she gave the lighter she felt, not weaker but *clearer,* as though she had been carrying a second body all her life and had only now set it down.
+
+"I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
+
+She lifted the cane high and gave a cry — wordless, primal, scraped up from somewhere below thought — and the light left the orb all at once, and the cost of it hit her like a wave hitting a child, and her legs went, and she sat down hard on the clearing floor with her ears ringing and the world gone briefly white at the edges.
+
+On the bench, Amber started up to help her — and froze.
+
+A roar came out of the trees to the right. Not the snuffle of the boar. A roar that Viridia felt in the stone bench, in the ground under her, in her teeth.
+
+And then it stepped into the clearing, and it was magnificent.
+
+A tiger — but no tiger had ever worn fur like this, a deep changing mix of sky-blue and forest-green that seemed to hold the colors of the wood itself. Bone-white horns curved back from its head, fine blue veins threading through them like lightning trapped in ivory. Two long fangs, saber-curved. Paws the size of dinner plates, each one capable, plainly, of ending her. It was seven feet from nose to tail and it was looking directly at her with eyes the color of a storm, eyes that had actual small forks of lightning moving in the irises, and it was the most frightening and the most beautiful thing she had ever seen.
+
+"Don't move," Amber breathed.
+
+But Viridia already knew, the way she had known which true thing to say to Alice, the way she had known the orb would open if she let it — she knew, on the level beneath knowing, that this creature meant her no harm. It had come because she had called. It had heard a girl in a clearing say *stay,* and it had come.
+
+She put up a hand to keep Amber where she was. And then, on legs that barely held her, swaying with the drain of it, she got up, and crossed the clearing, and knelt down in front of the thing that could have killed her with one swipe.
+
+It came toward her slowly, and the clearing seemed to make room for it. There was nothing of the animal's wariness in the way it moved, none of the boar's snuffling caution; it walked the way old things walk, things that have outlived their own fear, unhurried and certain, placing each enormous paw without a sound. Up close it was larger than it had any right to be, and warmer — she could feel the heat coming off it, and a faint charge in the air around it, the same prickle as the moment before lightning, so that the small hairs on her arms stood up. It smelled of rain and crushed pine and something underneath that, older, that she had no name for and would later learn to call simply *Lor-ar.* For three hundred years this thing had walked a forest no human had mapped, and it had heard a fourteen-year-old girl in a clearing ask, with everything she had, only and exactly to not be alone — and it had come.
+
+It lowered its great head to look at her, level, eye to lightning eye.
+
+*I heard your call, little one.* The voice was in her mind, deep and dry and unhurried, the voice of something very old and faintly amused. *The forest has chosen to grant you a companion. I will be your protector, for now. My name is Lor-ar, of the pride of the sky.* The eyes held hers. *Will you accept this bond?*
+
+Viridia, who had asked the wood for something that would stay, reached out one shaking hand and laid it on the broad warm forehead of a creature out of legend.
+
+"Yes," she said.
+
+The drain hit her again, sharper this time, the bond drawing its toll, and she gasped and nearly pitched forward — caught herself, palm still pressed to his brow — and looked up, expecting him to dissolve into a charm the way the boar had, into a tidy white light on her bracelet.
+
+He did not dissolve.
+
+He stayed exactly where he was, enormous and real and warm under her hand, regarding her from two inches away with eyes that danced now with open amusement at the look on her face.
+
+———
+
+It took Amber a full minute to get her voice back.
+
+"That," she said, rising slowly from the bench, "is a horned sylvan tiger. Those are extinct. Everyone says those are extinct."
+
+Lor-ar turned his head to her, unhurried. *You have also bonded a creature of the forest,* he told her, and Viridia realized he was speaking into both their minds at once. *Treat him well, or send him home. Those are the only two honest things to do with a bond.*
+
+"I will," Amber said faintly. "May I — have your name?"
+
+*You may. It is Lor-ar.* He turned back to Viridia and put his great nose, briefly, against her cheek, a gesture so absurdly like a house cat that she laughed — a short startled sound, the first real one in three days, gone almost before it arrived.
+
+"Lor-ar," Amber tried, getting hold of herself, falling back on the practical the way she did when a thing was too large. "I'm — I don't honestly know how the Headmistress is going to take a full-grown sylvan tiger walking into her school. You might have to go in the bracelet while we're indoors—"
+
+One white-and-blue eyebrow rose.
+
+*And how,* Lor-ar inquired, *am I to protect the little one from inside a trinket?*
+
+Amber tried, gamely, to explain that there was no danger to protect against inside the Academy, that it was a school, that nothing would happen to her there. Lor-ar listened to all of it with the patience of something three centuries deep, and was entirely unmoved, and when Amber finally ran out of arguments he let a pause go by just long enough to make his point.
+
+*Enough,* he said. *I will not go in the trinket. But I will compromise.*
+
+And he shrank.
+
+There was no other word for it. He simply diminished, fur and horns and saber-fangs and all, folding down and down until what sat licking a paw in the clearing was a tiger the size of a large house cat — still horned, still storm-eyed, still patently capable of opinions, but small enough now to be carried, or at the very least argued with at eye level.
+
+"I didn't know you could do that," Amber said weakly.
+
+*You were not meant to know.* He chuffed, a sound that was unmistakably laughter, and stood, and gave himself a shake. *Up, little one. You have spent yourself badly and you need to sleep before you fall down. I have decided I will permit it.*
+
+Viridia got to her feet, swaying, and Amber got an arm under her, and the three of them started back out of the green underwater light toward the lawns and the grey stone school. And the whole way, Lor-ar — three hundred years old, extinct, a spirit walker by some title Viridia did not yet understand, possessed of magic that had made a teacher sweat just to wake its cousin — ran ahead of them through the long grass and then came tearing back, and ran ahead again, and circled, and pounced at nothing, exactly like an overgrown kitten let out for the first time, and Viridia watched him do it through the fog of her exhaustion and felt, rising up through the drain and the grief and the careful held weight of everything, something warm and entirely unguarded that she had not felt in so long she had half forgotten its name.
+
+It was not grief. That was the remarkable thing about it.
+
+It was not grief at all.
