@@ -16,9 +16,9 @@ She had not slept much. She had lain awake holding the new fire in her chest, an
 
 She was due now.
 
-The door at the top of the stone stair had steel bands worked into the wood and red runes cut into the steel. She had passed it twice before and thought it only stern, the kind of heavy old door an institution kept for show. Now, with the sight, she could see that it was nothing of the kind. The runes ran with a deep banked working, layered, patient, the lines of it doubled and re-doubled in a way that spoke of years of careful addition; and she could not read what it said, the script being the older kind that lived in her mother's book and her own focus, but she could read what it was for. It was a door built to keep things out, and to keep things in, and to hear, perhaps, whether anyone stood listening at it. More care had been put into this one door than into the whole rest of the wing. A schoolmistress's study had no business being warded like a vault.
+The door at the top of the stone stair had steel bands worked into the wood and red runes cut into the steel. She had passed it twice before and thought it only stern, a heavy old door an institution kept for show. Now, with the sight, she could see that it was nothing of the kind. The runes ran with a deep banked working, layered, patient, the lines of it doubled and re-doubled in a way that spoke of years of careful addition; and she could not read what it said, the script being the older kind that lived in her mother's book and her own focus, but she could read what it was for. It was a door built to keep things out, and to keep things in, and to hear, perhaps, whether anyone stood listening at it. More care had been put into this one door than into the whole rest of the wing. A schoolmistress's study had no business being warded like a vault.
 
-Unless, of course, it was not only a study. She filed that, the way she filed everything, and knocked.
+Unless, of course, it was not only a study. She filed that, the way she filed everything. Up close the wood smelled of old wax and colder iron, and the runes gave off a faint warmth she could feel before her knuckles ever touched them, as though the door were breathing slowly in the dim of the stairwell. She raised one fist, waited until it had stopped shaking, and knocked.
 
 "Come in," said the voice from within, after a pause that was a beat too long.
 
@@ -64,7 +64,7 @@ So that was where it had gone. Viridia had wondered, turning the essay in with h
 
 "I meant it," she said.
 
-"I'm sure you did." Lady Lightwell turned the spectacles over in her hands. "It is the kind of thing that gets a girl noticed, Miss Saeren. Not always by the kind of people you would want to be noticed by. So let me ask you plainly, since you seem to be a girl who prefers plain things." She looked up. "Do you believe a person born with the darker half of the gift is, for that reason, a danger to be put down?"
+"I'm sure you did." Lady Lightwell turned the spectacles over in her hands. "It is the kind of thing that gets a girl noticed, Miss Saeren. Not always by people you would want to be noticed by. So let me ask you plainly, since you seem to be a girl who prefers plain things." She looked up. "Do you believe a person born with the darker half of the gift is, for that reason, a danger to be put down?"
 
 Viridia met the rose-less eyes. She thought of the black core turning slow behind the light-core necklace. She thought of Amber, on the kitchen floor between her dead parents. She thought of her mother's letter, *light and dark, good and evil, it's all in how you look at it.* She decided, in the space of a breath, how honest to be, and then she decided to be more honest than was safe, because she did not think this woman was asking out of idleness.
 

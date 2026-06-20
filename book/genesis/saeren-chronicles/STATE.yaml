@@ -126,3 +126,16 @@ style_alignment_pass:
   new_repeated_phrases_in_scope: none
   preserved: ["water motif (Ch.1)", "planted lines (both)", "all canon", "voice/plot/continuity", "Genesis Floor >= 8.5"]
   note: "Resolves prior 'Ch.1-4 locked / ceiling breach' item; Ch.1 no longer the sole benchmark exception."
+
+style_alignment_pass_ch5_6_9:
+  date: 2026-06-20
+  scope: "Ch.5-6 em-dash overage + Ch.9 fingerprint + restore 85k word floor. Surgical only. Ch.1 untouched."
+  before_after_emdash_per1k:
+    ch5: "15.6->5.7"
+    ch6: "14.1->3.7"
+  ch9_fingerprint: "'the kind of' x3 -> x1; FINGERPRINT flag cleared"
+  word_floor: "84,976 -> 85,115 (>= 85,000 hard floor; aimed >= 85,100). Added brief in-voice sensory grounding to Ch.5/6/9, no padding."
+  ceiling_flags_ch5_6: none
+  new_repeated_phrases_in_scope: none  # only surfaced n-gram 'and held it out' is pre-existing (Ch.1/4/14) and was reduced
+  genesis_floor: ">= 8.5 held on all three edited chapters (punctuation-level + additive sensory texture; no dimension weakened)"
+  preserved: ["all canon", "voice/plot/characters/continuity", "interrupted-dialogue dashes", "scene-break marker", "deliberate motifs"]

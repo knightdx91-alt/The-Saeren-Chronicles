@@ -1,7 +1,7 @@
 # Progress — The Hazel Years (adapted revision run)
 
 ## STATUS: BOOK ONE COMPLETE
-All 18 chapters finalized. Manuscript total **85,045 words** (>= 85,000 floor). Continuity full-audit: 0 CRITICAL, 0 WARNING, 3 MINOR. 0 chapters escalated. This run finalized Ch.12-18.
+All 18 chapters finalized. Manuscript total **85,115 words** (>= 85,000 floor; restored above floor 2026-06-20). Continuity full-audit: 0 CRITICAL, 0 WARNING, 3 MINOR. 0 chapters escalated. This run finalized Ch.12-18.
 
 | Ch | Words | Genesis Floor | Avg | Notes |
 |----|-------|---------------|-----|-------|
@@ -36,6 +36,9 @@ Book One is drafted, finalized, gated, audited, and over the word floor. Remaini
 3. (Book-Two prep) Re-seed the family-tree-name that doesn't fit — its Ch.2 vehicle (the spellbook) burned in Ch.16; introduce via another route in Bk2. Other open seeds: the mother-thread in the well, the void-absence, the unsigned-note author, the parents' true cause of death, the march on the capital.
 4. (Locked-chapter note, Book-Two cleanup only) Ch.1-4 carry prior-run simile/em-dash ceiling breaches; they are LOCKED this run. If the lock is ever lifted, run disruptor/editor on Ch.2-4 (Ch.1 stays the benchmark).
 5. (Optional) entity-tracker is current through 18; continuity-guardian post-revision pass only if any locked chapter is later edited.
+
+## STYLE-ALIGNMENT PASS — Ch.5-6 em-dash + Ch.9 fingerprint + word floor (2026-06-20)
+Focused surgical pass. Ch.5 em-dash density 15.6/1k -> 5.7/1k; Ch.6 14.1/1k -> 3.7/1k (excess em-dashes recast as commas/periods/colons; interrupted-dialogue dashes and the 3-em-dash scene-break marker preserved; no rewriting). Ch.9 "the kind of" x3 -> x1 (two reworded as direct description); FINGERPRINT flag cleared. Whole-book total restored above the 85,000 hard floor: **85,115 words** (was 84,976) via brief in-voice sensory grounding added to Ch.5 (forest-light line), Ch.6 (the ordinary school-noise beat at the bedside), and Ch.9 (the warded door, up close) — no padding, no canon touched. No NEW cross-chapter repeated 4-6-word phrase introduced (the one surfaced n-gram, "and held it out," is a pre-existing baseline phrase in Ch.1/4/14 that this pass actually reduced by one). Ch.1 left untouched. All three edited chapters hold Genesis Floor >= 8.5 (edits are punctuation-level + additive sensory texture; no dimension weakened). Style gate: Ch.5/6 carry no em-dash ceiling flag, Ch.9 no fingerprint flag.
 
 ## CANON GUARDRAILS — honored
 Pembrook · rose-tinted spectacles · Jazen · Viridia silver-blonde/green/5'5"/grief-inward (no one sees her cry) · trains+motorcars · no Hazel houses · specialty schools post-Hazel · NO Johnathan Masters / void woman.
