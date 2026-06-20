@@ -59,7 +59,7 @@ Beside her, Aleric Porter had not stopped talking since the motorcar.
 
 "Yes," Viridia said.
 
-"Four years here, then on to a proper specialty school. Healing's the prestigious route, of course. But there's intelligence work, therapy, the building disciplines — a great many doors are about to open for you. That's the thing to hold on to."
+"Four years here, then on to a proper specialty school. Healing's the prestigious route, of course. But there's intelligence work, therapy, the building disciplines. A great many doors are about to open for you. That's the thing to hold on to."
 
 A great many doors. Viridia thought of one that had closed three days ago and would not open again no matter how she stood in front of it. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it. So she kept it, packed down quiet behind her ribs, in the place she imagined her mother had kept whatever it was she had never said out loud.
 
@@ -127,7 +127,7 @@ Not loud in any rude way. It was the bright, overlapping chatter of girls who al
 
 She was good at this part, at least. The watching. She had always been good at standing slightly apart and taking the measure of a room, and grief had only sharpened it, had stripped away whatever part of her used to want to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
 
-A tall girl with copper hair turned in her seat and picked Viridia out where she stood. Her eyes did the quick sum strangers do — the loose hair, the slight build, the plainness of her — and landed last on the dark-blue stone at Viridia's throat. They stayed there a moment too long. Then the girl leaned to her neighbor and said something behind two fingers, and both of them looked, and looked away, and laughed. It was nothing. Viridia filed it anyway. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
+A tall girl with copper hair turned in her seat and picked Viridia out where she stood. Her eyes did the quick sum strangers do, the loose hair, the slight build, the plainness of her, and landed last on the dark-blue stone at Viridia's throat. They stayed there a moment too long. Then the girl leaned to her neighbor and said something behind two fingers, and both of them looked, and looked away, and laughed. It was nothing. Viridia filed it anyway. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
 
 Up on the platform, behind the desk, a woman sat reading through a stack of papers and did not look up.
 
@@ -191,7 +191,7 @@ Beside her, Viridia felt Alice go very still.
 
 It was a kind thing to say. It was meant kindly; Viridia could hear that it was. And yet there was something underneath it she could not quite name, some second meaning tucked beneath the careful words the way her mother used to bury meanings in ordinary advice — be careful who you let see you do it — so that the surface was warm and the thing beneath it was watchful. You were chosen. Said one way it was reassurance. Said another way it meant you were selected, and assessed, and we know exactly why you are here.
 
-The Headmistress went on: the daily schedule, the rules of the grounds, the four years here before they moved on to schools of their specialty. It washed over Viridia in a low even tide. She caught pieces and let the rest go. She was tired in a way that had nothing to do with sleep — the bone-deep tiredness of holding a great deal of weight very still for a very long time — and the bright hall and the level voice made it hard to keep her edges from blurring.
+The Headmistress went on: the daily schedule, the rules of the grounds, the four years here before they moved on to schools of their specialty. It washed over Viridia in a low even tide. She caught pieces and let the rest go. She was tired in a way that had nothing to do with sleep, the bone-deep tiredness of holding a great deal of weight very still for a very long time, and the bright hall and the level voice made it hard to keep her edges from blurring.
 
 Twice, Alice nudged her gently with an elbow, once at something funny Lady Lightwell said about the kitchens, and once, more quietly, when the Headmistress mentioned that students who had lost family were always welcome to speak with the staff. The second nudge was softer than the first. It was not a did you hear that nudge. It was a small wordless I'm here nudge, offered and then withdrawn, and Viridia understood that somehow, without being told, Alice had read something in her in the last five minutes that the rest of the room had not.
 

@@ -70,7 +70,7 @@ The hall rose into noise and motion. Lor-ar did not move from Viridia's hip.
 
 *She is afraid,* he said. *Of the man, and for you, and she has hidden it from a roomful of children who needed her not to be. That woman would make a magnificent general. It is a great waste that she is spending herself running a school.*
 
-Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon — a dimness, a thinning, as though somewhere too distant to name a thing had begun to drink the light out of the land. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
+Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon, a dimness, a thinning, as though somewhere too distant to name a thing had begun to drink the light out of the land. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
 
 ———
 

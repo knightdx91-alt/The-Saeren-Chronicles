@@ -98,7 +98,7 @@ It held. It nearly didn't, and then it held.
 
 "Oh," Alice said softly, behind her. "Oh, I'm sorry. I didn't—" And then she was off the bed and across the floor and kneeling in front of Viridia, not touching, just there, near and careful, the way you stand near a thing you're afraid of breaking.
 
-Viridia turned back when she could trust her face. "It's all right." Her voice came out level, and she logged the levelness the way she logged a sum that came out even — one small thing held in place. "My parents died. Recently. I'm—" She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
+Viridia turned back when she could trust her face. "It's all right." Her voice came out level, and she logged the levelness the way she logged a sum that came out even, one small thing held in place. "My parents died. Recently. I'm—" She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
 
 Alice did not say any of the things people said. She did not say *they're in a better place* or *time heals* or *at least.* She just stayed where she was, kneeling on the cold floor of a room she'd had for an hour, and after a moment she reached up and patted Viridia very gently on the top of the head, twice, exactly as one might reassure a cat that the storm was nearly over. It was such an odd, graceless, kind thing to do that Viridia nearly laughed, which was, she suspected, the point.
 
