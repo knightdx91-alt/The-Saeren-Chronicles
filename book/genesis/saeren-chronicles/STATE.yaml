@@ -32,7 +32,7 @@ adaptation:
 
 phase:
   current: 3
-  status: "in_progress — Act One (Ch.1-6) complete; resume at Ch.7"
+  status: "COMPLETE — all 18 chapters finalized; manuscript audit + whole-book checks done"
   history:
     - "Ch.1 drafted (Session 1, ~4,740 words) — locked as chapter-1.md"
     - "Phase 2/2.5: foundation.md, outline.md, voice-dna.md, voice-bank samples written"
@@ -42,7 +42,7 @@ phase:
 
 chapters:
   total_planned: 18
-  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
   scores:
     "2": {floor: 8.5, average: 8.5}
     "3": {floor: 8.5, average: 8.6}
@@ -60,6 +60,7 @@ chapters:
     "15": {floor: 8.5, average: 8.7}
     "16": {floor: 8.5, average: 8.8}
     "17": {floor: 8.5, average: 8.7}
+    "18": {floor: 8.5, average: 8.7}
 
 genesis_score:
   current_floor: 0.0
@@ -100,7 +101,7 @@ continuity:
   manuscript_audit: {critical: 0, warning: 0}
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
   chapters_escalated: []
 
 decisions:
