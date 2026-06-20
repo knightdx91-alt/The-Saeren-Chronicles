@@ -114,3 +114,12 @@ Editorial package + production assembly complete (Book One delivery).
 **Proofread:** full read + targeted consistency search. Manuscript already clean — effectively zero copyedits needed. Canon spellings verified (Pembrook, Jazen [no "Jasen"], Lor-ar, Raizen, Isolde/Lightwell, rose-tinted). Sister "Jan" consistent (ch.15/17). High Chancellor unnamed on page — preserved (foundation's "Erik Meros" never appears in chapters; not invented into copy).
 
 **Not done (non-blocking):** EPUB/print binaries (no platform specified); front/back matter beyond title page (need publishing details). Author decisions still open (Alice's fate, unsigned-note author, Raizen's affinity, the family-tree name). Re-seed family-tree-name in Bk2 (its Ch.2 spellbook vehicle burned in Ch.16).
+
+## EM-DASH COPYEDIT PASS (2026-06-20)
+Focused punctuation pass enforcing author rule: AT MOST 4 em-dashes per chapter (gate: `tools/style_check.py --max-emdash 4`).
+
+- Edited chapters: 1,2,3,4,5,6,7,8,9,10,11,12,18 (the 13 over ceiling). Ch.13–17 already ≤4, untouched.
+- Recasts: parentheticals/appositives → commas; interrupted/trailing dialogue → period or ellipsis (used sparingly, varied); dramatic dashes → period/colon. Refrains kept exact ("be careful who you let see you do it", "no one sees you do it"). Canon unchanged. Scene breaks left as `* * *`.
+- Per-chapter em-dash before→after: ch1 20→2, ch2 13→0, ch3 28→0, ch4 16→0, ch5 17→1, ch6 8→0, ch7 19→0, ch8 11→1, ch9 7→0, ch10 13→0, ch11 10→0, ch12 5→0, ch18 9→1. (Residual 1–2 are intentional, under the 4 ceiling.)
+- style_check.py: NO EM-DASH/FINGERPRINT/TIC ceiling flags on any chapter. Two repeated-phrase flags my recasts briefly introduced were reworded away; net problems vs pre-pass baseline DROPPED by 2 (no new flags). (The script's "RESULT: N issue(s)" total is dominated by its pre-existing cross-chapter 4–6gram inventory, unrelated to this pass.)
+- Word count: 85,842 (chapters) — above the 85,200 floor. full-manuscript.md reassembled (assemble_manuscript.py) and 6x9 interior PDF rebuilt (build_pdf.py, delivery/production/, exit 0).
