@@ -86,6 +86,7 @@ def scan():
     for f in files:
         n = int(re.search(r"chapter-(\d+)", f).group(1))
         text = open(f, encoding="utf-8").read()
+        text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)  # ignore editorial comments
         toks = words(text)
         wc = len(toks) or 1
         per1k = lambda c: round(c / wc * 1000, 1)
