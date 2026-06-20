@@ -6,11 +6,11 @@ They had not gone ten steps down the carpeted hall before a voice came after the
 
 "There you are."
 
-Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, and the keeping of a small promise sat plainly on her face — pleased with itself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
+Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, and the keeping of a small promise sat plainly on her face, pleased with itself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
 
 "Told you I'd find you," she said. "I'm very reliable, in the things that don't matter." Her gaze went over Viridia's head to Alice, who was looking up at her with open wonder. "And you've made a friend. Good. Hold on to that one — first-day friends are the ones who knew you before you'd decided who to be."
 
-"Alice," said Alice, sticking out a hand as though Amber were a grown-up at a dinner she had been told to be polite at. "Alice Pembrook."
+"Alice," said Alice, sticking out a hand with the careful formality of a child minding her manners at a grown-ups' dinner. "Alice Pembrook."
 
 "Amber." She shook it, gravely, and let it go. "Fourth-year. Viridia's sponsor, as of about an hour ago, which I'm told is faster than anyone's supposed to do it." She made a small face. "I've always been a bit impulsive."
 
@@ -18,7 +18,7 @@ Viridia turned the word *sponsor* over and found she did not know what to do wit
 
 "What does that mean," she said. Not quite a question. She rarely asked things outright; she preferred to set a sentence down between herself and a person and watch what they did with it.
 
-"It means," Amber said, "that when you trip over something in this place that you don't understand — and you will, it's built out of things nobody explains — you come and find me instead of working it out alone in the dark. That's the whole of it, mostly." She glanced sideways, and for a flicker the lounging ease went out of her and something steadier looked through. "The rest we'll get to."
+"It means," Amber said, "that when you trip over something in this place that you don't understand, and you will, it's built out of things nobody explains, you come and find me instead of working it out alone in the dark. That's the whole of it, mostly." She glanced sideways, and for a flicker the lounging ease went out of her and something steadier looked through. "The rest we'll get to."
 
 Then it was gone again, smoothed away the way Amber smoothed everything away, and she was telling them where to find the west wing, and which staircase ate the most time if you took it during the rush, and that they should unpack now because the afternoon would not stay empty for long.
 
@@ -34,25 +34,25 @@ On each bed sat luggage. Alice reached the right-hand bed first, read the gold l
 
 "These are yours." She crossed to the other bed and dropped onto it as though she had owned it for years. "I've got a roommate. A real one. I was so sure they'd put me with someone who'd—" She stopped, and waved the rest of the sentence away, the way she did, before it could become a thing she'd said out loud.
 
-Viridia went to the right-hand bed. Three suitcases, her name in gold down the side of each, the same gold as the flaking number on the door, as though the school stamped everything it touched with the same hand.
+Viridia went to the right-hand bed. Three suitcases, her name in gold down the side of each, the same gold as the flaking number on the door, the school stamping everything it touched with the same hand.
 
 The first held her clothes and her uniforms, folded by someone who was not her mother. She put them away.
 
-The second she knew by its weight before she opened it. Books — her mother's books, the spines she had grown up reading the titles of without being allowed to read the insides, the worn cloth covers her mother's hands had worn. The smell came up out of the case when she lifted the lid, paper and dust and something underneath it that was just the smell of her mother's shelf, her mother's corner, the particular air of a room that no longer existed and never would again. Viridia's hand stopped on the lid. For one moment the room was very loud and very far away.
+The second she knew by its weight before she opened it. Books. Her mother's books, the spines she had grown up reading the titles of without being allowed to read the insides, the worn cloth covers her mother's hands had worn. The smell came up out of the case when she lifted the lid, paper and dust and something underneath it that was just the smell of her mother's shelf, her mother's corner, the particular air of a room that no longer existed and never would again. Viridia's hand stopped on the lid. For one moment the room was very loud and very far away.
 
-She made herself lift the topmost book anyway. It was a slim thing in faded green cloth, a book of pressed-flower studies her mother had kept by the kitchen window, the pages gone soft and the green spine sun-faded to grey along one edge where the light had reached it year after year. Viridia opened it without meaning to. Between two pages, flat and brown and weightless, lay a single pressed violet — one her mother had put there, some ordinary afternoon, alive once and picked once and laid down by a hand that was gone. Viridia looked at it for what felt like a long time and was probably no time at all. Then she closed the book very gently, so as not to disturb the flower, which was a foolish thing to worry about and she worried about it anyway.
+She made herself lift the topmost book anyway. It was a slim thing in faded green cloth, a book of pressed-flower studies her mother had kept by the kitchen window, the pages gone soft and the green spine sun-faded to grey along one edge where the light had reached it year after year. Viridia opened it without meaning to. Between two pages, flat and brown and weightless, lay a single pressed violet, one her mother had put there, some ordinary afternoon, alive once and picked once and laid down by a hand that was gone. Viridia looked at it for what felt like a long time and was probably no time at all. Then she closed the book very gently, so as not to disturb the flower, which was a foolish thing to worry about and she worried about it anyway.
 
 She closed the case. She moved it to the side, to deal with later, which was the place she put most things now.
 
 The third suitcase was different. The fabric had sigils stitched into it in thread that caught the light wrong, the way her stone caught it wrong. She opened it slowly.
 
-Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at one end. And tucked beside it, folded once, a note in a hand she had never seen — not her mother's looping script, not her father's careful block letters, not the school's gold-stamp efficiency. A stranger's hand, and a steady one.
+Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at one end. And tucked beside it, folded once, a note in a hand she had never seen, not her mother's looping script, not her father's careful block letters, not the school's gold-stamp efficiency. A stranger's hand, and a steady one.
 
 *This is called a focus. To the best of my knowledge it has been passed down on your mother's side for a very long time. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
 
 That was all. No name. No *love.* No spirits-guide-you. Just an instruction, given by someone who knew where she was going to be before she had known it herself.
 
-She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it as though it had been meant to come apart into two halves and then been mended, or never quite finished. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone. She could no more read them than she could read the wind.
+She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it, the mark of something meant to come apart into two halves and then mended, or never quite finished. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone. She could no more read them than she could read the wind.
 
 *Keep this with you always.*
 
@@ -70,9 +70,9 @@ Viridia found, to her own surprise, that the corner of her mouth wanted to move.
 
 "Wouldn't tell me." Alice grinned, delighted to have landed the joke. "Stuck up, the moon."
 
-She let it go after that — slid off into talk of the room, of where the bathing rooms were, of whether the round window opened, and Viridia understood that the letting-go was deliberate, that Alice had found a closed door and chosen, on purpose, not to lean on it. It was the second time. Viridia was beginning to think it might be the most reliable thing about her.
+She let it go after that, slid off into talk of the room, of where the bathing rooms were, of whether the round window opened, and Viridia understood that the letting-go was deliberate, that Alice had found a closed door and chosen, on purpose, not to lean on it. It was the second time. Viridia was beginning to think it might be the most reliable thing about her.
 
-They unpacked in the comfortable way of two people who do not yet know each other and have decided, provisionally, to. Alice talked the whole while — about her nan, about the long train down with a man who'd snored, about how she'd packed three jumpers and her mum had taken two out and put a fourth in so she'd ended up with a wardrobe nobody had agreed on. She arranged a small army of belongings along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch and he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. She had brought nothing to put out — only the cases, and what was in them she meant to keep under the bed and inside the drawer and behind her ribs. She noticed the difference between their two halves of the room, the populated and the bare, and noticed that Alice noticed it too, and noticed that Alice said nothing about it, which she counted, privately, as the third reliable thing.
+They unpacked in the comfortable way of two people who do not yet know each other and have decided, provisionally, to. Alice talked the whole while, about her nan, about the long train down with a man who'd snored, about how she'd packed three jumpers and her mum had taken two out and put a fourth in so she'd ended up with a wardrobe nobody had agreed on. She arranged a small army of belongings along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch and he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. She had brought nothing to put out, only the cases, and what was in them she meant to keep under the bed and inside the drawer and behind her ribs. She noticed the difference between their two halves of the room, the populated and the bare, and noticed that Alice noticed it too, and noticed that Alice said nothing about it, which she counted, privately, as the third reliable thing.
 
 "There," Alice said, when Stitch was settled and the sweets were hidden and the room was as much theirs as an afternoon could make it. She flopped back onto her bed. "Home. For four years." She said it bravely and it cracked very slightly at the end, on *years,* and she heard it crack and plowed straight on. "Tell me one thing about you. Anything. I've told you my whole life and I don't know one thing about you and we live here now."
 
@@ -92,7 +92,7 @@ It was Alice who folded first, the way bright things do when the day catches up 
 
 She did not finish. She did not need to. *Proud* was already in the air, already arriving, and there was nothing Viridia could do to step out of its way.
 
-It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass, and she did the work, the quiet brutal ordinary work — breathed once, around it, did not let it past, gripped nothing, let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
+It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass, and she did the work, the quiet brutal ordinary work. Breathed once, around it, did not let it past, gripped nothing, let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
 
 It held. It nearly didn't, and then it held.
 
@@ -110,13 +110,13 @@ It came from everywhere at once, a single long bronze note that climbed up throu
 
 "That's not the breakfast one," Alice said. "Is it? I haven't heard the breakfast one. But it doesn't *sound* like breakfast."
 
-It did not. It sounded, Viridia thought, like a held note finally let go — and then she thought of the gate that morning, swinging shut with that same sound, and decided not to say so.
+It did not. It was a held note finally let go, Viridia thought, and then she thought of the gate that morning, swinging shut with that same sound, and decided not to say so.
 
 ———
 
 The hall outside had filled with girls, all of them moving the same direction, the easy formed groups of the morning re-forming on the move.
 
-A first-year with dark hair and a quick way of turning her whole head to look at things — Viridia recognized her from the orientation room, the one who'd kept glancing at the door — fell back to walk beside them.
+A first-year with dark hair and a quick way of turning her whole head to look at things, the one Viridia recognized from the orientation room, the one who'd kept glancing at the door, fell back to walk beside them.
 
 "You two are in fourteen, aren't you. I'm Della, I'm across in seventeen." She said it all in one breath. "A fourth-year came round and said emergency meeting, dining hall, everyone. She wouldn't say what. She had a *face* on, though." Della's eyes were bright with the particular pleasure of being first with bad news. "First day and an emergency. My mum said it'd be quiet here."
 
@@ -124,15 +124,15 @@ A first-year with dark hair and a quick way of turning her whole head to look at
 
 "The kind they have when someone's hurt and they're not saying who." And Della bounced ahead to find her own people, having delivered the thing she'd come to deliver, leaving the two of them to follow the current down.
 
-The dining hall was the largest room Viridia had seen yet, and the school had not been short on large rooms. Double oak doors stood open onto it. Four long tables ran the length of the floor, and a fifth crossed the far end, raised slightly, for the staff. The smell reached her before the rest of it did — bread, and something rich and brothy, and the green smell of cut herbs — and under it the warm animal noise of two hundred girls who did not yet know why they had been called. High along the walls hung iron brackets where lamps had been lit against the early dark, and their light fell warm and uneven across the long tables, catching here on a polished spoon, there on a girl's bright hair, leaving the corners of the great room in a soft brown gloom. The ceiling was lost up in it. Serving girls in grey waited at the edges, hands folded, watching the staff door the way everyone was watching it. Two hundred girls and you could hear, under the talk, the particular thin sound of people who have been told *emergency* and not been told why — the talk pitched a half-note too high, breaking off too soon, starting up again too fast.
+The dining hall was the largest room Viridia had seen yet, and the school had not been short on large rooms. Double oak doors stood open onto it. Four long tables ran the length of the floor, and a fifth crossed the far end, raised slightly, for the staff. The smell reached her before the rest of it did: bread, and something rich and brothy, and the green smell of cut herbs, and under it the warm animal noise of two hundred girls who did not yet know why they had been called. High along the walls hung iron brackets where lamps had been lit against the early dark, and their light fell warm and uneven across the long tables, catching here on a polished spoon, there on a girl's bright hair, leaving the corners of the great room in a soft brown gloom. The ceiling was lost up in it. Serving girls in grey waited at the edges, hands folded, watching the staff door the way everyone was watching it. Two hundred girls and you could hear, under the talk, the particular thin sound of people who have been told *emergency* and not been told why, the talk pitched a half-note too high, breaking off too soon, starting up again too fast.
 
 The fourth-years had taken the left. The first-years drifted right. Viridia sat where Alice sat and watched the staff table, which was empty, and waited, like everyone, to find out what kind of day it had become.
 
-Lady Lightwell came in through a door behind the staff table. She had changed nothing about herself — the autumn dress, the rose-tinted lenses, the blue shoes going quietly about their business under all that composure — and the room hushed without being asked, the way it had at orientation, the way water goes flat when something heavy is set on it.
+Lady Lightwell came in through a door behind the staff table. She had changed nothing about herself, the autumn dress, the rose-tinted lenses, the blue shoes going quietly about their business under all that composure, and the room hushed without being asked, the way it had at orientation, the way water goes flat when something heavy is set on it.
 
 Behind her came a fourth-year. And the room, which had hushed, made a sound.
 
-The girl was holding her left arm against her chest. There were claw marks raked through the shoulder of her uniform, dark and stiff where the blood had dried, and below the elbow there was — less of her than there should have been. Her hand was gone, and a good part of the forearm with it, the sleeve folded over and pinned where the rest of her ought to be. She kept her head down. She did not look at any of them.
+The girl was holding her left arm against her chest. There were claw marks raked through the shoulder of her uniform, dark and stiff where the blood had dried, and below the elbow there was less of her than there should have been. Her hand was gone, and a good part of the forearm with it, the sleeve folded over and pinned where the rest of her ought to be. She kept her head down. She did not look at any of them.
 
 Viridia heard Alice's breath go in and not come out for a moment.
 
@@ -146,7 +146,7 @@ No one moved.
 
 "A dragon's claws carry its magic," she went on, more quietly, to the girl beside her now rather than the room. "They resist the healing we can give. Go to the infirmary. I'll be along." And the girl went, down the long aisle between the tables and out, cradling the place where her hand had been, and two hundred girls watched her go and not one of them said a word.
 
-Lady Lightwell turned back. "We give the girls who do well here a great deal of freedom," she said. "Freedom to choose. Freedom, even, to be wrong. But knowing the size of a thing before you reach for it — knowing what it will cost you to be wrong — that is the first lesson, and the only one I will teach you twice." She picked up a small bell from the staff table and rang it, twice. "Eat. Then sleep. The first bell comes early."
+Lady Lightwell turned back. "We give the girls who do well here a great deal of freedom," she said. "Freedom to choose. Freedom, even, to be wrong. But knowing the size of a thing before you reach for it, knowing what it will cost you to be wrong, that is the first lesson, and the only one I will teach you twice." She picked up a small bell from the staff table and rang it, twice. "Eat. Then sleep. The first bell comes early."
 
 And she was gone, out the doors, on her way to a girl with one hand.
 
@@ -170,21 +170,21 @@ They came back to room fourteen quiet, the way the whole school had gone quiet, 
 
 "Goodnight."
 
-Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of a person who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had not been able to do that — drop off the edge of a day and trust it to catch you — since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
+Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of a person who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had not been able to do that, drop off the edge of a day and trust it to catch you, since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
 
 When she was sure of Alice's breathing, she reached under the bed and drew out the second suitcase.
 
-She did it slowly, the latches one at a time, muffling them against her palm. The smell came up again, her mother's shelf, and this time she let it. From the top of the stack she lifted the spellbook — she knew it was the spellbook the way you know a thing in a dream, without being told — a heavy thing bound in dark worn cloth, the corners soft with handling. She had seen it on the high shelf all her life. She had never once been allowed to open it.
+She did it slowly, the latches one at a time, muffling them against her palm. The smell came up again, her mother's shelf, and this time she let it. From the top of the stack she lifted the spellbook. She knew it was the spellbook the way you know a thing in a dream, without being told, a heavy thing bound in dark worn cloth, the corners soft with handling. She had seen it on the high shelf all her life. She had never once been allowed to open it.
 
 She opened it now, by the thin light from the round window.
 
-The first page was a tree. Not a drawing of a tree — a family tree, drawn in her mother's hand and other hands before it, a branching tangle of names going back and back, dates beside them, lines crossing and dividing, the ink at the top of the page brown with age and the ink at the bottom still nearly black. She found her mother's name near the foot of it. *Bella.* And beside it, in the same near-black ink, her own. *Viridia.* Someone had written her into this before she was old enough to read it.
+The first page was a tree. Not a drawing of a tree but a family tree, drawn in her mother's hand and other hands before it, a branching tangle of names going back and back, dates beside them, lines crossing and dividing, the ink at the top of the page brown with age and the ink at the bottom still nearly black. She found her mother's name near the foot of it. *Bella.* And beside it, in the same near-black ink, her own. *Viridia.* Someone had written her into this before she was old enough to read it.
 
-She traced upward. The names meant nothing and everything — strangers who had her blood, going up into the dark of a thousand years. Some she half-knew from the edges of stories, names that turned up in the histories she'd been made to read, and not all of them were names you wanted to find sitting in your own tree. Light mages and dark mages both, tangled together on the same branches as though no one had thought, back then, that it mattered which you were.
+She traced upward. The names meant nothing and everything, strangers who had her blood, going up into the dark of a thousand years. Some she half-knew from the edges of stories, names that turned up in the histories she'd been made to read, and not all of them were names you wanted to find sitting in your own tree. Light mages and dark mages both, tangled together on the same branches as though no one had thought, back then, that it mattered which you were.
 
 And then, near the middle, where the tree was perhaps four hundred years deep, one name with no dates beside it at all.
 
-Every other name had dates — born, and died, the small brackets of a life. This one had neither. Just the name, sitting on its branch with a line going down out of it into the rest of the tree, connected to everything, accounted for by nothing. She put her finger on it. She could not have said why it pulled at her. Only that her eye had gone to it the way it went to blue shoes, to chipped nails, to the one thing in a careful arrangement that did not match — and that her mother, who had drawn this page, had let it stand.
+Every other name had dates, born, and died, the small brackets of a life. This one had neither. Just the name, sitting on its branch with a line going down out of it into the rest of the tree, connected to everything, accounted for by nothing. She put her finger on it. She could not have said why it pulled at her. Only that her eye had gone to it the way it went to blue shoes, to chipped nails, to the one thing in a careful arrangement that did not match, and that her mother, who had drawn this page, had let it stand.
 
 She would have looked longer. But the page after the tree was a letter, and she had not known there would be a letter, and once she had seen her own name in her mother's hand at the top of it she could not have stopped reading it to save her life.
 
@@ -192,7 +192,7 @@ She would have looked longer. But the page after the tree was a letter, and she 
 
 *If you are reading this, then I have passed beyond the veil.*
 
-She read it through once, fast, the way you take cold water, and then again slowly. Her mother told her the book had come down the family for generations, and the focus with it. That most of the spells in it were ordinary, the kind any mage might keep — except the dark ones, which her mother said were unique, and said it as plainly as she might have said *the blue cups are in the high cupboard,* as though dark magic were simply a thing the family kept in the house. She told her to add her own spells, when she had them, so that whoever came after would have them too. *Light and Dark, good and evil,* she had written. *They are both sides of the same coin. It is only how you choose to look at it.*
+She read it through once, fast, the way you take cold water, and then again slowly. Her mother told her the book had come down the family for generations, and the focus with it. That most of the spells in it were ordinary, the kind any mage might keep, except the dark ones, which her mother said were unique, and said it as plainly as she might have said *the blue cups are in the high cupboard,* as though dark magic were simply a thing the family kept in the house. She told her to add her own spells, when she had them, so that whoever came after would have them too. *Light and Dark, good and evil,* she had written. *They are both sides of the same coin. It is only how you choose to look at it.*
 
 And then, near the end, the line Viridia would carry the way she carried the other one:
 
@@ -204,4 +204,4 @@ And then, near the end, the line Viridia would carry the way she carried the oth
 
 It was the same voice. It was exactly the same voice, the warm surface and the watchful thing underneath, and her mother had been speaking to her in it her whole life and Viridia had thought it was only the way mothers talked.
 
-She did not cry. She was very good at it by now, the not-crying. She closed the book instead, slowly, and held it against her chest with both arms, the way Alice had not quite touched her shoulder, the way you hold the one thing the flood has not yet taken — and she lay down like that, curled around a thousand years of names and a letter from a woman who had known something she would not say, and somewhere in the holding of it she went, at last, the way Alice had gone, over the edge of the day and down into the dark.
+She did not cry. She was very good at it by now, the not-crying. She closed the book instead, slowly, and held it against her chest with both arms, the way Alice had not quite touched her shoulder, the way you hold the one thing the flood has not yet taken, and she lay down that way, curled around a thousand years of names and a letter from a woman who had known something she would not say, and somewhere in the holding of it she went, at last, the way Alice had gone, over the edge of the day and down into the dark.

@@ -109,3 +109,20 @@ decisions:
   - "Project lives inside the repo on main at book/genesis/saeren-chronicles/."
   - "Ch.1 is locked. Pipeline produces Ch.2-18 by revising/expanding the original draft to the Chapter Roadmap."
 revision_cycles: 0
+
+style_alignment_pass:
+  date: 2026-06-20
+  scope: [chapter-1, chapter-2, chapter-3, chapter-4]
+  goal: "Bring early chapters to book prose-density ceilings (simile <=4.0/1k, em-dash <=10/1k)."
+  result: clean
+  before_after_per1k:
+    ch1: {simile: "6.0->3.6", emdash: "14.1->7.3"}
+    ch2: {simile: "4.2->3.1", emdash: "12.3->5.5"}
+    ch3: {simile: "6.0->3.8", emdash: "15.9->9.0"}
+    ch4: {simile: "4.2->3.8", emdash: "10.8->6.2"}
+  word_counts: {ch1: 4935, ch2: 4550, ch3: 4453, ch4: 4530}
+  ceiling_flags_ch1_4: none
+  fingerprint_flags_ch1_4: none
+  new_repeated_phrases_in_scope: none
+  preserved: ["water motif (Ch.1)", "planted lines (both)", "all canon", "voice/plot/continuity", "Genesis Floor >= 8.5"]
+  note: "Resolves prior 'Ch.1-4 locked / ceiling breach' item; Ch.1 no longer the sole benchmark exception."

@@ -42,3 +42,18 @@ Pembrook · rose-tinted spectacles · Jazen · Viridia silver-blonde/green/5'5"/
 
 ## DEVIATIONS (logged)
 - Ch.12: Heart of the Spear introduced (roadmap [NEW]); Dangris token, ties to grief + the "division cost the light mages their own rites" theme. Named first-year classmate "Petra" (one-line texture). Glasses of true seeing foreshadowed via Viridia's inference in Ch.12 (the actual on-page plant is Ch.13 per roadmap).
+
+## STYLE-ALIGNMENT PASS — Ch.1-4 (2026-06-20)
+Brought the four early chapters down to the book's prose-density ceilings (the rest of the book sits at simile <=3.2/1k, em-dash 3-6/1k; Ch.1-4 had been exceeding). Surgical only: weaker similes converted to direct description (strongest kept), excess em-dashes recast as commas/periods, "the kind of" reduced to <=1/chapter.
+
+Before -> After (simile/1k, em-dash/1k):
+- Ch.1: 6.0 / 14.1  ->  3.6 / 7.3
+- Ch.2: 4.2 / 12.3  ->  3.1 / 5.5
+- Ch.3: 6.0 / 15.9  ->  3.8 / 9.0
+- Ch.4: 4.2 / 10.8  ->  3.8 / 6.2
+
+style_check.py: Ch.1-4 no longer appear under CEILING or FINGERPRINT flags; no NEW repeated 4-6 word phrase shared with another chapter (verified by before/after n-gram diff). Word counts all above 4,400 floor (4935 / 4550 / 4453 / 4530). Net loss small.
+
+PRESERVED: water motif (Ch.1), planted lines "be careful who you let see you do it" (x2) and "no one sees you do it" (Ch.1+2), all canon, voice, plot, continuity. Genesis Floor >= 8.5 maintained (density reduction does not weaken any dimension; no grounding/interiority/dialogue removed).
+
+NOTE: supersedes NEXT STEPS item #4 above (the Ch.1-4 ceiling-breach lock) — that item is now resolved.
