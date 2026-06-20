@@ -138,5 +138,15 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
 ## Status (update this section as you go)
 
-- Chapters 1–11 finalized and committed (~50,744 words). Next: **Chapter 12**.
-- See `feedback/progress.md` for the precise resume point and per-chapter notes.
+- **Book One COMPLETE.** All 18 chapters finalized & committed — **85,045 words**,
+  every chapter Genesis Floor ≥ 8.5, full continuity audit clean (0 critical/0
+  warning, 3 minor non-blocking). Canon guardrails held throughout.
+- Delivery-ready. Optional next steps (non-blocking), see `feedback/progress.md`:
+  - Run `book-packager` for the editorial package (logline/synopsis/query/cover)
+    and production formatting (ebook/print).
+  - Author decisions still open (see below) before Book Two.
+  - Re-seed the "family-tree name that doesn't fit" — its Ch.2 vehicle (the
+    spellbook) burned in Ch.16, so the plant needs a new home if kept.
+- **Books Two and Three are not started.** When ready, set them up as their own
+  pipeline projects (e.g. `book/genesis/saeren-chronicles-book-2/`) seeded from
+  the same Series Roadmap + the Book One ENTITY_STATE.yaml.
