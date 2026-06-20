@@ -65,7 +65,7 @@ def scan():
     ap.add_argument("--dir", default="manuscript/chapters")
     ap.add_argument("--max-simile", type=float, default=4.0)
     ap.add_argument("--max-adverb", type=float, default=20.0)
-    ap.add_argument("--max-emdash", type=float, default=10.0,
+    ap.add_argument("--max-emdash", type=float, default=8.0,
                     help="em-dashes per 1,000 words ceiling")
     ap.add_argument("--tic-ratio", type=float, default=6.0)
     args = ap.parse_args()

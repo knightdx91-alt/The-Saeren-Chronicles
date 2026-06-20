@@ -74,6 +74,8 @@ def scan():
                     help="-ly adverbs per 1,000 words ceiling")
     ap.add_argument("--tic-ratio", type=float, default=6.0,
                     help="per-1,000-words ceiling for any single tic word")
+    ap.add_argument("--max-emdash", type=float, default=8.0,
+                    help="em-dashes per 1,000 words ceiling (AI tell — keep low)")
     args = ap.parse_args()
 
     base = os.path.dirname(os.path.abspath(__file__))
@@ -102,12 +104,14 @@ def scan():
         adverbs = len(ADVERB.findall(text))
         emdash = text.count("—")
 
-        sim1k, adv1k = per1k(similes), per1k(adverbs)
+        sim1k, adv1k, em1k = per1k(similes), per1k(adverbs), per1k(emdash)
         flags = []
         if sim1k > args.max_simile:
             flags.append(f"SIMILE {sim1k}/1k > {args.max_simile}"); problems += 1
         if adv1k > args.max_adverb:
             flags.append(f"ADVERB {adv1k}/1k > {args.max_adverb}"); problems += 1
+        if em1k > args.max_emdash:
+            flags.append(f"EM-DASH {em1k}/1k > {args.max_emdash}"); problems += 1
 
         tic_hits = []
         low = text.lower()
