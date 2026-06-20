@@ -1,0 +1,86 @@
+project:
+  title: "The Saeren Chronicles — Book One: The Hazel Years"
+  genre: "Fantasy"
+  subgenre: "YA epic/school fantasy"
+  language: "English"
+  word_count_target: 90000
+  device: ""
+  comp_titles:
+    - "Leigh Bardugo — Grisha trilogy"
+    - "Tamora Pierce — Tortall"
+    - "Garth Nix — Old Kingdom"
+  engagement_type: {primary: "emotional", secondary: "world-building", tertiary: "mystery"}
+  premise: "The only person born with both halves of a deliberately-severed magic must survive a school built to suppress what it cannot categorize, while grief, a hidden heritage, and a coming war close in."
+  premise_floor: 8.0
+  created: "2026-06-20"
+  updated: "2026-06-20"
+
+# ADAPTED RUN — this is NOT a from-scratch genesis. Canon already exists.
+adaptation:
+  mode: "revise-existing-draft"
+  canon_sources:
+    series_roadmap: "research/series-roadmap.md"      # premise + architecture (binding)
+    character_bible: "research/character-bible.md"     # foundation (binding)
+    chapter_roadmap: "research/chapter-roadmap.md"     # outline (binding, scene-level)
+    master_checklist: "research/master-checklist.md"   # revision tasks per chapter
+    original_draft:  "research/original-draft.txt"     # raw prose for ch.2-18 to revise/expand
+  chapter_1_locked: true   # already revised (~4,740 words); do not rewrite
+  chapters_to_produce: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+
+phase:
+  current: 2
+  status: "in_progress"
+  history:
+    - "Ch.1 drafted (Session 1, ~4,740 words) — locked as chapter-1.md"
+
+chapters:
+  total_planned: 18
+  completed: [1]
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+  dimensions:
+    originality: {score: 0.0, evidence: ""}
+    theme: {score: 0.0, evidence: ""}
+    characters: {score: 0.0, evidence: ""}
+    prose_voice: {score: 0.0, evidence: ""}
+    pacing_coherence: {score: 0.0, evidence: ""}
+    emotion: {score: 0.0, evidence: ""}
+    dimension_7: {name: "world-building", score: 0.0, evidence: ""}
+
+commercial_viability:
+  cvi_launch: 0.0
+  cvi_legacy: 0.0
+  casual_reader_verdict: 0
+  tomorrow_test_anchors: 0
+  shareability: {quote: 0, plot: 0, emotional: 0}
+
+voice_dna:
+  created: false
+  character_cards: 0
+  cover_the_name_pass: false
+
+reader_personas:
+  created: false
+  primary: ""
+  hostile: ""
+
+entity_state:
+  created: false
+  last_updated_chapter: 0
+  open_contradictions: 0
+
+continuity:
+  outline_audit: {critical: 0, warning: 0}
+  manuscript_audit: {critical: 0, warning: 0}
+
+quality_gate:
+  chapters_passed: [1]
+  chapters_escalated: []
+
+decisions:
+  - "Tool: Best Seller Studio pipeline, adapted to revise an existing draft rather than genesis-from-idea."
+  - "Project lives inside the repo on main at book/genesis/saeren-chronicles/."
+  - "Ch.1 is locked. Pipeline produces Ch.2-18 by revising/expanding the original draft to the Chapter Roadmap."
+revision_cycles: 0
