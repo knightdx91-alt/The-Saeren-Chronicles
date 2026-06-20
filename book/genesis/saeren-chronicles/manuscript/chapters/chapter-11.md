@@ -56,7 +56,7 @@ There was no opening. She lunged left and stabbed right, a feint and a strike, e
 
 "Again," he said.
 
-She came again, and again, thrusting and recovering, trying the forms she knew in every order she could think of, and Venquar deflected all of it without seeming to move his feet, and then, between one breath and the next, he was no longer being patient. He struck like a thing made of wire and lightning. The spearhead opened a clean hot line down her right forearm before she saw it move, and as she flinched from that the butt of his haft cracked across her right thigh, and she stumbled back gasping with two wounds she had not felt coming, the pain arriving a half-second after the blood.
+She came again, and again, thrusting and recovering, trying the forms she knew in every order she could think of. Venquar deflected all of it without seeming to move his feet. And then, between one breath and the next, he stopped being patient. He struck like wire and lightning. The spearhead opened a clean hot line down her right forearm before she saw it move. She flinched. The butt of his haft cracked across her thigh. She stumbled back gasping, two wounds she had not felt coming, the pain arriving a half-second behind the blood.
 
 She had never been cut before. Not really. She stood there with her own blood running warm down her arm and her leg throbbing and her breath ragged, and she understood, in a way no book and no lesson could have taught her, that this was real, that the war Lor-ar kept naming would feel like this, that someone would one day try to do this to her in earnest and not stop at a line down the arm.
 
