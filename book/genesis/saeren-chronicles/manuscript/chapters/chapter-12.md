@@ -18,7 +18,7 @@ When the bell rang and the others filed out, Mrs. Zoran came and sat on the edge
 
 "I don't make faces."
 
-"You make one face. It's very small and it means you've decided I'm wrong and you're being polite about it." Mrs. Zoran put the glasses back on. "You don't need this class anymore, Viridia. You haven't needed it for some weeks. I have been teaching you to harden a leaf and you have been hardening it and being kind enough not to mention that you could harden the whole tree if I asked. It's not fair to you. And, if I'm honest—" she paused, and the honesty cost her something; Viridia watched it cost her "—it isn't entirely safe for me, either, to have you sitting in my front rows being twice the mage I am where the others can see and start to wonder why."
+"You make one face. It's very small and it means you've decided I'm wrong and you're being polite about it." Mrs. Zoran put the glasses back on. "You don't need this class anymore, Viridia. You haven't needed it for some weeks. I have been teaching you to harden a leaf and you have been hardening it and being kind enough not to mention that you could harden the whole tree if I asked. It's not fair to you. And, if I'm honest." She paused, and the honesty cost her something; Viridia watched it cost her. "It isn't entirely safe for me, either, to have you sitting in my front rows being twice the mage I am where the others can see and start to wonder why."
 
 There it was. Not unkindness. The opposite. She was being protected, and being moved out of the light at the same time, and the two were the same act.
 
@@ -90,7 +90,7 @@ She almost smiled. He did do that, took her own habits and turned them on her, a
 
 Lor-ar opened one eye. "What glasses."
 
-"I don't know. There aren't any glasses yet. I just—" She stopped, surprised at herself, at the thing her own mouth had reached for ahead of her thinking. "Powerful men who want to know what someone is have tools for it. That's all. If I were him, and I'd heard there was something strange at a school, I wouldn't come to ask questions. People lie. I'd come to *look.*" She set her hand flat on the open page. "And I'd bring something to look with."
+"I don't know. There aren't any glasses yet. I just." She stopped, surprised at herself, at the thing her own mouth had reached for ahead of her thinking. "Powerful men who want to know what someone is have tools for it. That's all. If I were him, and I'd heard there was something strange at a school, I wouldn't come to ask questions. People lie. I'd come to *look.*" She set her hand flat on the open page. "And I'd bring something to look with."
 
 There was a silence in the alcove. The dust turned in the bar of window-light.
 
@@ -114,7 +114,7 @@ But she told her about the test.
 
 They were on Alice's bed with the lamp turned low, Alice in the middle of a great many small jars from the medical wing that she was supposed to be labelling and was mostly not. Alice had taken to the healing work the way Viridia had taken to nothing, openly, joyfully, with her whole chest. She came back from the ward most evenings smelling of the green astringent they used and full of small triumphs, a fever broken, a bone she had been allowed to help set, a third-year who had stopped crying because Alice had sat with her.
 
-"Friday," Alice said, when Viridia told her. "*This* Friday. And the Chancellor himself." She put down a jar. "Viridia, that's—they only do the private exercise for the top student, everyone knows that, and you're going to *be* the top student, you've been the top student since the second week, even the fourth-years say so when they think no one's listening—"
+"Friday," Alice said, when Viridia told her. "*This* Friday. And the Chancellor himself." She put down a jar. "Viridia. They only do the private exercise for the top student, everyone knows that, and you're going to *be* the top student, you've been the top student since the second week, even the fourth-years say so when they think no one's listening..."
 
 "They don't say that."
 
