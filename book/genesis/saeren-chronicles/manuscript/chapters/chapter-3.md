@@ -110,7 +110,7 @@ Mrs. Zoran turned it in her fingers, slowly, the cheerful patter gone quiet. She
 
 Then she pushed her magic into it.
 
-Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself — *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
+Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. The hair rose along her forearms. A taste came into the back of her mouth, cold and metal, and she pressed her tongue to her teeth and made it stay there, unmentioned. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself — *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
 
 The light faded. The cane stayed.
 
@@ -176,7 +176,13 @@ She let it sit.
 
 "You can," Viridia said. She did not know if it was true. She found she wanted it to be.
 
-"This focus wasn't made for a light mage." Mrs. Zoran said it quietly. "Nor for a dark one, exactly. It was made for someone with *both.*" She watched Viridia take that. "Now. There's a quarrel among the few scholars who still care to quarrel about such things. Some of us believe that once, a very long time ago, thousands of years, most people were born with both sides of the gift. Light and dark, whole, in one person. The records from that far back are mostly ash and rumor, you understand. But what we *do* know is that at some point the light mages went to war on the dark. A crusade. They put whole families to the sword. Whole lines, ended." Her mouth thinned. "I've my own opinion as to why there are so many born with no gift at all these days. I think we killed our way to it."
+"This focus wasn't made for a light mage." Mrs. Zoran said it quietly. "Nor for a dark one, exactly. It was made for someone with *both.*"
+
+She watched Viridia take that.
+
+"Now. There's a quarrel among the few scholars who still care to quarrel. Some of us believe that once, a very long time ago, most people were born with both sides of the gift. Light and dark, whole, in one person. The records from that far back are mostly ash and rumor." Her voice dropped. "But we know one thing. At some point the light mages went to war on the dark. A crusade. They put whole families to the sword. Whole lines, ended."
+
+Her mouth thinned. "I've my own opinion as to why so many are born with no gift at all these days. I think we killed our way to it."
 
 Viridia held very still. "So it's a dark focus."
 
@@ -206,7 +212,7 @@ She turned the cane once more and watched the grey light slide down the white sc
 
 She felt curious.
 
-Someone had wanted her to have this. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her to keep it always. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* All of it was a door, and behind the grief, very faint, she heard herself want, for the first time since the kitchen, since the toast, since the last ordinary morning, to know what was on the other side of it.
+Someone had wanted her to have this. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her to keep it always. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* All of it was a door, and behind the grief, very faint, she heard herself want, for the first time since the kitchen, to know what was on the other side of it.
 
 The wanting frightened her a little too. It felt like the first warm thing in a cold house. You did not trust the first warm thing. But you stood near it.
 
