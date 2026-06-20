@@ -6,13 +6,13 @@
 
 They were in the clearing the dragons had cleared for them, a wide bare ring deep in the forest where Drake and Varissa had torn out the trees and scorched the ground flat, a place to train where no window could see. The nights had turned warmer. Viridia sat on the grass at the clearing's edge in her training clothes, the soft black trousers and the sleeveless shirt, with Raizen stretched out beside her, larger now, nearly the size of a pony, his prismatic scales throwing back the moonlight in shifting colors. Lor-ar paced before them in his full shape, which he did when he was about to teach something he thought important.
 
-"Only the light," Viridia said. She turned it over. "Then they're—" She stopped herself before the word *broken,* because she had stopped using it, even in her head, about people who had no idea they were missing anything. "Then they only have the one half."
+"Only the light," Viridia said. She turned it over. "Then they're." She stopped herself before the word *broken,* because she had stopped using it, even in her head, about people who had no idea they were missing anything. "Then they only have the one half."
 
 "They have the one half, and they were made with the one half, the way the small beasts were, and so there is no wound in it. The Dangris were never severed. They were simply made light, all of them, from the beginning of their kind." His tail swept the grass. "I find them interesting for that reason. Your people lost the dark and grieve it without knowing they grieve. The Dangris never had it and have built, with the one half, a whole and savage and entirely contented life. There is a lesson in them about what a creature does with what it is given, rather than mourning what it was not." He showed his teeth. "Also they are the finest fighters I have ever seen, and they have agreed to train you, and you are going to need it."
 
 "You almost sound as though you admire them," Viridia said.
 
-"I do admire them. It is possible to admire a thing and to know it would gut you in a heartbeat if the season turned; the two are not in conflict, whatever your gentler poets pretend." He paced. "I admire that they do not waste themselves wishing to be other than they are. Your people spend a great deal of grief on a missing half most of them cannot even name. The Dangris spend none. They took what they were given and they sharpened it to a point, every one of them, and they are happier for it than any people I know, in the savage way of a thing that has made its peace with its own nature." He glanced at her. "There is a thing in that worth your learning, beyond the spear. But the spear first."
+"I do admire them. It is possible to admire a thing and to know it would gut you in a heartbeat if the season turned; the two are not in conflict, whatever your gentler poets pretend." He paced. "I admire that they do not waste themselves wishing to be other than they are. Your people spend a great deal of grief on a missing half most of them cannot even name. The Dangris spend none. They took what they were given and they sharpened it to a point, every one of them, and they are happier for it than any people I know, in the savage way of a creature that long ago made its peace with its own nature." He glanced at her. "There is a thing in that worth your learning, beyond the spear. But the spear first."
 
 "Train me to do what?"
 
@@ -20,7 +20,7 @@ Lor-ar looked at her steadily in the moonlight.
 
 "To stay alive," he said, "in the war your Headmistress has already told you is coming. Magic is a great deal, little one. It is not everything. There will be moments when your magic is spent, or bound, or simply too slow, and in those moments what stands between you and the dark will be your two hands and whatever is in them. I would rather you learned that here, from teachers, than later, from an enemy." He turned his head toward the trees. "They are here, in any case. They have been here some while, watching you sit and talk instead of standing and working. They are too polite to say so. They are not too polite to think it loudly."
 
-———
+* * *
 
 She heard them before she saw them, though only just. It was not the sound of people moving through a wood; it was the absence of the small sounds the wood made on its own. The night insects to the right went quiet in a slow travelling hush, and a bird that had been complaining somewhere in the dark stopped complaining, and then there was a smell on the warm air she did not know, dry and faintly metallic, like sun-baked stone and old iron, and only then, last of all, the soft give of pine needles under weight.
 
@@ -38,15 +38,15 @@ Then Nargash barked a word, and one of the others stepped forward carrying a lon
 
 Four short spears lay on the cloth. They were beautiful, and she knew enough now to see how beautiful: the black wood of the hafts was carved its whole length with the same fine scrollwork that ran down her own focus, and the heads were a metal she half-recognized, dense and grey and patterned with fine waves through the steel, watered, layered. Damascus. She had read of it. The strongest and hardest metal there was, and the rarest, and the most difficult to work, so that a single Damascus blade was a thing a fighter might own once in a life and never twice.
 
-There were four of them, lying on the grass, for her. She crouched and lifted one, and the balance of it astonished her. It sat in her hand as though it had been weighed and made to her exact measure, the haft warm from the carrying, the watered grey head catching the moon. It did not feel like a thing she had been handed. It felt like a thing that had been waiting for her, which was the second object in a month to give her that feeling, and she did not much like what the pattern might mean.
+There were four of them, lying on the grass, for her. She crouched and lifted one, and the balance of it astonished her. It sat in her hand as though it had been weighed and made to her exact measure, the haft warm from the carrying, the watered grey head catching the moon. It did not feel like a thing she had been handed. It felt like a thing that had waited for her, which was the second object in a month to give her that feeling, and she did not much like what the pattern might mean.
 
-"I thank you," Viridia said, and meant it, and felt the size of the gift make her clumsy. "I—this is too much. I'm not skilled enough for weapons like these. I'd shame them."
+"I thank you," Viridia said, and the thanks was real, and the size of the gift made her clumsy with it. "This is too much. I'm not skilled enough for weapons like these. I'd shame them."
 
 Nargash laughed. It was a startling sound, harsh and loud and entirely delighted, ringing off the rock at the clearing's edge.
 
-"That is why we are here," he said. "Magic cannot do all things, dragon-friend. You must learn to fight with every tool you carry." He touched his own chest, where the white core spun. "Not only this. This—" he touched his temple, "—and these," and he held up his two long hands. "Take one up. We will see what you do not know, which is most of it, and then we will teach you. Go there." He pointed a few yards off, to the open center of the ring. "Stand. And do not be afraid of the spear. It is only afraid of you if you are afraid of it first."
+"That is why we are here," he said. "Magic cannot do all things, dragon-friend. You must learn to fight with every tool you carry." He touched his own chest, where the white core spun. "Not only this. This." He touched his temple. "And these," and he held up his two long hands. "Take one up. We will see what you do not know, which is most of it, and then we will teach you. Go there." He pointed a few yards off, to the open center of the ring. "Stand. And do not be afraid of the spear. It is only afraid of you if you are afraid of it first."
 
-———
+* * *
 
 She had read a book on the spear, in the library, on one of the long afternoons. She knew the names of the stances and a handful of the forms, the way a person who has read about swimming knows the names of the strokes. She found out within the first minute what that was worth.
 
@@ -56,13 +56,13 @@ There was no opening. She lunged left and stabbed right, a feint and a strike, e
 
 "Again," he said.
 
-She came again, and again, thrusting and recovering, trying the forms she knew in every order she could think of, and Venquar deflected all of it without seeming to move his feet, and then, between one breath and the next, he was no longer being patient. He struck like a thing made of wire and lightning. The spearhead opened a clean hot line down her right forearm before she saw it move, and as she flinched from that the butt of his haft cracked across her right thigh, and she stumbled back gasping with two wounds she had not felt coming, the pain arriving a half-second after the blood.
+She came again, and again, thrusting and recovering, trying the forms she knew in every order she could think of. Venquar deflected all of it without seeming to move his feet. And then, between one breath and the next, he stopped being patient. He struck like wire and lightning. The spearhead opened a clean hot line down her right forearm before she saw it move. She flinched. The butt of his haft cracked across her thigh. She stumbled back gasping, two wounds she had not felt coming, the pain arriving a half-second behind the blood.
 
 She had never been cut before. Not really. She stood there with her own blood running warm down her arm and her leg throbbing and her breath ragged, and she understood, in a way no book and no lesson could have taught her, that this was real, that the war Lor-ar kept naming would feel like this, that someone would one day try to do this to her in earnest and not stop at a line down the arm.
 
 And then, under the fear, something else got up off the floor of her and stood. She had spent her whole life folding things down small and holding them. She was good at holding. She wiped the blood out of the crook of her elbow with the heel of her hand, and set her feet, and went back at Venquar with the held thing burning steady behind her ribs.
 
-———
+* * *
 
 She still could not beat him. He was decades faster and a lifetime more practiced, and she knew it. But she stopped trying to win and started trying to *land one,* which was a smaller and more honest goal, and she watched him the way she watched everything, hunting the small wrong thing, the tell, the habit a body keeps without knowing it keeps it.
 
@@ -84,9 +84,9 @@ For the next hour they took her apart and built her back. They came at her one a
 
 It was the hardest hour of work she had ever done, harder than anything magic had asked of her, because magic at least lived inside her and answered to her, and this was her own slow stubborn body being asked to learn a new way of being in the world. They drilled the guard stance until her thighs shook holding it. They made her repeat a single block, the same block, fifty times, a hundred, until Nargash stopped barking corrections at it, which she came to understand was the highest praise the Dangris gave. They came at her two at once, slowly, and she learned the particular terror of having to watch two bodies at the same time and the particular small triumph of managing it, once, for three exchanges, before Venquar's haft tapped her ribs to tell her she had let him out of her sight.
 
-They gradually sped up. By the end of the hour she was reading the lunges before they came, not all of them, not most of them, but more than none, and the more-than-none felt like a door opening onto a room she had not known was there. She was clumsy and slow and would be for a long time. But she was no longer entirely blind, and the difference between blind and clumsy, she was learning, was the whole of the distance between dead and alive.
+They gradually sped up. By the end of the hour she was reading the lunges before they came, not all of them, not most of them, but more than none, and the more-than-none felt like a door opening onto a room she had never suspected was there. She was clumsy and slow and would be for a long time. But she was no longer entirely blind, and the difference between blind and clumsy, she was learning, was the whole of the distance between dead and alive.
 
-———
+* * *
 
 When the Dangris left, they did it the way they had come, all at once and almost soundlessly, melting back into the dark of the pines. Nargash paused at the tree line.
 
@@ -108,7 +108,7 @@ She set her hand over the cut on her arm, and called up the shape for healing, t
 
 "Damascus," Raizen said, watching the spears where they lay. "It's nearly the only metal that can cut me. My scales, I mean. They overlap, so it is not as bad for me as a cut is for you, but it can be done, with that. The Dangris prize it above everything they own. A single spear is a thing a warrior earns over years, a mark of standing in the tribe." He let it sit. "They gave you four. Do you understand what that means? They have honored you the way they would honor a war-leader of their own. They do not do that for cleverness, or for a dragon on your shoulder. They do it for the cut you took without complaint and the one you gave back."
 
-———
+* * *
 
 When she had healed herself and her hands had steadied, Lor-ar came and sat in front of her, and she knew from the set of him that the night's first lesson was not finished, only changed.
 
@@ -118,7 +118,7 @@ So she told him what she had, the things from Mr. Cote's dry books and the thing
 
 "And what other way," Lor-ar pressed. "If they cannot answer fire with fire."
 
-"Spirit's in everything," Viridia said slowly, thinking it through as she said it. "To a degree. In the ground, in the dark, in—in the dead. So they've learned to use that. To work on the properties of things. And stealth. The short shadow-walk, to move between cover where the light mages can't follow. They can't go far with it, only as far as they can see, into a shadow, but it makes them very hard to pin down." She frowned. "Their whole strength is that you can't find them and you can't predict them. And—" she hesitated, because it was the thing the light mages spoke of with real fear, "—if a dark mage is powerful enough, they can raise the dead. Not many. Not for long, mostly. But the strongest ones can."
+"Spirit's in everything," Viridia said slowly, thinking it through as she said it. "To a degree. In the ground, in the dark, in the dead. So they've learned to use that. To work on the properties of things. And stealth. The short shadow-walk, to move between cover where the light mages can't follow. They can't go far with it, only as far as they can see, into a shadow, but it makes them very hard to pin down." She frowned. "Their whole strength is that you can't find them and you can't predict them. And." She hesitated, because it was the thing the light mages spoke of with real fear. "If a dark mage is powerful enough, they can raise the dead. Not many. Not for long, mostly. But the strongest ones can."
 
 "Do you know how to kill a thing that has been raised?" Lor-ar asked. "Truly raised, and standing."
 
@@ -126,11 +126,11 @@ Viridia ran through everything she had read, and came up empty, and said so.
 
 "Pure life-fire, carried on spirit," Lor-ar said. "The light to fill the dead thing with life it cannot hold, and the spirit to draw it back across the veil after. One half will not do it. It needs both, which is why almost no one alive can do it, and why you should remember it, and tell no one that you can." He let her sit with that. "Now. The army uses life-fire freely. It is their favorite cruelty. Do you know its flaw?"
 
-"It's stronger than ordinary fire," Viridia said. "It drains you more to throw it, but it hits harder, it—" She stopped. Something turned over in her, the cataloguing part finding a shape it liked. "It stays connected. To the caster. Until the flame goes out. That's why it costs so much to throw. The mage is still feeding it the whole time it burns."
+"It's stronger than ordinary fire," Viridia said. "It drains you more to throw it, but it hits harder, it..." She stopped. Something turned over in her, the cataloguing part finding a shape it liked. "It stays connected. To the caster. Until the flame goes out. That's why it costs so much to throw. The mage is still feeding it the whole time it burns."
 
 "And what does that mean," Lor-ar said quietly, "for the mage, while the flame still burns?"
 
-"It means their core is open," Viridia said. The realization arrived cold and clean. "While they're holding the fire on me, there's a thread running back to them, all the way to their core. If I knew how to follow it—if I had something to send back down it—" She looked at him. "I could reach them. Through their own fire."
+"It means their core is open," Viridia said. The realization arrived cold and clean. "While they're holding the fire on me, there's a thread running back to them, all the way to their core. If I knew how to follow it, if I had something to send back down it..." She looked at him. "I could reach them. Through their own fire."
 
 "You could," Lor-ar agreed. "It is a thing the dark mages have always known and the light mages never trouble to learn, because they have never had to fear an enemy who could read the thread. You can read the thread. You can do a great many things they have never had to fear, little one, which is exactly why you must never, ever let them learn that you can, until the one moment when letting them learn it is the last thing they ever do." He held her gaze a beat longer than was comfortable. "File it. You will want it one day. I hope you will not, but you will."
 
@@ -140,7 +140,7 @@ Lor-ar drew the rest of it out of her the same way, question by question, where 
 
 "Good," he said at last. "Enough for one night. You are tired in your body and your mind both, and a tired student learns the wrong lessons." He rose. "Ride Raizen back. He is large enough now, and you have earned the easier road."
 
-She climbed onto Raizen, into the natural seat between the great prismatic scales, and he stood, and she did not feel the cold of the height because the bond kept it from her, and Lor-ar watched them lift and then turned and ran for the school below, a streak of storm-colored fur threading the dark. From Raizen's back the forest fell away beneath her, black and endless and, she knew now, full of more life than anyone had ever told her; and off to the west, low against the mountain, the small red glow of Varissa's fire burned where it always burned. Viridia ached in every limb, and her arm where the cut had been still tingled with the healing, and she was, she realized with mild surprise, happy.
+She climbed onto Raizen, into the natural seat between the great prismatic scales, and he stood, and she did not feel the cold of the height because the bond kept it from her, and Lor-ar watched them lift and then turned and ran for the school below, a streak of storm-colored fur threading the dark. From Raizen's back the forest fell away beneath her, black and endless and, she knew now, full of more life than anyone had ever told her; and off to the west, low against the mountain, the small red glow of Varissa's fire burned where it always burned. Farther still, past the fire, on the very rim of what the sight could reach, the land lay greyed and thinning, that same distant wrongness creeping a little nearer than it had the week before, near enough now that even Raizen felt her notice it and asked, down the bond, *What is that,* and she said *I don't know yet,* which was true, and *Lor-ar says it is getting closer,* which was truer, and they flew the rest of the way without speaking of it. Viridia ached in every limb, and her arm where the cut had been still tingled with the healing, and she was, she realized with mild surprise, happy.
 
 "It was fun," she admitted, into the wind, knowing he would hear it down the bond. "The fighting. God help me. It was actually fun."
 

@@ -1,5 +1,38 @@
 # Progress — The Hazel Years (adapted revision run)
 
+## EXTERNAL-REVIEW REVISION PASS (2026-06-20)
+Applied `feedback/external-review.md` across all 18 chapters in order. Committed per chapter on `main`.
+Final whole-book word count: **85,535 words** (chapter files) / 85,331 (assembled full-manuscript.md, headers stripped) — both >= 85,200 floor.
+Style gate: every chapter within ceilings (simile <= 3.9/1k, em-dash <= 9.1/1k, adverb < 20/1k, no tic/fingerprint CEILING flags); no distinctive NEW cross-chapter phrase introduced (n-gram count flat at ~baseline; +/- are dedup-shift artifacts from legitimate motif-variation, not new content). Planted refrains kept EXACT: "be careful who you let see you do it" (x8), "no one sees you do it" (x7). Canon verified (Pembrook, rose-tinted, Jazen not Jasen).
+
+GLOBAL fixes applied: trimmed reflective passages in Ch.1-7 + added compensating micro-active beats; removed the flagged tell-summary "she was proud of that, in the small cold way" (rendered as physical action) and similar; varied long flowing sentences for propulsion (esp. action/emotional beats Ch.11/16/17/18); varied grief/water motif phrasing; planted external-threat seeds via Viridia's mana-sight in Ch.12/13/15 (a distant "dimness/thinning of the land") so the late school->war turn is earned; sharpened the Ch.18 council back-and-forth.
+
+Per-chapter (before->after words):
+- Ch.1 (HIGH): condensed Aleric + post-gate introspection; added orientation-room rival glance; varied rhythm. 4926->4957.
+- Ch.2 (MED): replaced "small cold way" tell with action; grief via thumbnail-on-seam; tightened. 4530->4565.
+- Ch.3 (MED): added physical mana-sight consequence at focus-waking; broke the Sundering info-dump. 4440->4469.
+- Ch.4 (HIGH): broke dry history summary + wove personal reaction; tightened Lightwell. 4501->4528.
+- Ch.5 (HIGH): added magic-overdraw mishap (nosebleed) + Lor-ar threat-seed; trimmed introspection. 4540->4655.
+- Ch.6 (HIGH): trimmed heavy closing introspection; varied motif. 4520->4360.
+- Ch.7 (HIGH): added mana-sight overload mishap (cracked pitcher/frost); trimmed redundant closer. 4672->4719.
+- Ch.8 (MED): added secrecy-strain + physical-change beat at the lit window. 4729->4884.
+- Ch.9 (MED): tightened doubled "war is here" closer; added caught-staring secrecy beat. 4665->4752.
+- Ch.10 (MED): tightened/varied grief-makes-room reflection. 4682->4684.
+- Ch.11 (MED): varied rhythm in first Venquar combat exchange. 4609->4631.
+- Ch.12 (MED): added mana-sight external-threat seed (distant dimness). 5032->5178.
+- Ch.13 (MED): added mana-sight seed through the portal seam (greyed land). 4683->4806.
+- Ch.14 (MED): tightened/varied the "alone" closer. 5291->5292.
+- Ch.15 (MED): added mana-sight seed during night-flight (dimness crept nearer). 4838->4985.
+- Ch.16 (HIGH): deepened the captain's grey motivation ("I have girls of my own"; Harrow Field). 4991->5135.
+- Ch.17 (HIGH): varied rhythm (short declaratives) in the reaching-for-a-bond climax. 4840->4834.
+- Ch.18 (HIGH): sharpened council back-and-forth; varied rhythm in final accounting. 4626->4607.
+
+Deliverables refreshed: regenerated `manuscript/full-manuscript.md` (new `tools/assemble_manuscript.py`; 18 chapters, 89 normalized `* * *` scene breaks, title page) and rebuilt `delivery/production/Saeren-Chronicles-Book-One-6x9-interior.pdf`.
+
+Note on style_check: the n-gram report shows a large standing count (~1349) of repeated 4-6-word phrases; this is PRE-EXISTING baseline behavior (1347 before this pass) and includes allowlisted/deliberate motifs and generic function-word strings — the per-chapter CEILING checks (the real gates) are clean.
+
+---
+
 ## STATUS: BOOK ONE COMPLETE
 All 18 chapters finalized. Manuscript total **85,115 words** (>= 85,000 floor; restored above floor 2026-06-20). Continuity full-audit: 0 CRITICAL, 0 WARNING, 3 MINOR. 0 chapters escalated. This run finalized Ch.12-18.
 
@@ -81,3 +114,12 @@ Editorial package + production assembly complete (Book One delivery).
 **Proofread:** full read + targeted consistency search. Manuscript already clean — effectively zero copyedits needed. Canon spellings verified (Pembrook, Jazen [no "Jasen"], Lor-ar, Raizen, Isolde/Lightwell, rose-tinted). Sister "Jan" consistent (ch.15/17). High Chancellor unnamed on page — preserved (foundation's "Erik Meros" never appears in chapters; not invented into copy).
 
 **Not done (non-blocking):** EPUB/print binaries (no platform specified); front/back matter beyond title page (need publishing details). Author decisions still open (Alice's fate, unsigned-note author, Raizen's affinity, the family-tree name). Re-seed family-tree-name in Bk2 (its Ch.2 spellbook vehicle burned in Ch.16).
+
+## EM-DASH COPYEDIT PASS (2026-06-20)
+Focused punctuation pass enforcing author rule: AT MOST 4 em-dashes per chapter (gate: `tools/style_check.py --max-emdash 4`).
+
+- Edited chapters: 1,2,3,4,5,6,7,8,9,10,11,12,18 (the 13 over ceiling). Ch.13–17 already ≤4, untouched.
+- Recasts: parentheticals/appositives → commas; interrupted/trailing dialogue → period or ellipsis (used sparingly, varied); dramatic dashes → period/colon. Refrains kept exact ("be careful who you let see you do it", "no one sees you do it"). Canon unchanged. Scene breaks left as `* * *`.
+- Per-chapter em-dash before→after: ch1 20→2, ch2 13→0, ch3 28→0, ch4 16→0, ch5 17→1, ch6 8→0, ch7 19→0, ch8 11→1, ch9 7→0, ch10 13→0, ch11 10→0, ch12 5→0, ch18 9→1. (Residual 1–2 are intentional, under the 4 ceiling.)
+- style_check.py: NO EM-DASH/FINGERPRINT/TIC ceiling flags on any chapter. Two repeated-phrase flags my recasts briefly introduced were reworded away; net problems vs pre-pass baseline DROPPED by 2 (no new flags). (The script's "RESULT: N issue(s)" total is dominated by its pre-existing cross-chapter 4–6gram inventory, unrelated to this pass.)
+- Word count: 85,842 (chapters) — above the 85,200 floor. full-manuscript.md reassembled (assemble_manuscript.py) and 6x9 interior PDF rebuilt (build_pdf.py, delivery/production/, exit 0).

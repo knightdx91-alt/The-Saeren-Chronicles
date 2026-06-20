@@ -37,47 +37,7 @@ WORD = re.compile(r"[a-z']+", re.I)
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
-    "be careful who you let see you do it",
-    "no one sees you do it",
-    "let see you do it",
-    "you decide who sees",                  # tail of the planted refrain
-    "both sides of the gift",
-    "made for someone with both sides",     # canon: the focus/whole-gift line
-    "someone with both sides of",           # canon focus line, n-gram window
-    "with both sides of the gift",          # canon focus line, n-gram window
-    "dark blue stone", "dark-blue stone",
-    "the source of all magic",
-    "since the morning the world ended",    # recurring grief refrain (intentional)
-    "the morning the world ended",          # same refrain, shorter window
-    "morning the world ended she",          # same refrain, n-gram tail
-    "the detail that did not fit",          # Viridia's defining habit (through-line)
-    "the one detail that did not fit",      # same through-line, variant
-    "that did not fit the",                 # same through-line, n-gram window
-    "the detail that did not fit the words",# same through-line, longer window
-    "tree of names a thousand years deep",  # the family-tree motif
-    "one tooth turned a little out of line",# Alice's recurring descriptor
-    "anything that keeps you alive is worth doing",  # Raizen/Lor-ar mantra (callback)
-    "more life than anyone had ever told",  # mana-sight "world is alive" refrain
-    "anyone had ever told her",
-    "had ever told her and",                 # same refrain, n-gram window
-    "life than anyone had ever told her",    # same refrain, longer window
-    "empty space the size of alice",        # the Alice-shaped absence (deliberate motif)
-    "the empty space the size",             # same Alice-absence motif, n-gram window
-    "empty space the size",                 # same Alice-absence motif, short window
-    "no one sees you do it you decide who sees",  # the full planted refrain
-    "do it you decide who",                 # planted refrain, n-gram window
-    "you decide who sees",                  # tail of the planted refrain
-    "the source of all magic",
-    "oldest magic in the world",            # canon term for the source (deliberate)
-    "into the oldest magic in",             # same canon term, n-gram window
-    "the oldest magic in the world",        # same canon term, longer window
-    "a moment she would return",            # Ch14 spiral-structure refrain (deliberate)
-    "moment she would return to",           # same spiral refrain, window
-    "there is a moment she would return to",# same spiral refrain, full
-    "she did not cry",                      # canon guardrail: no one sees Viridia cry (deliberate motif)
-    "she did not cry she",                  # same motif, n-gram window
-    "three second years five third years",  # Ch16 headcount motif (the count that won't add to Alice)
-    "second years five third years",        # same headcount motif, window
+    # Add THIS book's deliberate recurring motifs / canon terms here.
 ]
 
 # n-gram repetition settings

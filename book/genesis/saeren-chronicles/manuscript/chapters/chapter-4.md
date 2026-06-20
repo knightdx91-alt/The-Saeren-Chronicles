@@ -12,15 +12,19 @@ At the front, behind a desk that groaned, sat a very large man in a brown tweed 
 
 And he sat, and the room sat, and for the better part of an hour there was nothing but the rustle of pages and the occasional ruinous sneeze.
 
-The reading was dry and Viridia drank it anyway. The first chapters laid out the thing Mrs. Zoran had told her sideways an hour before, only flattened into dates and consequences: how the light mages had risen, six hundred years gone, into the seats of the central government; how the dark mages had been pushed first to the edges of power and then off them entirely; how, further back, in an age the text called *the Sundering Wars* and treated with the brisk discomfort of a family discussing a hanged uncle, there had been a long campaign to put the dark lines to the sword. The text did not call it a crusade. The text called it *consolidation.* Viridia underlined the word with her eye and did not underline it on the page.
+The reading was dry and Viridia drank it anyway. The first chapters laid out the thing Mrs. Zoran had told her sideways an hour before, only flattened into dates. The light mages had risen, six hundred years gone, into the seats of government. The dark mages had been pushed first to the edges of power and then off them. And further back, in an age the text called *the Sundering Wars* and handled with the brisk discomfort of a family discussing a hanged uncle, there had been a long campaign to put the dark lines to the sword.
+
+The text did not call it a crusade. The text called it *consolidation.*
+
+Viridia's pencil stopped. She thought of a beekeeper who could not bring himself to swat a wasp, and of what *consolidation* would have meant for him. She underlined the word with her eye and did not underline it on the page.
 
 She took notes: the years of the wars, the trade laws that had followed, the slow squeeze that had turned the dark-born and then the gift-less into people who got the work nobody else wanted. And once, near the end of the second chapter, in a paragraph plainly included so it could be dismissed, she read a thing that stopped her pencil.
 
-*Certain of the old texts make reference to creatures said to issue from beyond the veil — the so-called Horrors of antiquity, which drained the life from any they touched. No reliable account survives, and the modern scholar may safely regard these as the embroidery of a frightened age.*
+*Certain of the old texts make reference to creatures said to issue from beyond the veil, the so-called Horrors of antiquity, which drained the life from any they touched. No reliable account survives, and the modern scholar may safely regard these as the embroidery of a frightened age.*
 
-The embroidery of a frightened age. She read it twice. She did not know why it caught in her, only that it had the same wrongness as a name with no dates, a thing the page wanted her to walk past, and so she stopped at it on principle. She copied the sentence into her notes, *creatures from beyond the veil — dismissed,* and then felt foolish, and then left it where it was.
+The embroidery of a frightened age. She read it twice. She did not know why it caught in her, only that it had the same wrongness as a name with no dates, a thing the page wanted her to walk past, and so she stopped at it on principle. She copied the sentence into her notes, *creatures from beyond the veil, dismissed,* and then felt foolish, and then left it where it was.
 
-There was a small engraving beneath the paragraph, the sort of thing a printer used to fill a half-empty page, a woodcut, old and crude, of a figure with too many limbs reaching out of a black doorway toward a fleeing man, and beneath it a caption in the curling type the book reserved for things it found quaint: *A peasant's rendering of the Horror, after a chapbook of the lower provinces.* The man in the woodcut had dropped his lantern. The artist had taken care, across all those centuries, to show the lantern falling, the little scratched lines of its light going sideways as it fell, and Viridia looked at that detail, the dropped lantern, the spilled light, longer than the page deserved, and could not have said why a frightened age's embroidery should feel, in the dim dusty cellar of the History room, quite so much like a warning somebody had tried to fold up small enough to forget.
+Beneath the paragraph sat a small crude woodcut: a figure with too many limbs reaching out of a black doorway toward a fleeing man, captioned, in the curling type the book reserved for things it found quaint, *A peasant's rendering of the Horror.* The man in the woodcut had dropped his lantern, and the artist had taken care, across all those centuries, to show it falling, the little scratched lines of its light going sideways. Viridia looked at that detail, the dropped lantern, the spilled light, longer than the page deserved, and could not have said why a frightened age's embroidery should feel, in the dim cellar of the History room, quite so much like a warning somebody had folded up small enough to forget.
 
 She turned the page. The next chapter was about grain tariffs. She was almost grateful.
 
@@ -48,7 +52,7 @@ She got up before she could lose her nerve and laid the paper face-down on Mr. C
 
 "I'll see you in a few," she told Alice on the way past, and Alice, halfway through her own essay with her tongue between her teeth, lifted her pencil in salute without looking up.
 
-———
+* * *
 
 The dining hall at the wrong hour was a sleepy, half-lit place, the long tables mostly empty, the lamps not yet lit for the meal.
 
@@ -72,9 +76,9 @@ Amber's mouth did something complicated. "No," she agreed. "It isn't." She didn'
 
 "Yeah," Amber said, looking at her a beat too long. "I noticed. Come on."
 
-She pulled Viridia up, and over the noise of standing called down the hall, "Kari — tell Alice I've stolen her roommate for lunch, would you," and a girl down the table waved a hand without breaking her conversation, and then they were through the door behind the staff table and into the parts of the school the brochure did not photograph.
+She pulled Viridia up, and over the noise of standing called down the hall, "Kari, tell Alice I've stolen her roommate for lunch, would you," and a girl down the table waved a hand without breaking her conversation, and then they were through the door behind the staff table and into the parts of the school the brochure did not photograph.
 
-———
+* * *
 
 Lady Lightwell's office sat at the top of a narrow stone stair, behind a door that did not match anything else in the building.
 
@@ -90,7 +94,7 @@ Lady Lightwell looked up over her rose-tinted lenses, set down the paper she'd b
 
 The Headmistress's eyes moved to Viridia. They went, for the briefest instant, to the dark-blue stone at her throat, and Viridia felt it, the small specific weight of being looked at *there,* the same flick of attention Amber had given the stone at the door three days ago. Then it passed. "And what is it you'd ask for, Miss Summers?"
 
-"Two things." Amber took the folded list from Viridia's hand. "First — I'd like her excused from History and put into Mrs. Zoran's Theory and Application instead. She's not for an archivist's desk, ma'am, and I can't see what else Cote's class buys a girl like her."
+"Two things." Amber took the folded list from Viridia's hand. "First, I'd like her excused from History and put into Mrs. Zoran's Theory and Application instead. She's not for an archivist's desk, ma'am, and I can't see what else Cote's class buys a girl like her."
 
 "Substituting a core subject is rarely done. Even with a sponsor."
 
@@ -106,7 +110,7 @@ Something shifted in the room. Lady Lightwell set down her pen. She picked her s
 
 "Then ask. But ask knowing it."
 
-Amber breathed out. "I'd like permission to teach Viridia to summon and bond a creature myself, rather than putting her through a semester of the taming class. And—" her voice held, barely — "I'd like her placed in your Magical Warfare course."
+Amber breathed out. "I'd like permission to teach Viridia to summon and bond a creature myself, rather than putting her through a semester of the taming class. And." Her voice held, barely. "I'd like her placed in your Magical Warfare course."
 
 The spectacles went still in Lady Lightwell's hand.
 
@@ -114,13 +118,13 @@ The spectacles went still in Lady Lightwell's hand.
 
 "No, ma'am. I put it on her copy myself."
 
-"You—" For the first time the composure cracked, just along one edge, and what came through it was not quite anger and worse than anger: it was alarm, quickly mastered. "I teach that course to fourth-years. To a chosen few of them. *Why,* Miss Summers, would you put it in front of a girl who has been in this building for three days?"
+"You." For the first time the composure cracked, just along one edge, and what came through it was not quite anger and worse than anger: it was alarm, quickly mastered. "I teach that course to fourth-years. To a chosen few of them. *Why,* Miss Summers, would you put it in front of a girl who has been in this building for three days?"
 
-"Because she needs it." Amber did not look away. She had gone a little pale but she did not look away, and Viridia, standing quiet behind her as instructed, felt something move in her chest that she had no name for and would later understand was the beginning of loyalty. "She's got no one, ma'am. No family, no money behind her, no soft place to land if this all goes wrong. The other girls have people. She has herself. And I'd rather she be able to *rely* on herself than be pleasant and helpless and at the mercy of whoever's in the room." She swallowed. "I know what it costs me. I'm spending it. On purpose. On her."
+"Because she needs it." Amber did not look away. She had gone a little pale but she did not look away, and Viridia, standing quiet behind her as instructed, felt something move in her chest that she could not yet name and would later understand was the beginning of loyalty. "She's got no one, ma'am. No family, no money behind her, no soft place to land if this all goes wrong. The other girls have people. She has herself. And I'd rather she be able to *rely* on herself than be pleasant and helpless and at the mercy of whoever's in the room." She swallowed. "I know what it costs me. I'm spending it. On purpose. On her."
 
 For a moment Lady Lightwell said nothing, and the nothing was worse than shouting would have been. She rose from her chair and went to the window, where a sliver of afternoon got through the blind, and stood with her back to them, and when she spoke it was to the glass.
 
-"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How many people would close it tomorrow if I gave them a reason? How small a reason it would take?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you walk in here and ask me to put a three-day first-year into the one course in this school I would least like to have to explain. You don't know what you're asking, Miss Summers. You think you do. You don't."
+"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How small a reason it would take to close it?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you ask me to put a three-day first-year into the one course in this school I would least like to explain. You think you know what you're asking. You don't."
 
 "Then tell me," Amber said. Quiet. Brave. Too brave, maybe. "Tell me what I'm asking."
 
@@ -134,9 +138,9 @@ Lady Lightwell looked at Viridia for a long, weighing moment, not at the stone t
 
 "Yes, ma'am." Amber dipped her head. "I expected as much."
 
-"I'm sure you did." Lady Lightwell had, briefly, the face of a woman who had watched something she valued spent on her behalf and could not decide whether to be grateful or furious. "I'll send for her when the warfare lessons are to begin. For the summoning, see Ms. Locke for the supplies — tell her you have my word on it." She put her spectacles back on, and behind the rose-tinted lenses she became the Headmistress again, complete and closed. "Now go, both of you. I've a school to run, and you've a great deal of luck to not waste."
+"I'm sure you did." Lady Lightwell had, briefly, the face of a woman who had watched something she valued spent on her behalf and could not decide whether to be grateful or furious. "I'll send for her when the warfare lessons are to begin. For the summoning, see Ms. Locke for the supplies. Tell her you have my word on it." She put her spectacles back on, and behind the rose-tinted lenses she became the Headmistress again, complete and closed. "Now go, both of you. I've a school to run, and you've a great deal of luck to not waste."
 
-———
+* * *
 
 They did not speak until they were down the stone stair and around the corner, out of the reach of the steel-banded door.
 
@@ -144,7 +148,7 @@ Then Viridia put a hand on Amber's arm and stopped her.
 
 "I don't understand what just happened in there," she said. "She said it would cost you. You went pale. You spent something you can't get back and you spent it on a girl you met three days ago." She held Amber's eyes the way she rarely held anyone's. "Why would you do that? You don't know me."
 
-Amber leaned back against the cold stone wall. The lounge was gone; she looked, for a moment, exactly her age and no older, a girl of seventeen who had just done a frightening thing and was waiting for her own heart to slow. "Certain of us fourth-years," she said carefully, "get sent on — jobs. Now and then. The ones willing to go get a few privileges out of it. And one favor. One thing, anything within her power, asked once." She studied a chip in her nail polish with great attention. "That's what I spent. That's what it cost."
+Amber leaned back against the cold stone wall. The lounge was gone; she looked, for a moment, exactly her age and no older, a girl of seventeen who had just done a frightening thing and was waiting for her own heart to slow. "Certain of us fourth-years," she said carefully, "get sent on jobs. Now and then. The ones willing to go get a few privileges out of it. And one favor. One thing, anything within her power, asked once." She studied a chip in her nail polish with great attention. "That's what I spent. That's what it cost."
 
 "That's not what I asked." Viridia kept her voice gentle, but she did not let go of the question. "I asked why *me.*"
 
@@ -154,19 +158,19 @@ It was a deflection and they both knew it was a deflection, and Viridia let it g
 
 She was beginning, she realized, to have rather a lot of things put away.
 
-———
+* * *
 
 Alice found them at the foot of the creature-class corridor, breathless, her bookbag half off one shoulder and a smear of pencil-lead along her jaw where she'd been resting her chin on her hand.
 
-"There you are. Kari said you'd been *kidnapped,* she said it just like that, she enjoyed it far too much—" Alice pulled up, took in Amber, took in the corridor, took in whatever was still hanging in the air around the two of them. "Why do you both look like you've seen a ghost?"
+"There you are. Kari said you'd been *kidnapped,* she said it just like that, she enjoyed it far too much." Alice pulled up, took in Amber, took in the corridor, took in whatever was still hanging in the air around the two of them. "Why do you both look like you've seen a ghost?"
 
 "We've been to the Headmistress," Viridia said.
 
 "On *purpose?*" Alice's eyes went round. "What did you do?"
 
-"Nothing yet," Amber said, recovering her grin. "Give her time." She glanced at Alice properly then, the weighing look, but a kinder version of it than the fourth-years gave at the door. "You're the roommate. Pembrook." It wasn't quite a question. "Listen — don't take it to heart that nobody's spoken to you yet about sponsoring. It's early. Keep your head up and do the work and someone'll notice. Someone who's right for you." She said it offhand, but not carelessly, and Viridia understood that Amber was steering, that she had someone in mind already, or a kind of someone, and would no more say so outright than she'd answer *why me.*
+"Nothing yet," Amber said, recovering her grin. "Give her time." She glanced at Alice properly then, the weighing look, but a kinder version of it than the fourth-years gave at the door. "You're the roommate. Pembrook." It wasn't quite a question. "Listen. Don't take it to heart that nobody's spoken to you yet about sponsoring. It's early. Keep your head up and do the work and someone'll notice. Someone who's right for you." She said it offhand, but not carelessly, and Viridia understood that Amber was steering, that she had someone in mind already, or a kind of someone, and would no more say so outright than she'd answer *why me.*
 
-Alice flushed, pleased and embarrassed at once. "Oh — thanks. I wasn't — I mean I was a bit—" She gave up on the sentence and grinned. "Thanks."
+Alice flushed, pleased and embarrassed at once. "Oh. Thanks. I wasn't, I mean I was a bit." She gave up on the sentence and grinned. "Thanks."
 
 "What did Cote set you in the end?" Viridia asked her, partly to spare her, partly because she wanted to know.
 
@@ -174,10 +178,10 @@ Alice flushed, pleased and embarrassed at once. "Oh — thanks. I wasn't — I m
 
 Something went still and careful in Viridia. "What did you put?"
 
-"For whether the light mages were right to—" Alice dropped her voice without seeming to decide to, the way you do near a thing that might be dangerous to say loudly. "I said no. I said it was wrong." She picked at the strap of her bag. "I sat there ages. I kept thinking, this is the sort of question where there's an answer they *want,* you know? You can feel it. And I nearly wrote that one. But then I thought about the Dunmores, back home, dark family, three floors down, they kept to themselves and the dad mended everyone's boots for next to nothing and one winter when my nan was poorly Mrs. Dunmore brought broth up every day for a week and never once said a word about it." Alice shrugged, and the shrug was not light. "And I thought, you'd have killed *her?* For what she *might* do? So I wrote no." She looked suddenly anxious. "Was that stupid? Have I gone and failed my first history quiz being self-righteous?"
+"For whether the light mages were right to." Alice dropped her voice without seeming to decide to, the way you do near a thing that might be dangerous to say loudly. "I said no. I said it was wrong." She picked at the strap of her bag. "I sat there ages. I kept thinking, this is the sort of question where there's an answer they *want,* you know? You can feel it. And I nearly wrote that one. But then I thought about the Dunmores, back home, dark family, three floors down, they kept to themselves and the dad mended everyone's boots for next to nothing and one winter when my nan was poorly Mrs. Dunmore brought broth up every day for a week and never once said a word about it." Alice shrugged, and the shrug was not light. "And I thought, you'd have killed *her?* For what she *might* do? So I wrote no." She looked suddenly anxious. "Was that stupid? Have I gone and failed my first history quiz being self-righteous?"
 
-For a moment Viridia could not speak at all, which had nothing to do with grief.
+For a moment Viridia could not speak at all, and for once grief was not the reason.
 
 "No," she said, when she had it. "You haven't been stupid." She did not say *I wrote the same.* She did not say *you have no idea how much I needed to hear that someone else looked at that question and could not write the safe thing either.* She filed it instead, the broth and the boot-mender and the way Alice had said *you'd have killed her?*, filed it with the things she was keeping, except that this one she kept warm, near the front, where she could find it. "It wasn't stupid," she said again. "It was right. They're not always the same thing here. You should know that. But this time they were."
 
-Amber had been watching the two of them with an odd expression, half amused and half something else, something almost wistful. "God," she said, mostly to herself. "First-years." But she said it the way you say a thing you're fonder of than you'll admit, and she clapped her hands once and broke the moment open before it could get too large. "Right. Pembrook, off you go, this next part's just for the kidnapped. Viridia — with me. Time to go and ring the dinner bell for the whole forest and see what comes."
+Amber had been watching the two of them with an odd expression, half amused and half something else, something almost wistful. "God," she said, mostly to herself. "First-years." But she said it the way you say a thing you're fonder of than you'll admit, and she clapped her hands once and broke the moment open before it could get too large. "Right. Pembrook, off you go, this next part's just for the kidnapped. Viridia, with me. Time to go and ring the dinner bell for the whole forest and see what comes."

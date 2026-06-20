@@ -2,7 +2,7 @@ THE SAEREN CHRONICLES
 
 Book One: The Hazel Years
 
-Working Manuscript — Updated 2026-05-29 (Session 1)
+Working Manuscript. Updated 2026-05-29 (Session 1)
 
 ================================================
 STATUS NOTE
@@ -11,8 +11,8 @@ STATUS NOTE
 This dated manuscript contains the revised, session-written chapters. As of Session 1, Chapter 1 has been fully drafted to the roadmap (six scenes, ~4,740 words). Chapters 2–18 remain in "The Saeren Chronicle — Original Draft" pending revision and should be read from there until revised here.
 
 ================================================
-CHAPTER ONE — THE PATH TO HAZEL
-(Session 1 — ~4,740 words)
+CHAPTER ONE: THE PATH TO HAZEL
+(Session 1, ~4,740 words)
 ================================================
 
 The last ordinary morning of Viridia's life smelled like scorched bread and her mother's tea.
@@ -39,11 +39,11 @@ Viridia had thought it was an ordinary thing to say.
 
 She thought about it for the rest of her life.
 
-———
+* * *
 
 Viridia stared up at the building that was meant to be her home for the next four years.
 
-The Hazel Preparatory School sat behind a high iron gate and a run of hedges trimmed so precisely they looked less grown than manufactured. The brochure her father had been so proud of called it an impressive institution, founded in 1735 by Hazel Greenwich, and it was impressive, in the way of things that are designed to make you feel small before they have spoken a single word to you. Grey stone the color of a held breath. Tall windows that gave nothing back but a flat shine of morning light. Somewhere beyond the gate a bird sang two notes and stopped.
+The Hazel Preparatory School sat behind a high iron gate and a run of hedges trimmed so precisely they looked less grown than manufactured. The brochure her father had been so proud of called it an impressive institution, founded in 1735 by Hazel Greenwich, and it was impressive, in the way of things that are designed to make you feel small before they have spoken a single word to you. Grey stone the flat colorless grey of a sky that has not decided whether to rain. Tall windows that gave nothing back but a flat shine of morning light. Somewhere beyond the gate a bird sang two notes and stopped.
 
 She had been excited, once. Three days ago, a lifetime ago, she had torn open the letter with the Hazel sigil pressed into the wax and felt something lift in her chest for the first time in weeks.
 
@@ -55,15 +55,15 @@ She was not a large girl: slight of build, fine-boned, the sort that made grown-
 
 Beside her, Aleric Porter had not stopped talking since the motorcar.
 
-"You'll do well here, I'm sure of it," he was saying, hands clasped behind his back, rocking slightly on his heels as he surveyed the school like a landlord pleased with a property he had personally arranged to exist. "They've trained the top light mages in this country since the doors opened. The very top. The fact that they selected you — well. That's an honor, Viridia. A genuine honor."
+"You'll do well here, I'm sure of it," he was saying, hands clasped behind his back, rocking slightly on his heels as he surveyed the school like a landlord pleased with a property he had personally arranged to exist. "They've trained the top light mages in this country since the doors opened. The very top. The fact that they selected you. Well. That's an honor, Viridia. A genuine honor."
 
 "Yes," Viridia said.
 
-"Four years here, then on to a proper specialty school. Healing, of course, that's the prestigious route. But there's intelligence work, there's therapy, there's the building disciplines — why, I couldn't even tell you all the schools there are." He frowned faintly, surprised by the limits of his own knowledge. "A great many doors are about to open for you. That's the thing to hold on to."
+"Four years here, then on to a proper specialty school. Healing's the prestigious route, of course. But there's intelligence work, therapy, the building disciplines. A great many doors are about to open for you. That's the thing to hold on to."
 
-A great many doors. Viridia thought of a door that had closed three days ago and would not open again no matter how she stood in front of it. She did not say this. She had learned very quickly that grief made other people uncomfortable, and that the kind thing, the easy thing, was to keep it where they could not see it. So she kept it. She kept all of it, folded down small and quiet behind her ribs, in the place she imagined her mother had kept whatever it was she had never said out loud.
+A great many doors. Viridia thought of one that had closed three days ago and would not open again no matter how she stood in front of it. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it. So she kept it, packed down quiet behind her ribs, in the place she imagined her mother had kept whatever it was she had never said out loud.
 
-"I know it's a great deal of change," Aleric went on, and for one moment his voice dropped out of its bright register into something gentler, almost careful. He glanced down at her. "Especially with — with everything that's happened. But it really is for the best. You believe me, don't you?"
+"I know it's a great deal of change," Aleric went on, and for one moment his voice dropped out of its bright register into something gentler, almost careful. He glanced down at her. "Especially with everything that's happened. But it really is for the best. You believe me, don't you?"
 
 He wanted her to. She could see that he wanted her to, the way a man wants reassurance that the heavy thing he has carried was worth carrying.
 
@@ -73,7 +73,7 @@ It did not work. Her face had forgotten the shape of it. What she produced was c
 
 Behind them, the iron gate swung shut on its own weight, the sound of it a held note finally let go.
 
-———
+* * *
 
 Aleric knocked twice, briskly, then stepped back and settled both hands on Viridia's shoulders, lightly, but with a certain readiness, half expecting her to bolt the moment the door opened and wanting to be in position to stop her.
 
@@ -83,13 +83,13 @@ She was older than Viridia but not by much, seventeen, eighteen perhaps, a fourt
 
 "Can I help you?" she said, her gaze moving past Aleric to settle on Viridia with frank curiosity.
 
-Aleric cleared his throat. "Ahem — yes. My name is Aleric Porter, and I'm escorting young Miss Viridia Saeren." He produced the acceptance letter from inside his coat with his free hand, keeping the other firmly in place, and held it out. "She is expected, I believe."
+Aleric cleared his throat. "Ahem. Yes. My name is Aleric Porter, and I'm escorting young Miss Viridia Saeren." He produced the acceptance letter from inside his coat with his free hand, keeping the other firmly in place, and held it out. "She is expected, I believe."
 
 The young woman took the letter and scanned it, and Viridia watched something shift in her face, a small recalibration, quick and contained, gone almost before she had seen it. Her eyes lifted from the page back to Viridia, and this time they did not go to her face. They went, for the space of a single heartbeat, to the dark-blue stone at her throat.
 
 Then she smiled, and whatever it had been smoothed itself away.
 
-"I see. Well, Viridia — my name's Amber Summers. I'm a fourth-year here." She stepped back and held the door wide. "Come in, both of you. Most everyone's arrived already. We're only waiting on two more."
+"I see. Well, Viridia. My name's Amber Summers. I'm a fourth-year here." She stepped back and held the door wide. "Come in, both of you. Most everyone's arrived already. We're only waiting on two more."
 
 Not last, then. It was a small thing, and Viridia despised that it mattered to her, but it loosened something all the same. She stepped over the threshold. Behind her the heavy door drew shut, and Aleric's hands left her shoulders at last, and she had the disorienting sense of having been handed off, of passing out of one set of careful hands into another.
 
@@ -99,7 +99,7 @@ She slowed without meaning to.
 
 Amber noticed. Of course she did; Viridia would learn, in time, that Amber noticed almost everything and simply chose what to do about it.
 
-"That one's a Verrane," she said, nodding at a dim seascape where a single ship leaned against a wall of grey weather. "He taught here, supposedly, generations back. And that one—" a tall portrait of a stern woman with a hawk on her wrist "—nobody's quite sure who painted it, or who she even was. One of the early headmistresses, supposedly. The hawk's the giveaway, apparently. I never understood why." She said it lightly, walking backward now to keep facing them, easy and unhurried. "They like their history here. You'll get used to it. Half the building's a museum and the other half's a classroom and sometimes it's hard to tell which is which."
+"That one's a Verrane," she said, nodding at a dim seascape where a single ship leaned against a wall of grey weather. "He taught here, supposedly, generations back. And that one there." She nodded at a tall portrait of a stern woman with a hawk on her wrist. "Nobody's quite sure who painted it, or who she even was. One of the early headmistresses, supposedly. The hawk's the giveaway, apparently. I never understood why." She said it lightly, walking backward now to keep facing them, easy and unhurried. "They like their history here. You'll get used to it. Half the building's a museum and the other half's a classroom and sometimes it's hard to tell which is which."
 
 Viridia looked at the woman with the hawk a moment longer. There was something about being told a thing's name that helped. The world seemed slightly less likely to come apart if its pieces could be labelled. She filed Verrane and the hawk away without deciding to, the way she filed most things, and walked on.
 
@@ -113,11 +113,11 @@ It was not phrased as a question, but Viridia understood that it was one, asked 
 
 Amber's mouth tipped, not quite a smile. "Right," she said, and led them in.
 
-———
+* * *
 
 The room was built to make an impression, and it succeeded.
 
-It was long and high-ceilinged, the kind of space that had clearly once been something grander than a classroom, a hall, perhaps, or a chapel, before someone had filled it with rows of chairs and a purpose. Light came down through a bank of arched windows along the eastern wall, falling in long pale columns across the floor, so that the air itself seemed to have weight where the dust turned slowly inside it. The walls were panelled in dark wood polished to a low shine. High above, the ceiling had been painted, ages ago, with a faded scene Viridia could not quite make out from below: figures with their arms raised, and above them something bright that might have been the sun or might have been a fire. The colors had dimmed to the soft browns and golds of an old bruise. No one else was looking up at it. She made herself stop.
+It was long and high-ceilinged, the kind of space that had clearly once been something grander than a classroom, a hall, perhaps, or a chapel, before someone had filled it with rows of chairs and a purpose. Light came down through a bank of arched windows along the eastern wall in long pale columns. High above, the ceiling had been painted, ages ago, with a faded scene Viridia could not quite make out from below: figures with their arms raised, and above them something bright that might have been the sun or might have been a fire. No one else was looking up at it. She made herself stop.
 
 Fifty chairs had been arranged in neat ranks facing a raised platform at the far end, and on the platform stood a single large desk of the same dark wood as the walls. The arrangement was deliberate in a way Viridia felt before she understood it: the newest arrivals seated closest, directly beneath the platform, where every word from the desk would reach them and where they in turn could be seen, all of them, all at once. A room designed so that the front row had nowhere to hide.
 
@@ -125,7 +125,9 @@ The front rows were already half full, and they were loud.
 
 Not loud in any rude way. It was the bright, overlapping chatter of girls who already knew one another, who had met at this gathering or that one, whose mothers were acquainted, who had been writing letters all summer and now fell on each other with the relief of finally being in the same room. They leaned across the aisles. They compared the trim on their uniforms and the charms on their bracelets. One girl was demonstrating something with her hands, a small flourish, and three others were laughing. They had the easy gravity of a thing already formed, a group with edges, and Viridia, standing in the doorway, was very plainly on the outside of those edges.
 
-She was good at this part, at least. The watching. She had always been good at standing slightly apart and taking the measure of a room, and grief had only sharpened it, had stripped away whatever part of her used to want to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
+She was good at this part, at least. The watching. She had always been good at standing slightly apart and taking the measure of a room, and grief had only sharpened it, had stripped away whatever part of her used to want to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
+
+A tall girl with copper hair turned in her seat and picked Viridia out where she stood. Her eyes did the quick sum strangers do, the loose hair, the slight build, the plainness of her, and landed last on the dark-blue stone at Viridia's throat. They stayed there a moment too long. Then the girl leaned to her neighbor and said something behind two fingers, and both of them looked, and looked away, and laughed. It was nothing. Viridia filed it anyway. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
 
 Up on the platform, behind the desk, a woman sat reading through a stack of papers and did not look up.
 
@@ -137,7 +139,7 @@ Her shoes were blue. Bright, plain, slightly scuffed blue, the blue of a thing c
 
 Viridia did not know why she found that reassuring. She only knew that she did.
 
-Beside her, Amber leaned in, her voice dropped low. "That's Lady Lightwell. The Headmistress. She takes orientation herself every year — likes to see the new ones with her own eyes." There was something under the words Viridia couldn't read, some private weather, and then it passed. Amber tipped her head toward the front rows. "Take a seat up there. She has it set up so all the new arrivals are sure to hear everything."
+Beside her, Amber leaned in, her voice dropped low. "That's Lady Lightwell. The Headmistress. She takes orientation herself every year. Likes to see the new ones with her own eyes." There was something under the words Viridia couldn't read, some private weather, and then it passed. Amber tipped her head toward the front rows. "Take a seat up there. She has it set up so all the new arrivals are sure to hear everything."
 
 Viridia looked at the bright crowded rows and felt her stomach tighten. "Where will you be?"
 
@@ -155,7 +157,7 @@ At the desk, Lady Lightwell squared her stack of papers against the wood with tw
 
 Then the moment let go. The Headmistress clasped her hands, and the bright chatter began, all on its own, to fall away.
 
-———
+* * *
 
 "Hi."
 
@@ -173,7 +175,7 @@ She was smiling. It was a wide, open, helplessly friendly smile that showed teet
 
 Viridia did not know what to say to that, so she said the first true thing that came to her. "I like your uniform."
 
-It was a small thing, almost nothing, but Alice's whole face lit with sudden pleasure. She smoothed the skirt down over her knees with both hands, a quick proud gesture. "Do you really? I keep thinking it's going to turn out to be a mistake, that someone's going to come and tell me there's been a mix-up." She laughed, soft, so as not to carry. "Nobody in my family's ever — I mean, I'm the first. The first one of us who could do any of it. So all this still feels a bit like I borrowed it." She tucked her hair behind her ear, and there was, for just a second under the brightness, something carefully managed, a self-consciousness she was choosing to wave off rather than let sit. "Is your family — were they all mages? You look like you belong here. You've got that look."
+It was a small thing, almost nothing, but Alice's whole face lit with sudden pleasure. She smoothed the skirt down over her knees with both hands, a quick proud gesture. "Do you really? I keep thinking it's going to turn out to be a mistake, that someone's going to come and tell me there's been a mix-up." She laughed, soft, so as not to carry. "Nobody in my family's ever. I mean, I'm the first. The first one of us who could do any of it. So all this still feels a bit like I borrowed it." She tucked her hair behind her ear, and there was, for just a second under the brightness, something carefully managed, a self-consciousness she was choosing to wave off rather than let sit. "Is your family, were they all mages? You look like you belong here. You've got that look."
 
 What look, Viridia almost asked, because she felt the opposite of belonging, felt like a wrong note in the room. But before she could answer, a clear voice cut across the hall from the platform, and the last threads of conversation died at once.
 
@@ -187,27 +189,27 @@ Beside her, Viridia felt Alice go very still.
 
 "You have not," Lady Lightwell said. "You were chosen. Every one of you. Remember that, in the months to come, on the days when it does not feel true."
 
-It was a kind thing to say. It was meant kindly; Viridia could hear that it was. And yet there was something underneath it she could not quite name, some second meaning tucked beneath the careful words the way her mother used to bury meanings in ordinary advice — be careful who you let see you do it — so that the surface was warm and the thing beneath it was watchful. You were chosen. Said one way it was reassurance. Said another way it meant you were selected, and assessed, and we know exactly why you are here.
+It was a kind thing to say. It was meant kindly; Viridia could hear that it was. And yet there was something underneath it she could not quite name, some second meaning tucked beneath the careful words the way her mother used to bury meanings in ordinary advice, be careful who you let see you do it, so that the surface was warm and the thing beneath it was watchful. You were chosen. Said one way it was reassurance. Said another way it meant you were selected, and assessed, and we know exactly why you are here.
 
-The Headmistress went on: the daily schedule, the rules of the grounds, the four years here before they would move on to schools of their specialty, the names of the teachers Viridia would meet in the coming days. It washed over her in a low even tide. She caught pieces of it and let the rest go. She was tired in a way that had nothing to do with sleep, the specific bone-deep tiredness of holding a great deal of weight very still for a very long time, and the warm bright room and the level voice made it hard to keep her edges from blurring.
+The Headmistress went on: the daily schedule, the rules of the grounds, the four years here before they moved on to schools of their specialty. It washed over Viridia in a low even tide. She caught pieces and let the rest go. She was tired in a way sleep did not touch, the bone-deep tiredness of holding a great deal of weight very still for days on end, and the bright hall and the level voice made it hard to keep her edges from blurring.
 
 Twice, Alice nudged her gently with an elbow, once at something funny Lady Lightwell said about the kitchens, and once, more quietly, when the Headmistress mentioned that students who had lost family were always welcome to speak with the staff. The second nudge was softer than the first. It was not a did you hear that nudge. It was a small wordless I'm here nudge, offered and then withdrawn, and Viridia understood that somehow, without being told, Alice had read something in her in the last five minutes that the rest of the room had not.
 
 She did not look over. She could not, just then. But she let her arm stay where it was, a hair closer to Alice's than it needed to be, and Alice did not move away either, and the two of them sat like that, not speaking, while the Headmistress told them all the things they were now permitted and forbidden to do.
 
-When at last Lady Lightwell drew her hands together and said, "That is all. Welcome again — you may go," the room came apart into noise and motion all at once, fifty chairs scraping, fifty voices rising, the formed and friendly group reassembling itself in an instant.
+When at last Lady Lightwell drew her hands together and said, "That is all. Welcome again. You may go," the room came apart into noise and motion all at once, fifty chairs scraping, fifty voices rising, the formed and friendly group reassembling itself in an instant.
 
 Viridia stayed sitting a moment longer than the rest.
 
-———
+* * *
 
-The room emptied the way a held breath leaves a body, all at once, loud, relieved.
+The room emptied all at once, loud and relieved, the way a crowd lets go the moment it is allowed to.
 
-The girls rose in a wave of scraping chairs and bright voices, gathering bags and gathering each other, already deciding in clusters where to go and who would walk with whom. Plans formed in seconds. Did you see — are you in the east wing — come find me at — The formed and friendly group simply picked itself back up and carried itself out the tall doors, and the sound of it went with them, thinning down the carpeted hall until the great room had nearly drained.
+The girls rose in a wave of scraping chairs and bright voices, gathering bags and gathering each other, already deciding in clusters where to go and who would walk with whom. Plans formed in seconds. Did you see, are you in the east wing, come find me at. The formed and friendly group simply picked itself back up and carried itself out the tall doors, and the sound of it went with them, thinning down the carpeted hall until the great room had nearly drained.
 
 Viridia stayed in her chair.
 
-She did not decide to. Her body had simply declined to stand, and she let it, because for a moment the effort of rising and arranging her face and moving with the current felt like more than she had in her. So she sat, small and still in the emptying room, with the long columns of dusty light leaning across the floor and the faded figures on the ceiling raising their arms toward their fire, and she let herself, for just a breath, stop performing the ordinary.
+It was not a decision. Her body had simply declined to stand, and she let it, because for a moment the effort of rising and arranging her face and moving with the current felt like more than she had in her. So she sat, small and still in the emptying room, with the long columns of dusty light leaning across the floor and the faded figures on the ceiling raising their arms toward their fire, and she let herself, for just a breath, stop performing the ordinary.
 
 Her hand had found the stone again. She had not noticed it go. Her fingers closed around the dark-blue weight of it at her throat, the carved edges biting gently into her palm, and she held on the way you hold the side of a pool when the water is deeper than you expected.
 

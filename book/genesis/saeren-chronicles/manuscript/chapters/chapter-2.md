@@ -8,13 +8,13 @@ They had not gone ten steps down the carpeted hall before a voice came after the
 
 Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, and the keeping of a small promise sat plainly on her face, pleased with itself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
 
-"Told you I'd find you," she said. "I'm very reliable, in the things that don't matter." Her gaze went over Viridia's head to Alice, who was looking up at her with open wonder. "And you've made a friend. Good. Hold on to that one — first-day friends are the ones who knew you before you'd decided who to be."
+"Told you I'd find you," she said. "I'm very reliable, in the things that don't matter." Her gaze went over Viridia's head to Alice, who was looking up at her with open wonder. "And you've made a friend. Good. Hold on to that one. First-day friends are the ones who knew you before you'd decided who to be."
 
 "Alice," said Alice, sticking out a hand with the careful formality of a child minding her manners at a grown-ups' dinner. "Alice Pembrook."
 
 "Amber." She shook it, gravely, and let it go. "Fourth-year. Viridia's sponsor, as of about an hour ago, which I'm told is faster than anyone's supposed to do it." She made a small face. "I've always been a bit impulsive."
 
-Viridia turned the word *sponsor* over and found she did not know what to do with it. She had been chosen for something twice now in three days, and both times by people who would not quite tell her why.
+Viridia turned the word *sponsor* over and could find no place to set it down. She had been chosen for something twice now in three days, and both times by people who would not quite tell her why.
 
 "What does that mean," she said. Not quite a question. She rarely asked things outright; she preferred to set a sentence down between herself and a person and watch what they did with it.
 
@@ -24,7 +24,7 @@ Then it was gone again, smoothed away the way Amber smoothed everything away, an
 
 It did not, in fact, stay empty at all. But none of them knew that yet.
 
-———
+* * *
 
 Room fourteen was halfway down the west wing, the number painted on a brown door in a gold that had begun to flake at the edges.
 
@@ -32,7 +32,7 @@ They opened it on a room cut neatly in two. A bed on each side, a desk, a small 
 
 On each bed sat luggage. Alice reached the right-hand bed first, read the gold letters embossed on the suitcase there, and turned around grinning.
 
-"These are yours." She crossed to the other bed and dropped onto it as though she had owned it for years. "I've got a roommate. A real one. I was so sure they'd put me with someone who'd—" She stopped, and waved the rest of the sentence away, the way she did, before it could become a thing she'd said out loud.
+"These are yours." She crossed to the other bed and dropped onto it as though she had owned it for years. "I've got a roommate. A real one. I was so sure they'd put me with someone who'd." She stopped, and waved the rest of the sentence away, the way she did, before it could become a thing she'd said out loud.
 
 Viridia went to the right-hand bed. Three suitcases, her name in gold down the side of each, the same gold as the flaking number on the door, the school stamping everything it touched with the same hand.
 
@@ -48,7 +48,7 @@ The third suitcase was different. The fabric had sigils stitched into it in thre
 
 Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at one end. And tucked beside it, folded once, a note in a hand she had never seen, not her mother's looping script, not her father's careful block letters, not the school's gold-stamp efficiency. A stranger's hand, and a steady one.
 
-*This is called a focus. To the best of my knowledge it has been passed down on your mother's side for a very long time. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
+*This is called a focus. To the best of my knowledge it has been passed down on your mother's side for more generations than anyone has counted. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
 
 That was all. No name. No *love.* No spirits-guide-you. Just an instruction, given by someone who knew where she was going to be before she had known it herself.
 
@@ -56,7 +56,7 @@ She picked the rod up. It was lighter than it looked and colder than the room. T
 
 *Keep this with you always.*
 
-Somebody had wanted her to have this. Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and decided what she would and would not tell a teacher she had not yet met. It should have been frightening. It mostly was. But under the fright, small and unwelcome, was the other thing, the thing she had not felt in three days: she wanted to know who. She wanted to know why.
+Somebody had wanted her to have this. Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and decided what she would and would not tell a teacher she had not yet met. It should have been frightening. It mostly was. But under the fright, small and unwelcome, was a thing grief had crowded out for three days: she wanted to know who. She wanted to know why.
 
 She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
@@ -64,7 +64,7 @@ She slid the rod into the loop she found sewn at the waist of her skirt, where i
 
 "I'm always quiet."
 
-"No—" Alice tilted her head, considering this with the seriousness she gave to most things. "You're quiet like there's a lot of it. That's different." Then, perhaps hearing herself, she colored and rushed on. "Sorry. I do that. My nan says I'd ask the moon what it weighed."
+"No." Alice tilted her head, considering this with the seriousness she gave to most things. "You're quiet like there's a lot of it. That's different." Then, perhaps hearing herself, she colored and rushed on. "Sorry. I do that. My nan says I'd ask the moon what it weighed."
 
 Viridia found, to her own surprise, that the corner of her mouth wanted to move. She let it. "What did the moon say."
 
@@ -76,33 +76,33 @@ They unpacked in the comfortable way of two people who do not yet know each othe
 
 "There," Alice said, when Stitch was settled and the sweets were hidden and the room was as much theirs as an afternoon could make it. She flopped back onto her bed. "Home. For four years." She said it bravely and it cracked very slightly at the end, on *years,* and she heard it crack and plowed straight on. "Tell me one thing about you. Anything. I've told you my whole life and I don't know one thing about you and we live here now."
 
-Viridia thought about it. There were a great many things she would not say. She looked for one she could. "I like knowing the names of things," she said at last. "Paintings. Plants. People. If I know what a thing's called I feel — better about it being in the room."
+Viridia thought about it. There were a great many things she would not say. She looked for one she could. "I like knowing the names of things," she said at last. "Paintings. Plants. People. If I know what a thing's called I feel better about it being in the room."
 
 Alice considered this with the gravity she gave to most things, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
 
-———
+* * *
 
 It was Alice who folded first, the way bright things do when the day catches up with them.
 
-"I've never been away from home this long," she said. She was sitting cross-legged now, smoothing the same patch of skirt over and over. "I keep thinking — four years. My nan'll have got old by the time I—" She stopped. "That's childish, isn't it. Being homesick before it's even dark."
+"I've never been away from home this long," she said. She was sitting cross-legged now, smoothing the same patch of skirt over and over. "I keep thinking, four years. My nan'll have got old by the time I..." She stopped. "That's childish, isn't it. Being homesick before it's even dark."
 
 "No."
 
-"My family's never—" Alice tucked her hair behind her ear, the small managing gesture. "I'm the first. So everyone's so proud, and I can't be the one who comes home because she missed her nan." She laughed, too quickly. "What about yours? I bet they're—"
+"My family's never." Alice tucked her hair behind her ear, the small managing gesture. "I'm the first. So everyone's so proud, and I can't be the one who comes home because she missed her nan." She laughed, too quickly. "What about yours? I bet they're..."
 
 She did not finish. She did not need to. *Proud* was already in the air, already arriving, and there was nothing Viridia could do to step out of its way.
 
-It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass, and she did the work, the quiet brutal ordinary work. Breathed once, around it, did not let it past, gripped nothing, let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
+It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass. Her thumbnail found the seam of her skirt and pressed there until it stung, one clean point of feeling to count against. Breathed once, around it. Did not let it past. Let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
 
 It held. It nearly didn't, and then it held.
 
-"Oh," Alice said softly, behind her. "Oh, I'm sorry. I didn't—" And then she was off the bed and across the floor and kneeling in front of Viridia, not touching, just there, near and careful, the way you stand near a thing you're afraid of breaking.
+"Oh," Alice said softly, behind her. "Oh, I'm sorry. I didn't." And then she was off the bed and across the floor and kneeling in front of Viridia, not touching, just there, near and careful, the way you stand near a thing you're afraid of breaking.
 
-Viridia turned back when she could trust her face. "It's all right." Her voice came out level. She was proud of that, in the small cold way she was proud of things now. "My parents died. Recently. I'm—" She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
+Viridia turned back when she could trust her face. "It's all right." Her voice came out level, and she logged the levelness the way she logged a sum that came out even, one small thing held in place. "My parents died. Recently. I'm..." She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
 
 Alice did not say any of the things people said. She did not say *they're in a better place* or *time heals* or *at least.* She just stayed where she was, kneeling on the cold floor of a room she'd had for an hour, and after a moment she reached up and patted Viridia very gently on the top of the head, twice, exactly as one might reassure a cat that the storm was nearly over. It was such an odd, graceless, kind thing to do that Viridia nearly laughed, which was, she suspected, the point.
 
-"Come on," she said, and got up, and offered Alice a hand off the floor. "Let's go and—"
+"Come on," she said, and got up, and offered Alice a hand off the floor. "Let's go, then."
 
 The chime cut her off.
 
@@ -112,7 +112,7 @@ It came from everywhere at once, a single long bronze note that climbed up throu
 
 It did not. It was a held note finally let go, Viridia thought, and then she thought of the gate that morning, swinging shut with that same sound, and decided not to say so.
 
-———
+* * *
 
 The hall outside had filled with girls, all of them moving the same direction, the easy formed groups of the morning re-forming on the move.
 
@@ -140,7 +140,7 @@ Viridia heard Alice's breath go in and not come out for a moment.
 
 She let the room hold that.
 
-"This young woman walked into the forest on her first afternoon and attempted to bond a fully grown dragon. With its mate," — a small pause, weightless and exact — "not ten paces away." The lenses swept the rows. "If that mate had not had cause, already, to think kindly of this school, she would be dead. There is no healing that brings back the dead. There would have been nothing I, or any of us, could have done but bury her and write to her family about the dangers of the forest. Do you understand me. There would have been *nothing.*"
+"This young woman walked into the forest on her first afternoon and attempted to bond a fully grown dragon. With its mate." A small pause, weightless and exact. "Not ten paces away." The lenses swept the rows. "If that mate had not had cause, already, to think kindly of this school, she would be dead. There is no healing that brings back the dead. There would have been nothing I, or any of us, could have done but bury her and write to her family about the dangers of the forest. Do you understand me. There would have been *nothing.*"
 
 No one moved.
 
@@ -154,11 +154,11 @@ For a long moment nobody touched the food. Then somewhere down the second-year t
 
 "I'm not going in the forest," Alice said, very firmly, to her soup. "Ever. They can fail me."
 
-"You'd survive the forest," Viridia said. "It's the dragons you'd want to leave alone." She did not know yet that she would not take her own advice. She thought she was making a joke.
+"You'd survive the forest," Viridia said. "It's the dragons you'd want to leave alone." She had no idea, saying it, that she would soon ignore her own advice entirely. She thought she was making a joke.
 
 Alice snorted into her bowl, which Viridia counted, privately, as a small victory.
 
-———
+* * *
 
 They came back to room fourteen quiet, the way the whole school had gone quiet, and got ready for bed without much talk.
 
@@ -170,7 +170,7 @@ They came back to room fourteen quiet, the way the whole school had gone quiet, 
 
 "Goodnight."
 
-Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of a person who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had not been able to do that, drop off the edge of a day and trust it to catch you, since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
+Alice was asleep within minutes, breathing soft and even, the deep instant unguarded sleep of someone who has not yet learned to lie awake. Viridia listened to it for a while in the dark. She had lost the trick of that, dropping off the edge of a day and trusting it to catch you, since the morning the world ended. She did not envy it, exactly. She just noticed she had lost it, the way you notice a coat you used to have.
 
 When she was sure of Alice's breathing, she reached under the bed and drew out the second suitcase.
 

@@ -8,7 +8,7 @@ It was the open ring at the school's eastern edge where the older girls did thei
 
 The thing they meant her to see arrived an hour after breakfast.
 
-He came not by the gates but by portal, which she had not known the capital allowed, a vertical seam of light that opened against the far wall of the arena and let three figures step through before it sealed itself away. Two were examiners, an old woman and a wiry young man, both in the grey the capital's testers wore. The third was a short bald man in a white robe with a light-gold sash, and Viridia knew him before anyone announced him, because the whole assembled school went quiet around her in a wave that started at the front and reached the back, and because Lady Lightwell, standing at the head of them all, did a thing with her face that Viridia had been watching for and almost missed.
+He came not by the gates but by portal, which she had not known the capital allowed, a vertical seam of light that opened against the far wall of the arena and let three figures step through before it sealed itself away. For the half-second the seam stood open, the mana-sight showed Viridia what lay on the other side of it. Not the bright ordered capital she had pictured, but a stretch of country gone wrong, its threads of life thin and greyed, the same low dimness she had glimpsed from the assembly window, only nearer now, and worse. Then the seam closed and took the sight of it with it. She filed the cold that went down her at the look of that land, and turned her face back to the careful nothing it was wearing. Two were examiners, an old woman and a wiry young man, both in the grey the capital's testers wore. The third was a short bald man in a white robe with a light-gold sash, and Viridia knew him before anyone announced him, because the whole assembled school went quiet around her in a wave that started at the front and reached the back, and because Lady Lightwell, standing at the head of them all, did a thing with her face that Viridia had been watching for and almost missed.
 
 She smiled. She inclined her head in welcome. And for the space of a single breath, before the welcome arranged itself, her composure was not warmth but armor, a stillness laid down hard and fast over something she would not let move, and Viridia, who knew that particular stillness because she lived inside it herself, understood that the Headmistress of Hazel was looking at the man crossing the sand the way a person looks at a snake in a room with a child.
 
@@ -20,7 +20,7 @@ His eyes passed over her. They did not stop. She counted that, filed it, did not
 
 "You all know why we are here," Lightwell said, taking the morning back into her own hands with the ease of long practice. "You will be called one at a time. While one of you tests, the rest will wait inside the dining hall, where it is warm, and where you will not, I'm told, be able to see or hear what passes out here. Eat something. Try not to frighten one another with stories. The test is not the monster the older girls have made it. Go on."
 
-———
+* * *
 
 They were called by ranking, lowest first, which meant Viridia waited the longest. She sat in the dining hall through the whole of the morning and most of the afternoon while the fourth-years went out one by one and came back changed, some pale, some shaking, one girl crying without sound into her sleeve, one boy laughing too loudly with relief. No one was allowed to speak of what they had seen. The not-speaking filled the hall like water.
 
@@ -30,7 +30,7 @@ The fourth-years came and went, and Viridia, who could not help reading a room, 
 
 When at last a grey-robed runner put her head in and said, "Viridia Saeren," the hall went quiet again, that now-familiar quiet that arranged itself around her, and she felt every eye and pretended she did not, and lifted Lor-ar gently down onto the warm bench, and went out alone into the swept and waiting arena.
 
-———
+* * *
 
 The old examiner stood by a plain table at the arena's center, and on the table lay a row of rods.
 
@@ -50,7 +50,7 @@ Viridia let her eyes travel the script as if it were strange to her, and shook h
 
 "I no be surprised. There do be few these days who study such things." The old woman traced the words herself with one yellowed nail, and read them out in a voice gone suddenly soft and old and careful. "It do say: *Dust to dust, from whence we came; so all may fear he who wields this cane.*" She looked up. "That do be a strange thing to find in a light mage's hand, do it not."
 
-"Yes," Viridia said, and meant it, and set it away among the things she kept for the uncomfortable later, because a light-mage school did not keep a rod inscribed in the dark mages' tongue with a promise of fear and death unless the line between the two was thinner and older than anyone said. "Where did it come from?"
+"Yes," Viridia said, and the word was true, and she set it away among the things she kept for the uncomfortable later, because a light-mage school did not keep a rod inscribed in the dark mages' tongue with a promise of fear and death unless the line between the two was thinner and older than anyone said. "Where did it come from?"
 
 "The vaults. For the test, all rods do be brought from the vaults, even such as that one." Quina drew a flat silver disc from her pocket, set it on the table, and the moment for questions closed. "Now. Five scenarios do be in this disc. I push the button; a memory do come into your mind; you choose the rod that best do solve what you find there. It do test your knowledge, your reading of magic, and your judgment when there do be no clean answer. Do you be ready?"
 
@@ -58,7 +58,7 @@ Viridia let her eyes travel the script as if it were strange to her, and shook h
 
 She pushed the first button.
 
-———
+* * *
 
 The first memory took her standing on the bank of a flooding river, and it was not like watching a memory; it was like being poured into one. She was someone else, a light mage in a grey cloak, and the river was brown and vast and roaring and full of people, and on the far bank more people stood screaming for the ones the water had taken, and the grief of the mage she was wearing came up through her own chest until she had to set her feet against it. The task was clear and the clock was the water. She looked at the rods, the real rods on the real table that her real hands could feel even inside the memory, and chose the one for the slow growth of stone, and the memory took her choice and ran it forward: bridges of stone rising from the flood, but built with sieves beneath, so the water poured through and the people caught against them and held. The mage's satisfaction warmed her like sun. Then it faded, and she was in the arena again, breathing hard.
 
@@ -94,7 +94,7 @@ Quina stared at it. The old woman's lightness was entirely gone. She looked at t
 
 "I do be betting," she said quietly, "you'll be the only gold today. The test do not give perfect marks but rare. And it do not give them for the answer I expected." She picked the disc up, and at her touch the gold drained slowly back to blue. "It do score itself, child. Not I. Every memory, it do choose. And on the last, it did choose to ask you the one question with no safe answer, and you did give it the dangerous one, and it did say *well done.*" She slipped the disc into her pocket. Her crooked-toothed face had gone grave and a little afraid. "I do not know what you be. But I do know the test liked it. Mind who else you let see that." And she turned Viridia toward the far side of the arena, where the wiry young examiner waited with two spears, before Viridia could ask any of the questions crowding up her throat.
 
-———
+* * *
 
 The combat test was almost a relief, because it asked nothing of her but her body, and her body she had spent a month learning to trust.
 
@@ -116,7 +116,7 @@ She grounded the butt of her spear and stepped back and conceded.
 
 Tobias grinned, and the grin was not unkind. "Don't take it hard," he said. "I'm what they call a prodigy, which is a polite way of saying I've done nothing my whole life but this. You're good. You're *young,* and you're already good, and that's rarer." He sobered. "But hear me. The spear is not a thing you learn once and set down trusting it'll be there. If you want it to save your life one day, you practice it as hard as you do your magic. Harder, if you can. The day you need it, it will be the day you have no magic left to spend." He nodded toward the school. "You pass, easily. Go on in. And keep up with those four spears. They deserve a hand that's earned them."
 
-———
+* * *
 
 The dining hall fell silent when she came in, and then filled with the held breath of two dozen fourth-years and a hundred younger girls all wanting to know and none allowed to ask. She found her bench. Lor-ar uncurled and made room and she sat, and he pressed warm against her side, and down the bond he said only, *Later. Eat something. Your hands are shaking and you have not noticed.* They were. She made them stop.
 

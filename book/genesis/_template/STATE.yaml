@@ -1,0 +1,61 @@
+project:
+  title: "<BOOK TITLE>"
+  genre: "<genre>"
+  subgenre: "<subgenre>"
+  language: "English"
+  word_count_target: 90000
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "<one-sentence premise>"
+  created: "<YYYY-MM-DD>"
+  updated: "<YYYY-MM-DD>"
+
+# ADAPTED RUN — revise/expand an existing draft, NOT genesis-from-idea.
+adaptation:
+  mode: "revise-existing-draft"
+  canon_sources:
+    # Fill these in once source material is staged into research/:
+    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    # series_roadmap:  "research/series-roadmap.md"
+    # character_bible: "research/character-bible.md"
+    # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
+    # master_checklist:"research/master-checklist.md"
+  chapter_1_locked: false        # set true if Ch.1 is a hand-finished voice benchmark
+  chapters_to_produce: []        # e.g. [2,3,...,N]
+
+word_floor:
+  manuscript_min_words: 85000    # HARD FLOOR — adjust per book
+  manuscript_target_words: 90000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "scaffolded — awaiting source material in research/, then architect"
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
+  - "<add this book's settled canon guardrails here>"
+
+open_author_decisions:
+  - "<list any plot/character decisions the author must make before drafting>"
+
+decisions:
+  - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
+revision_cycles: 0

@@ -8,7 +8,7 @@ She knew it the way she knew most things now, by the detail that did not fit. Mr
 
 "Viridia." Mrs. Zoran set the chalk down and brushed the white off her fingers, and then she did turn, and her smile was real and a little sad at once. "Stay a moment after, would you? The rest of you, page forty. The hardening of organic matter. I want the first symbol copied three times before I come round."
 
-The class bent over their slates. Viridia felt the attention slide toward her anyway, the way attention always found her now, a heat at the back of the neck. The girl beside her, a thin first-year named Petra who had never spoken to her, copied her symbol very carefully and did not look up, which was its own kind of looking.
+The class bent over their slates. Viridia felt the attention slide toward her anyway, the way attention always found her now, a heat at the back of the neck. The girl beside her, a thin first-year named Petra who had never spoken to her, copied her symbol very carefully and did not look up, which was a way of looking too.
 
 She had become, in five weeks, a thing the room arranged itself around. She did not like it. She had come to Hazel to be the girl no one saw, and instead she had a tiger that slept on the dining-hall bench and a dragon that everyone had heard of and had not quite been allowed to see, and a teacher who pulled her aside after class. The whole architecture of her hiding had collapsed, quietly, in the building of a life. She was not sure when it had happened. She only knew it had.
 
@@ -18,7 +18,7 @@ When the bell rang and the others filed out, Mrs. Zoran came and sat on the edge
 
 "I don't make faces."
 
-"You make one face. It's very small and it means you've decided I'm wrong and you're being polite about it." Mrs. Zoran put the glasses back on. "You don't need this class anymore, Viridia. You haven't needed it for some weeks. I have been teaching you to harden a leaf and you have been hardening it and being kind enough not to mention that you could harden the whole tree if I asked. It's not fair to you. And, if I'm honest—" she paused, and the honesty cost her something; Viridia watched it cost her "—it isn't entirely safe for me, either, to have you sitting in my front rows being twice the mage I am where the others can see and start to wonder why."
+"You make one face. It's very small and it means you've decided I'm wrong and you're being polite about it." Mrs. Zoran put the glasses back on. "You don't need this class anymore, Viridia. You haven't needed it for some weeks. I have been teaching you to harden a leaf and you have been hardening it and being kind enough not to mention that you could harden the whole tree if I asked. It's not fair to you. And, if I'm honest." She paused, and the honesty cost her something; Viridia watched it cost her. "It isn't entirely safe for me, either, to have you sitting in my front rows being twice the mage I am where the others can see and start to wonder why."
 
 There it was. Not unkindness. The opposite. She was being protected, and being moved out of the light at the same time, and the two were the same act.
 
@@ -30,7 +30,7 @@ There it was. Not unkindness. The opposite. She was being protected, and being m
 
 Something in Mrs. Zoran's face wobbled and held. "Knowledge is power," she said, which was the thing she always said, but quieter than usual, as if she were saying it to herself this time and meant the cost in it as much as the comfort. "Now. The real reason I kept you. There's an announcement at assembly today, and I wanted you to hear part of it from me first, because it concerns you more than it concerns anyone else in this school, and I'd rather you had a minute to set your face before three hundred people watch you hear it."
 
-———
+* * *
 
 The dining hall at assembly was the dining hall with the tables pushed back, the long benches lined up in rows, the high windows throwing slanted bars of dust-lit morning across the stone floor. Viridia sat where she always sat now, near the end, with the small warm weight of Lor-ar curled against her hip in his cat shape, his eyes half shut, every part of him radiating the appearance of sleep and none of it real.
 
@@ -56,21 +56,23 @@ She paused. Viridia felt Lor-ar go fractionally more alert against her hip, a ti
 
 "The second piece of news. This year, the test will be overseen in person by the High Chancellor himself."
 
-The silence that followed was different from the first silence. The first had been anticipation. This was the held breath of people who did not entirely know why the news frightened them and were frightened anyway, the instinct arriving ahead of the reason. Viridia did not have to manufacture the small careful arrangement of her own face. She let it be what the room's was: surprised, impressed, a little overawed. Underneath it, where no one could see, the cold cataloguing part of her began very quietly to work.
+The silence that followed was different from the first silence. The first had been anticipation. This was the held breath of people who did not entirely know why the news frightened them and were frightened anyway, the instinct arriving ahead of the reason. Viridia did not have to manufacture the small careful arrangement of her own face. She let it be what the room's was: surprised, impressed, a little overawed. Underneath it, out of anyone's sight, the cold cataloguing part of her began very quietly to work.
 
-The High Chancellor did not visit schools. She knew that much from Mr. Cote's dry books and from the way the older girls spoke of the capital, a place that sent letters and decrees and examiners but did not, itself, arrive. The most powerful man in the light-mage world was going to walk into Hazel on Friday and sit in a chair and watch.
+The High Chancellor did not visit schools. She knew that much from Mr. Cote's dry books and from the way the older girls spoke of the capital, a place that sent letters and decrees and examiners but did not, itself, arrive. The man who sat at the very top of the light-mage world was going to walk into Hazel on Friday and sit in a chair and watch.
 
 *Why,* she thought, not to Lor-ar, to herself.
 
 *That,* said Lor-ar, who had heard it anyway, *is the correct question. Hold on to it. Do not let the rest of the day make you forget you asked it.*
 
-"He will, by tradition," Lightwell said, and here her voice did something so small that Viridia was perhaps the only one in the hall trained to catch it, a flattening, a deliberate evenness laid down over a thing she did not want her voice to do, "observe the top-ranked student through a final exercise, privately, after the public results are read. It is an old honor. It has not been offered at this school in my time here." She looked out over the hall, and for a quarter of a second, no longer, her gaze crossed Viridia's, and there was a whole sentence in it that Viridia could not yet read. "Prepare well. Sleep when you can. You're dismissed."
+"He will, by tradition," Lightwell said, and here her voice did something so small that Viridia was perhaps the only one in the hall trained to catch it, a flattening, a deliberate evenness laid down over something her voice wanted to do and must not, "observe the top-ranked student through a final exercise, privately, after the public results are read. It is an old honor. It has not been offered at this school in my time here." She looked out over the hall, and for a quarter of a second, no longer, her gaze crossed Viridia's, and there was a whole sentence in it that Viridia could not yet read. "Prepare well. Sleep when you can. You're dismissed."
 
 The hall rose into noise and motion. Lor-ar did not move from Viridia's hip.
 
 *She is afraid,* he said. *Of the man, and for you, and she has hidden it from a roomful of children who needed her not to be. That woman would make a magnificent general. It is a great waste that she is spending herself running a school.*
 
-———
+Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon, a dimness, a thinning, as though somewhere too distant to name a thing had begun to drink the light out of the land. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
+
+* * *
 
 She found a corner of the library that afternoon where the shelves made an alcove the librarian's desk could not see, and she opened a book on the history of the ranking examinations and did not read it. Raizen was at the school, for once, curled small in the rafters of the alcove, all his colors gone muted and shadowy in the dim, a trick he was getting good at. Lor-ar lay along the windowsill. She had brought them here to talk, in the only way the three of them could talk in daylight inside the school, which was barely above a whisper, with a book open as cover and the mana-sight up to watch for anyone approaching.
 
@@ -88,7 +90,7 @@ She almost smiled. He did do that, took her own habits and turned them on her, a
 
 Lor-ar opened one eye. "What glasses."
 
-"I don't know. There aren't any glasses yet. I just—" She stopped, surprised at herself, at the thing her own mouth had reached for ahead of her thinking. "Powerful men who want to know what someone is have tools for it. That's all. If I were him, and I'd heard there was something strange at a school, I wouldn't come to ask questions. People lie. I'd come to *look.*" She set her hand flat on the open page. "And I'd bring something to look with."
+"I don't know. There aren't any glasses yet. I just." She stopped, surprised at herself, at the thing her own mouth had reached for ahead of her thinking. "Powerful men who want to know what someone is have tools for it. That's all. If I were him, and I'd heard there was something strange at a school, I wouldn't come to ask questions. People lie. I'd come to *look.*" She set her hand flat on the open page. "And I'd bring something to look with."
 
 There was a silence in the alcove. The dust turned in the bar of window-light.
 
@@ -104,7 +106,7 @@ She felt the bond tighten with Raizen's refusal before he spoke it, the flare of
 
 "I understand," she said, and meant that too, and was, in a small private place, fiercely glad of it.
 
-———
+* * *
 
 She did not tell Alice everything. She had decided some weeks ago what Alice could carry and what she should not have to, and the line was not where Alice would have drawn it, and Viridia knew that and held it anyway, and that was its own quiet loneliness, the keeping of a friend safe by keeping part of yourself shut to her.
 
@@ -112,7 +114,7 @@ But she told her about the test.
 
 They were on Alice's bed with the lamp turned low, Alice in the middle of a great many small jars from the medical wing that she was supposed to be labelling and was mostly not. Alice had taken to the healing work the way Viridia had taken to nothing, openly, joyfully, with her whole chest. She came back from the ward most evenings smelling of the green astringent they used and full of small triumphs, a fever broken, a bone she had been allowed to help set, a third-year who had stopped crying because Alice had sat with her.
 
-"Friday," Alice said, when Viridia told her. "*This* Friday. And the Chancellor himself." She put down a jar. "Viridia, that's—they only do the private exercise for the top student, everyone knows that, and you're going to *be* the top student, you've been the top student since the second week, even the fourth-years say so when they think no one's listening—"
+"Friday," Alice said, when Viridia told her. "*This* Friday. And the Chancellor himself." She put down a jar. "Viridia. They only do the private exercise for the top student, everyone knows that, and you're going to *be* the top student, you've been the top student since the second week, even the fourth-years say so when they think no one's listening..."
 
 "They don't say that."
 
@@ -124,7 +126,7 @@ Alice laughed, then caught herself, and put her hand over Viridia's on the bedsp
 
 "I'm worried I'll do badly with him watching."
 
-It was not the true worry. But it was a true worry, near enough to the shape of the real one that it did not feel like a lie, and Alice took it and turned it over and gave it back gentled.
+It was not the true worry. But it was a true worry, near enough to the shape of the real one that it did not land as a lie, and Alice took it and turned it over and gave it back gentled.
 
 "You won't," she said. "And even if you did. Even if you did the worst exercise anyone's ever done, in front of the whole capital." She squeezed Viridia's hand. "You'd still be the person who walked into that room. The disc doesn't score *that.*"
 
@@ -140,7 +142,7 @@ Viridia looked at her friend in the low lamplight, the freckles, the one tooth t
 
 "You little bit snore. It's very dignified. Goodnight, Viridia."
 
-———
+* * *
 
 Lady Lightwell excused her from her ordinary classes for the three days before the test. She did it by note, slipped to Viridia in the corridor by a fourth-year Viridia now knew to be one of the runners, a girl with a pale stone at her throat and, under it, when Viridia looked, the slow black swirl of a hidden core. The note said only: *You are excused Wednesday through Friday to prepare. Use the time. Notice quietly.* It was unsigned. Lightwell never signed anything Viridia might be searched for carrying.
 
@@ -160,7 +162,7 @@ He held out his hand. On the broad rough palm lay a small triangular blade of th
 
 "This," Nargash said, "is the Heart of the Spear. Among the Dangris it is given only to one who has shed blood and not run, and given back blood, and laughed about neither. It is made from the head of a spear that has killed in defense of the tribe. The metal remembers." He set it in her hand and closed her fingers over it, his hand swallowing hers whole, hot and dry. "I have looked, dragon-friend. There is no Heart in your people. They are very fine at building and very fine at growing and they have forgotten how to give a young warrior the thing that says: you are one of us, you have been tested, you will not stand alone. So. The Dangris give you ours. You are Kor-toh now, in the only part of it that matters, which is the part that comes when you call."
 
-Viridia looked at the small grey blade in her hand, warm from his, and felt its enormity settle on her the way the spears had, too large, undeserved, a weight she did not know how to set down or take up. She had no people. She had had two, and they were three weeks dead, and she had said goodbye to no one and buried no one and the place where her people should have been was a cold open door inside her she did not let herself stand in front of. And here was a creature with filed teeth and slit eyes, a thing her whole world called a monster, giving her a name and a token and a promise that she would not stand alone.
+Viridia looked at the small grey blade in her hand, warm from his, and felt its enormity settle on her the way the spears had, too large, undeserved, a weight she did not know how to set down or take up. She had no people. She had had two, and they were three weeks dead, and she had said goodbye to no one and buried no one and the place where her people should have been was a cold open door inside her she kept her back turned to. And here was a creature with filed teeth and slit eyes, a thing her whole world called a monster, giving her a name and a token and a promise that she would not stand alone.
 
 Her eyes burned. The pressure came up behind them, sudden and hot, the body reaching past her for the release she never let it have. *No one sees you do it. You decide who sees.* She set her jaw and clenched everything down, and the wave crested and broke against the inside of her face and did not get out, and she breathed, once, slow, through her nose, and won.
 
@@ -170,7 +172,7 @@ Nargash watched her win it. She knew he saw. The slit pupils did not miss things
 
 "It will keep you," Nargash said. He rose. "Now. Sleep, Kor-toh. Tomorrow you stand before a man who fears what he cannot rank, and you will let him rank you a little above the rest and far below the truth, and you will smile while he does it." His teeth flashed in the dark. "We hate him too, you know. He has hunted our south tribes for sport. When your war comes, and it is coming, send word. We have always loved a war." And he was gone into the pines without a sound, the way they always went.
 
-———
+* * *
 
 She rode Raizen back, because it was the last night she would have him near for some days and she could not make herself give up the height and the wind and the great warm engine of him under her. They flew low over the black sea of the forest, the school's one lit window growing ahead, and she held the small grey blade at her throat in one hand and thought about Friday.
 
@@ -184,10 +186,10 @@ Raizen was silent under her for the length of three wingbeats. When he spoke, th
 
 The window was very close. She brought him down onto the dark roof above her dormitory wing, soundless, his colors gone to slate and shadow, and slid from his back, and stood a moment in the cold with her hand on his neck.
 
-"Something's about to change," she said. She had not meant to say it aloud. It had been sitting in her all day, under the library and the banking and Nargash's gift, a low certain note she had been refusing to name, and now in the dark above her sleeping friend it came out of her quiet and flat and sure. "I can feel it. After Friday nothing is going to be the way it is now. I don't know if it's a door opening or a door closing. But it's going to move."
+"Something's about to change," she said. The words were out before her will caught up with them. It had been sitting in her all day, under the library and the banking and Nargash's gift, a low certain note she had been refusing to name, and now in the dark above her sleeping friend it came out of her quiet and flat and sure. "I can feel it. After Friday nothing is going to be the way it is now. I don't know if it's a door opening or a door closing. But it's going to move."
 
 She waited for him to argue. He argued with her about most things, for the pleasure of it and because he thought she let too much go unargued. He did not argue now.
 
 "I feel it too," Raizen said. "Down the bond, where your fear lives. It has been getting louder for days." He pressed his great blunt head once, gently, against her shoulder, and the contact ran warm all the way down the link between them. "Whatever moves, it moves with both of us standing in it. Remember that, tomorrow, whatever he is. You have a tiger and a dragon and a tribe of monsters who love war, and a friend three corridors away counting bandages who would set the world on fire for you if she knew how. You are not the girl who came through the gates with a stone she could not read. Go and sleep. Bank the core. And in the morning, let the door move."
 
-She climbed down into the warm and the dark, and lay beside Alice's even sleeping breath, and held the cold stone and the colder blade against her chest, and did not sleep for a long time, listening to the low certain note that something, tomorrow, was going to open or close.
+She climbed down into the warm and the dark, and lay beside Alice's even sleeping breath, and held the cold stone and the colder blade against her chest, and lay awake well past the moon, listening to the low certain note that something, tomorrow, was going to open or close.

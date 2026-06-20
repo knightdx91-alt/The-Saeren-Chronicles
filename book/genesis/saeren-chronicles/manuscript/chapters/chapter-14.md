@@ -14,7 +14,7 @@ The Chancellor did not sit. He paced. The sun glared off his head as he went bac
 
 She had known some version of this would come. She gave him the careful girl's answer, the one she had built. "It seemed cruel," she said. "Killing children for what they hadn't done yet."
 
-"Mm." He resumed pacing. "A soft answer. A young answer. You'll grow out of it, I expect, when you understand what those children grow into." He said it pleasantly. "Still. The test rewarded it, and the test is wiser than I am, so we will call it wisdom and not softness. It is tradition, you know, that the student who earns top marks receives a reward from the capital. A great honor. Very prestigious." He drew a scroll from inside his robe and held it out. "Here."
+"Mm." He resumed pacing. "A soft answer. A young answer." He was quiet a moment, and when he spoke again the grandfatherly warmth had thinned to something that sounded, briefly, almost like grief. "I was a soft young man once, with soft young answers. Then I watched a dark mage open a marketplace full of people from the inside out, children among them, because he had decided his conscience outranked the law, and I learned what mercy costs when you are wrong about who deserves it. I do not enjoy this work, whatever your headmistress will have told you. I do it because someone competent must, and because I have buried enough of the people mercy failed to be certain, now, which side of it I stand on." He let that settle, and the warmth came back over it like a lid. "You'll grow out of the soft answer, I expect, when you understand what those children grow into." He said it pleasantly. "Still. The test rewarded it, and the test is wiser than I am, so we will call it wisdom and not softness. It is tradition, you know, that the student who earns top marks receives a reward from the capital. A great honor. Very prestigious." He drew a scroll from inside his robe and held it out. "Here."
 
 She took it. She unrolled the vellum, and made her face do mild puzzled interest, and underneath read it cold and fast and exactly. It was a portal spell, a real one, modified, the destination folded into glyphs she could not unpick but could recognize for what they were. Whoever had made it had built it so that a touch of light magic would catch like fire in dry grass and set the whole of it alight.
 
@@ -26,7 +26,7 @@ She stood, and walked to the center of the swept ring, and set her feet, and let
 
 The scroll caught. The glyphs lit one after another in a racing chain until the whole of it shone even against the sun, and a tearing sound went across the arena, and the air a few feet in front of her split open along a vertical seam and showed her dark on the other side. She looked back once. The Chancellor watched her, impassive, his glasses two blank coins. *Everything will make sense,* he had said, and she did not believe him, because nothing he had said all day had been the truth entire, and she stepped through anyway, because the only way to learn what he wanted hidden was to go and see it.
 
-———
+* * *
 
 There is a moment she would return to.
 
@@ -36,9 +36,9 @@ She went to the pedestal.
 
 In its hollowed top lay a pool of liquid, and the light came from the liquid itself, a clean pale glow with no source above or below it, only the liquid shining of its own accord. She leaned over it, and as she did she felt the light side of her core stir, the way a struck bell stirs another bell across a room, a resonance, a recognition. The liquid felt her. As if it had been waiting for exactly her, the split symbol rose to the surface of the pool, the same mark her focus wore, the same her mother's book wore, the mark of the two halves of the gift, and where it touched the surface the pool divided, light to one side and dark to the other, and both sides of her core, the hidden whole of her, leaned toward it at once and ached.
 
-She did not decide to touch it. Her hand was simply, suddenly, reaching, drawn the way iron is drawn, and she reached out with her magic and laid it against the surface of the pool, and the world came apart.
+There was no decision in the touching. Her hand was simply, suddenly, reaching, drawn the way iron is drawn, and she reached out with her magic and laid it against the surface of the pool, and the world came apart.
 
-———
+* * *
 
 This is the moment.
 
@@ -58,7 +58,7 @@ And she understood that the cut had not fully taken. The connection to the dark 
 
 She had got more. She had got everything. And she knew, even drowning in it, that she must never let him learn that she had.
 
-———
+* * *
 
 She came back to the moment again, because that is what the moment did; it would not let her pass it cleanly. While the source poured itself into her she became aware, slowly, of a thread within the flood that was not like the others.
 
@@ -70,7 +70,7 @@ The thread quivered, as if it heard her. She reached for it. She poured herself 
 
 She wept. She did not decide to. In the cave, alone, with her hand in the source of all magic and her mother's stillness shining faint and unreachable at the end of a thread she could not follow, the held thing in her finally got out, hot and silent, running down her face in the dark where there was no one, no one at all, to see her do it. She let it. For once in her life she let it, because the only witness was the source itself, and the source did not count, the source was not a person, the source would not love her differently for the water on her face. She knelt at the pedestal and cried for her mother into the oldest magic in the world, and the world did not end, and no one saw, and the thread shone on at the edge of her reach and did not come closer and did not go away.
 
-———
+* * *
 
 And then, at the very edge of the moment, she felt the other thing, and the crying stopped cold in her throat.
 
@@ -82,7 +82,7 @@ She felt it for less than a second. The source seemed to feel her notice it and 
 
 She drew her magic back out of the pool, and let go.
 
-———
+* * *
 
 She came back into the cave whole, and shaking, and changed. The pool's light had returned to its even pale glow. The split symbol was gone from its surface. The thread to her mother was gone, or rather hidden again, sunk back down into the source's keeping, and she stood at the pedestal with her hand wet and her face wet and her core, when she checked it, vast, a thing that had been a hearth and was now nearer a furnace, and she understood she would have to learn it all over again, how much she could do, how little it cost her now.
 
@@ -114,7 +114,7 @@ It was a trap, and she saw the whole of it in the half-second she had to answer.
 
 The Chancellor studied her for a long moment over the silver rims, and she held the worried face and banked the furnace down to an ember and let him look his fill. Whatever the glasses told him, his own expression did not change; it stayed grandfatherly, stayed warm, gave her nothing in return for what he was taking. "No," he said at last. "No, child. You did it exactly right." And he opened the door, and the noise of the hall came out to meet them, and she understood two things at once: that she had passed whatever that last question was, for now, and that a man did not ask a question that careful unless he had a reason to think the answer might be *yes,* which meant someone, sometime, had come back from that pool seeing more than a larger core, and the Chancellor knew it, and had been watching her the whole afternoon to find out whether she was another one.
 
-———
+* * *
 
 There is a moment she would return to for the rest of her life, and this was the end of it: the doors of the dining hall opening, and the whole school on its feet, the teachers too, applauding, the warm roar of it breaking over her, the top student returned in triumph from the secret honor. She let her face be pleased and overwhelmed and shy, which was not hard, because she was overwhelmed, only not by what they thought.
 
@@ -140,8 +140,8 @@ Lor-ar was silent for a long time.
 
 "I do not know what that is," he said at last, and for the first time since she had known him there was something underneath his voice she had never heard in it before, a thing she would not have a name for until much later and would wish, then, that she had named sooner. "But I know that the source is older than my people, and my people are older than yours, and in three hundred years of walking the spirit road I have never once heard of a thing that the source is afraid of. File it where you file the worst things. Tell no one. And hope, little one, that you never feel it again." He came and pressed his great head once against her chest, over the stone and the small grey blade. "Sleep, if you can. You have carried more today than anyone should carry in a year, and you have carried all of it alone, and you will go on carrying it alone, because there is no one else who can. That is the cost of what you are. I am sorry for it. I would not change you."
 
-She lay down with him curled against her, and did not sleep for a long time, and somewhere past midnight Alice came in carrying the sharp clean smell of the ward and whispered, "Are you awake? I heard you did *amazing,*" and Viridia said, "Go to sleep, Alice," in a voice gentle enough that Alice laughed and did, and the wrongness of it, the loving warm wrongness of being congratulated for the surface while the depth sat uncarried beside her, was the loneliest she had felt since the morning the world ended.
+She lay down with him curled against her, and sleep stayed away a long while, and somewhere past midnight Alice came in carrying the sharp clean smell of the ward and whispered, "Are you awake? I heard you did *amazing,*" and Viridia said, "Go to sleep, Alice," in a voice gentle enough that Alice laughed and did, and the wrongness of it, the loving warm wrongness of being congratulated for the surface while the depth sat uncarried beside her, was the loneliest she had felt since the morning the world ended.
 
-She had been alone in the loudest room she had ever been in that afternoon, the whole school on its feet and clapping for the wrong thing, for the larger core and the gold disc and the honor, none of them knowing what she had truly carried back through the seam. And she was alone now in the quiet of her own room, with a tiger at her chest and a friend asleep an arm's length away, and she understood at last that the aloneness was not the room. It was her. It was what she carried. It would go where she went.
+She had been alone in the loudest room she had ever stood in that afternoon, the whole school on its feet and clapping for the wrong thing, for the larger core and the gold disc and the honor, none of them knowing what she had truly carried back through the seam. She was alone now too, with a tiger at her chest and a sleeping friend within reach. The aloneness was not the room. It was her. It was what she carried, and it would go where she went.
 
-Somewhere in a guest wing of the school the High Chancellor was sleeping, or not sleeping, behind his grandfatherly face. He had sent a clever first-year into the oldest magic in the world to make her stronger and more grateful and easier to keep. He had asked his careful last question to find out whether she had seen too much, and she had lied to him with a worried face, and he had let her, for now. But he had asked the question. Which meant he half suspected the answer. Which meant the most dangerous person at Hazel that night was not the most powerful man in the country, asleep behind his glasses, but the silver-blonde girl in the dark who had come back from the well *knowing* — knowing the cut in the world and the chance it might be mended, knowing the thread to her mother she could not follow, knowing the one waiting empty place the source itself was afraid of. She held all of it alone. And she lay awake holding it, and somewhere past her reach the thread to her mother shone on in the deep, and on the far rim of everything the absence waited with its terrible edge, and the not-knowing of the man who had sent her in was, for now, the only thing keeping her alive.
+Somewhere in a guest wing of the school the High Chancellor was sleeping, or not sleeping, behind his grandfatherly face. He had sent a clever first-year into the oldest magic in the world to make her stronger and more grateful and easier to keep. He had asked his careful last question to find out whether she had seen too much, and she had lied to him with a worried face, and he had let her, for now. But he had asked the question. Which meant he half suspected the answer. Which meant the most dangerous person at Hazel that night was not the white-robed man asleep behind his glasses, for all the power the capital had handed him, but the silver-blonde girl in the dark who had come back from the well *knowing* — knowing the cut in the world and the chance it might be mended, knowing the thread to her mother she could not follow, knowing the one waiting empty place the source itself was afraid of. She held all of it alone. And she lay awake holding it, and somewhere past her reach the thread to her mother shone on in the deep, and on the far rim of everything the absence waited with its terrible edge, and the not-knowing of the man who had sent her in was, for now, the only thing keeping her alive.
