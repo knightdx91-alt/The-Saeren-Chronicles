@@ -18,7 +18,7 @@ In the late afternoon she had almost gone to Lightwell. She had stood outside th
 
 She should have trusted it. She would think that, after, on a great many sleepless nights. She had built her whole life on reading the detail that did not fit, and on the one day it mattered more than any other, she talked herself out of it, because the cost of being right was a thing she did not want to be true. There is a kind of knowing the body does before the mind will allow it, and her body had known since breakfast, and she had spent the whole day overruling it, and the overruling was the most expensive mistake she would ever make.
 
-———
+* * *
 
 The screams came in the deep middle of the night.
 
@@ -40,7 +40,7 @@ She grabbed the quiver. She slung it across her back. She took a spear in her ha
 
 "Come," Lor-ar said, blood on his muzzle. "This place is finished. We go."
 
-———
+* * *
 
 The corridor was firelight and smoke.
 
@@ -54,7 +54,7 @@ The second was on Lor-ar. He had blasted the tiger in the side with a gout of pa
 
 A captain.
 
-———
+* * *
 
 "Well," the captain said, conversational, while the hall burned around them and Lor-ar lay smoking against the wall and Viridia stood between them with a stranger's blood drying on her hands. "So one of you dark-mage brats has teeth. Good. It would have been a dull night otherwise, putting children to the sword."
 
@@ -86,7 +86,7 @@ The blast was a wall of sound. She threw her arm across her face. Inside the bub
 
 She did not look at the space. She ran to Lor-ar.
 
-———
+* * *
 
 She pushed healing into him, the vast new core pouring through the shape Alice had taught her, and Lor-ar shuddered and coughed and got his legs under him, the burned fur already knitting, and she smothered the life-fire spreading up the wall with a slap of earth magic that buried it under a fall of conjured soil.
 
@@ -102,7 +102,7 @@ The school she had learned in a month was unmaking itself around her. The hallwa
 
 They came to the gallery above the main hall and stopped.
 
-———
+* * *
 
 Below them the hall was full of fighting, and it was going to be lost.
 
@@ -120,7 +120,7 @@ And Lightwell, between one spell and the next, turned her head, and found Viridi
 
 Viridia hated it. Every part of her wanted to go down those stairs and put her vast new furnace of a core into that fight beside the only adult who had ever seen her clearly and not flinched. And every part of her knew the woman was right, knew it the way she knew all the hardest things, in the cold place that kept her alive. She could not turn the duel. She could turn the escape. She nodded once, though Lightwell had already looked away, back into the storm of the fight, and she turned and ran for the stairs with Lor-ar at her heels.
 
-———
+* * *
 
 She found Amber at the foot of the hall, holding a shield.
 
@@ -154,7 +154,7 @@ Viridia stepped inside and Amber sealed it behind her and the girls crowded in, 
 
 She raised her hand and opened a portal.
 
-———
+* * *
 
 It tore into being beside her at a thought, an easy thing now, the well's gift, and Lor-ar leapt through it and vanished and came back a breath later.
 
@@ -172,7 +172,7 @@ Amber looked at her, and for one second the dark humor was there, the armor, dep
 
 The burning hall vanished.
 
-———
+* * *
 
 Moonlight. Cold air. The smell of pine instead of smoke.
 

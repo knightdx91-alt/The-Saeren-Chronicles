@@ -22,7 +22,7 @@ Unless, of course, it was not only a study. She filed that, the way she filed ev
 
 "Come in," said the voice from within, after a pause that was a beat too long.
 
-———
+* * *
 
 Lady Lightwell stood at the single window with her back to the door, looking out at the forest and the mountain, and she did not turn around at once.
 
@@ -46,7 +46,7 @@ Viridia kept her own face still. She had a great deal of practice at keeping her
 
 "Word for word," Lady Lightwell said at last. "Yes. I imagine that is word for word; you have the look of a girl who delivers things exactly." She drew a slow breath. "Tell her—no. Do not tell her anything. One does not reply to a dragon; one survives having been addressed by one." She set both hands flat on the desk. "I will keep her son safe. I would have done in any case. It is, I will admit, a more motivating instruction than most I receive."
 
-———
+* * *
 
 She took off the spectacles then, and rubbed the bridge of her nose, and for a moment, without the rose lenses, she looked tired and human and not at all like a woman who could hold a corridor together by being feared in it.
 
@@ -74,7 +74,7 @@ For a long moment Lady Lightwell said nothing. Then she put the spectacles back 
 
 "If only there were more of you," she said quietly. "Every week there are fewer of us, and more of them, and the difference between the two grows harder to survive."
 
-———
+* * *
 
 "Us," Viridia repeated.
 
@@ -98,7 +98,7 @@ Viridia found she was not as shocked as she should have been. She had seen it; s
 
 For the first time the not-quite-smile finished itself, and Lady Lightwell looked at her with something that was almost recognition, one careful person regarding another. "No," she said. "I don't suppose you do. We are going to get along, you and I, in the wary way of two people who have each other by the throat."
 
-———
+* * *
 
 "There is a man," Lady Lightwell said, after a moment, and something in her voice changed, went carefully level in the way Viridia's own voice went level over the things that hurt. "Heading the resistance. Jazen. He is, I think, the most powerful dark mage alive, and he has spent the last two years doing the hardest thing a powerful and grieving man can do, which is to keep asking for peace when every instinct he has is screaming for the other thing."
 
@@ -120,7 +120,7 @@ Viridia sat with it. She had read the histories. She had taken Mr. Cote's quiz o
 
 Lady Lightwell was quiet for a moment. "Jazen has set a line," she said at last. "He has told the Chancellor, through the channels we have, that he will go on asking for peace until the next dark mage is killed by the capital's order. One more. After that he stops asking. He has held to it longer than I thought any man could; he holds to it now, while they go on killing the ones they can find, because so far they have killed them in raids he can call accidents and not in the open, by decree. But that is a thread, Miss Saeren, and threads of that kind do not last." She looked at the fire. "I would be surprised if we finished the year inside these walls. I tell you so that when the morning comes that I send for the dark-mage girls, you will not waste any of the little time we will have being shocked."
 
-———
+* * *
 
 Lady Lightwell stood, which was a dismissal, and Viridia stood with her, and gathered the sleeping dragon more securely against her shoulder.
 

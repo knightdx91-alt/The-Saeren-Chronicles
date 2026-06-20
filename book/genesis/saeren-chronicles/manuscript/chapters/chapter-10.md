@@ -22,7 +22,7 @@ She braced for one to swallow the other. Neither did. They became a single flame
 
 *Only if they are at war with each other. They are not. They are two halves of one thing, and a thing is not at war with itself unless someone has taught it to be.* He let the flame go out. *That is the secret your people lost when they lost the dark. Not the dark alone. The balance. Everything you do with one side, little one, you can do better with both. Now.* He looked at her. *Your turn. Do not make fire. Only call them up, dark to your left hand, light to your right, and hold them ready, and do not let either one go out.*
 
-———
+* * *
 
 She got it wrong for a week.
 
@@ -38,7 +38,7 @@ After that it came easier. By the end of the week she could hold both, light ove
 
 *Good,* he said at last. *Now we may begin the part that matters. The fire was only to teach your hands. The thing I am going to teach you next is the thing your people would kill to keep buried, and would kill you for knowing.* He settled. *Magic is a language. It has always been a language. And you are going to learn to read it.*
 
-———
+* * *
 
 Alice found out on the ninth night, because Alice found out everything eventually.
 
@@ -58,7 +58,7 @@ Alice opened her eyes, and the world caught fire, and Alice made a sound Viridia
 
 "Teach me," Alice said at once, the way the best of her always came out, all in a rush with nothing held back. "Teach me everything. I don't care how hard it is. *Teach me.*"
 
-———
+* * *
 
 So Alice joined the night lessons, and the strange thing was how much better it went, with two of them.
 
@@ -74,7 +74,7 @@ She learned the shape for growth first, because Lor-ar said the gentle ones were
 
 There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it. She was building, she had noticed, a long and growing list of things filed for later, and she was beginning to suspect that the later they were filed for was not going to be a comfortable one.
 
-———
+* * *
 
 Two weeks after he hatched, Raizen spoke.
 
@@ -94,7 +94,7 @@ She tried it that way. She stopped reaching to construct the shape and simply le
 
 Lor-ar's whiskers moved. *Two weeks out of the shell,* he said, *and already a better teacher than I am on that one particular point. It is intolerable. I have been alive three hundred years and a hatchling has corrected me.* But there was pride under it, the warm exasperated pride of an old creature watching a young one do well, and Raizen preened shamelessly, and Alice, who had heard none of it, asked what on earth was so funny. When Viridia told her *Raizen can talk now,* Alice shrieked with delight and clapped both hands over her mouth and woke, by the sound of the lamp that came on, at least one indignant girl in the west wing.
 
-———
+* * *
 
 The day-scenes went on around the night ones, the way the ordinary world insists on going on.
 
@@ -130,7 +130,7 @@ She wiped her face with the heel of her hand, and looked at the flower, and then
 
 "I'm going to teach the class," she said. "All of them. Every girl who comes through this room. They have a right to their own language and nobody ever gave it to them, and I have spent twenty years handing them crutches and calling it walking." Her jaw set. "Lady Lightwell will let me; she lets me a great deal, that woman, more than I think either of us has ever quite said out loud. And if it disturbs somebody's comfort in the capital, then it disturbs it. Knowledge is power, Miss Saeren. I've said those words to you twice now. It's past time I started living as though I believed them."
 
-———
+* * *
 
 It was late spring by then, and Viridia had not noticed it arriving, which was itself a kind of news.
 

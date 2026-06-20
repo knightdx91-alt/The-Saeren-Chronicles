@@ -24,7 +24,7 @@ Amber looked at her a moment longer, then nodded, satisfied, and the grin came b
 
 "Then I shall *acquire* you a second breakfast, at no cost, through the ancient art of taking it." Amber sat up. "Come on. Get your tiger. Let's go be the most frightening table in the room."
 
-———
+* * *
 
 They were, in fact, the most frightening table in the room, and it was the best morning Viridia had had since the morning the world ended.
 
@@ -54,7 +54,7 @@ Not everything. She could not have told everything; there was too much, and some
 
 She watched the want crest. She watched Alice laugh at something Amber said, freckles bunching, the one crooked tooth showing, entirely unguarded, entirely safe in the belief that the worst thing in her world was a startled goose. She watched Amber watch the room from under her lashes, already carrying more than anyone her age should, already cracked along a fault Viridia could see and could not mend. And she let the want crest and break and go back down unspoken, because telling them would not have lightened her; it would only have darkened them, and she loved them too much to do it for the sake of her own loneliness. So she said nothing, and reached for the toast, and the moment passed, and only she knew it had happened. It was, she thought, the truest thing she could do for them, and the loneliest, and the two were, as Lor-ar said, usually the same object seen from different sides.
 
-———
+* * *
 
 It was Amber who told her about the war, later, when Alice had gone back to the ward and they had walked out to the cold edge of the eastern lawn where the wind would take their words before any window could catch them.
 
@@ -92,7 +92,7 @@ It was the most Amber had ever given her at once, and Viridia took it carefully,
 
 "Don't thank me yet," Amber said, turning back toward the school. "The chance I gave you was the chance to be in the middle of all this. It may turn out to be the worst gift anyone ever handed you." She bumped Viridia's shoulder with her own, once, rough and brief and real. "Come on. It's cold and I've performed enough sincerity to last me a season."
 
-———
+* * *
 
 The Chancellor left the next day, by portal, the way he had come, with his two grey examiners and his silver glasses folded away. Viridia watched the seam of light close behind him from the dining-hall window and did not let herself feel relief, because relief was a thing you felt when something was over, and she did not believe this was over. He had asked the careful question. He had let her lie. A man like that did not let a lie go because he believed it. He let it go because he had not yet decided what to do about it, and a man deciding is more dangerous than a man decided, because you cannot see the moment the deciding ends.
 
@@ -120,7 +120,7 @@ She had meant to. In the days that followed she did begin, after a fashion, dril
 
 She was not as ready as she thought. No one ever is.
 
-———
+* * *
 
 The last night, she did not know was the last night.
 

@@ -26,7 +26,7 @@ She stood, and walked to the center of the swept ring, and set her feet, and let
 
 The scroll caught. The glyphs lit one after another in a racing chain until the whole of it shone even against the sun, and a tearing sound went across the arena, and the air a few feet in front of her split open along a vertical seam and showed her dark on the other side. She looked back once. The Chancellor watched her, impassive, his glasses two blank coins. *Everything will make sense,* he had said, and she did not believe him, because nothing he had said all day had been the truth entire, and she stepped through anyway, because the only way to learn what he wanted hidden was to go and see it.
 
-———
+* * *
 
 There is a moment she would return to.
 
@@ -38,7 +38,7 @@ In its hollowed top lay a pool of liquid, and the light came from the liquid its
 
 She did not decide to touch it. Her hand was simply, suddenly, reaching, drawn the way iron is drawn, and she reached out with her magic and laid it against the surface of the pool, and the world came apart.
 
-———
+* * *
 
 This is the moment.
 
@@ -58,7 +58,7 @@ And she understood that the cut had not fully taken. The connection to the dark 
 
 She had got more. She had got everything. And she knew, even drowning in it, that she must never let him learn that she had.
 
-———
+* * *
 
 She came back to the moment again, because that is what the moment did; it would not let her pass it cleanly. While the source poured itself into her she became aware, slowly, of a thread within the flood that was not like the others.
 
@@ -70,7 +70,7 @@ The thread quivered, as if it heard her. She reached for it. She poured herself 
 
 She wept. She did not decide to. In the cave, alone, with her hand in the source of all magic and her mother's stillness shining faint and unreachable at the end of a thread she could not follow, the held thing in her finally got out, hot and silent, running down her face in the dark where there was no one, no one at all, to see her do it. She let it. For once in her life she let it, because the only witness was the source itself, and the source did not count, the source was not a person, the source would not love her differently for the water on her face. She knelt at the pedestal and cried for her mother into the oldest magic in the world, and the world did not end, and no one saw, and the thread shone on at the edge of her reach and did not come closer and did not go away.
 
-———
+* * *
 
 And then, at the very edge of the moment, she felt the other thing, and the crying stopped cold in her throat.
 
@@ -82,7 +82,7 @@ She felt it for less than a second. The source seemed to feel her notice it and 
 
 She drew her magic back out of the pool, and let go.
 
-———
+* * *
 
 She came back into the cave whole, and shaking, and changed. The pool's light had returned to its even pale glow. The split symbol was gone from its surface. The thread to her mother was gone, or rather hidden again, sunk back down into the source's keeping, and she stood at the pedestal with her hand wet and her face wet and her core, when she checked it, vast, a thing that had been a hearth and was now nearer a furnace, and she understood she would have to learn it all over again, how much she could do, how little it cost her now.
 
@@ -114,7 +114,7 @@ It was a trap, and she saw the whole of it in the half-second she had to answer.
 
 The Chancellor studied her for a long moment over the silver rims, and she held the worried face and banked the furnace down to an ember and let him look his fill. Whatever the glasses told him, his own expression did not change; it stayed grandfatherly, stayed warm, gave her nothing in return for what he was taking. "No," he said at last. "No, child. You did it exactly right." And he opened the door, and the noise of the hall came out to meet them, and she understood two things at once: that she had passed whatever that last question was, for now, and that a man did not ask a question that careful unless he had a reason to think the answer might be *yes,* which meant someone, sometime, had come back from that pool seeing more than a larger core, and the Chancellor knew it, and had been watching her the whole afternoon to find out whether she was another one.
 
-———
+* * *
 
 There is a moment she would return to for the rest of her life, and this was the end of it: the doors of the dining hall opening, and the whole school on its feet, the teachers too, applauding, the warm roar of it breaking over her, the top student returned in triumph from the secret honor. She let her face be pleased and overwhelmed and shy, which was not hard, because she was overwhelmed, only not by what they thought.
 

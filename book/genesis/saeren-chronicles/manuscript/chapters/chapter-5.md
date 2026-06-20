@@ -52,7 +52,7 @@ Viridia took the hand and stood. "Thank you," she said. It was too small. There 
 
 "Don't thank me yet." The grin came back, properly this time, dragging the heaviness off the room behind it. "You haven't seen what's about to come out of that forest when you call it." She opened the door and checked the corridor and tipped her head. "Come on, drowning girl. Let's go and get you something to hold on to."
 
-———
+* * *
 
 The forest began where the lawns gave up.
 
@@ -80,7 +80,7 @@ She went down on one knee in front of it, easy, unafraid. "Would you have me?" s
 
 "And that," Amber said, getting up and brushing off her knee, grinning at Viridia's face, "is that. I'll let him rest a bit before I call him back; rude to do it straight off. Don't be disheartened if nothing comes for you, by the way. Some people call for weeks before they find their match." She gestured Viridia up off the bench. "Your turn."
 
-———
+* * *
 
 Viridia stood in the green light with her cane in both hands and did not know what she was doing, which she had a feeling was going to be the way of most important things.
 
@@ -134,7 +134,7 @@ He did not dissolve.
 
 He stayed exactly where he was, enormous and real and warm under her hand, regarding her from two inches away with eyes that danced now with open amusement at the look on her face.
 
-———
+* * *
 
 It took Amber a full minute to get her voice back.
 

@@ -52,7 +52,7 @@ She got up before she could lose her nerve and laid the paper face-down on Mr. C
 
 "I'll see you in a few," she told Alice on the way past, and Alice, halfway through her own essay with her tongue between her teeth, lifted her pencil in salute without looking up.
 
-———
+* * *
 
 The dining hall at the wrong hour was a sleepy, half-lit place, the long tables mostly empty, the lamps not yet lit for the meal.
 
@@ -78,7 +78,7 @@ Amber's mouth did something complicated. "No," she agreed. "It isn't." She didn'
 
 She pulled Viridia up, and over the noise of standing called down the hall, "Kari — tell Alice I've stolen her roommate for lunch, would you," and a girl down the table waved a hand without breaking her conversation, and then they were through the door behind the staff table and into the parts of the school the brochure did not photograph.
 
-———
+* * *
 
 Lady Lightwell's office sat at the top of a narrow stone stair, behind a door that did not match anything else in the building.
 
@@ -140,7 +140,7 @@ Lady Lightwell looked at Viridia for a long, weighing moment, not at the stone t
 
 "I'm sure you did." Lady Lightwell had, briefly, the face of a woman who had watched something she valued spent on her behalf and could not decide whether to be grateful or furious. "I'll send for her when the warfare lessons are to begin. For the summoning, see Ms. Locke for the supplies — tell her you have my word on it." She put her spectacles back on, and behind the rose-tinted lenses she became the Headmistress again, complete and closed. "Now go, both of you. I've a school to run, and you've a great deal of luck to not waste."
 
-———
+* * *
 
 They did not speak until they were down the stone stair and around the corner, out of the reach of the steel-banded door.
 
@@ -158,7 +158,7 @@ It was a deflection and they both knew it was a deflection, and Viridia let it g
 
 She was beginning, she realized, to have rather a lot of things put away.
 
-———
+* * *
 
 Alice found them at the foot of the creature-class corridor, breathless, her bookbag half off one shoulder and a smear of pencil-lead along her jaw where she'd been resting her chin on her hand.
 

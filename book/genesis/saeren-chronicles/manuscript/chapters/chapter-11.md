@@ -20,7 +20,7 @@ Lor-ar looked at her steadily in the moonlight.
 
 "To stay alive," he said, "in the war your Headmistress has already told you is coming. Magic is a great deal, little one. It is not everything. There will be moments when your magic is spent, or bound, or simply too slow, and in those moments what stands between you and the dark will be your two hands and whatever is in them. I would rather you learned that here, from teachers, than later, from an enemy." He turned his head toward the trees. "They are here, in any case. They have been here some while, watching you sit and talk instead of standing and working. They are too polite to say so. They are not too polite to think it loudly."
 
-———
+* * *
 
 She heard them before she saw them, though only just. It was not the sound of people moving through a wood; it was the absence of the small sounds the wood made on its own. The night insects to the right went quiet in a slow travelling hush, and a bird that had been complaining somewhere in the dark stopped complaining, and then there was a smell on the warm air she did not know, dry and faintly metallic, like sun-baked stone and old iron, and only then, last of all, the soft give of pine needles under weight.
 
@@ -46,7 +46,7 @@ Nargash laughed. It was a startling sound, harsh and loud and entirely delighted
 
 "That is why we are here," he said. "Magic cannot do all things, dragon-friend. You must learn to fight with every tool you carry." He touched his own chest, where the white core spun. "Not only this. This—" he touched his temple, "—and these," and he held up his two long hands. "Take one up. We will see what you do not know, which is most of it, and then we will teach you. Go there." He pointed a few yards off, to the open center of the ring. "Stand. And do not be afraid of the spear. It is only afraid of you if you are afraid of it first."
 
-———
+* * *
 
 She had read a book on the spear, in the library, on one of the long afternoons. She knew the names of the stances and a handful of the forms, the way a person who has read about swimming knows the names of the strokes. She found out within the first minute what that was worth.
 
@@ -62,7 +62,7 @@ She had never been cut before. Not really. She stood there with her own blood ru
 
 And then, under the fear, something else got up off the floor of her and stood. She had spent her whole life folding things down small and holding them. She was good at holding. She wiped the blood out of the crook of her elbow with the heel of her hand, and set her feet, and went back at Venquar with the held thing burning steady behind her ribs.
 
-———
+* * *
 
 She still could not beat him. He was decades faster and a lifetime more practiced, and she knew it. But she stopped trying to win and started trying to *land one,* which was a smaller and more honest goal, and she watched him the way she watched everything, hunting the small wrong thing, the tell, the habit a body keeps without knowing it keeps it.
 
@@ -86,7 +86,7 @@ It was the hardest hour of work she had ever done, harder than anything magic ha
 
 They gradually sped up. By the end of the hour she was reading the lunges before they came, not all of them, not most of them, but more than none, and the more-than-none felt like a door opening onto a room she had not known was there. She was clumsy and slow and would be for a long time. But she was no longer entirely blind, and the difference between blind and clumsy, she was learning, was the whole of the distance between dead and alive.
 
-———
+* * *
 
 When the Dangris left, they did it the way they had come, all at once and almost soundlessly, melting back into the dark of the pines. Nargash paused at the tree line.
 
@@ -108,7 +108,7 @@ She set her hand over the cut on her arm, and called up the shape for healing, t
 
 "Damascus," Raizen said, watching the spears where they lay. "It's nearly the only metal that can cut me. My scales, I mean. They overlap, so it is not as bad for me as a cut is for you, but it can be done, with that. The Dangris prize it above everything they own. A single spear is a thing a warrior earns over years, a mark of standing in the tribe." He let it sit. "They gave you four. Do you understand what that means? They have honored you the way they would honor a war-leader of their own. They do not do that for cleverness, or for a dragon on your shoulder. They do it for the cut you took without complaint and the one you gave back."
 
-———
+* * *
 
 When she had healed herself and her hands had steadied, Lor-ar came and sat in front of her, and she knew from the set of him that the night's first lesson was not finished, only changed.
 

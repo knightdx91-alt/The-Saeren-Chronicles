@@ -30,7 +30,7 @@ Alice stopped chewing. Something went over her face, quick and surprised, the lo
 
 Down the table a knot of second-years were comparing the trim on their cuffs, and one of them glanced over at the new girls and back, the brief weighing Viridia had learned to feel without looking up for. Alice felt it too; her shoulders came in a half-inch, the old self-consciousness, and then, visibly, deliberately, she pushed them back out again and reached for more bacon. Viridia watched her do it and thought: she is braver than she knows. She did not say so. She was saving it, the way she saved most things, for a day it might be needed more.
 
-———
+* * *
 
 The Introduction to Magic room was on the first floor, in the hall opposite the orientation room, and it was the first place in the school that had felt to Viridia like a place worth being.
 
@@ -82,7 +82,7 @@ She opened the lid.
 
 "Those of you without a focus, come and choose. And — this matters — don't snatch. Take your time. Hold one, then another. You're not picking the prettiest. You're feeling for the one that feels like *yours.* You'll know it when it answers." She glanced up. "And those of you who already have a focus of your own, come and show me, so I can write it in your file."
 
-———
+* * *
 
 The class came forward in a slow press, and the box turned out to be full of small wonders: pendants and rings and rods and beads, none of them quite ordinary, each catching the light with its own private weather.
 
@@ -148,7 +148,7 @@ Alice gave her a strange look. "Why would you want to hide something you'll use 
 
 "No reason." Viridia laid the cane along the table. "Just thinking aloud."
 
-———
+* * *
 
 Mrs. Zoran kept them another few minutes, a word about making your own focus one day, in fourth year or sooner with a sponsor's say-so, and how a focus you forged yourself was always better, bonded to you in the making, shaped to the magic you'd actually use, and then she opened the door with a wave of her hand and wished them a good day.
 
@@ -202,7 +202,7 @@ She rose, stiff in the knees, and helped Viridia up after her. "Off with you. I'
 
 Viridia thanked her, for the cane, for the words, for the risk she had only half-understood, and went out into the corridor.
 
-———
+* * *
 
 The corridor was empty. The class had gone on; Alice was waiting somewhere down by History; the school went about its loud distant business one floor up and one floor down. For a moment there was nobody, and Viridia stopped, and held the cane up before her in the grey window-light.
 

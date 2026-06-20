@@ -24,7 +24,7 @@ Then it was gone again, smoothed away the way Amber smoothed everything away, an
 
 It did not, in fact, stay empty at all. But none of them knew that yet.
 
-———
+* * *
 
 Room fourteen was halfway down the west wing, the number painted on a brown door in a gold that had begun to flake at the edges.
 
@@ -80,7 +80,7 @@ Viridia thought about it. There were a great many things she would not say. She 
 
 Alice considered this with the gravity she gave to most things, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
 
-———
+* * *
 
 It was Alice who folded first, the way bright things do when the day catches up with them.
 
@@ -112,7 +112,7 @@ It came from everywhere at once, a single long bronze note that climbed up throu
 
 It did not. It was a held note finally let go, Viridia thought, and then she thought of the gate that morning, swinging shut with that same sound, and decided not to say so.
 
-———
+* * *
 
 The hall outside had filled with girls, all of them moving the same direction, the easy formed groups of the morning re-forming on the move.
 
@@ -158,7 +158,7 @@ For a long moment nobody touched the food. Then somewhere down the second-year t
 
 Alice snorted into her bowl, which Viridia counted, privately, as a small victory.
 
-———
+* * *
 
 They came back to room fourteen quiet, the way the whole school had gone quiet, and got ready for bed without much talk.
 

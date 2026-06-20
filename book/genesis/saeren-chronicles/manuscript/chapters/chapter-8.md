@@ -28,7 +28,7 @@ The ride went on past the point where she could have told anyone how long it had
 
 The trees opened.
 
-———
+* * *
 
 The clearing stood at the foot of a wall of rock, the mountain she could see, just, from her round window. There was a cave mouth in the rock, and the cave mouth and the ground in front of it were scorched black, old fire and fresh, and on either side of the opening a fire burned now, whole trees torn apart and stacked and set alight, throwing a hard orange light up the cliff.
 
@@ -60,7 +60,7 @@ The scarlet dragon, without breaking the rhythm of her fire over the egg, lashed
 
 *You are not to be unkind to a frightened child who has done nothing but answer a call she did not understand,* the scarlet one said. Her mind-voice was warmer, lower, with something fierce running under the warmth. *Forgive him,* she said to Viridia. *He is not rude. He is grieving, and he is bad at it, as the big ones always are.*
 
-———
+* * *
 
 Drake left the fire.
 
@@ -86,7 +86,7 @@ He stood, abruptly, and walked off toward the dark edge of the clearing, and bet
 
 Viridia sat very still by the fire. She had asked, four days ago, for something that would not leave her. She had not understood, until now, that everything in this world that came when called came from somewhere, was someone's, had been loved before it was hers. She had thought she was asking the forest for a gift. She had been asking it for someone else's child.
 
-———
+* * *
 
 "It is not your doing," Varissa said.
 
@@ -110,7 +110,7 @@ A sound came out of the egg. A crack, sharp as a snapped bone, loud in the clear
 
 "Now," Varissa said, and her warmth went taut with something that was very old and very urgent. *Go to him. Help him free. He must see you. You must be the first thing he sees in the world, and the last thing he must doubt for the rest of his life is whether he is yours. Go.*
 
-———
+* * *
 
 Viridia was on her knees in front of the egg before she had decided to move.
 
@@ -138,7 +138,7 @@ The little dragon bobbed his head at the sound of it, as though he had been wait
 
 "The bond is complete," Lor-ar said quietly, beside her. There was no amusement in it. There was something almost like reverence.
 
-———
+* * *
 
 She carried him to Varissa.
 
@@ -162,7 +162,7 @@ Something in Varissa eased, fractionally. *Good,* she said, the warmth coming ba
 
 And she was the dragon again, scarlet and enormous, and she lifted off the scorched ground and rose to where Drake wheeled and grieved, and the two of them joined and circled, and a thread of red fire and a thread of black laced up together into the night.
 
-———
+* * *
 
 Lor-ar led them to the path at the clearing's edge.
 

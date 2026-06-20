@@ -30,7 +30,7 @@ There it was. Not unkindness. The opposite. She was being protected, and being m
 
 Something in Mrs. Zoran's face wobbled and held. "Knowledge is power," she said, which was the thing she always said, but quieter than usual, as if she were saying it to herself this time and meant the cost in it as much as the comfort. "Now. The real reason I kept you. There's an announcement at assembly today, and I wanted you to hear part of it from me first, because it concerns you more than it concerns anyone else in this school, and I'd rather you had a minute to set your face before three hundred people watch you hear it."
 
-———
+* * *
 
 The dining hall at assembly was the dining hall with the tables pushed back, the long benches lined up in rows, the high windows throwing slanted bars of dust-lit morning across the stone floor. Viridia sat where she always sat now, near the end, with the small warm weight of Lor-ar curled against her hip in his cat shape, his eyes half shut, every part of him radiating the appearance of sleep and none of it real.
 
@@ -72,7 +72,7 @@ The hall rose into noise and motion. Lor-ar did not move from Viridia's hip.
 
 Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon, a dimness, a thinning, as though somewhere too distant to name a thing had begun to drink the light out of the land. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
 
-———
+* * *
 
 She found a corner of the library that afternoon where the shelves made an alcove the librarian's desk could not see, and she opened a book on the history of the ranking examinations and did not read it. Raizen was at the school, for once, curled small in the rafters of the alcove, all his colors gone muted and shadowy in the dim, a trick he was getting good at. Lor-ar lay along the windowsill. She had brought them here to talk, in the only way the three of them could talk in daylight inside the school, which was barely above a whisper, with a book open as cover and the mana-sight up to watch for anyone approaching.
 
@@ -106,7 +106,7 @@ She felt the bond tighten with Raizen's refusal before he spoke it, the flare of
 
 "I understand," she said, and meant that too, and was, in a small private place, fiercely glad of it.
 
-———
+* * *
 
 She did not tell Alice everything. She had decided some weeks ago what Alice could carry and what she should not have to, and the line was not where Alice would have drawn it, and Viridia knew that and held it anyway, and that was its own quiet loneliness, the keeping of a friend safe by keeping part of yourself shut to her.
 
@@ -142,7 +142,7 @@ Viridia looked at her friend in the low lamplight, the freckles, the one tooth t
 
 "You little bit snore. It's very dignified. Goodnight, Viridia."
 
-———
+* * *
 
 Lady Lightwell excused her from her ordinary classes for the three days before the test. She did it by note, slipped to Viridia in the corridor by a fourth-year Viridia now knew to be one of the runners, a girl with a pale stone at her throat and, under it, when Viridia looked, the slow black swirl of a hidden core. The note said only: *You are excused Wednesday through Friday to prepare. Use the time. Notice quietly.* It was unsigned. Lightwell never signed anything Viridia might be searched for carrying.
 
@@ -172,7 +172,7 @@ Nargash watched her win it. She knew he saw. The slit pupils did not miss things
 
 "It will keep you," Nargash said. He rose. "Now. Sleep, Kor-toh. Tomorrow you stand before a man who fears what he cannot rank, and you will let him rank you a little above the rest and far below the truth, and you will smile while he does it." His teeth flashed in the dark. "We hate him too, you know. He has hunted our south tribes for sport. When your war comes, and it is coming, send word. We have always loved a war." And he was gone into the pines without a sound, the way they always went.
 
-———
+* * *
 
 She rode Raizen back, because it was the last night she would have him near for some days and she could not make herself give up the height and the wind and the great warm engine of him under her. They flew low over the black sea of the forest, the school's one lit window growing ahead, and she held the small grey blade at her throat in one hand and thought about Friday.
 

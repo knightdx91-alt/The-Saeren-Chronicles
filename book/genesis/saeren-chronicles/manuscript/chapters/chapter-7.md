@@ -34,7 +34,7 @@ He considered her. The light caught the blue veining in his horns and ran along 
 
 She ate her bread.
 
-———
+* * *
 
 It came out of him slowly, in the way she was learning he gave the things that mattered, not as a lecture but as a man turning a stone over in his hands and naming what he found on each face of it. He had had, he said, three hundred years to learn patience, and he spent it freely, and the spending of it was itself a kind of argument: that this was old, that it would keep, that she did not have to swallow it all at once.
 
@@ -60,7 +60,7 @@ She turned that over. A creature who could walk into the past. A thousand years 
 
 "And me," she said. Quietly. The same question she had asked in the dark last night, only this time he could not duck out the door, because he had promised, and because her eyes were open. "What about me."
 
-———
+* * *
 
 For answer, he rose off the blanket and laid his broad brow against her breastbone, the bone-white horns sliding past her cheeks, and held it there.
 
@@ -100,7 +100,7 @@ She laughed again, the sound surprising her a second time, and pressed the back 
 
 Then Lor-ar drew his head back, and the loss of him left a clear line of sight straight down, and she looked, because of course she looked, and saw her own core.
 
-———
+* * *
 
 She forgot the carrots.
 
@@ -122,7 +122,7 @@ He let it land.
 
 *You are the larger, whole version. And the world is the broken one.*
 
-———
+* * *
 
 She did not cry. She wanted, suddenly and badly, to do something with her hands, so she picked up the tray and set it on the floor, and she did not cry, because no one saw her do it, that was the rule, the only rule that had held through everything, and there was no one here to see her but a tiger who already knew everything that mattered and had the grace not to watch her too closely while she got her breath back.
 
@@ -130,7 +130,7 @@ It would have been easier, she thought, if it had been only frightening. Some of
 
 She got up, because sitting with it was becoming unbearable, and crossed to the window to look out at the burning lawn, and that was when she saw Alice.
 
-———
+* * *
 
 Alice was crossing below, on the path from the medical wing, her arms full of green-spined books and her head down against a wind that wasn't there, hurrying the way she always hurried, late to something, talking to herself in the way of a person rehearsing a thing she means to say well. And Viridia, with both halves still laid like water over her eyes, looked at her friend, and saw her core.
 
@@ -156,7 +156,7 @@ So she let the sight go. The room dimmed back to morning. Alice's pale candle, t
 
 *No,* Lor-ar agreed, gently. *I did not think you would. It is a lonely kindness. They are usually the realest kind.*
 
-———
+* * *
 
 She got dressed, after that, because the office would not wait forever and there was nothing left to do with her hands. She dressed in the school's colors, the vest and the skirt and the long socks, and slid the cane into the loop sewn at her hip, where it rode now, primed, four feet of silver that knew more about her than she did. Lor-ar shrank, without being asked, to his house-cat size, and sat on the end of the bed washing one paw with the unbothered air of a thing that has all the time in the world.
 
@@ -182,7 +182,7 @@ So the grief came back. It had never left; it never left; but it had been crowde
 
 She would think about it, she understood, for the rest of her life. She filed that too.
 
-———
+* * *
 
 She stood at the door with her hand on the latch and did not, for a moment, open it.
 

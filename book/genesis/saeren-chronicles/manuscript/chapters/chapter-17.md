@@ -14,7 +14,7 @@ Hazel was burning. The school founded in 1735 by a woman named Hazel Greenwich, 
 
 She thought, walking away from it, of all the things the fire was eating. Her mother's spellbook, with the family tree and the one name that did not fit and the letter from Bella she had read every night and held to her chest in the dark. Her focus, the silver rod with the Moravian inscription, the cane Mrs. Zoran had primed for her, gone. The bright ward where Alice had learned she had calm hands. The scorched ring in the forest where the Dangris had taught her, though that at least was outside the walls and might still stand. The frightening table. The lamplit room that had been, for a span of two weeks, the first place that felt like hers. All of it, burning, behind her, while she walked away with a spear and a quiver and a tiger and the clothes she had died in, almost, and nothing else. She had arrived at Hazel with three suitcases and a grief she could not name. She was leaving it with less luggage and more grief and a great deal she had not had before, and she could not yet decide whether that was a fair trade or the cruelest one imaginable, and she suspected she would not be able to decide for a long time.
 
-———
+* * *
 
 The trek went quickly, which surprised her. Fear was a kind of fuel; the children walked faster and complained less than children should have been able to, driven by a thing too large for them to argue with. They talked among themselves in low voices, the way frightened people do, and Viridia let them, because the low talk was keeping them together and keeping them moving, and those were the only two things that mattered.
 
@@ -40,7 +40,7 @@ None of them had seen. They had been roused from their own halls, on the other s
 
 So that was the sum of it. Nobody knew. Nobody had seen Alice fall and nobody had seen Alice flee, and the wound stayed exactly as open as it had been, and Viridia folded the asking away with everything else and kept walking, and did not let any of them see that with each *no* the empty space the size of Alice had grown a little colder.
 
-———
+* * *
 
 They cleared the tree line into a wide dark meadow under the full moon, and the shadows came alive and took them.
 
@@ -60,7 +60,7 @@ Viridia took it. His grip was dry and quick. "Viridia," she said. "This is Lor-a
 
 Jazen looked at the children, and his hardness eased into something kinder. "Close," he said. "Follow me."
 
-———
+* * *
 
 He led them on through more woods, and every so often he stopped to disable a ward, a complex knot of magic strung across their path, and then to reset it behind them once they had passed. Viridia watched him work the first few, and recognized most of the runes, and did not recognize all of them, and filed the unfamiliar ones to ask about later, because even now, even soot-stained and grieving and walking into the unknown, the cataloguing part of her would not stop working; it was the only part of her that never tired.
 
@@ -80,7 +80,7 @@ So she told him. She told it plainly, the cold clear way, because there was no o
 
 And she watched Jazen go still as she spoke, stiller and stiller, until by the end of it he was not moving at all.
 
-———
+* * *
 
 "So she's dead," Jazen said. Softly. He closed his eyes for a moment, and a thing crossed his face that Viridia knew on sight, because she had worn it, because she wore it still, every day, under the careful surface. "She's dead."
 
@@ -110,7 +110,7 @@ Jazen looked at her for a long moment across the fire, and something passed betw
 
 "Come find me when you wake," he said, low. "Not the others. You. There are things I think you and I should say to each other without an audience." He let go. "You got eight children out of a burning school through a portal you cast yourself, at your age, with the capital's army at your back. My mother didn't sponsor people lightly, and she didn't tell me your name, which means she was keeping you for something. I'd like to know what." A ghost of the grin, real this time, exhausted. "In the morning. Sleep first. You look like I feel."
 
-———
+* * *
 
 The quarters were a single long room with bedrolls laid out on the floor, enough of them, which someone had thought to prepare, which meant the camp had been ready for refugees the way Lightwell had been ready for the bad day, the whole secret machine of the resistance turning over even now to make a place for eight crying children and a silver-blonde girl with blood on her arms. Viridia pulled her own bedroll to the far wall, away from the others, out of long habit, and Lor-ar, still in his great storm-colored shape, lay down along the wall beside her like a barrier between her and the room.
 

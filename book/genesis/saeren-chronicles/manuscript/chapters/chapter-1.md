@@ -39,7 +39,7 @@ Viridia had thought it was an ordinary thing to say.
 
 She thought about it for the rest of her life.
 
-———
+* * *
 
 Viridia stared up at the building that was meant to be her home for the next four years.
 
@@ -73,7 +73,7 @@ It did not work. Her face had forgotten the shape of it. What she produced was c
 
 Behind them, the iron gate swung shut on its own weight, the sound of it a held note finally let go.
 
-———
+* * *
 
 Aleric knocked twice, briskly, then stepped back and settled both hands on Viridia's shoulders, lightly, but with a certain readiness, half expecting her to bolt the moment the door opened and wanting to be in position to stop her.
 
@@ -113,7 +113,7 @@ It was not phrased as a question, but Viridia understood that it was one, asked 
 
 Amber's mouth tipped, not quite a smile. "Right," she said, and led them in.
 
-———
+* * *
 
 The room was built to make an impression, and it succeeded.
 
@@ -157,7 +157,7 @@ At the desk, Lady Lightwell squared her stack of papers against the wood with tw
 
 Then the moment let go. The Headmistress clasped her hands, and the bright chatter began, all on its own, to fall away.
 
-———
+* * *
 
 "Hi."
 
@@ -201,7 +201,7 @@ When at last Lady Lightwell drew her hands together and said, "That is all. Welc
 
 Viridia stayed sitting a moment longer than the rest.
 
-———
+* * *
 
 The room emptied the way a held breath leaves a body, all at once, loud, relieved.
 

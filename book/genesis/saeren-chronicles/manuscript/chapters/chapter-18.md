@@ -24,7 +24,7 @@ Amber let go, and looked back at the fire, and said nothing, which was its own a
 
 She found Jazen at the town hall, where she was told he was meeting with the council.
 
-———
+* * *
 
 The town hall was a large old stone building near the center of the camp, its windows dusty, its wooden porch sagging and grey. An old man with a graying beard and a balding head opened the scuffed double doors at her knock, studied her a moment with sharp tired eyes, grunted, and motioned her to follow. Down a long hallway she could hear raised voices, one of them Jazen's.
 
@@ -60,7 +60,7 @@ The sunburned man, Brutus, looked from face to face, and was the last to yield. 
 
 "I'll remember," Jazen said. "I remember everything. It's the curse of my family." And he glanced at Viridia by the wall, and tipped his head toward the door, and she followed him out.
 
-———
+* * *
 
 He walked her to the edge of the camp, past the last houses, to where the air shivered faintly with the great hidden wards, and there, where no one could hear, he stopped and looked out at the forest and was quiet for a while.
 
@@ -92,7 +92,7 @@ It landed in her somewhere deep, in the place that had wanted, six weeks ago, on
 
 "There is one thing," Viridia said.
 
-———
+* * *
 
 She had been carrying it since the woods, the question, holding it the way she held everything, until the moment was right, and the moment was now, at the edge of a hidden camp with a war a week away, because she had learned that you do not wait for a better time to ask the thing you cannot live without knowing, because better times do not reliably come.
 
@@ -104,7 +104,7 @@ Jazen held her gaze for a long moment, and whatever he saw in the flat voice and
 
 She took his hand. It was the first time since the gates of Hazel that she had reached out and taken hold of a thing offered by someone she had not known a month, and it did not feel like nothing, and she filed that too.
 
-———
+* * *
 
 He went back into the camp to begin the work of the war, and Viridia stayed at the edge alone, where the wards shivered, and looked out at the forest, and let herself, finally, in the grey morning with no one watching, take an accounting.
 

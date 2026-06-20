@@ -34,7 +34,7 @@ For a moment she thought she wouldn't answer. Then Lady Lightwell turned her hea
 
 She was too tired to work it out. She climbed, and Lor-ar climbed with her, and behind them Lady Lightwell stood on the steps a while longer, watching the dark line of the forest, and did not come in.
 
-———
+* * *
 
 The west wing was empty; the other girls were still in their afternoon classes, and Viridia met no one on the stairs, which was a mercy she had not known to ask for. She let herself into room fourteen and got as far as the edge of her own bed before the day caught up with her all at once.
 
@@ -60,7 +60,7 @@ She did not have it in her to argue further, and did not want to. She crawled in
 
 She did not dream, or if she did the dreams went where the others went now, down into the place she could not follow them. She slept the deep blank sleep of the truly spent, and the school went on without her, and the light left the window, and somewhere a tray of food was brought up and set on the nightstand and went cold, and through all of it the small horned tiger lay against the wall with his storm eyes half-open, watching the door, exactly as he had said he would.
 
-———
+* * *
 
 She woke to a smell of soup and a face an inch from her own.
 
@@ -124,7 +124,7 @@ Viridia looked at her, kneeling on the floor of their shared room with her hand 
 
 And she meant the *thank you* the way she had meant it to Amber, too large for the words, and Alice, who heard things, heard that too, and did not make her say any more.
 
-———
+* * *
 
 It was Alice, when the wonder had worn down to a glow, who remembered her own news.
 
