@@ -16,7 +16,7 @@ Before she went, she sat a while with Amber by the cold ashes of last night's fi
 
 "You'd have died," Viridia said. "And then the eight you did get out would have died too, when it dropped. You held it exactly as long as it could be held."
 
-"I know that." Amber turned the cup in her hands, the chipped black nails catching the grey light. "Knowing it and believing it are different rooms. I'll get from the one to the other eventually. I always do." She almost smiled. "I've had practice." It was the closest she had come to the old armor since the woods, and Viridia was glad of it, because it meant the Amber she knew was still in there, climbing back. "Go on. Jazen wants you. And Viridia—" she caught her arm, briefly. "Whatever he asks you to be part of. Think about it before you say yes. You're fourteen. You're allowed to not be the one who carries it, just this once."
+"I know that." Amber turned the cup in her hands, the chipped black nails catching the grey light. "Knowing it and believing it are different rooms. I'll get from the one to the other eventually. I always do." She almost smiled. "I've had practice." It was the closest she had come to the old armor since the woods, and Viridia was glad of it, because it meant the Amber she knew was still in there, climbing back. "Go on. Jazen wants you. And Viridia." She caught her arm, briefly. "Whatever he asks you to be part of. Think about it before you say yes. You're fourteen. You're allowed to not be the one who carries it, just this once."
 
 "So are you," Viridia said.
 
@@ -28,7 +28,7 @@ She found Jazen at the town hall, where she was told he was meeting with the cou
 
 The town hall was a large old stone building near the center of the camp, its windows dusty, its wooden porch sagging and grey. An old man with a graying beard and a balding head opened the scuffed double doors at her knock, studied her a moment with sharp tired eyes, grunted, and motioned her to follow. Down a long hallway she could hear raised voices, one of them Jazen's.
 
-"—must do *something,*" Jazen was saying, as she came in behind the old man. "We cannot sit here while he kills our people one village at a time. He has just burned a *school,* Coram. Children."
+"We must do *something,*" Jazen was saying, as she came in behind the old man. "We cannot sit here while he kills our people one village at a time. He has just burned a *school,* Coram. Children."
 
 He glanced up as Viridia entered, nodded to her, and turned back to the three others in the room. They sat at a long table: a woman on the left in a pale blue dress, older, with silver-and-gold spectacles; a broad sunburned man in the middle, a few years older than Jazen and built like someone who worked outdoors; and on the right a stately older woman with silver hair pulled into a tight bun, a hooked nose, eyes the cold grey of her hair. The old man who had led Viridia in took the seat beside the stately woman, and the council was complete, and Viridia stood at the back by the wall and made herself small and watchful, the old habit, and listened.
 
@@ -42,7 +42,7 @@ Viridia, watching from the wall, read them the way she read everyone, by the det
 
 None of them were villains. That was the thing Viridia took away from the room, the thing that would stay with her. There were no villains here, only frightened people who loved different things and could not have all of them, which was, she was beginning to understand, the actual shape of every war that had ever been, under the banners and the speeches: people who loved different things, and not enough world to keep them all.
 
-The two women exchanged an uneasy look. The stately woman opened her mouth, "Now, Jazen—" and Jazen cut her off with a flat motion of his hand.
+The two women exchanged an uneasy look. The stately woman opened her mouth. "Now, Jazen." And Jazen cut her off with a flat motion of his hand.
 
 "No. You wanted me on this council because it is my magic that hides you. Fine. But all we have done with that magic is *hide.* I'm telling you it's finished. I will not stand by and watch them kill dark mages by decree, in the open, with the law's blessing, and do nothing but pull the dark a little closer over our heads."
 
@@ -52,7 +52,7 @@ It was the old man, Coram, who spoke at last, his voice soft, almost sorrowful. 
 
 Coram studied him for a long, troubled moment. Then he sighed, and the sigh was the sound of a man setting down a thing he had carried a long way. "We'll do as you ask."
 
-The others started in surprise. "Coram—" the woman in blue began.
+The others started in surprise. The woman in blue began, "Coram."
 
 "You know as well as I do," Coram said, turning on them, his soft voice gone hard, "that we cannot hold this place if the three of them leave. And you know as well as I that half the people in this camp are tired of hiding, tired of growing old in a box, tired of teaching their children that the safest thing they can do is disappear. He speaks sense. I'm too old to pretend he doesn't because I'm afraid." He looked back at Jazen. "If it goes wrong, it goes wrong on all our heads, not yours alone. But it goes."
 
@@ -82,7 +82,7 @@ He was quiet a moment, watching the trees, and then he said, more carefully, the
 
 Viridia said nothing. There was nothing safe to say, and Jazen did not seem to need her to say it; he had spoken it mostly to set it down, the way she set things down.
 
-"You don't have to answer," he said. "You're fourteen. Amber's right about that, whatever she said to you this morning—yes, I heard about it, this is a small camp and I make it my business to know things. You're allowed to be a child a little longer, if you can find a way." He turned to face her. "But I don't think you can. I think that road closed behind you in a burning corridor. So I'll say the other thing instead. When you decide what you are—and you will, you'll have to—there's a place for it here. Whatever it turns out to be. That's the last thing my mother would have wanted me to tell you, so I'm telling you. There's a place for you here. You don't have to be small to be safe with us. We're done with small."
+"You don't have to answer," he said. "You're fourteen. Amber's right about that, whatever she said to you this morning. Yes, I heard about it, this is a small camp and I make it my business to know things. You're allowed to be a child a little longer, if you can find a way." He turned to face her. "But I don't think you can. I think that road closed behind you in a burning corridor. So I'll say the other thing instead. When you decide what you are, and you will, you'll have to, there's a place for it here. Whatever it turns out to be. That's the last thing my mother would have wanted me to tell you, so I'm telling you. There's a place for you here. You don't have to be small to be safe with us. We're done with small."
 
 It landed in her somewhere deep, in the place that had wanted, six weeks ago, only to disappear. *We're done with small.* She did not have a reply that would not cost her more than she could spend that morning, so she gave him the only thing she had, which was the truth, plainly.
 
@@ -96,7 +96,7 @@ It landed in her somewhere deep, in the place that had wanted, six weeks ago, on
 
 She had been carrying it since the woods, the question, holding it the way she held everything, until the moment was right, and the moment was now, at the edge of a hidden camp with a war a week away, because she had learned that you do not wait for a better time to ask the thing you cannot live without knowing, because better times do not reliably come.
 
-"When your people gather news," she said. "Survivors. From the school, or the roads, or the capital's prisons, if they keep any. Anyone who got out of Hazel, or was taken." She kept her voice even. She kept her face the careful face. Only her hands, at her sides, had curled, and she made them uncurl. "There's a girl. A first-year. Her name is Alice. Alice Pembrook." The name came out of her steady, and cost her everything to make steady. "Long blond hair. Freckles. One tooth turned a little out of line when she smiles. She was a healer's helper, she was in the medical ward when it started, and I—I don't know if she got out. Nobody saw. I couldn't reach the ward. I had to take the others and go, and I left her, and I don't know if she's alive or dead, and there's no bond between us, no way for me to feel it, no way to know." Her voice did not break. It went very flat, instead, which was the closest thing to breaking she allowed herself. "If your people hear anything. A name. A first-generation mage girl named Alice Pembrook. I need to know. Alive or dead, I need to know which. The not-knowing is—" She stopped. She did not have a word for what the not-knowing was. There was not one.
+"When your people gather news," she said. "Survivors. From the school, or the roads, or the capital's prisons, if they keep any. Anyone who got out of Hazel, or was taken." She kept her voice even. She kept her face the careful face. Only her hands, at her sides, had curled, and she made them uncurl. "There's a girl. A first-year. Her name is Alice. Alice Pembrook." The name came out of her steady, and cost her everything to make steady. "Long blond hair. Freckles. One tooth turned a little out of line when she smiles. She was a healer's helper, she was in the medical ward when it started, and I don't know if she got out. Nobody saw. I couldn't reach the ward. I had to take the others and go, and I left her, and I don't know if she's alive or dead, and there's no bond between us, no way for me to feel it, no way to know." Her voice did not break. It went very flat, instead, which was the closest thing to breaking she allowed herself. "If your people hear anything. A name. A first-generation mage girl named Alice Pembrook. I need to know. Alive or dead, I need to know which. The not-knowing is—" She stopped. She did not have a word for what the not-knowing was. There was not one.
 
 Jazen held her gaze for a long moment, and whatever he saw in the flat voice and the uncurled hands, he understood it, because he had a sister he had not been able to save either, and he did not offer her comfort or false hope, which she would have hated, which would have been one more door shut against the cold.
 
