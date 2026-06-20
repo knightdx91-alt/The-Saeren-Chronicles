@@ -42,9 +42,10 @@ phase:
 
 chapters:
   total_planned: 18
-  completed: [1, 2]
+  completed: [1, 2, 3]
   scores:
     "2": {floor: 8.5, average: 8.5}
+    "3": {floor: 8.5, average: 8.6}
 
 genesis_score:
   current_floor: 0.0
@@ -77,7 +78,7 @@ reader_personas:
 
 entity_state:
   created: false
-  last_updated_chapter: 0
+  last_updated_chapter: 3
   open_contradictions: 0
 
 continuity:
@@ -85,7 +86,7 @@ continuity:
   manuscript_audit: {critical: 0, warning: 0}
 
 quality_gate:
-  chapters_passed: [1, 2]
+  chapters_passed: [1, 2, 3]
   chapters_escalated: []
 
 decisions:

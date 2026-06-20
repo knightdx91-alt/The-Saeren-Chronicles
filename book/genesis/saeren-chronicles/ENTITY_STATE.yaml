@@ -51,7 +51,7 @@ characters:
   raizen: {species: "prismatic dragon", status: "not yet hatched (Ch.8)", bond: "True Bond w/ Viridia", parents: "Drake & Varissa", note: "speaks ~2 weeks after birth"}
   drake: {age: 6000, form: "pitch black; jet-black death flames", affinity: "death", teaches: "portals + DEATH SYMBOL", manner: "gruff = grief"}
   varissa: {age: 5000, form: "brilliant scarlet", abilities: "portals, drain spell, spatial lock", note: "fierce re Raizen ('my baby')"}
-  mrs_zoran: {role: "Intro to Magic teacher", physical: "frizzy brown hair, large glasses, too-big red dress, silver hoops, ring focus", trait: "enthusiastic, open-minded, risk-taking"}
+  mrs_zoran: {role: "Intro to Magic teacher", physical: "frizzy brown hair, large glasses, too-big red dress, silver hoops, ring focus", trait: "enthusiastic, open-minded, risk-taking", backstory_NEW_ch3: "had an older brother, a dark mage and beekeeper, killed for what he might one day become — root of her open-mindedness (added Ch.3, consistent w/ bible)"}
   high_chancellor_meros: {name: "Erik Meros", role: "antagonist", physical: "short, bald, white robe, light-gold sash, silver-framed glasses of true seeing", note: "PLANT glasses early; underestimates Viridia; killed by Drake's flames (Bk2)"}
   aleric_porter: {role: "Viridia's patron", note: "brought her by motorcar; well-meaning, oblivious; references brochure Leon received"}
   quina: {role: "ranking-test examiner (52 yrs)", physical: "elderly, white hair, runed cane, yellow crooked teeth", speech: "'do be' constructions", note: "scoring disc has a will of its own; reads Moravian"}
