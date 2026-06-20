@@ -1,6 +1,6 @@
 # Chapter 10: The Language of Magic
 
-<!-- Structure: time-spanning, scene-anchored (weeks) | Target 4,800-5,600 | Anchor: She is beginning to heal — which is when things get worse. -->
+<!-- Structure: time-spanning, scene-anchored (weeks) | Target 4,800-5,600 | Anchor: She is beginning to heal, which is when things get worse. -->
 
 The first lesson happened by the fountain, after dark, the night Lor-ar decided she was ready to be shown what magic actually was.
 
@@ -52,7 +52,7 @@ She did what Lor-ar had done to her, that first morning. She put her hand gently
 
 Alice opened her eyes, and the world caught fire, and Alice made a sound Viridia would remember for a long time.
 
-"Oh," Alice breathed. "Oh, *Viridia.*" She turned her head, slowly, taking in the burning grass and the lit fountain and the great blazing shape of Lor-ar, and her whole face had opened into the helpless wonder that was simply how she met everything good, and there were tears standing in her eyes, and she did not bother to hide them, because Alice never hid anything. "It's *alive.* All of it. The whole world's *alive* and nobody told us." She pressed both hands to her mouth. "How long does it last? Can I always—will I always be able to—"
+"Oh," Alice breathed. "Oh, *Viridia.*" She turned her head, slowly, taking in the burning grass and the lit fountain and the great blazing shape of Lor-ar, and her whole face had opened into the helpless wonder that was simply how she met everything good, and there were tears standing in her eyes, and she did not bother to hide them, because Alice never hid anything. "It's *alive.* All of it. The whole world's *alive* and nobody told us." She pressed both hands to her mouth. "How long does it last? Can I always, will I always be able to..."
 
 "Only while I keep it on you," Viridia said. "A few hours. But there's another way. A way you can learn, so you don't need me to do it. It's harder. But you can."
 
@@ -78,7 +78,7 @@ There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly 
 
 Two weeks after he hatched, Raizen spoke.
 
-He had been growing fast—half the size of Drake already, though he kept to a smaller form most of the day and rode her shoulder out of preference rather than need—and Viridia had felt him at the edge of her mind for days, the wordless warmth of the bond beginning to gather itself toward something. And then one night by the fountain, while she was struggling with a shape she could not get to sit still in her head, a voice arrived in her mind that was not Lor-ar's: younger, warmer, pleased with itself.
+He had been growing fast, half the size of Drake already, though he kept to a smaller form most of the day and rode her shoulder out of preference rather than need. Viridia had felt him at the edge of her mind for days, the wordless warmth of the bond beginning to gather itself toward something. And then one night by the fountain, while she was struggling with a shape she could not get to sit still in her head, a voice arrived in her mind that was not Lor-ar's: younger, warmer, pleased with itself.
 
 *You are doing it wrong,* Raizen said. *You are thinking the shape. You should be remembering it.*
 
@@ -114,7 +114,7 @@ Alice went pink to the ears and told her to shut up, fondly, and hid her face in
 
 And Mrs. Zoran stayed after class one afternoon, and shut the door, and said, with her frizzy hair and her too-big red dress and her glasses pushed up, "I do not think you need this class, Miss Saeren."
 
-Viridia had been waiting for it. She glanced at Lor-ar, curled in cat-shape on the desk. *How much,* she asked him silently. *Everything you wish,* he said, *but nothing of the pact or the dragons' kind.* So Viridia took out her notebook, and drew the shape for growth, and the two shapes that limited it, and explained them, while Mrs. Zoran leaned against her desk and watched with a face that grew slowly more astonished and more hungry. "Our magic is a language," Viridia said. "An old one. If you learn it, you don't need the focus at all. You write your intent directly. It's how I've been—how I've gotten ahead."
+Viridia had been waiting for it. She glanced at Lor-ar, curled in cat-shape on the desk. *How much,* she asked him silently. *Everything you wish,* he said, *but nothing of the pact or the dragons' kind.* So Viridia took out her notebook, and drew the shape for growth, and the two shapes that limited it, and explained them, while Mrs. Zoran leaned against her desk and watched with a face that grew slowly more astonished and more hungry. "Our magic is a language," Viridia said. "An old one. If you learn it, you don't need the focus at all. You write your intent directly. It's how I've gotten ahead."
 
 Mrs. Zoran looked at the shapes on the page for a long time.
 
@@ -124,7 +124,7 @@ She got it wrong for a week, the same as Viridia had, and there was something bo
 
 And then one morning Viridia came into class early and found Mrs. Zoran already there, a pot on her desk, and in the pot a flower that had not been there the day before, small and red and entirely ordinary, and Mrs. Zoran standing over it with her hands shaking and her face wet and lit from within.
 
-"I did it," she whispered. "No focus. I took the ring off and put it in the drawer and I just held the shape in my mind, the way you showed me, and I told the magic the true thing, and it—" Her voice broke. She laughed, a wet astonished laugh that had a whole life in it. "I'm forty-six years old. I have been a mage since I was eleven. And I have just, this morning, in an empty classroom, spoken to my own magic in its own language for the first time. Do you know what that's like? It's like discovering, in middle age, that you'd been mouthing the words to a song you never actually knew, your whole life, and someone has finally told you what it means."
+"I did it," she whispered. "No focus. I took the ring off and put it in the drawer and I just held the shape in my mind, the way you showed me, and I told the magic the true thing, and it..." Her voice broke. She laughed, a wet astonished laugh that had a whole life in it. "I'm forty-six years old. I have been a mage since I was eleven. And I have just, this morning, in an empty classroom, spoken to my own magic in its own language for the first time. Do you know what that's like? It's like discovering, in middle age, that you'd been mouthing the words to a song you never actually knew, your whole life, and someone has finally told you what it means."
 
 She wiped her face with the heel of her hand, and looked at the flower, and then she straightened, and Viridia saw the change come over her, the same fierce decided thing she had seen only once before, the day Mrs. Zoran had risked herself to read a dark mage's inscription aloud.
 
@@ -134,7 +134,7 @@ She wiped her face with the heel of her hand, and looked at the flower, and then
 
 It was late spring by then, and Viridia had not noticed it arriving, which was itself a kind of news.
 
-She noticed it on a night walk, after a lesson, when Alice was talking—she was always talking, on the walks back, the day's small overflow pouring out of her—about something inconsequential, a girl in the medical wing who had named all the cabinets, and a thing the head nurse had said, and how the windows there fogged up in a particular way in the mornings. Nothing. The kind of ordinary nothing that two people who live together share at the end of a day. And Alice said something—Viridia could never afterward remember exactly what, only that it was small and silly and perfectly timed—and Viridia laughed.
+She noticed it on a night walk, after a lesson, when Alice was talking. She was always talking, on the walks back, the day's small overflow pouring out of her, this time about something inconsequential, a girl in the medical wing who had named all the cabinets, and a thing the head nurse had said, and how the windows there fogged up in a particular way in the mornings. Nothing. The kind of ordinary nothing that two people who live together share at the end of a day. And Alice said something, Viridia could never afterward remember exactly what, only that it was small and silly and perfectly timed, and Viridia laughed.
 
 She laughed the way she had not laughed since the morning the world ended.
 
@@ -146,6 +146,6 @@ She thought of her mother, suddenly, and of how her mother had laughed, rarely, 
 
 She was healing. She let herself, for one whole night, know it. She was assembling a life out here in the dark, a strange one, a tiger and a dragon and a language and a friend and a teacher who had wept over a flower, and underneath the grief, alongside it, not instead of it, she was healing.
 
-What she did not know—what she could not have known, walking back across the spring grass with her friend's laugh still warm in the air—was that this was the high point. That a thing learns the shape of how much it can lose only after it has let itself have something worth losing. She had spent the worst weeks of her life arriving at the place where she had something to lose again.
+What she did not know, what she could not have known, walking back across the spring grass with her friend's laugh still warm in the air, was that this was the high point. That a thing learns the shape of how much it can lose only after it has let itself have something worth losing. She had spent the worst weeks of her life arriving at the place where she had something to lose again.
 
 And the world, which had taken her parents in a single ordinary morning, was not finished with her yet.
