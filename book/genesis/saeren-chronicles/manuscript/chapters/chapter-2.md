@@ -92,13 +92,13 @@ It was Alice who folded first, the way bright things do when the day catches up 
 
 She did not finish. She did not need to. *Proud* was already in the air, already arriving, and there was nothing Viridia could do to step out of its way.
 
-It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass, and she did the work, the quiet brutal ordinary work. Breathed once, around it, did not let it past, gripped nothing, let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
+It came up under her ribs the way water comes up a well, fast, without asking. Her eyes filled before she had decided anything. She turned her head toward the round window, toward the flaking gold and the trimmed-flat hedges beyond the glass. Her thumbnail found the seam of her skirt and pressed there until it stung, one clean point of feeling to count against. Breathed once, around it. Did not let it past. Let her face go still. *No one sees you do it.* Her mother's voice, or close enough.
 
 It held. It nearly didn't, and then it held.
 
 "Oh," Alice said softly, behind her. "Oh, I'm sorry. I didn't—" And then she was off the bed and across the floor and kneeling in front of Viridia, not touching, just there, near and careful, the way you stand near a thing you're afraid of breaking.
 
-Viridia turned back when she could trust her face. "It's all right." Her voice came out level. She was proud of that, in the small cold way she was proud of things now. "My parents died. Recently. I'm—" She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
+Viridia turned back when she could trust her face. "It's all right." Her voice came out level, and she logged the levelness the way she logged a sum that came out even — one small thing held in place. "My parents died. Recently. I'm—" She had been going to say *fine.* She heard how it would land and chose something truer instead. "I'm still getting used to it."
 
 Alice did not say any of the things people said. She did not say *they're in a better place* or *time heals* or *at least.* She just stayed where she was, kneeling on the cold floor of a room she'd had for an hour, and after a moment she reached up and patted Viridia very gently on the top of the head, twice, exactly as one might reassure a cat that the storm was nearly over. It was such an odd, graceless, kind thing to do that Viridia nearly laughed, which was, she suspected, the point.
 
