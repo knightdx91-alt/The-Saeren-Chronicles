@@ -70,7 +70,11 @@ For answer, he rose off the blanket and laid his broad brow against her breastbo
 
 *You do. You did it once already, when you called me. Your hands have not forgotten it. Stop asking your head.*
 
-She closed her eyes. She found, under her ribs, the thing she still flinched from, the place that had been so raw last night and was now only sore, and she did not push it the way she had pushed in the clearing. She only drew, gently, from both sides at once, and felt them rise together the way two streams meet and make a wider water, and she carried them up behind her eyes, and held them there, and Lor-ar said *now,* and she opened her eyes.
+She closed her eyes. She found, under her ribs, the thing she still flinched from, the place that had been so raw last night and was now only sore, and she did not push it the way she had pushed in the clearing. She only drew, gently, from both sides at once, and felt them rise together the way two streams meet and make a wider water — and then too fast, the draw running away from her like a tap wrenched full open. The water pitcher on the desk cracked clean across with a sound like a knuckle popping; the cold tray rattled; a hairline of frost ran up the inside of the window and was gone. She gasped and pulled back, and Lor-ar's paw came down firm on her wrist.
+
+*Less,* he said. *You are not bailing a sinking boat. You are dipping a cup.*
+
+She breathed. She tried again, smaller this time, and carried the two halves up behind her eyes the way you carry a full glass across a room, and held them there, and Lor-ar said *now,* and she opened her eyes.
 
 The room had caught fire. Not with heat. With light.
 
@@ -182,13 +186,11 @@ She would think about it, she understood, for the rest of her life. She filed th
 
 She stood at the door with her hand on the latch and did not, for a moment, open it.
 
-She was not the girl who had arrived three days ago. That one had been a grief on a chain, a hollow handed off to a porter and a school. This one had a tiger, and a riddle with no floor to it, and a hearth wheeling under her ribs, and she understood, standing there, that the loneliness she had carried up from the kitchen had a second story to it now, one she had built herself in the last hour and would have to live in alone: that there was no one in the whole school, no one in the whole *country* as far as she could tell, who was the thing she was. Not Alice, with her steady candle. Not the teachers with their pale flames. Not even Lor-ar, who was whole but was not human, who could see her clearly but could not be her.
+She was not the girl who had arrived three days ago. That one had been a grief on a chain, a hollow handed off to a porter and a school. This one had a tiger, and a riddle with no floor to it, and a hearth wheeling under her ribs. There was no one in the whole school — no one in the whole *country,* as far as she could tell — who was the thing she was. Not Alice, with her steady candle. Not the teachers with their pale flames. Not even Lor-ar, who was whole but was not human, who could see her clearly but could not be her.
 
-She was not broken. That was the strange new fact of her, the one she would carry into the office and not say. She had spent fourteen years being told she was a smaller, dimmer, half-thing in a world of half-things, and it was not true. The half-things were all around her, going about their lives, building their bright candle-sized futures, and they were the wounded ones, every one of them, and they did not know it, and she could not tell them.
+She was not broken. That was the strange new fact of her, the one she would carry into the office and not say. She had spent fourteen years being told she was a half-thing in a world of half-things, and it was the half-things who were the wounded ones, every one of them, blind to the wound, beyond the reach of telling.
 
-She was the whole one. She might be the only whole person she had ever met.
-
-It should have felt like a gift. Some of it did. But she stood at the door and understood the rest of it too, the part nobody warns you about: that being the only whole person in a broken world is not the same as being the lucky one. It only means you are alone in a new and more complicated way, and that the people you love most are the ones you cannot share it with.
+It should have felt like a gift. Some of it did. But being the only whole person in a broken world was not the same as being the lucky one. It only meant you were alone in a new and more complicated way, and the people you loved most were the ones you could not share it with.
 
 Lor-ar wound once around her ankles, warm, the prickle of a held storm in the air of him.
 
