@@ -68,7 +68,7 @@ She came up out of sleep with a start and found herself nose to nose with Lor-ar
 
 *I had begun to wonder,* he said, unmoving, *whether you intended to sleep through to spring.*
 
-"How long—" Her voice came out cracked. The window was dark; the half-moon hung in it, low. Hours, then. She pushed herself upright, and the rawness had gone, not entirely, but mostly, the spent place inside her filled back up to something workable. "Did someone bring food?"
+"How long was I out?" Her voice came out cracked. The window was dark; the half-moon hung in it, low. Hours, then. She pushed herself upright, and the rawness had gone, not entirely, but mostly, the spent place inside her filled back up to something workable. "Did someone bring food?"
 
 *Your friend. The round one, Alice. She came, and was very put out that you were asleep, and left you that.* He nodded at the tray. *She and I had a long conversation while you snored. You snore, little one. I felt you would want to be told by someone who cares for you.*
 
@@ -80,7 +80,7 @@ Viridia stopped with the spoon halfway up. "Broken how?"
 
 *Your people have only one side of the gift,* Lor-ar said, as though this answered everything.
 
-"How does that make us broken?" The soup was forgotten now; she had turned fully toward him. "Everyone has one side. That's just — that's how it is. You're light, or you're dark, or you're nothing at all. That's the whole world."
+"How does that make us broken?" The soup was forgotten now; she had turned fully toward him. "Everyone has one side. That's just how it is. You're light, or you're dark, or you're nothing at all. That's the whole world."
 
 *That,* said Lor-ar, *is the whole of the world you were given. It is not the whole of the world.* He looked at her with something that was almost pity and almost patience and entirely ancient. *You cannot have life without death, little one. Nor light without the dark. Most higher things are made with both. It is the natural shape of a living thing. The lower beasts may have only one, and that is no fault of theirs; they were made that way, and they are whole in the way a thing is whole when it was never meant to be more.* The storm eyes held hers. *Your people were meant to be more. And someone, long ago, took the other half away. That is the brokenness. Not a flaw you were born with. A wound that was done to you, so long ago that you have forgotten it was ever a wound, and call the scar your nature.*
 
@@ -94,13 +94,13 @@ She had finished the bread and was deciding whether she could manage to undress 
 
 "Dragon," Alice said.
 
-Then, "No. Tiger. *Why is there a—*"
+Then, "No. Tiger. *Why is there a...*"
 
 *I am not a pet,* Lor-ar said, with great dignity, from the middle of the floor.
 
-Alice shrieked, a short delighted terrified sound, and clapped both hands over her mouth, eyes enormous over the top of them. "It talks. It's in my *head.* Viridia, it's a talking tiger and it's in my head and it's got *horns,* are you seeing this, why are you so calm, why is there a horned talking tiger on our—"
+Alice shrieked, a short delighted terrified sound, and clapped both hands over her mouth, eyes enormous over the top of them. "It talks. It's in my *head.* Viridia, it's a talking tiger and it's in my head and it's got *horns,* are you seeing this, why are you so calm, why is there a horned talking tiger on our..."
 
-"His name's Lor-ar," Viridia said. "He's mine. I bonded him. Today. In the forest." It still sounded mad, said aloud, in an ordinary bedroom. "I'm sorry. I should have — there wasn't really a way to warn you."
+"His name's Lor-ar," Viridia said. "He's mine. I bonded him. Today. In the forest." It still sounded mad, said aloud, in an ordinary bedroom. "I'm sorry. I should have warned you. There wasn't really a way to."
 
 Alice took her hands slowly down from her mouth. She looked at Lor-ar. Lor-ar looked at Alice. And then, instead of fear, instead of the dozen sensible reactions available to a person who has come home to find a horned predator on the floor, Alice's whole face opened into the helpless friendly delight that Viridia was coming to understand was simply how Alice met the world.
 
@@ -128,15 +128,15 @@ And she meant the *thank you* the way she had meant it to Amber, too large for t
 
 It was Alice, when the wonder had worn down to a glow, who remembered her own news.
 
-"Oh, oh, I forgot, with all the tiger. *I've got a sponsor.*" She said it the way she said the best things, unable to keep it in. "A fourth-year. She heard I was first-generation, and she's first-generation herself, and she came and found me and asked, just like that. I've written to my father already. He's going to be—" Her voice caught on it, on her father being proud, and she pushed past it. "She thinks I should study in the medical wing. Says it'd suit me."
+"Oh, oh, I forgot, with all the tiger. *I've got a sponsor.*" She said it the way she said the best things, unable to keep it in. "A fourth-year. She heard I was first-generation, and she's first-generation herself, and she came and found me and asked, just like that. I've written to my father already. He's going to be..." Her voice caught on it, on her father being proud, and she pushed past it. "She thinks I should study in the medical wing. Says it'd suit me."
 
-Viridia listened, and was glad for Alice, genuinely, warmly glad, and underneath the gladness, so quiet she almost missed it in herself, was a thread of something more complicated. Alice was building a life here. A sponsor of her own, a wing of her own, a path of her own that had nothing to do with Viridia and everything to do with who Alice was going to become. Three days ago they had been two strangers at the outside edge of the same room. Now Alice had somewhere to go in the morning, somewhere that was hers. It was exactly what Viridia had wanted for her. It was also, she registered with a small private honesty, a door opening between them, the first hairline gap of two lives that had briefly been one and would now begin, gently, to be two again. She was happy for Alice. She was. And she was, very faintly, afraid of being left — which she recognized, the moment she felt it, as the same fear that had sent her into the forest to call for something that would *stay.*
+Viridia listened, and was glad for Alice, genuinely, warmly glad, and underneath the gladness, so quiet she almost missed it in herself, was a thread of something more complicated. Alice was building a life here. A sponsor of her own, a wing of her own, a path of her own that had nothing to do with Viridia and everything to do with who Alice was going to become. Three days ago they had been two strangers at the outside edge of the same room. Now Alice had somewhere to go in the morning, somewhere that was hers. It was exactly what Viridia had wanted for her. It was also, she registered with a small private honesty, a door opening between them, the first hairline gap of two lives that had briefly been one and would now begin, gently, to be two again. She was happy for Alice. She was. And she was, very faintly, afraid of being left, which she recognized, the moment she felt it, as the same fear that had sent her into the forest to call for something that would *stay.*
 
 She put the thought away with the others. She was good at putting things away. She let only the gladness show.
 
 "Does it?" Viridia asked. "Suit you?"
 
-Alice considered this with her usual gravity. "I think so. I helped look after my grandfather, at the end. My nan and I. It wasn't — it wasn't nice, but I wasn't squeamish about it, and I didn't mind sitting with him, even the hard bits. Magic can't heal everything, you know. Somebody still has to sit with the parts it can't." She said it simply, and Viridia thought, not for the first time, that Alice was a great deal less ordinary than Alice believed herself to be. "So. Maybe. I'd like to be useful. I'd like to be the sort of person they're glad came."
+Alice considered this with her usual gravity. "I think so. I helped look after my grandfather, at the end. My nan and I. It wasn't nice, but I wasn't squeamish about it, and I didn't mind sitting with him, even the hard bits. Magic can't heal everything, you know. Somebody still has to sit with the parts it can't." She said it simply, and Viridia thought, not for the first time, that Alice was a great deal less ordinary than Alice believed herself to be. "So. Maybe. I'd like to be useful. I'd like to be the sort of person they're glad came."
 
 "You already are," Viridia said.
 
