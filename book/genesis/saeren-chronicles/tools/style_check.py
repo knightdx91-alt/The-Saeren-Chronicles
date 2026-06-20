@@ -40,10 +40,19 @@ ALLOWLIST = [
     "be careful who you let see you do it",
     "no one sees you do it",
     "let see you do it",
+    "you decide who sees",                  # tail of the planted refrain
     "both sides of the gift",
+    "made for someone with both sides",     # canon: the focus/whole-gift line
     "dark blue stone", "dark-blue stone",
     "the source of all magic",
-    "since the morning the world ended",   # recurring grief refrain (intentional)
+    "since the morning the world ended",    # recurring grief refrain (intentional)
+    "the detail that did not fit",          # Viridia's defining habit (through-line)
+    "tree of names a thousand years deep",  # the family-tree motif
+    "one tooth turned a little out of line",# Alice's recurring descriptor
+    "anything that keeps you alive is worth doing",  # Raizen/Lor-ar mantra (callback)
+    "more life than anyone had ever told",  # mana-sight "world is alive" refrain
+    "anyone had ever told her",
+    "empty space the size of alice",        # the Alice-shaped absence (deliberate motif)
 ]
 
 # n-gram repetition settings
