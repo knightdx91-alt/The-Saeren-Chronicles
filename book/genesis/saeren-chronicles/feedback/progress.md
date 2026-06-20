@@ -60,3 +60,24 @@ style_check.py: Ch.1-4 no longer appear under CEILING or FINGERPRINT flags; no N
 PRESERVED: water motif (Ch.1), planted lines "be careful who you let see you do it" (x2) and "no one sees you do it" (Ch.1+2), all canon, voice, plot, continuity. Genesis Floor >= 8.5 maintained (density reduction does not weaken any dimension; no grounding/interiority/dialogue removed).
 
 NOTE: supersedes NEXT STEPS item #4 above (the Ch.1-4 ceiling-breach lock) — that item is now resolved.
+
+## BOOK-PACKAGER DELIVERY (2026-06-20)
+Editorial package + production assembly complete (Book One delivery).
+
+**delivery/editorial/**
+- logline.md (primary + 3 alternates)
+- synopsis.md (1-page + 3-page; reveals ending, for agents/editors)
+- query-letter.md (hook, ~200-word summary, bio placeholder, comps Bardugo/Pierce/Nix, metadata: YA epic/school fantasy, ~85,000 words, Book One of a trilogy, standalone-with-series-potential)
+- back-cover.md (no-spoiler cover copy + short variant + Amazon conversion description)
+- cover-brief.md (art direction: dark-blue stone, Hazel grey stone/iron gate, Lor-ar, Raizen, two-halves core, rose-tinted motif; cool palette; Bardugo/Nix/Novik feel refs; title treatment)
+- upstream-signals.md (logline easy → no premise-clarity issue; query break at the attack/Alice-unknown → no structural-suspense issue)
+
+**delivery/production/**
+- production-notes.md
+- (master) manuscript/full-manuscript.md — title page + all 18 chapters, clean CHAPTER headings, `* * *` scene breaks normalized.
+
+**Counts:** full-manuscript.md = 84,911 words (assembled, prose only); source chapter total 85,115 (incl. headers/comments stripped during assembly). 18 chapters.
+
+**Proofread:** full read + targeted consistency search. Manuscript already clean — effectively zero copyedits needed. Canon spellings verified (Pembrook, Jazen [no "Jasen"], Lor-ar, Raizen, Isolde/Lightwell, rose-tinted). Sister "Jan" consistent (ch.15/17). High Chancellor unnamed on page — preserved (foundation's "Erik Meros" never appears in chapters; not invented into copy).
+
+**Not done (non-blocking):** EPUB/print binaries (no platform specified); front/back matter beyond title page (need publishing details). Author decisions still open (Alice's fate, unsigned-note author, Raizen's affinity, the family-tree name). Re-seed family-tree-name in Bk2 (its Ch.2 spellbook vehicle burned in Ch.16).
