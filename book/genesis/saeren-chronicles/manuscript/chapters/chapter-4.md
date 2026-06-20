@@ -12,7 +12,11 @@ At the front, behind a desk that groaned, sat a very large man in a brown tweed 
 
 And he sat, and the room sat, and for the better part of an hour there was nothing but the rustle of pages and the occasional ruinous sneeze.
 
-The reading was dry and Viridia drank it anyway. The first chapters laid out the thing Mrs. Zoran had told her sideways an hour before, only flattened into dates and consequences: how the light mages had risen, six hundred years gone, into the seats of the central government; how the dark mages had been pushed first to the edges of power and then off them entirely; how, further back, in an age the text called *the Sundering Wars* and treated with the brisk discomfort of a family discussing a hanged uncle, there had been a long campaign to put the dark lines to the sword. The text did not call it a crusade. The text called it *consolidation.* Viridia underlined the word with her eye and did not underline it on the page.
+The reading was dry and Viridia drank it anyway. The first chapters laid out the thing Mrs. Zoran had told her sideways an hour before, only flattened into dates. The light mages had risen, six hundred years gone, into the seats of government. The dark mages had been pushed first to the edges of power and then off them. And further back, in an age the text called *the Sundering Wars* and handled with the brisk discomfort of a family discussing a hanged uncle, there had been a long campaign to put the dark lines to the sword.
+
+The text did not call it a crusade. The text called it *consolidation.*
+
+Viridia's pencil stopped. *He kept bees,* Mrs. Zoran had said. *The gentlest soul I ever knew.* She underlined the word with her eye and did not underline it on the page.
 
 She took notes: the years of the wars, the trade laws that had followed, the slow squeeze that had turned the dark-born and then the gift-less into people who got the work nobody else wanted. And once, near the end of the second chapter, in a paragraph plainly included so it could be dismissed, she read a thing that stopped her pencil.
 
@@ -120,7 +124,7 @@ The spectacles went still in Lady Lightwell's hand.
 
 For a moment Lady Lightwell said nothing, and the nothing was worse than shouting would have been. She rose from her chair and went to the window, where a sliver of afternoon got through the blind, and stood with her back to them, and when she spoke it was to the glass.
 
-"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How many people would close it tomorrow if I gave them a reason? How small a reason it would take?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you walk in here and ask me to put a three-day first-year into the one course in this school I would least like to have to explain. You don't know what you're asking, Miss Summers. You think you do. You don't."
+"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How small a reason it would take to close it?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you ask me to put a three-day first-year into the one course in this school I would least like to explain. You think you know what you're asking. You don't."
 
 "Then tell me," Amber said. Quiet. Brave. Too brave, maybe. "Tell me what I'm asking."
 
