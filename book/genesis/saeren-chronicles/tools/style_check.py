@@ -78,6 +78,9 @@ ALLOWLIST = [
     "she did not cry she",                  # same motif, n-gram window
     "three second years five third years",  # Ch16 headcount motif (the count that won't add to Alice)
     "second years five third years",        # same headcount motif, window
+    "the most dangerous thing about you",   # Lightwell's deliberate through-line: Viridia's clear sight IS her danger (Ch4 + Ch16)
+    "most dangerous thing about you",        # same through-line, n-gram window
+    "is the most dangerous thing about",     # same through-line, n-gram window
     "the hollowing",                        # canon: the named dread-object/war-blight (deliberate term, Ch10-15)
     "drink the light out of the land",      # Hollowing description echo (deliberate)
     "drunk the land empty",                 # same Hollowing description (deliberate)
