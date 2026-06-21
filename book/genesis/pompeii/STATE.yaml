@@ -57,13 +57,15 @@ guardrails:
   - "CLIMAX: when she tries to leave, her family cannot pass through to the future. Choice = stay in the past with them or leave to save herself, AS Vesuvius erupts. The eruption is the literal + emotional ticking clock."
   - "ROMANCE HEAT: explicit when it occurs (on-page, detailed, sensual) BUT NOT a smut/erotica book. Intimacy is OCCASIONAL and earned — driven by story/emotional beats, not a quota. NOT a sex scene every ~10 pages. The romance and history carry the book; explicit scenes are punctuation, not the substance. Frequency: a handful of meaningful on-page scenes across the ~260k arc (e.g. first union, key relationship turns), with tension/yearning doing most of the work."
 
-open_author_decisions:
-  - "Protagonist's name and modern era (present day vs a specific decade?)."
-  - "Father OR grandfather as the archaeologist who sparked her love of the ancient world?"
-  - "The ex-gladiator's name and the specifics of the wife-affair scandal (whose court — Vespasian/Titus household, or a provincial governor's?)."
-  - "HOW she learns WHEN the door opens (a second oracle/sign, the treasure hunter's notes, a recurring celestial/temple cue?)."
-  - "Does the vanished treasure hunter reappear, and what is the larger mystery behind the map and the doors?"
-  - "Final choice outcome: does she STAY or GO? (this is the book's ending)."
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "PROTAGONIST: Mara Reyes. Modern frame set in the LATE 1990s (sidesteps phone/GPS questions). Her FATHER (deceased) was the archaeologist whose passion she inherited."
+  - "LOVE INTEREST: Valens (former arena name 'Lupus'); scandal = framed over a PROVINCIAL LEGATE's wife (he was her sworn bodyguard, framed politically — Greece-plausible, deniable). Children: Lucius & Aelia."
+  - "HOW SHE LEARNS THE WHEN: August Fenn (the vanished treasure hunter, alive & old, marooned in the past) has tracked the doors' rhythm; the Pompeii door's date is late summer 79 AD. Mara refuses the arithmetic until late (dramatic-irony clock)."
+  - "TREASURE-HUNTER PAYOFF: Fenn went through young, could not return, lives marooned & old in the past — the cautionary mirror; he reveals the WHEN."
+  - "ENDING: she STAYS. She lets the door close on the family's side and dies with them in the ash — an ACTIVE choice (hers, not the volcano's). The woman who kept returning to the past finally chooses the present she built."
+  - "POV/TENSE: FIRST PERSON, PAST, RETROSPECTIVE (older Mara looking back; Outlander register, dread bleeds backward)."
+  - "NO MODERN CODA: the book ENDS IN THE PAST (79 AD) with the eruption and her choice. Do NOT add a present-day excavation frame/ending."
 
 decisions:
   - "Folder-per-book genesis project under book/genesis/pompeii/."
