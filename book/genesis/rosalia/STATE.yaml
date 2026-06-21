@@ -64,10 +64,14 @@ resolved_author_decisions:
   - "LORE: dragon ancestral memory does NOT connect to Atlantis/vampires. Korvan & Amelia's bond is 'parallel outsiders', not shared bloodline."
   - "QUEEN/LORIC: the Queen does NOT remember killing Loric's father — one wartime kill among many. His vendetta is beneath her notice (tragic irony)."
 
-open_author_decisions:
-  - "Is Korvan's mother alive / does he have siblings?"
-  - "Does the chief know Korvan's connection with Amelia was genuine (not the propaganda figure she'll be made into)?"
-  - "Does Korvan confide the garden meeting to anyone, or carry it alone?"
+# --- RESOLVED round 2 by author 2026-06-21 ---
+resolved_author_decisions_r2:
+  - "KORVAN FAMILY: only child; mother DEAD (no siblings). Maximum isolation; no 'normal shifter' sibling."
+  - "CHIEF KNOWS: yes, privately — the bond was genuine; he allows the propaganda anyway (tragic, not oblivious)."
+  - "THE SECRET: Korvan carries the garden meeting ENTIRELY ALONE — no confidant. Reader is the only one who knows. (Overrides architect's 'confide to Selwyn' proposal.)"
+  - "MAREN: CONFIRMED — add as Amelia's keeper/handmaid, the one human the Queen won't feed on (court-thread relationship + human stake)."
+  - "ENDPOINT: accepted as architect proposed — Loric outlasted/contained at heavy cost (not negotiated); reader-only reveal the Queen never knew his name; bittersweet partial peace, sequel-optional."
+  - "STYLE MOTIFS: accepted — add to ALLOWLIST: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'."
 
 # --- Architect PROPOSALS (2026-06-21) — flagged, NOT locked; confirm with author ---
 architect_proposals:

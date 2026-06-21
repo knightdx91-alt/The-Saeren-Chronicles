@@ -38,6 +38,10 @@ WORD = re.compile(r"[a-z']+", re.I)
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
     # Add THIS book's deliberate recurring motifs / canon terms here.
+    "only what everyone saw",
+    "a country with one citizen",
+    "eats voices",
+    "survive to fight later",
 ]
 
 # n-gram repetition settings
