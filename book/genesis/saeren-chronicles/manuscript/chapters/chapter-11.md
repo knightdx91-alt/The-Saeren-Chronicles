@@ -134,7 +134,7 @@ Viridia ran through everything she had read, and came up empty, and said so.
 
 "You could," Lor-ar agreed. "It is a thing the dark mages have always known and the light mages never trouble to learn, because they have never had to fear an enemy who could read the thread. You can read the thread. You can do a great many things they have never had to fear, little one, which is exactly why you must never, ever let them learn that you can, until the one moment when letting them learn it is the last thing they ever do." He held her gaze a beat longer than was comfortable. "File it. You will want it one day. I hope you will not, but you will."
 
-Viridia filed it. It went onto the long list, the one that was filed for the uncomfortable later, and she had the cold sense, sitting in the scorched clearing with her healed arm and her aching shoulders, that the later was coming closer.
+Viridia filed it. It went onto the long list, the one reserved for the uncomfortable later, and she had the cold sense, sitting in the scorched clearing with her healed arm and her aching shoulders, that the later was coming closer.
 
 Lor-ar drew the rest of it out of her the same way, question by question, where the army was strong and where it was blind, where numbers helped and where they hindered, how a small force that could not be found might still strike a large one that could; and where she was wrong he corrected her, and where she was right he made her say *why,* until the loose facts in her head settled into something with edges. A map of how the war would actually be fought. And, faint but unmistakable upon it, the place where a girl with both halves of the gift and a spear and a dragon and a list of filed and terrible things might come to matter.
 
