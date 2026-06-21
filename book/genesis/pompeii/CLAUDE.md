@@ -48,16 +48,26 @@ book/genesis/<slug>/
 ## How to continue
 1. `cd book/genesis/<slug>` and read `STATE.yaml` and `feedback/progress.md`.
 2. `ls manuscript/chapters/` and `git log --oneline` to find the last finalized chapter.
-3. Produce the next chapter IN ORDER. Locate its material in `research/original-draft.txt`
-   and REVISE/EXPAND to the roadmap beats — do not invent from scratch. Match the locked
-   Ch.1 voice if one exists. Run each chapter through: write → dialogue-polish → hook-craft
-   → disruptor → evaluate → quality gate.
+3. Produce the next chapter IN ORDER. Build from the outline beats — match this book's voice.
+   Run each chapter through: write → dialogue-polish → hook-craft → disruptor → **pacing
+   check** → evaluate → quality gate.
 4. Commit per chapter: `git add -A && git commit -m "genesis: finalize chapter N"`.
 
-## Quality gates (both must pass before a chapter is "done")
+## Quality gates (ALL must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
-  no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **PACING CHECK — required after EVERY chapter.** Before a chapter is finalized, assess its
+  pacing and its pacing *in context of the chapters around it*:
+  - scene-vs-summary balance; does any stretch sag or rush?
+  - dialogue share within the genre band (~30–45%; target ~35%);
+  - the emotional "W" — is this chapter's beat the right high/low for its slot in the arc
+    (see foundation.md CALIBRATION), or are we stacking too many same-energy chapters?
+  - tension/forward pull: does it open with a hook and end with a pull (hook-craft)?
+  - chapter length vs. neighbors (no chapter >2× another; watch for bloat or thinness).
+  - Log the verdict in `evaluations/` (a one-line pacing note per chapter is fine) and in
+    `feedback/progress.md`. If pacing is off, fix via book-editor/disruptor BEFORE finalizing.
+- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, **em-dash ≤4 per
+  chapter (absolute)**, no NEW cross-chapter repeated phrase (add deliberate motifs to
+  ALLOWLIST), tics under ceiling. Log frequent flags in `feedback/style-flags.md`.
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:

@@ -47,6 +47,7 @@ guardrails:
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share (~30-45%), the emotional-W slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
   - "Build to the story bible; honor the beat order; historically accurate 'to a certain point' (Outlander standard) — real period detail + real political backdrop, fictional leads."
   # --- Settled author canon ---
   - "TONE/SCOPE: Outlander-style sweeping time-slip historical romance. ONE long standalone (~260k target, 220k floor) running all the way through the eruption and her final choice."
