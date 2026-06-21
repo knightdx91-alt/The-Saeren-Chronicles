@@ -5,7 +5,7 @@ project:
   language: "English"
   word_count_target: 95000
   comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  engagement_type: {primary: "empathy (55%)", secondary: "fascination (30%)", tertiary: "self-insertion (15%)"}
   premise: "A medical resident who has seen Death since she was nine learns she is the reincarnated wife of Acheron — the man who became Death — and must decide whether to take up the mantle of Lady Death, just as the deposed Old Gods (and the mysterious powers that stripped them) move to reclaim their abandoned domains."
   created: "2026-06-21"
   updated: "2026-06-21"
@@ -17,7 +17,7 @@ adaptation:
   canon_sources:
     original_draft:  "research/original-draft.txt"   # author's opening scene = voice benchmark + seed canon
   chapter_1_locked: false        # opening is the VOICE BENCHMARK; may be polished but preserve its voice
-  chapters_to_produce: []        # set after architect builds the outline
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # 20-chapter standalone, ~96k projected
 
 word_floor:
   manuscript_min_words: 90000
@@ -26,11 +26,11 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — opening staged as voice benchmark; decisions resolved; awaiting architect"
-  history: []
+  status: "architecture complete — ready for chapter loop"
+  history: ["2026-06-21: architect built foundation.md, outline.md, voice-dna.md (20 ch, ~96k); proposals logged for author confirmation"]
 
 chapters:
-  total_planned: 0
+  total_planned: 20
   completed: []
   scores: {}
 
@@ -66,3 +66,28 @@ decisions:
   - "Folder-per-book genesis project under book/genesis/finding-lady-death/."
   - "Single-POV Alice (close third or first — architect to confirm to match the opening's voice)."
 revision_cycles: 0
+
+# --- Architect proposals (2026-06-21) — AUTHOR MUST CONFIRM before/at chapter loop ---
+# Each is a PROPOSAL, not locked. Detail/rationale in foundation.md & outline.md.
+architect_proposals:
+  cosmic_engine:
+    recommendation: "BOTH threads braided: the BEINGS are the DEADLINE, the OLD GODS are the CONSEQUENCE."
+    detail: "Finding Alice ENDS the Beings' grace period (their reunion is the inciting catastrophe). Rule: complete the office (install Lady Death) or it reverts to its previous holder — the deposed Old God of Death. The Old Gods press the seam of an incomplete Death to reclaim domains. The Beings stay UNKNOWABLE (phenomena, not characters), per canon ('Beats me')."
+  antagonist_face:
+    proposal: "THE FIRST DEATH — the deposed Old God of Death; courtly, reasonable, partly RIGHT (a Death that plays favorites IS dangerous). Wants his office back; works to make Alice REFUSE / run out the clock; weaponizes her medical vocation against her. NAME and GENDER open."
+  mantle_timing:
+    proposal: "Alice takes the Lady Death mantle at the CLIMAX (Ch.18), not the midpoint — so the whole book is the WEIGHING. Midpoint instead delivers the antagonist + first past-life memory."
+  mantle_cost:
+    proposal: "Becoming Lady Death severs her mortal life AND her memory of THIS life (keeps soul-memory across all lives, loses Alice-of-Brookwood / Reyes / Jonah / patients). Bittersweet-but-affirming ending; she becomes the mercy at others' bedsides. SOFTER cost is available if author prefers (e.g., mortality only, memory kept)."
+  past_life_recall:
+    proposal: "PARTIAL/emotional recall, not a full download — surfaces midpoint (Ch.10 fragment) and blooms Ch.12 — so present-Alice's CHOICE stays hers, not the late wife's. Confirms canon: same soul, so 'jealousy of the wife' is dramatic irony, never a triangle."
+  acheron_prior_loss:
+    proposal: "[optional] Alice is NOT the first reincarnation Acheron found — he found her once before and LOST her (she died before she could choose). Explains his terror of the clock and his over-protective withholding. Author may drop this if simpler is preferred."
+  pov_tense:
+    recommendation: "Close THIRD on Alice, PAST tense throughout (incl. dialogue tags). The opening mixes past narration with present-tense tags — standardize to PAST in Ch.1 polish; preserve all other opening voice + canon lines verbatim."
+  setting:
+    proposal: "Contemporary Ohio, real-feeling: Youngstown / Brookwood Medical Center, Ohio winter texture."
+  cultural_vocabulary:
+    proposal: "Brand 'Lady Death' as 'the mercy in the office of Death'; secondary phrase 'the grace period' (double meaning). Add to style-gate ALLOWLIST as deliberate motifs."
+  structure:
+    fact: "20 chapters x ~4,800-5,000w = ~96,000w (clears 90k floor). Turning points: PT1 Ch.5 (25%), MIDPOINT Ch.10 (50%), PT2/Dark Night Ch.15 (75%), CLIMAX Ch.18-19 (90%). Heat: open-door moderate, Ch.8 & Ch.13."
