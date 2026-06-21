@@ -1,0 +1,75 @@
+project:
+  title: "The Gift"
+  genre: "Science fiction thriller"
+  subgenre: "Near-future biopunk / superhuman-origin thriller with romance (multi-POV)"
+  language: "English"
+  word_count_target: 100000
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "A genetics prodigy who cracks the 'mutant gene' and gives himself and his two closest people superhuman powers builds a biotech empire whose real, hidden purpose is to seed humanity on another world — at any cost — until a grieving government investigator and the price of their own ambition close in."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# Hybrid run: author supplied a finished Chapter 1 (AO3) + detailed continuation notes.
+# Architect builds foundation + outline + voice-dna FROM those; Ch.1 prose is the voice benchmark.
+adaptation:
+  mode: "genesis-from-opening+notes"
+  canon_sources:
+    original_draft: "research/original-draft.txt"               # AO3 Ch.1 = voice benchmark + seed canon
+    continuation_notes: "research/author-continuation-notes.md" # author's plan for Ch.2 onward (canon intent)
+  chapter_1_locked: false   # Ch.1 is the VOICE BENCHMARK; may be polished, preserve its voice
+  chapters_to_produce: []   # set after architect builds the outline
+
+word_floor:
+  manuscript_min_words: 95000
+  manuscript_target_words: 100000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "scaffolded — Ch.1 + notes staged; decisions resolved; awaiting architect"
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Build to research/author-continuation-notes.md (author intent wins); preserve the Ch.1 VOICE benchmark; do not contradict the seed prose."
+  # --- IP guardrail (critical) ---
+  - "ORIGINAL IP ONLY. X-Men is Troy's in-world FANDOM/inspiration only. The actual story's powers, characters, teams, and terminology must be ORIGINAL — NO Marvel names/trademarks (no 'Kitty Pryde', 'mutant gene' as Marvel term is fine as in-world placeholder X-17 m25, no X-Men team names) in the story world. Powers may be archetypes (phasing, bio-electricity) described originally."
+  # --- Settled author canon ---
+  - "MCs (three): TROY — genetics prodigy, 17 at start, 6'11\", pale blond, X-Men-obsessed; cracks the 'mutant gene' (X-17 m25) via CRISPR and experiments on himself first. RAVEN — Troy's girlfriend; power = phasing (walk through walls/solid matter). KNIGHT — Raven's brother; serum turns his blood to bio-electricity, eyes glow electric blue."
+  - "TROY'S FAMILY: Mom = guardian ad litem; Dad = motorcycle-riding mechanic with his own shop; Sister = brilliant, courted by big tech (Intel-like) + possible future govt contracts. Recurring family dinners at the diner."
+  - "ORIGIN: run-down warehouse by the water. Troy serums Raven then Knight (both unconscious during transformation). Raven wakes first, reaches to comfort Knight, he shocks her, she phases through the wall. Ends on a group photo: 'this is the start of the rest of our lives.'"
+  - "TIME JUMP: the three run a biotech company. Public face = gene editing / designer babies / removing genetic disease. HIDDEN purpose = fund seeding human life on another (Goldilocks-zone) planet; settlers must be modified to survive. Public slogan 'A New World'; full hidden slogan 'A New World At Any Cost.'"
+  - "ASSISTANTS: each MC hires a personal assistant; at a joint conference they reveal the real purpose and offer a CHOICE — take the serum (not knowing its effect) or leave. Those who accept go to sub-level 3, separate rooms, to await unknown transformations."
+  - "THE CHILDREN (dark engine): MCs buy orphanages, selecting kids of resilient ages as the BASE for the work — trained, eventually serumed, meant to be the planet's settlers. A wilderness training 'camp' (can be deadly)."
+  - "ANTAGONIST CLOCK: a govt task force investigates unethical genetic experiments. Its lead was told to leave the company alone, but his DAUGHTER died from ANOTHER company's experiments; he holds the MCs guilty by association and goes after Troy. Race against the clock."
+  - "ENDGAME TECH: a one-way teleporter / portable wormhole. MIT researchers Troy once helped were lured (with others) to the company to build it."
+  - "FRAMING: the three MCs are SYMPATHETIC ANTIHEROES (we root for them despite the darkness). MULTI-POV (Troy + Raven/Knight and/or the investigator). SERIES — Book One ~100k, ending on the launch/escape (the new planet itself is later books). Romance (Troy/Raven) is a STRONG thread; heat = OPEN DOOR, MODERATE."
+
+open_author_decisions:
+  - "Book One endpoint specifics: where exactly the launch/escape cliffhanger falls; who/what makes it through the one-way wormhole."
+  - "How morally far the antiheroes go on-page re: the children (architect to handle with care; confirm lines not to cross)."
+  - "The investigator's name + how close he gets by Book One's end."
+  - "Names for the three assistants and key kids."
+  - "Setting/city specificity."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/the-gift/."
+  - "Multi-POV; Ch.1 first-person Troy voice is the benchmark — architect to confirm how multi-POV coexists with the first-person opening."
+revision_cycles: 0
