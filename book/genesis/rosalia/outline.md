@@ -30,8 +30,10 @@
 ### Chapter 2 — "Unshifted" [K]
 - **Premise:** Korvan, sixteen-plus and still no animal, travels to the vampire banquet
   in his father's retinue, an outsider among the about-to-belong.
-- **Function:** Korvan's cage (the shame of not-yet); introduce the chief, Selwyn, Loric
-  (reasonable, watchful). Plant fire-building pedantry + swim memory.
+- **Function:** Korvan's cage (the shame of not-yet); introduce the chief (his only
+  family — mother dead, no siblings), Selwyn, Loric (reasonable, watchful). Plant
+  fire-building pedantry + swim memory. Establish the father-son pair as a *pair of two*:
+  the chief is all Korvan has, and vice versa.
 - **Anchor:** Korvan watching a younger clan-mate get congratulated for a recent first shift.
 - **Surprise:** He jokes brightly at exactly the moment he's most humiliated.
 - **Opening:** Bridge — contrast cut from Amelia's interior to Korvan's exterior world.
@@ -111,12 +113,14 @@
 ### Chapter 7 — "The Long Quiet After" [A]
 - **Premise:** Amelia, now exposed, is hidden *deeper* by the Queen — a tighter cage.
 - **Function:** Open the court clock. The Queen's defend-or-disavow trap begins. Introduce
-  Maren (proposed). The protective choice reads as guilt to the world.
+  **Maren** — Amelia's keeper/handmaid, the one human the Queen won't feed on, the closest
+  thing Amelia has to a friend. Establish their relationship as Amelia's human stake. The
+  protective choice reads as guilt to the world.
 - **Anchor:** Amelia listening to the castle through walls — acoustics, now a prison sense.
 - **Surprise:** The Queen does something tender and useless.
 - **Structure:** Essayistic-interior + scene.
 - **Theme:** Present (what you owe what you chose to make).
-- **Chaos:** Beeswax memory returns, mutated; Maren recounts the silver.
+- **Chaos:** Beeswax memory returns, mutated; Maren recounts the silver when frightened.
 - **Subtext:** Queen/Amelia = "I'm protecting you" / "you're burying me."
 - **Beat subversion:** Genre expects the heroine to plot escape; instead she's smothered
   by love, and love is indistinguishable from a cell.
@@ -156,13 +160,22 @@
 - **Premise:** The father-son argument: Korvan demands the chief should have acted; the
   chief explains survival-to-fight-later.
 - **Function:** Core of Korvan's moral dilemma, stated and dramatized. Swim memory pays
-  off as the chief's creed. (Proposed: chief privately admits he knows the bond was real.)
+  off as the chief's creed. The chief reveals he *knows* the bond with Amelia was genuine
+  (resolved canon) — and allows the propaganda anyway; he infers the bond from the public
+  exposure, NOT from any garden confession (Korvan never told him; the garden meeting
+  stays sealed inside Korvan, unspoken even here). The chief's knowing-yet-allowing is
+  what makes him tragic and the dilemma unbearable.
 - **Anchor:** The chief letting go of a rope/hand — echo of the swim memory, now ruinous.
 - **Surprise:** The chief weeps, briefly, and Korvan has never seen it — and it doesn't help.
 - **Structure:** Single-scene, two-hander; the book's quietest, hardest chapter.
 - **Theme:** Present (pragmatism vs clarity — the thesis scene).
 - **Chaos:** Korvan snaps viciously at Selwyn afterward (the big one), can't take it back.
-- **Subtext:** "Later" = a word the chief has never once cashed.
+  **The snap is the secret leaking.** Korvan is carrying the garden meeting ENTIRELY ALONE
+  — no confidant, the reader the only witness — and the pressure of holding what no one
+  else may know, on top of the father's tragic knowing-yet-allowing, has nowhere to go but
+  sideways into a cruelty Selwyn didn't earn. Not a confession; a pressure-leak.
+- **Subtext:** "Later" = a word the chief has never once cashed. Under it: the thing
+  Korvan will not say to anyone, the weight he carries by himself.
 - **Beat subversion:** Genre expects the mentor-father to be either right or wrong; he is
   *both*, and the scene refuses to resolve which.
 - **Words:** ~5,200.
@@ -211,6 +224,9 @@
 - **Structure:** Collage (proclamations + court scene + interior).
 - **Theme:** Present (perception as weapon, now turned on both).
 - **Chaos:** Mind-reading the court; beeswax memory at the war council.
+- **Maren thread:** Maren's torn loyalty sharpens — the war that makes Amelia a banner
+  also forces Maren toward a choice between the Queen (who spared her) and Amelia (whom she
+  loves). One quiet beat of Maren's own dread, visible through behavior, not Amelia's analysis.
 - **Subtext:** "We honor you, princess" = "we own you."
 - **Beat subversion:** Genre expects her own side to be refuge; instead her allies
   weaponize her exactly as her enemies do.
@@ -220,15 +236,23 @@
 - **Premise:** Korvan tries to opt out — to disappear, be no one's weapon — and learns a
   dragon cannot hide; both sides want or fear him.
 - **Function:** Drive him toward TP3. Loric makes the first move to claim/control or
-  destroy the dragon-asset. (Proposed: Korvan confides the garden truth to Selwyn here.)
+  destroy the dragon-asset. **No confession thread** — Korvan still tells no one about the
+  garden; the secret stays his alone. The chapter's pressure is internal: the dragon makes
+  hiding impossible, and the one thing that might explain *who he really is* (the garden,
+  the bond, that he is not the sympathizer-monster of the propaganda) is a truth he refuses
+  to spend — so he is misread by everyone and cannot correct it, by his own choice.
 - **Anchor:** Korvan trying to leave and finding there is nowhere a dragon is not seen.
-- **Surprise:** Selwyn's loyalty cracks — the trinket-hoarder keeps one secret too many.
-- **Structure:** Chronological with a confession scene.
+- **Surprise:** Selwyn offers, plainly, to *come with him* — and Korvan realizes he can't
+  bring anyone where he's going, and can't even tell Selwyn why; the friendship reaches its
+  ceiling at the wall of the thing Korvan won't say. (The isolation is self-chosen and total.)
+- **Structure:** Chronological with an interior-pressure scene (no confession beat).
 - **Theme:** Present (you cannot inherit a war and decline it).
 - **Chaos:** Selwyn states the obvious as wisdom; Korvan's swim memory at the choice point.
-- **Subtext:** "Just leave, then" = "I can't follow you where you're going."
-- **Beat subversion:** Genre expects the "run away together" escape fantasy; the book
-  proves there is no off-ramp for the marked.
+- **Subtext:** "Just leave, then" (Selwyn) = "take me with you"; Korvan's silence =
+  "I can't, and I can't tell you why."
+- **Beat subversion:** Genre expects the "confide-in-the-loyal-friend / run away together"
+  beat; instead Korvan declines both the confession and the company — the marked carry it
+  alone, and the book denies even the comfort of being known by a friend.
 - **Words:** ~5,200.
 
 ---
@@ -245,6 +269,8 @@
 - **Structure:** Single-scene set-piece.
 - **Theme:** Present (perception over truth, the body count of a lie).
 - **Chaos:** Loric, winning, hears his father's *laugh* (re-read seed curdles his victory).
+- **Maren thread:** Maren's choice comes due — she acts (or refuses to act) in a way that
+  costs her, giving Amelia's public ordeal a private human price (the friend who paid for her).
 - **Subtext:** "Look what you've done" = "look what I made them think you did."
 - **Beat subversion:** Genre expects a courtroom-style vindication; truth is offered and
   it changes *nothing* — the thesis made literal.
@@ -342,6 +368,10 @@
 - **Anchor variety:** visual (gown, painting), auditory (acoustics, laugh), gestural
   (hand on shoulder, letting go), verbal (fountain line) — spread, no 3 same in a row.
 - **Chaos distribution:** each major character ≥2–3 chaos beats, spread not clustered.
+- **Secondary-character own-life scenes:** Maren's own dread/loyalty-choice is visible
+  through behavior in Ch.7, Ch.11, Ch.13, Ch.15; Selwyn's own life (betrothal dread,
+  hoarding, the "come with you" offer) surfaces in Ch.6, Ch.8, Ch.14. Both clear the
+  "≥2 secondary-character own-life moments" bar.
 - **Opening diversity:** Ch.1 ordinary-made-strange; later bridges vary (in medias res,
   collage, two-hander) — never repeated back-to-back.
 - **Breathing room:** Ch.3 and Ch.11 RECEDE; Ch.12 receding then slamming.

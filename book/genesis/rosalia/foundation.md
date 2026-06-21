@@ -64,7 +64,8 @@ conflict by themselves — no external events need injecting:
 **Korvan's private engine:** he is exposed as a *vampire sympathizer* before he is
 anything at all — then becomes the one impossible thing (a dragon, clan of one) that
 proves the order has always had blanks in its map. The accusation defines him before
-he can define himself.
+he can define himself. And the secret of the garden is his *alone* — he tells no one,
+ever — so the pressure has no outlet; it can only build until it snaps.
 
 ---
 
@@ -75,7 +76,8 @@ is native: every relief move tightens the trap.
 
 - **Setup (0–10%).** Two cages introduced in parallel: Amelia hidden behind the
   Queen's walls, desperate to be *seen*; Korvan, sixteen-plus and still unshifted,
-  the chief's son with no animal — already a quiet humiliation.
+  the chief's son with no animal — already a quiet humiliation, and the last of his
+  line in every sense (mother dead, no siblings).
 
 - **TP1 — Exposure (~25%).** Banquet → garden meeting → Loric spies them → **public
   exposure of Amelia.** The chief is trapped: declare war or face a leadership
@@ -111,7 +113,7 @@ is native: every relief move tightens the trap.
 
 - **Climax & residue (75–100%).** Loric cannot be satisfied, only stopped or
   outlasted; the war cannot be un-started, only redirected. Resolution is partial and
-  costly. The Queen never learns why any of it happened. Endpoint proposed in §7.
+  costly. The Queen never learns why any of it happened. Endpoint in §7 (accepted).
 
 ---
 
@@ -160,7 +162,8 @@ grief early on, and cannot explain it.
 ### Korvan (POV)
 **Surface:** Easy, well-liked, the chief's son who jokes to deflect the unshifted shame.
 **Wound:** Late to shift in a culture where shifting *is* belonging — already an outsider
-before the dragon.
+before the dragon; and an only child whose mother is dead, so the chief is his entire
+family. The isolation is total: last of his line in blood and, after TP2, in kind.
 **Lie:** "Being good is the same as being useful." (Inherited from the chief's
 pragmatism; the book pries them apart.)
 **Want:** To shift, to belong, to be a normal member of a clan.
@@ -176,8 +179,10 @@ build a fire and judges everyone's attempts. Surfaces during the journey, once m
 journey = "this is the shift / something is wrong with me").
 **Unprompted memory:** A specific afternoon learning to swim — his father's hand letting
 go — surfaces, altered, at decision points. Not plot-connected.
-**Failed emotional management:** Snaps viciously at a loyal companion who didn't deserve
-it during the journey; can't take it back, can't explain it.
+**Failed emotional management:** Snaps viciously at a loyal companion (Selwyn) who didn't
+deserve it during the journey; can't take it back, can't explain it. The snap is the
+pressure of the garden secret he carries *alone* finding the wrong outlet — not a
+confession, not a near-betrayal, just a sealed thing leaking sideways.
 **Distinguishability:** Cover his name: fire opinions, sensory/physical, jokes to dodge.
 
 ### Loric (Antagonist)
@@ -202,15 +207,20 @@ is winning, and curdles the win.
 something other than rage — and he buries it instantly. The reader sees it; no one else does.
 
 ### The Chief (Korvan's father) — MINI+
-**Role:** Korvan's father; ruler trapped by Loric's public exposure.
+**Role:** Korvan's father and only family; ruler trapped by Loric's public exposure.
 **Surface:** Steady, weathered, deliberate.
 **Wound/Lie:** Believes "staying alive to act later" is always the higher duty — has
-never tested whether "later" comes.
+never tested whether "later" comes. Lost his wife (Korvan's mother) years ago; he
+"survived to fight later" then too, and it seeded the creed. Korvan is all he has left.
 **Their OWN problem:** Aging joints / a body failing him in a culture that respects
 strength; he hides it. Surfaces independent of Korvan's arc.
 **One irrational behavior:** Refuses to ride a particular horse, won't say why.
 **Voice marker:** Answers questions with proverbs/weather; long pauses before hard truths.
-**Open decision flagged:** Whether he *knows* Korvan's bond with Amelia was genuine — see §8.
+**KNOWS (resolved canon):** He *knows*, privately, that Korvan's bond with Amelia was
+genuine — and lets Korvan be made into the propaganda figure anyway, because protecting
+the truth would cost more than he can pay. Tragic, not oblivious. He does NOT know Korvan
+met her secretly in the garden (that secret is Korvan's alone); he infers the bond was
+real from what was publicly exposed. Sharpens the father-son dilemma.
 
 ### The Queen (Amelia's mother) — MINI+
 **Role:** Amelia's mother; ruler facing the defend-or-disavow trap.
@@ -219,8 +229,8 @@ strength; he hides it. Surfaces independent of Korvan's arc.
 protected by control / secrecy — the very thing that caged Amelia.
 **Their OWN problem:** Rules an empire she increasingly finds hollow; the protection
 pact she upholds disgusts her in private.
-**One irrational behavior:** Keeps a human servant she will not feed on and cannot
-explain the attachment to.
+**One irrational behavior:** Keeps a human servant (Maren) she will not feed on and
+cannot explain the attachment to — the same Maren who is Amelia's keeper.
 **Voice marker:** Imperative mood; never asks, instructs; rare second-person tenderness
 only to Amelia.
 **Tragic irony (canon):** Does not remember Loric's father. Will never learn the cause.
@@ -232,15 +242,20 @@ only to Amelia.
 - OWN problem: betrothed to someone he doesn't love; dreads going home as much as Korvan.
 - One irrational behavior: hoards small useless trinkets from each village.
 - Voice marker: states the obvious as if it's wisdom.
+- **NOT a confidant (resolved canon):** Korvan never tells Selwyn (or anyone) about the
+  garden meeting. Selwyn remains a friend and witness; the secret stays sealed. The road
+  tension between them comes from Korvan's pressure leaking (the snap), not from a
+  confession or a betrayal risk.
 
-**Maren — Amelia's keeper/handmaid at court (proposed; flag).**
-- Role: the human servant the Queen won't feed on; raised alongside Amelia, closest
-  thing to a friend.
+**Maren — Amelia's keeper/handmaid at court (CONFIRMED, resolved canon).**
+- Role: the one human the Queen will NOT feed on; Amelia's keeper/handmaid, raised
+  alongside her, the closest thing Amelia has to a friend — and Amelia's human stake.
 - OWN problem: torn loyalty — owes the Queen her life, loves Amelia, the war forces a choice.
 - One irrational behavior: re-counts the silver obsessively when frightened.
 - Voice marker: speaks in negatives ("I won't say it's wrong, but—").
-- *Proposal flag: Maren is invented to give Amelia's thread a relationship and a human
-  stake. Confirm or cut.*
+- Note: Maren IS the "human servant the Queen won't feed on" referenced in the Queen's
+  profile below — one person, two functions (the Queen's refused inheritance AND Amelia's
+  relationship/stake). Woven through every Amelia court-POV chapter.
 
 ---
 
@@ -253,7 +268,7 @@ only to Amelia.
 2. **The fire-building argument.** Korvan's pedantry about building a fire on the road
    pays off when the dragon's flame makes the question grotesque — the small mastery he
    prized was always a shadow of the thing inside him.
-3. **The Queen's untouched servant.** Planted early as a quirk; on reread it's the
+3. **The Queen's untouched servant (Maren).** Planted early as a quirk; on reread it's the
    Queen's whole secret heart — proof she was always a woman who refused her
    inheritance, long before Amelia.
 4. **Loric "only said what everyone saw."** A phrase he repeats; on reread it's the
@@ -281,7 +296,7 @@ grief was real and still made him monstrous.
 
 ---
 
-## 7. PROPOSED ENDPOINT (architect proposal — flag for author)
+## 7. ENDPOINT (ACCEPTED by author — resolved canon)
 
 A complete single-novel arc that honors "Loric cannot be satisfied, only stopped":
 - The war cannot be un-started; the climax is not Loric's defeat-by-argument (impossible
@@ -293,20 +308,24 @@ A complete single-novel arc that honors "Loric cannot be satisfied, only stopped
   ending the inherited dilemma not by choosing pragmatism or clarity but by acting
   where his father only ever waited.
 - Bittersweet, partial peace; the cost is named; sequel hooks remain (the war's
-  aftermath) without requiring a sequel. *Flag: confirm tone/endpoint with author.*
+  aftermath) without requiring a sequel. (Accepted, no change.)
 
-## 8. OPEN DECISIONS — ARCHITECT PROPOSALS (flag, do not lock)
+## 8. AUTHOR DECISIONS — RESOLVED (binding; see STATE.yaml resolved_author_decisions_r2)
 
-- **Korvan's mother/siblings:** *Propose* mother deceased years ago (a clan-death the
-  chief "survived to fight later" — seeding the pragmatism creed), one younger sibling
-  who *does* shift normally on time (sharpening Korvan's outsider ache). Flag for author.
-- **Does the chief know the bond was genuine?** *Propose YES, privately* — he knows, and
-  still lets Korvan be made into the propaganda figure, because protecting the truth
-  would cost more than he can pay. This makes the father-son dilemma sharper and the
-  chief tragic rather than oblivious. Flag for author.
-- **Does Korvan confide the garden meeting?** *Propose he confides ONLY in Selwyn*, late
-  and partially — giving the secret a witness and a betrayal risk, and a reason for the
-  snap. Flag for author.
+- **Korvan's mother/siblings:** RESOLVED — Korvan is an **only child** and his **mother
+  is dead**. There is NO younger sibling. The "normal shifter sibling" contrast is
+  removed; Korvan's isolation now comes from being the **last of his line in every
+  sense** (orphaned of his mother, only child, and after TP2 a clan of one).
+- **Does the chief know the bond was genuine?** RESOLVED — **YES, privately.** He knows
+  and allows the propaganda anyway; tragic, not oblivious. (Matches the original proposal.)
+- **Does Korvan confide the garden meeting?** RESOLVED — **NO. He carries it ENTIRELY
+  ALONE.** He tells Selwyn no one. The reader is the only witness. The emotional
+  pressure and the Ch.10 snap come from *carrying it alone*, not from a confession or
+  betrayal risk. (Overrides the earlier "confide to Selwyn" proposal.)
+- **Maren:** RESOLVED — **CONFIRMED.** Amelia's keeper/handmaid and the one human the
+  Queen won't feed on; woven through the Amelia court-POV chapters as relationship +
+  human stake.
+- **Endpoint & style motifs:** RESOLVED — **accepted as proposed** (§7 and voice-dna §4).
 
 ## 9. OPENING STRATEGY
 

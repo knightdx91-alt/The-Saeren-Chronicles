@@ -100,7 +100,7 @@
 - **Sample line:** "Here's the thing about a dragon, though — and I've thought about this —
   there's no hiding one. That's just... that's just dragons for you."
 
-#### Maren (support, proposed)
+#### Maren (support — CONFIRMED: Amelia's keeper, the human the Queen won't feed on)
 - **Syntax fingerprint:** Speaks in negatives and double-negatives; says what she *won't* say.
 - **Verbal tics:** "I won't say it's wrong, but—"; recounts the silver when afraid.
 - **Sample line:** "I won't say the Queen's lying to you. I'll just say I've counted the
