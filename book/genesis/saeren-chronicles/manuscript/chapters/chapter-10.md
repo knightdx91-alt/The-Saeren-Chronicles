@@ -74,7 +74,7 @@ She learned the shape for growth first, because Lor-ar said the gentle ones were
 
 Once, on the fourteenth night, Lor-ar broke off a lesson mid-shape and stood, ears forward, facing out past the treeline, and would not say what he had heard. Viridia turned the sight that way and found, far off past the forest, the same low greyness she had glimpsed from the assembly window weeks before, a thinning in the living threads of the land, as though somewhere too distant to name a thing had begun to drink the light out of the world. It held a moment. Then it was gone. "What is that," she asked, and Lor-ar said only, *A thing that is getting closer. Mind your shape. We have less time than the spring would have you believe,* and she filed it, and the lesson went on, but the ease had gone out of the night.
 
-There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it. She was building, she had noticed, a long and growing list of things filed for later, and she was beginning to suspect that the later they were filed for was not going to be a comfortable one.
+There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it away. She was building, she had noticed, a long and growing list of such things, set aside for a later she was beginning to suspect would not be a comfortable one.
 
 * * *
 
@@ -84,7 +84,7 @@ He had been growing fast, half the size of Drake already, though he kept to a sm
 
 *You are doing it wrong,* Raizen said. *You are thinking the shape. You should be remembering it.*
 
-Viridia went very still. Alice, beside her, had not heard it; it had come down the bond, hers alone. "Raizen?"
+Viridia stopped dead. Alice, beside her, had not heard it; it had come down the bond, hers alone. "Raizen?"
 
 *Yes.* A pause, and then, with the unmistakable delight of a creature trying out a new toy: *I can talk now. I have your memories, did you know? From the bond. So I already know how to. It is very strange, having someone else's words in my mouth before I have grown the mouth properly.* The small head tipped against her jaw. *You give the shapes too much effort. They are in you already, the way they are in me. Stop building them. Just recall them, the way you recall your own name.*
 
@@ -104,7 +104,7 @@ Viridia saw less of Alice in the daylight now, and the seeing-less had its own s
 
 One afternoon Viridia went and found her there, because she missed her, and stood in the doorway of the long bright ward and watched Alice work before Alice saw her. It was not glamorous work. There was a child with a fever that no spell could quite break, and Alice was sitting with her, wringing out a cloth in cold water and laying it on the small hot forehead and talking, low, the steady inconsequential stream of talk that was Alice's truest gift, naming the things in the room one by one to give the fever something to follow that was not itself. The child's eyes tracked Alice's voice. The healers came and went with their focuses and their bright workings, and did the parts that magic could do, and Alice did the part it could not, which was to be a warm voice in the room so that no one had to be ill alone.
 
-Viridia did not go in. She watched a while, and went back to her library, and thought about it for a long time.
+Viridia did not go in. She stood there a while, and went back to her library, and thought about it for a long time.
 
 That evening Alice came back later than usual and sat on the edge of her bed without taking her shoes off. "The man from the coast died this morning," she said. She said it plainly, and the plainness was its own held thing; Viridia recognized the shape of it, having a great deal of that shape herself. "The one with the burns. The healers had done everything there was to do, days ago. There wasn't any more magic for it. So at the end it was just sitting." She looked at her hands. "His own people couldn't reach here in time. So it was me. I held his hand." A silence. "I'm glad it was me. Is that a strange thing to be glad of? I keep thinking it must be. But I am. I'm glad he wasn't on his own."
 
