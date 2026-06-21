@@ -56,6 +56,8 @@ The others started in surprise. The woman in blue began, "Coram."
 
 "You know as well as I do," Coram said, turning on them, his soft voice gone hard, "that we cannot hold this place if the three of them leave. And you know as well as I that half the people in this camp are tired of hiding, tired of growing old in a box, tired of teaching their children that the safest thing they can do is disappear. He speaks sense. I'm too old to pretend he doesn't because I'm afraid." He looked back at Jazen. "If it goes wrong, it goes wrong on all our heads, not yours alone. But it goes."
 
+The stately woman had not moved. Now she laid her palms on the table, the way Jazen had, and Viridia braced for the cold arithmetic to come down against him. Instead the grey eyes went, for one unguarded second, to the window, to the sound of the children in the lane. "I buried two sons to the decrees," she said, in a voice with no warmth in it and no waver either. "I have spent four years deciding it was wiser to keep what was left. I find I no longer believe my own arithmetic. Go, Jazen. I will hold the line behind you until there is no line to hold." It cost her something to say; Viridia could see it cost her, the way it costs a person to lay down a thing they have made their whole self out of carrying. Then the coldness came back over her face like a shutter, and she was, once more, the woman who counted the dead before they died.
+
 The sunburned man, Brutus, looked from face to face, and was the last to yield. "If this goes badly, Jazen," he said heavily, "remember that we told you."
 
 "I'll remember," Jazen said. "I remember everything. It's the curse of my family." And he glanced at Viridia by the wall, and tipped his head toward the door, and she followed him out.
