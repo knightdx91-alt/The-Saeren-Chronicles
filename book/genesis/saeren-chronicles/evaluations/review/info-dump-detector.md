@@ -1,81 +1,208 @@
-# Info-Dump Detector — The Saeren Chronicles, Book One
+# INFO-DUMP DETECTOR — Review Report
 
-*Read-only. Found via longest-paragraph scan (blank-line blocks > ~120 words) + judgment. Severity: minor / moderate / heavy. Calibration: a mentor explanation IN SCENE, with friction, kept short, is fine — flagged only the inert ones. Fix types: dramatize / distribute / demote / delete.*
+**FRESH SCAN.** This report is a fresh, full read-through of the round-3 revised
+manuscript (chapter-1.md … chapter-18.md) as it stands today. It supersedes and
+overwrites the earlier info-dump-detector report. Read-only diagnosis — no prose
+was edited.
 
-**Headline:** the book's exposition problem is **not** scattered clutter — it is **concentrated in a few "download" set-pieces** where the plot stops and a wise figure (or the magic itself) explains the world at length. The prose is good enough that these read as *features* to invested readers and as *stalls* to casual ones (see beta-reader-panel.md confusion map). The biggest offenders are Ch.7, Ch.14, and parts of Ch.9.
+## Method
+Read all 18 chapters in order. Flagged passages where the narrative stops to
+explain (lore / backstory / mechanics / "as-you-know" dialogue / catalogued
+description) or summarizes emotion instead of dramatizing it. Each finding gives
+chapter, a locating quote, why it stalls, severity, and a remedy tag:
+**DRAMATIZE / DISTRIBUTE / DEMOTE / DELETE.**
 
----
+Deliberate motifs ("no one sees you do it / you decide who sees," "she filed
+it," "the same object seen from different sides," the breakfast-toast callback)
+were treated as intentional refrains and NOT flagged.
 
-## HEAVY
-
-### H1 — Ch.7, the entire "your people are broken" thesis (Lor-ar)
-**Locator:** *"It is the shape of the ones you have met…"* (179-word paragraph) + the surrounding mentor monologue that *is* most of the chapter.
-**Type:** mechanics/cosmology lecture (maid-and-butler-adjacent: the tiger explains the world to the heroine).
-**Length:** dominates a ~4,700-word chapter; dialogue density 4% (lowest in book).
-**Why it stalls:** This is the book's central idea delivered as a single sustained download. There is *some* friction (Viridia "wants to argue," "bristles"), and the **carrots-are-alive** beat brilliantly dramatizes the mana-sight mid-lecture — that part is the model. But the cosmology proper (severing, "a wound done to you," whole vs. broken) is *received*, not discovered. The reader is waiting to *see* the idea cost something; instead they're told it, beautifully, at length.
-**Fix:** **DISTRIBUTE + dramatize.** The carrots/Lor-ar's-core demonstration should carry MORE of the load; cut the abstract restatements (the chapter says "broken/whole" several times in slightly different words). Move some of the "deliberate severing" content to where it's *dramatized* — it later gets re-delivered in Ch.14 anyway, so Ch.7 can do *less* telling and lean on the visual reveal. Target: trim the thesis ~25%.
-
-### H2 — Ch.14, the source pours its memory into her (the well download)
-**Locator:** *"She saw the pact. The first one, made in the second war…"* (209 words) and *"She saw more than the fact of it. The source did not give her dates or names…"* (222 words).
-**Type:** lore/history block — and the most literal info-dump device in the book: a magic object *injects* the cosmology directly into the protagonist's mind.
-**Length:** ~3 consecutive 200+ word paragraphs of pure world-history.
-**Why it stalls:** It is the single densest exposition in the manuscript, and multiple beta personas (Casual, Devourer, Critic) name it as where they disengaged. The frame ("the source poured itself into her") is an explicit *bypass* of dramatization — the reveal happens *to* her with no obstacle. The "lattice / cut in the world / fear of equals" content is the book's intellectual payload and it arrives as a lecture from the universe.
-**Fix:** **DISTRIBUTE across the book + concretize what remains.** The "deliberate severing" is foreshadowed (Ch.3 Mrs. Zoran, Ch.4 history text, Ch.7 Lor-ar) — so by Ch.14 the reader half-knows it; the well can *confirm with feeling* rather than *explain from scratch*. Keep the emotionally concrete strands (the mother-thread; the void absence — both are *experiential*, not expository, and they work). Compress the historical recap ~30–40%.
-
----
-
-## MODERATE
-
-### M1 — Ch.9, Lightwell explains the resistance (the office two-hander)
-**Locator:** *"It still isn't… There is a resistance…"* (283-word paragraph) + *"They killed his sister…"* (236) + *"For you it would mean leaving…"* (211).
-**Type:** plot/backstory exposition, but **delivered in scene with real subtext** ("we can each ruin the other"). Jazen's sister, the resistance structure, the evacuation plan, the threshold — all explained here.
-**Why it's borderline, not heavy:** This is the *good* kind: the information is *charged*, the two characters are negotiating trust while it's delivered, and Viridia *reads Lightwell's hidden core* visually underneath the talk. It earns most of its length. BUT it's a lot of world-machinery in one sitting (resistance + Jazen backstory + the decree-line + the evac plan), and the back third tips from "scene" into "briefing."
-**Fix:** **DISTRIBUTE.** The Jazen-sister story and the threshold-line are re-explained again by Amber in Ch.15. That's a redundancy: one of the two should carry it. Recommend trimming Ch.9's version (keep the *trust* negotiation) and letting Amber's Ch.15 wind-scene deliver the decree-mechanics (where it's better placed, closer to the payoff). Removes a ~15k-word gap between "here's the plan" and "the plan happens."
-
-### M2 — Ch.8, Drake's "long ago a pact was struck" speech
-**Locator:** *"Long ago… when your kind and mine still kept faith…"* and the six-thousand-years exposition (153-word block).
-**Type:** lore/backstory.
-**Why moderate (and mostly forgiven):** It *is* a lecture, but it's framed as a grieving father saying a hard thing he'd rather not, and it's intercut with the most affecting characterization in the book (a parent giving away a child). The friction and emotion carry it.
-**Fix:** **DEMOTE lightly.** A couple of the more textbook sentences ("The years wore on it. Your kind forgot.") could compress; the emotional content should stay untouched.
-
-### M3 — Ch.16, the captain's monologue mid-climax
-**Locator:** *"You can plead all you like… Rumors reached us that Lightwell was sheltering dark mages…"* through *"The law is the law."*
-**Type:** "as-you-know" plot explanation (the decree, the glasses, the Chancellor's visit) — delivered by a villain *during* the action climax.
-**Why it stalls (and it's the worst-placed dump in the book):** The reader is sprinting through the attack and is made to *stand still* for a villain to explain the causal chain. It's also where the book's causal hole lives (see analytical-peer-review.md §1). And there's a **copy-edit seam**: two sentences run together without a paragraph break (`...Harrow Field." "After what he saw here...`).
-**Fix:** **DISTRIBUTE earlier + DELETE from the climax.** The decree/glasses logic should be established *before* Ch.16 (Amber half-does it in Ch.15). In the attack, the captain needs only menace and the *emotional* beat ("I have girls of my own"), not the plot briefing. Cut the exposition; keep the chill. Fix the quote seam.
-
-### M4 — Ch.11, Lor-ar's opening essay on the Dangris
-**Locator:** *"There is a people who were born with only the light…"* + *"I do admire them…"* (139–141-word blocks).
-**Type:** thematic/world essay (the "what a creature does with what it's given" idea).
-**Why moderate:** It's a chapter-opening lecture before any scene starts (high-risk position — see below). Thematically rich but inert until the Dangris actually arrive. The *idea* (contentment with the one half vs. grieving the lost half) is good but is *told* before it's *shown* by the Dangris' actual conduct.
-**Fix:** **DISTRIBUTE into the training scene.** Let the lesson emerge from watching the Dangris fight and give the spears, rather than front-loading it as Lor-ar's pre-amble.
+## Headline
+The manuscript is, overall, strikingly well-dramatized for a magic-system-heavy
+YA fantasy. Most lore arrives in-scene, with friction, attached to a character
+who wants something. The dense chapters reviewers worried about (6, 7, 10, 14)
+mostly hold up because the exposition is staged as live teaching with emotional
+stakes. The real recurring weakness is **not** front-loaded lore dumps — it is
+**summarized-emotion / narrated-meaning tails**: paragraphs at scene-ends (and
+especially chapter-ends) where the prose stops showing and starts *telling the
+reader what the scene meant*, often restating a theme the scene already earned.
+This is a stylistic tic, low-to-moderate severity, spread across nearly every
+chapter, and it is the single biggest momentum cost in the book.
 
 ---
 
-## MINOR
+## TOP FINDINGS (highest priority)
 
-- **Ch.3, Mrs. Zoran "What is magic?" + "knowledge is power" sequence.** Exposition, but *fully dramatized* — Socratic Q&A, the exploding flowerpot, real risk in the telling. This is the **model for how the book should deliver mechanics**. Not a dump; cited as the positive example.
-- **Ch.4, the History-class reading (Sundering Wars / "consolidation").** In-scene, short, and it *characterizes* (Viridia underlining "consolidation" with her eye). Works; the dropped-lantern woodcut detail is excellent. Minor only because it's a paragraph of summarized text — acceptable.
-- **Ch.10, the Moravian-language explanation.** Lor-ar explains the language is "real, a people, the Moravians." Borderline-moderate (it's exposition in a montage chapter), but it's broken up by Alice learning alongside and the leaf-growing demonstration. Keep an eye on it; it's part of why Ch.10 drags (pacing-heatmap.md).
-- **Ch.5, Amber's backstory.** NOT a dump despite its length — it's *the* dramatized-backstory model: told "badly, out of order," with "anyway," the pot still on. This is backstory done right; included only to contrast with H1/H2.
+### 1. Ch.7 — the "essayistic" structural tail (HEAVY, telling-not-showing)
+Locators: "It came out of him slowly, in the way she was learning he gave the
+things that mattered…"; the closing sections from "She did not cry. She wanted,
+suddenly…" through "It is a lonely kindness." and the door beat "She was not the
+girl who had arrived…".
+Why it stalls: The chapter's own header says "Structure: Essayistic," and it
+shows. The Lor-ar reveal itself is well-dramatized (the mana-sight scene with the
+carrots, her own core, Alice's candle is excellent, in-scene, sensory). But the
+reveal is repeatedly *re-narrated and interpreted* for the reader afterward —
+"You are the larger, whole version. And the world is the broken one." is the
+payload, and then several later passages restate "she is not broken / she is
+alone in a new way" in slightly different words. The reader has already felt it;
+the restatement is the stall.
+Remedy: **DEMOTE.** Keep the dramatized seeing-scene whole. Compress the
+interpretive tails — particularly the window-watching-Alice meditation and the
+door-latch meditation, which make the same point twice. Trim, don't gut: this
+chapter leans on reflection by design, so cut the *redundant* restatements
+rather than the reflection itself.
+
+### 2. Ch.6 — Lor-ar's "broken" lore lecture (MODERATE, lore/mechanics)
+Locator: "*You cannot have life without death, little one. Nor light without the
+dark. Most higher things are made with both…*" (the coin/flame/lower-beasts
+speech).
+Why it stalls: This is the first statement of the central magic premise and it is
+delivered as a near-uninterrupted monologue with Viridia mostly receiving. It
+works better than most because it has friction ("How does that make us broken?")
+and a strong button ("call the scar your nature"). But it is then *re-explained*
+in Ch.7 ("A coin cannot be minted with a single face…") — the same metaphor
+cluster, twice, two chapters running.
+Remedy: **DISTRIBUTE** (word-floor note: Ch.6 runs lean at ~4,306, so no net cut
+here). Split the load: let Ch.6 carry the *emotional* charge of "broken" (Lor-ar
+refuses to explain fully; she sits with the word in the dark — already partly
+done), and let Ch.7's in-scene seeing carry the *mechanics*. Right now both
+chapters carry both. Recover any trimmed words by expanding Ch.6's dramatized
+beats, not by adding exposition.
+
+### 3. Ch.14 — the source/severing "download" (MODERATE-HEAVY for length, largely earned)
+Locators: the long knowing-pour, "She saw the pact… She saw, after, the
+severing… and *cut*…"; "The light mages had not won the second war…"; the
+beekeeper/Amber/Alice recap "She thought of Mrs. Zoran's dead brother… She
+thought of Amber…".
+Why it stalls: The book's biggest single block of pure exposition — the entire
+backstory of the world (pact, severing, why dark mages are rare, the fear of
+equals) downloaded in one contact. It is *framed* well (she touches the source;
+it answers; the kneeling, the weeping, the absence at the rim are genuinely
+dramatized) and the prose works to give "the feel of the thing… a kitchen before
+it gives you a year." But several paragraphs are history-textbook in disguise,
+and the "She thought of X… She thought of Y…" recap explicitly ties the lore back
+to earlier characters for the reader — a telling move.
+Why mostly leave it: this is the Act-Two climax payoff; the spiral structure and
+the download are the point.
+Remedy: **DEMOTE** the explicit recap paragraph ("She thought of Mrs. Zoran's
+dead brother… every grief she had touched in a month, ran back to this room") —
+that connective tissue does the reader's synthesis for them. One sentence would
+do the work of the present five. Leave the sensory contact, mother-thread, and
+absence beats intact — those are dramatized and load-bearing.
+
+### 4. Ch.16 — the captain's "as-you-know" confession (MODERATE, maid-and-butler)
+Locator: "Rumors reached us that Lightwell was sheltering dark mages here… The
+High Chancellor did not want to believe it… He came himself, you know. He looked,
+with his own eyes, with the proper tools." plus "The decree is signed."
+Why it stalls: In the book's biggest action set-piece, the antagonist pauses to
+narrate the entire causal chain (the glasses, the visit, the decree) — info the
+reader can mostly assemble — and Viridia then *re-narrates it again* ("So that
+was the answer to the question she had asked in the library a lifetime ago… He
+had come for Lightwell…"). Villain monologue + heroine restatement = the plot
+explained twice at the moment momentum should be highest.
+Remedy: **DRAMATIZE / DEMOTE.** Keep the captain's "I have girls of my own" /
+"that is what makes it a war and not a murder" — that's characterization under
+fire. Cut the procedural recap (rumors → visit → lenses → decree) to a line or
+two of menace, and trim Viridia's post-hoc interior summary. Let her *realize* it
+in one cold beat rather than re-explaining it in a paragraph.
 
 ---
 
-## CHAPTERS THAT OPEN ON EXPOSITION (high-risk position)
+## SECONDARY FINDINGS — summarized-emotion / narrated-meaning (the recurring tic)
 
-- **Ch.11** opens on Lor-ar's Dangris essay (M4) — exposition before scene.
-- **Ch.7** opens on waking + immediately into the brokenness thesis (H1).
-- **Ch.10** opens on a teaching demonstration (lower risk — it has a visual).
-- Most chapters open well, on a *scene* or a sharp image (Ch.1 scorched bread, Ch.16 "began like any other," Ch.13 the swept arena). The two true exposition-openers (7, 11) are both mentor-lecture chapters.
+The "show don't tell" patches: the scene has done its work, then a paragraph
+states the feeling/theme. Individually minor; collectively the book's main drag.
+Pattern fix: trust the dramatized beat; cut or halve the interpretive tail.
+
+- **Ch.5 end (MINOR-MOD):** "It was not grief. That was the remarkable thing
+  about it. / It was not grief at all." The kitten-Lor-ar romp already shows the
+  lightness; the lines label it. **DEMOTE.**
+- **Ch.8 (MINOR-MOD):** "She was changed in that moment. She knew it as it
+  happened…" + a full paragraph cataloguing the changes (senses, mana-sight,
+  second presence). The bonding is vividly dramatized; the change-inventory tells
+  what the scene implies. Also the closing "There was no undoing it…" restates
+  the anchor. **DEMOTE** one of the two reflective tails.
+- **Ch.9 close (MOD):** "The war was not coming to Hazel. / The war was already
+  here…" The corridor-of-hidden-cores scene is strong; the paragraphs spelling
+  out the meaning ("every one of those hidden girls was one bad afternoon
+  away…") are the narrator underlining. **DEMOTE** — keep the seeing, halve the
+  sermon.
+- **Ch.10 (MINOR):** Two adjacent Lor-ar speeches ("*You are trying to force
+  it…*") read as back-to-back aphorism delivery; "She was healing… She let
+  herself, for one whole night, know it." states the anchor outright; the "*high
+  point* / the world was not finished with her yet" tail is narrator-as-trailer.
+  **DEMOTE** the foreshadow tail.
+- **Ch.11 (MINOR):** Lor-ar's Dangris framing is a theme monologue but short and
+  characterful — borderline, leave. Raizen's "Anything that keeps you alive is
+  worth doing" is the anchor stated twice. **DEMOTE** one instance.
+- **Ch.12 (MINOR):** "She had become, in five weeks, a thing the room arranged
+  itself around… The whole architecture of her hiding had collapsed." Tells the
+  social shift the book has been showing. **DEMOTE.**
+- **Ch.13 (borderline):** "A test wants to know what you can do. An examination
+  wants to know what you *are.*" Tight and in-voice — leave; noted as part of the
+  pattern only.
+- **Ch.15 (MOD):** Two foreshadow tails — "She did not know it was the last
+  morning. That is the cruelty of the good hour…" and "She was not as ready as
+  she thought. No one ever is." Earned emotional peak, but two such tails in one
+  chapter is one too many. **DEMOTE** one.
+- **Ch.17 (MINOR-MOD):** The no-thread reaching for Alice is *beautifully
+  dramatized* (the physical reach into absence). The following grief-taxonomy
+  paragraphs ("It was not like reaching for the dead… This was worse…") restate
+  what the reach already delivered. **DEMOTE** the taxonomy; keep the reach.
+- **Ch.18 (MOD):** The closing "Less: … / More: …" accounting is a deliberate
+  finale device that largely works, but it is a literal recap of the book's
+  contents; and "Be careful who you let see you do it… It was not only *hide.* It
+  was *choose.*" re-interprets the motto for the reader. As a series-closing
+  thesis it's defensible. **DEMOTE** lightly — tighten the inventory; leave the
+  motif re-reading (intended landing).
+
+## Openings note
+Chapter openings are generally strong — most open mid-scene or on a concrete
+image (Ch.1 scorched bread; Ch.16 "the worst day… wears the same clothes"). None
+open with a cold lore dump. Ch.18 opens on an essayistic generalization before
+grounding — mild, in-voice, acceptable.
+
+## Positive controls (do NOT flag)
+- **Ch.3:** Mrs. Zoran waking the focus + "made for someone with both" — model
+  in-scene exposition with cost, friction, and subtext.
+- **Ch.4:** Mr. Cote's history pages framed as Viridia reading/reacting; the
+  quiz-essay dramatizes the theme rather than stating it. (Lean at 4,475 — do not
+  cut.)
+- **Ch.7 seeing-scene** (carrots / her own core / Alice's candle): exemplary
+  dramatized lore.
 
 ---
 
-## TOP INFO-DUMP FIXES (prioritized)
+## SEVERITY COUNTS PER CHAPTER
+(H heavy · M moderate · m minor)
 
-1. **Compress + concretize the Ch.14 well-download (H2)** — the densest, most-disengaging passage; multiple readers bounced. Lean on the experiential beats (mother-thread, void absence); cut the historical recap that's already foreshadowed elsewhere.
-2. **Trim the Ch.7 brokenness thesis (H1)** and let the *demonstration* (carrots, Lor-ar's core, Alice's seam-stump) carry the idea. The book's central theme should be *seen* more and *stated* less.
-3. **Remove the plot-briefing from the Ch.16 captain monologue (M3)** — distribute the decree/glasses logic to Ch.15; keep only menace + the human beat in the climax. Fix the run-together quote seam.
-4. **De-duplicate Ch.9 ↔ Ch.15 (M1):** the resistance/Jazen/threshold info is delivered twice. Pick the better-placed instance (Amber, Ch.15, near the payoff) and thin the other.
-5. **Fold Ch.11's opening Dangris essay (M4) into the scene** so the chapter starts in motion.
+| Ch | Findings | Note |
+|----|----------|------|
+| 1  | 0 | Clean — voice benchmark. |
+| 2  | 0 | Clean (spellbook/letter dramatized as discovery). |
+| 3  | 0 | Positive control. |
+| 4  | 0 | Positive control. Lean 4,475 — no cuts. |
+| 5  | 1 (m) | End-of-chapter emotion label. |
+| 6  | 1 (M) | "Broken" lecture; DISTRIBUTE, no net cut (lean 4,306). |
+| 7  | 1 (H) | Essayistic interpretive tails; DEMOTE redundant restatements. |
+| 8  | 1 (M) | Change-inventory + double reflective tail. |
+| 9  | 1 (M) | "War is already here" narrated meaning. |
+| 10 | 1 (m) | Foreshadow trailer tail; aphorism stacking. |
+| 11 | 1 (m) | Anchor stated twice. |
+| 12 | 1 (m) | "architecture of hiding collapsed" tell. |
+| 13 | 0 | One borderline aphorism — leave. |
+| 14 | 1 (M-H) | Source download; DEMOTE the explicit recap paragraph only. |
+| 15 | 1 (M) | Two foreshadow tails; DEMOTE one. |
+| 16 | 1 (M) | Captain "as-you-know" + heroine restatement; DRAMATIZE/DEMOTE. |
+| 17 | 1 (m-M) | Grief-taxonomy explanation after dramatized reach. |
+| 18 | 1 (M) | Finale recap inventory + motif re-reading (mostly intended). |
 
-**Note on calibration:** The book's exposition is *high-quality* — voice-rich, often emotionally charged — which is exactly why it's easy to over-indulge. The fix is rarely "delete"; it is "dramatize or distribute," and above all "trust the foreshadowing you already planted" so the big reveals can *confirm with feeling* instead of *explain from scratch*.
+**Totals:** Heavy 1 · Moderate 6 · Minor 7 · plus one pervasive cross-book tic
+(summarized-emotion chapter-end tails).
+
+## Single highest-leverage recommendation
+Do one targeted pass for **narrated-meaning tails**: at each scene/chapter end,
+find the paragraph that *explains what just happened* and cut or halve it,
+trusting the dramatized beat above it. This alone would lift pace across the whole
+book without touching the strong dramatized cores — and it can be done
+net-neutral on word count by reinvesting freed words into the lean chapters
+(4, 6) per the word-floor sensitivity.

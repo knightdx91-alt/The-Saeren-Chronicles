@@ -68,6 +68,8 @@ No hands. She had not expected any. She slipped the ring off her finger and laid
 
 For a moment nothing. Then green came up out of the soil, fast, a stem unspooling, leaves opening, and at the top a bud that swelled and split and went red, a deep wet poppy-red, the petals shivering as they unfolded. The whole class breathed in at once. The room smelled, suddenly and entirely, of turned earth.
 
+There was something else, too, and Viridia seemed to be the only one who caught it: a faint cold draught with no open window to explain it, a thin thread of metal laid along the back of her tongue. It was there and then it was gone. She pressed her tongue to her teeth and said nothing, and around her the other girls only clapped and craned for a better look, feeling, as far as she could tell, nothing at all.
+
 "Now." Mrs. Zoran took the ring off again and set it on the desk, where it sat looking utterly ordinary. "This is what can happen without one."
 
 She passed her bare hand over the next pot.
@@ -110,7 +112,7 @@ Mrs. Zoran turned it in her fingers, slowly, the cheerful patter gone quiet. She
 
 Then she pushed her magic into it.
 
-Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. The hair rose along her forearms. A taste came into the back of her mouth, cold and metal, and she pressed her tongue to her teeth and made it stay there, unmentioned. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
+Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. The hair rose along her forearms, the way it had lifted over the poppy pot, only stronger now, much stronger. The cold metal taste came back into the back of her mouth, and she pressed her tongue to her teeth and made it stay there, unmentioned. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
 
 The light faded. The cane stayed.
 
@@ -184,9 +186,9 @@ She watched Viridia take that.
 
 Her mouth thinned. "I've my own opinion as to why so many are born with no gift at all these days. I think we killed our way to it."
 
-Viridia held very still. "So it's a dark focus."
+Viridia did not move. "So it's a dark focus."
 
-"It's an *old* one. Older than the war, I'd guess, from the script and the metal. I've never seen the like of either. It may well have been made when whole was the ordinary thing and nobody thought it strange." She handed the cane back, and Viridia took it in both hands. "It's the strongest focus I've ever held. And it was made for someone with both sides of the gift."
+"It's an *old* one. Older than the war, I'd guess, from the script and the metal. Made, perhaps, when whole was the ordinary thing and nobody thought it strange." She handed the cane back, and Viridia took it in both hands. "It's the strongest focus I've ever held. And it was made for someone with both sides of the gift."
 
 The words sat between them. Mrs. Zoran did not ask the question. Viridia could see her decide, very deliberately, not to ask it.
 
@@ -206,14 +208,12 @@ Viridia thanked her, for the cane, for the words, for the risk she had only half
 
 The corridor was empty. The class had gone on; Alice was waiting somewhere down by History; the school went about its loud distant business one floor up and one floor down. For a moment there was nobody, and Viridia stopped, and held the cane up before her in the grey window-light.
 
-She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But standing alone in the empty corridor, she allowed in, briefly, something that grief had crowded out for days, not its grey weight, not the careful work of holding her face still.
+She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But standing alone in the empty corridor, she allowed in, briefly, something that grief had pushed under for days, not its grey weight, not the careful work of keeping her face level.
 
 She turned the cane once more and watched the grey light slide down the white scroll. A focus that had been thirsty long enough to frighten Mrs. Zoran. A focus made for someone whole, in an age when whole had been ordinary, handed down a tree of names a thousand years deep to a girl in a corridor who could not read its writing. It ought to have been too large a thing to hold. It sat balanced and easy in her hand, the way the rod had sat in the loop of her skirt, the skirt sewn around it. As though, somewhere down all those branches, someone had measured her without ever having met her.
 
-She felt curious.
+She felt watched.
 
-Someone had wanted her to have this. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her to keep it always. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* All of it was a door, and behind the grief, very faint, she heard herself want, for the first time since the kitchen, to know what was on the other side of it.
-
-The wanting frightened her a little too. It felt like the first warm thing in a cold house. You did not trust the first warm thing. But you stood near it.
+Not in the room — the corridor was empty. Watched across time. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her in advance what to say to a teacher she had not met. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* It was not a door swung open in welcome. It was a door someone else had already walked through, ahead of her, leaving it on the latch. Behind the grief, very faint, she heard herself want to know who — not the warm wanting of a girl handed a destiny, but the cold steady wanting of one who has found a stranger's footprints in her own house and means to learn whose they are.
 
 Then footsteps somewhere, and a girl's laugh, and the school came back. Viridia slid the cane into the loop at her waist, where it now stuck out absurdly past her knee and there was nothing to be done about it, and went to find Alice on the bench by History, carrying her question quietly, the way she had just been told.

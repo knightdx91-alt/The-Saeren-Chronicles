@@ -12,7 +12,7 @@ THE HAZEL YEARS will appeal to readers of **Leigh Bardugo's Grisha trilogy** (a 
 
 [Author bio placeholder — relevant credentials, platform, or writing background. If none, omit this paragraph entirely; do not apologize for being a debut.]
 
-THE SAEREN CHRONICLES, BOOK ONE: THE HAZEL YEARS is a YA epic/school fantasy complete at approximately 85,000 words. It is the first book of a planned trilogy and stands alone while opening clearly into a larger story. The full manuscript is available on request.
+THE SAEREN CHRONICLES, BOOK ONE: THE HAZEL YEARS is a YA epic/school fantasy complete at approximately 86,000 words. It is the first book of a planned trilogy and stands alone while opening clearly into a larger story. The full manuscript is available on request.
 
 Thank you for your time and consideration.
 
