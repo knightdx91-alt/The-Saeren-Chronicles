@@ -92,7 +92,7 @@ That was the whole of it, underneath everything: under the grief she carried beh
 
 She did not think about light or dark. She did not think about hiding. She thought only about the need, and she reached, and because she was not thinking, she reached with all of it.
 
-She felt the magic move and she did not stop it. It came up out of her core the way grief came up, fast, without asking, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
+She felt the magic move and she did not stop it. It came up out of her core the way grief did, sudden and unbidden, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
 
 On the bench, Amber went still.
 
@@ -102,7 +102,7 @@ The clearing had gone strange around her. With the orb burning white-and-black i
 
 "I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
 
-She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was.
+She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was. And the call had gone out with all of it behind it, far past the clearing, far past where Amber's three neat pulses had reached, rolling out into parts of the wood that had no names. She was in no state to wonder what, that far out, might have lifted its head to listen.
 
 On the bench, Amber started up to help her, and froze.
 
