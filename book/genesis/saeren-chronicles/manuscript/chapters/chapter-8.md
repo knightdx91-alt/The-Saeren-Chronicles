@@ -44,7 +44,7 @@ And then, because she still had not closed the new sight, she looked at the drag
 
 If her own core was a hearth and Lor-ar's a coal, these were furnaces, foundries, things that did not belong inside a body. The scarlet dragon's core wheeled white and dark together, the whole gift, vast and turning slow as weather. The black dragon's was the same and was somehow more, older, denser, with a heaviness to the dark side of it that pulled at her own like a hand at the hem of a coat. She understood, looking, why the floor of the world had answered her call by sending these. They were not large creatures. They were nearer to forces. And the egg between them, when she found the courage to look at it, held the smallest fire she had ever seen with the sight, a new spark barely lit, all the colors at once, turning over and over inside the shell like a thing impatient to begin.
 
-She made herself let the sight go, before it pulled her in. Even then it came back the moment she stopped holding it off, settling over her eyes without her asking, and she filed that, too: it was getting easier. It was getting harder to turn off.
+She made herself let the sight go, before it pulled her in. Even then it came back the moment she stopped holding it off, settling over her eyes without her asking, and she noted that, too: it was getting easier. It was getting harder to turn off.
 
 *You cut it close, Lor-ar.* The voice came into her skull without ceremony, vast and rough, the black dragon's, though he had not moved. *You are fortunate he has not hatched. It could come at any breath.*
 
@@ -84,7 +84,7 @@ He did not seem to mind. "Near six thousand years," he said. "Varissa, near five
 
 He stood, abruptly, and walked off toward the dark edge of the clearing, and between one stride and the next he was the dragon again, and he went up off the ground with a single thunderous beat of his wings and into the night sky, and a moment later, high overhead, he tore a long ragged plume of black fire into the dark.
 
-Viridia sat very still by the fire. She had asked, four days ago, for something that would not leave her. She had not understood, until now, that everything in this world that came when called came from somewhere, was someone's, had been loved before it was hers. She had thought she was asking the forest for a gift. She had been asking it for someone else's child.
+Viridia sat motionless by the fire. She had asked, four days ago, for something that would not leave her. She had not understood, until now, that everything in this world that came when called came from somewhere, was someone's, had been loved before it was hers. She had thought she was asking the forest for a gift. She had been asking it for someone else's child.
 
 * * *
 
@@ -125,6 +125,8 @@ He opened his eyes.
 The world stopped.
 
 She had no other way to say it, after, and she did not try to find one. Time, which had been running fast all night, simply set itself down. The firelight stilled. The clearing went away. There was the small heat of him in her hands and there were his eyes finding hers, eyes that held every color the way his scales did and behind the colors something old and waking and unmistakably *aware,* and into the held silence of that look something passed both ways at once, a recognition with no words in it, a tying-off, a knot pulled tight in the dark, and she felt it land in the same place under her ribs where the hearth turned, felt her own enormous core flare and reach and take him in.
+
+It cost her. The taking-in dragged at the hearth hard enough that the clearing tilted and went white at the edges, and the old iron taste flooded the back of her mouth, and she had to lock her elbows to keep from folding down over the wet weight of him. She held on. She would have held on through a great deal worse, and some far-back part of her, even then, suspected she might one day have to.
 
 She was changed in that moment. She knew it as it happened, which was the strangest part of all. Her senses ran suddenly keener, all of them at once: the firelight came up too bright, the crackle of the burning logs too sharp, the night air carrying scents she had no names for, resin and scorched stone and the clean cold of the heights above. The mana-sight, which she had been holding open all day by an act of will, dropped into place inside her and stopped being work; she understood, without testing it, that she would never again have to reach for it, that it had become a thing she simply had, the way she had her own two hands.
 
