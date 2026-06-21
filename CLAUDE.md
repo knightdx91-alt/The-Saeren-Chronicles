@@ -95,10 +95,18 @@ book/genesis/saeren-chronicles/
    voice of `chapter-1.md`. Then run the gates (below). Commit per chapter:
    `git add -A && git commit -m "genesis: finalize chapter N"`.
 
-### Quality gates (both must pass before a chapter is "done")
+### Quality gates (ALL must pass before a chapter is "done")
+> **Applies to EVERY book in this repo — existing and future** (Saeren, Rosalia, Pompeii, and
+> anything scaffolded from `book/genesis/_template/`). The template carries these gates so new
+> books inherit them automatically.
 - **Genesis Floor ≥ 8.5** (book-evaluator). The "Floor" is the lowest of the 7
   scored dimensions (Originality, Theme, Characters, Prose/Voice, Pacing, Emotion,
   World-building). Below 8.5 → book-editor polish loop (max 5).
+- **Pacing check — required after EVERY chapter.** Assess the chapter's pacing in context of
+  its neighbors: scene-vs-summary balance (any sag/rush?), dialogue share within the genre band,
+  whether it hits the right emotional high/low for its slot in the arc, hook-and-pull, and
+  chapter length vs. adjacent chapters (no chapter >2× another). Log a one-line verdict in the
+  book's `evaluations/` + `feedback/progress.md`; fix via disruptor/editor before finalizing.
 - **Style check** — run `python3 tools/style_check.py`. It must stay clean:
   - simile/metaphor markers ≤ 4.0 per 1,000 words,
   - em-dashes ≤ ~10 per 1,000 words,
