@@ -139,7 +139,25 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
 ## Status (update this section as you go)
 
-> ### ▶ NEXT SESSION — START HERE: Round-6, fix the PASSIVE PROTAGONIST
+> ### ▶ NEXT SESSION — START HERE: non-prose tracks (round-6 prose is DONE)
+> **Round 6 (the passive-protagonist fix) is COMPLETE & committed** — build **r6, 93,170 words**,
+> gate clean, canon held. 5 beats converted to costly choices (Ch.3 keep focus openly, Ch.4 break
+> cover for Lightwell, Ch.5 defy "start small", Ch.16 choose to leave Alice + spend hidden rune-craft
+> to decide the escape). Verified: analytical active-beat ratio **~33%→~55-65%**; continuity **0 critical**;
+> beta panel **7.7→8.3** (Critic 7.5→8.5, Hostile 6→7, Casual 7→8); over-narration trimmed.
+> Deliverables retain every revision (`...-r5.pdf`, `...-r6.pdf`).
+>
+> **What's left (NON-PROSE, optional, author's call):**
+> - `book-packager` → query/synopsis/comps that frame the QUIET voice as the feature (literary/boutique
+>   agents + small press); see `feedback/revision-plan-round6.md` §6.
+> - Production prep before print/self-pub: CMYK/PDF-X, full front+back matter, widows/orphans proof
+>   (PDF is RGB). See `delivery/production/pdf-print-notes.md`.
+> - Optional micro-polish from the r6 beta report: one irreversible bodily cost in the Ch.16 escape
+>   (retire the boot-heel near-miss); replace Lightwell's flat "You were chosen."
+> - Book-Two hooks logged: the Ch.5 "hungry thing"; the dateless family-tree name (re-homed via the
+>   Well's mother-thread). Open author decisions still pending (see below) before Book Two.
+>
+> --- prior round notes (history) ---
 > Rounds 3–5 are done and committed (pacing, show-don't-tell, motif variation, war-clock,
 > climax causal joint, Ch.16 jeopardy, the dread-object named "the Hollowing"). Current build
 > **r5, ~89,898 words**, style gate CLEAN, all canon held. Fresh evaluators say opening + middle

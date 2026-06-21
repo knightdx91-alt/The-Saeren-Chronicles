@@ -88,7 +88,7 @@ They gradually sped up. By the end of the hour she was reading the lunges before
 
 It was Nargash who killed the drill mid-stroke.
 
-He did not call a halt; he simply went still, his haft frozen at the top of an arc, his slit nostrils flaring wide, and every Dangris in the ring went still with him in the same breath, the way a flock turns without a signal. Then his hand came down flat through the air and the moonlit clearing went dark and silent. Raizen's glow snuffed out. Lor-ar dropped to his belly in the scorched grass. Viridia found herself pulled down behind the rock at the clearing's edge with a long grey hand flat between her shoulder blades, holding her there, and over the rock she heard it: voices. Men's voices, off in the trees to the north, and the jingle of harness, and the wet crunch of horses picking their way through undergrowth that was not a path.
+He did not call a halt; he simply stopped, his haft frozen at the top of an arc, his slit nostrils flaring wide, and every Dangris in the ring froze with him in the same instant, the way a flock turns without a signal. Then his hand came down flat through the air and the moonlit clearing went dark and silent. Raizen's glow snuffed out. Lor-ar dropped to his belly in the scorched grass. Viridia found herself pulled down behind the rock at the clearing's edge with a long grey hand flat between her shoulder blades, holding her there, and over the rock she heard it: voices. Men's voices, off in the trees to the north, and the jingle of harness, and the wet crunch of horses picking their way through undergrowth that was not a path.
 
 "Patrol," Venquar breathed, so close to her ear it was barely sound at all. "Capital colours. They do not come this deep. They are coming this deep."
 

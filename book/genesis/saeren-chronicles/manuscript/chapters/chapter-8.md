@@ -184,4 +184,6 @@ When the wood gave way to open ground the school stood dark and quiet on its law
 
 Viridia stopped in the cold grass and looked at it, and felt the new weight of the thing she was about to do: walk in past her one friend with a dragon under her coat and a death-threat in her mouth and say *nothing.* Her skin had begun to tighten across her knuckles already, a faint stiffening she could feel when she flexed her hand, the first of the changes Varissa had named. By morning there would be other changes she could not explain and would have to. The list of things she carried where Alice could not see them had been three days short and was now longer than she could hold in one thought. She pressed Raizen closer, where his small fire beat against her own, and the weight did not lighten, but it steadied.
 
-Then she slid down off Lor-ar's back, and held the small bright life she had brought home from the dark a breath longer in the cold, and carried it inside.
+Then she slid down off Lor-ar's back, and held the small bright life she had brought home from the dark a breath longer in the cold.
+
+Tomorrow there would be a dragon to hide and changes she could not explain and a death-warrant to carry, word for word, to the woman who ran the school. Tonight there was only the lit window, and Alice behind it, and the long quiet work of walking past the one person she could not afford to tell. She fixed her face into the careful nothing, and carried the warm weight inside.
