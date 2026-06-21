@@ -5,7 +5,7 @@ project:
   language: "English"
   word_count_target: 100000
   comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  engagement_type: {primary: "fascination (45%)", secondary: "empathy (35%)", tertiary: "intellectual (20%)"}
   premise: "A genetics prodigy who cracks the 'mutant gene' and gives himself and his two closest people superhuman powers builds a biotech empire whose real, hidden purpose is to seed humanity on another world — at any cost — until a grieving government investigator and the price of their own ambition close in."
   created: "2026-06-21"
   updated: "2026-06-21"
@@ -18,7 +18,7 @@ adaptation:
     original_draft: "research/original-draft.txt"               # AO3 Ch.1 = voice benchmark + seed canon
     continuation_notes: "research/author-continuation-notes.md" # author's plan for Ch.2 onward (canon intent)
   chapter_1_locked: false   # Ch.1 is the VOICE BENCHMARK; may be polished, preserve its voice
-  chapters_to_produce: []   # set after architect builds the outline
+  chapters_to_produce: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]  # Ch.1 exists (polish only)
 
 word_floor:
   manuscript_min_words: 95000
@@ -27,11 +27,11 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — Ch.1 + notes staged; decisions resolved; awaiting architect"
-  history: []
+  status: "architecture complete — ready for chapter loop"
+  history: ["scaffolded", "architecture complete (foundation+outline+voice-dna) 2026-06-21"]
 
 chapters:
-  total_planned: 0
+  total_planned: 21
   completed: []
   scores: {}
 
@@ -73,3 +73,50 @@ decisions:
   - "Folder-per-book genesis project under book/genesis/the-gift/."
   - "Multi-POV; Ch.1 first-person Troy voice is the benchmark — architect to confirm how multi-POV coexists with the first-person opening."
 revision_cycles: 0
+
+# ============================================================================
+# ARCHITECT PROPOSALS — author must CONFIRM/ADJUST before the chapter loop.
+# None of these are locked; defaults shown are the architect's recommendation.
+# ============================================================================
+architect_proposals:
+  pov_structure:
+    recommendation: "First-person PRESENT-tense for TROY (preserves Ch.1 benchmark); close-THIRD past for RAVEN/KNIGHT/VANCE with labeled POV headers ([TROY]/[RAVEN]/[KNIGHT]/[VANCE]). Form encodes theme: present-1st = inside the man who can't see his own wrong; past-3rd = distance to judge."
+    shares: "Troy ~50% (10ch), Raven ~20% (4ch), Knight ~15% (3ch), Vance ~15% (4ch)."
+  structure:
+    total_chapters: 21
+    projected_words: ~103300
+    turning_points: {TP1: "Ch.5 The Choice (~24%)", TP2: "Ch.10 The First Van (~50%)", TP3: "Ch.16 One Degree (~76%)", climax: "Ch.20 The Door (~95%)"}
+    act_break_epigraphs: "4 institutional documents (brochure / memo / camp-eval / manifest). Architect note: first epigraph placed at Ch.6 (founding), not Ch.3."
+  book_one_endpoint:
+    recommendation: "End on the one-way launch under Vance's raid (Ch.20), residue coda Ch.21. The new planet is NOT shown (Book Two)."
+    OPEN_who_goes_through: "Children + chosen settlers go through; PROPOSE Sol/Ezra/Wren make it; PROPOSE Raven's final act ambiguous (options below). Troy's threshold choice (mission vs Raven vs family) rendered WITHOUT a verdict — the cliffhanger."
+    OPEN_raven_final_act_options:
+      - "A) Raven sends a child through and STAYS behind (sacrifice; sets her as Book-Two resistance on Earth)."
+      - "B) Raven goes THROUGH to protect the kids from Troy's plan (splits the lovers across the door — strong cliffhanger)."
+      - "C) Raven opens the door for Vance / sabotages the manifest (overt betrayal)."
+      - "D) Raven refuses to choose and the door closes mid-decision (maximal ambiguity)."
+    OPEN_troy_fate: "PROPOSE Troy stays Earth-side to hold the door / face the aftermath (keeps him + Vance for Book Two) OR goes through (relocates Book Two off-world). Recommend Troy STAYS."
+  children_lines_not_to_cross:
+    recommendation: "Moral weight, never gratuity. Hold these lines on-page:"
+    lines:
+      - "NO on-page killing of a named young child."
+      - "Severe harm/death (if any) is an UNNAMED older child and OFF-PAGE; rendered through aftermath/restraint, not spectacle."
+      - "Children always retain interiority, names, jokes, agency — never props."
+      - "The horror comes from how GOOD the program looks (fed, safe, chosen), not from on-page cruelty."
+      - "Ch.13 camp ceiling: a named child may be gravely ENDANGERED (near-loss), rescued; the proof-of-concept (Sol's power) and the catastrophe are the same event."
+  investigator:
+    name_recommended: "Marcus Vance"
+    name_alts: ["Daniel Okonkwo", "Ray Calloway"]
+    daughter: "Ellie Vance, age 9, died in ANOTHER company's trial."
+    closeness_by_book_one_end: "PROPOSE: reaches Cora's lab/family (Ch.16, one degree from Troy), assembles the orphanage truth via a leak (Ch.15), raids the facility during launch (Ch.19). Direct MC contact = Raven or Knight, NOT Troy — Troy/Vance face-off reserved for Book Two. Vance survives, now knows, can no longer be told to stand down."
+    OPEN_hands_off_reason: "PROPOSE the order to leave the company alone is BANAL not conspiratorial — company too economically/strategically vital, or quiet govt interest in the gene-edit IP (ties to Cora's contracts). Confirm flavor."
+  names:
+    assistants: {troy: "Devon Marsh (takes serum)", raven: "Priya Sahota (LEAVES — the real choice; later the leak)", knight: "Bull / Theo Bullard (takes serum, camp staff)"}
+    children: {leader: "Ezra (~11)", smallest: "Wren (~9)", first_to_manifest: "Sol (~13)"}
+    family: {sister: "Dr. Cora Woods", mom: "guardian ad litem (name TBD)", dad: "biker mechanic (name TBD)"}
+    company_name: "TBD — PROPOSE author choose; public slogan 'A New World' / hidden 'A New World At Any Cost' already canon."
+  setting:
+    recommendation: "Boston/Cambridge anchor (MIT canon from Ch.1); camp in remote wilderness (PROPOSE Pacific Northwest or northern New England); facility = repurposed industrial waterfront (echoes the warehouse). Confirm city."
+  assistant_transformation_open: "PROPOSE one sub-level-3 outcome is fatal/wrong (Ch.11) to prove the serum is a lottery and indict the 'honest' choice. Confirm whether an assistant dies."
+  ip_originality_note: "X-Men is Troy's in-world FANDOM only. All powers/characters/teams ORIGINAL. Phasing rendered as 'going thin'/'unstitching' — NO Marvel names. X-17 m25 retained (author's placeholder gene designation). ENFORCED in voice-dna anti-pattern budget (0 trademark terms)."
+  voice_preservation_note: "Ch.1 (research/original-draft.txt) is the locked VOICE BENCHMARK. Troy = first-person present, run-on wonder, comics asides, 'Today's the day' / 'I'll be damned'. Polish grammar lightly; do NOT sterilize. The book's signature is Troy narrating horror in the SAME delighted voice he narrates discovery."
