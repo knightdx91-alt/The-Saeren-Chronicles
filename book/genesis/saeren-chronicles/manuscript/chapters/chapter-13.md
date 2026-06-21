@@ -136,7 +136,7 @@ He had reached up, while the examiners spoke, and put on a pair of glasses.
 
 They were thin and silver-framed and they were soaked in magic, the same frost-pattern enchantment hanging off them that hung off the rods, but stronger, woven through the very lenses, an intent rather than a glyph. She could not read what they did. She only knew that they were a thing made for looking, and that he had put them on at the exact moment he was about to look at her alone, and that everything Lor-ar had drilled into her for three days had been for this, for the next few minutes, for the man in the white robe who was rising now from his bench with a kind warm grandfatherly smile on his face and a tool for seeing what people were sitting on the bridge of his nose.
 
-She did not let her core flare. She did not let her face move. She breathed, and banked, and held, the way she had held everything her whole life, and she thought, very small and very clear, *No one sees you do it. You decide who sees.*
+She did not let her core flare. She did not let her face move. She breathed, and banked, and held, the way she had held everything her whole life, and let nothing at all reach the surface where it could be read.
 
 "Everyone else is dismissed," the High Chancellor said pleasantly, and the hall began, in a rustle of relief and curiosity, to rise. He let it. He smiled at Viridia over the silver rims of the glasses, and the smile reached for grandfatherly and fell short of it by a distance she could measure, and behind the lenses his pale eyes were doing something she could not see and could feel, a pressure, a looking.
 
