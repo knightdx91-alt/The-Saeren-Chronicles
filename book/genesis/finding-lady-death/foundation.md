@@ -3,8 +3,12 @@
 > Genesis-from-opening build. The author supplied a ~1,700-word opening scene
 > (`research/original-draft.txt`) as VOICE BENCHMARK and seed canon. This document
 > builds the whole standalone (~95k) from it. Settled canon is in STATE.yaml and is
-> binding. Everything tagged **[PROPOSAL]** is awaiting author confirmation — see the
-> `architect_proposals` block in STATE.yaml.
+> binding. **Author decisions RESOLVED 2026-06-21** (see STATE.yaml
+> `resolved_author_decisions`). THREE differed from the architect's proposals and have been
+> reconciled into this document: (1) the antagonist is a **COALITION of deposed Old Gods**,
+> not a single First Death; (2) the mantle cost is **mortal life + the human future — memory
+> KEPT**, not amnesia; (3) Acheron has **NO prior loss** — this is the first time he has
+> found her since she reincarnated. Former `[PROPOSAL]` tags below are now resolved canon.
 
 ---
 
@@ -45,28 +49,38 @@ a love *circle*. This is structural dramatic irony, mined for ache, never for a 
 ### The question only the last page answers
 **"What is Alice willing to die out of — her mortal life, her memory, her humanity — to
 be with the one person who can never lose her?"** (i.e., does she take the mantle, and
-what does it cost.)
+what does it cost.) **The cost, resolved: her mortal life and the ordinary human future —
+career, aging, a small mortal death — NOT her memory. She keeps Alice-of-Brookwood and
+everyone in this life; she simply stops being able to live it as a mortal.**
 
 ---
 
-## 2. THE BARGAIN & THE COSMIC ENGINE  [PROPOSAL — both threads developed; sharpest version recommended]
+## 2. THE BARGAIN & THE COSMIC ENGINE  [RESOLVED — braid kept; antagonist = Old Gods coalition]
 
-The author asked for BOTH threads (the Old Gods returning AND the mysterious Beings
-who deposed them) developed, then the sharpest version proposed. Here is each, then the
-recommendation.
+The braid is confirmed: the **Beings are the deadline**, the **Old Gods are the
+consequence**, and **finding Alice ends the grace period and starts the clock**. The only
+change from the architect's draft is the antagonist's shape: not a single deposed First
+Death, but a **COALITION of deposed Old Gods** pressing back into their abandoned domains,
+exploiting the incomplete Death office as the seam. Here is the engine, then the coalition.
 
-### Thread A — The Old Gods reclaiming their domains
+### Thread A — The Old Gods coalition reclaiming their domains
 The Old Gods who abandoned their posts during the War were stripped, not killed. The
 new gods (Acheron = Death; others unseen) have held the domains for millennia. But the
 replacement was a *patch*, not a cure — the new gods are fewer, younger, and stretched.
-The Old Gods have spent centuries gathering the dregs of their power at the edges of
-their lost domains, and they have found a seam: **the new Death is incomplete.** A
-Death without his Lady is a half-machine. Souls he cannot reach in time linger; the
-membrane between life and death thins where he is overstretched. The Old Gods press on
-exactly that weakness to force their way back in. Their return looks, on the ground in
-Ohio, like *wrongness*: people who should die don't and rot in their beds; people who
-shouldn't, do; storms that don't behave; a hospital where the dying can suddenly all
-see Acheron at once.
+The deposed Old Gods have spent centuries gathering the dregs of their power at the edges
+of their lost domains, and they have found a seam they can all push through at once: **the
+new Death is incomplete.** A Death without his Lady is a half-machine. Souls he cannot
+reach in time linger; the membrane between life and death thins where he is overstretched;
+and where Death frays, the *other* offices fray with it (the dead don't pass, so the
+seasons stall, the storms don't break, the sun lags). One incomplete office is the loose
+thread the whole coalition pulls — each god reclaiming a different abandoned domain through
+the gap. On the ground in Ohio this looks like cumulative *wrongness*, and the wrongness
+**changes flavor act by act as different gods step up** (see escalation ladder):
+people who should die don't and rot in their beds; people who shouldn't, do; crops and
+gardens rotting out of season; storms that don't behave; a sun that rises wrong; a
+hospital where the dying can suddenly all see Acheron at once. The opening's own myth
+("the crops withered, storms raged, the sun didn't rise") is the coalition's signature —
+the War's symptoms returning, each one a god knocking.
 
 ### Thread B — The mysterious Beings who deposed the Old Gods
 The Beings that chose the new gods are above the pantheon — older, indifferent, more
@@ -81,51 +95,145 @@ period ends — the rule says: complete the office, or the office is forfeit and
 reverts to the Old God who held it before. The Beings do not threaten; they simply
 withdraw the exception. That withdrawal is what lets Thread A happen.
 
-### RECOMMENDED SHARPEST VERSION (braided) — *both, with B as the clock and A as the army*
-> The **Beings** are the *deadline*; the **Old Gods** are the *consequence*.
+### THE BRAID (confirmed) — *B as the clock, A as the army*
+> The **Beings** are the *deadline*; the **Old Gods coalition** is the *consequence*.
 
 The instant Acheron finds Alice (Chapter 1's reunion), the Beings' grace period closes.
 The rule is cold and clear: **Death must be made whole — a Lady Death installed — or the
-office is voided and reverts to its previous holder, the Old God of Death (call her/him
-the antagonist face: THANATOS-the-Elder, or "the First Death")** **[PROPOSAL — name &
-gender open]**. The deposed First Death has been waiting at the edge of the domain for
-exactly this. So the threat has a *face* (the Old God of Death, who wants his domain
-back and will sabotage the union to run out the clock) and a *law* (the Beings, who will
+office is voided and reverts to its previous holder**, the deposed Old God of Death, who
+in this book is the **ringleader and leading face of the coalition (Mór, "the First
+Death" — see below)**. But reverting Death is only the coalition's *first* prize. With
+Death's office in play, the seam is open, and the other deposed gods press their own
+domains through it at the same time. So the threat has a *spearhead* (the First Death,
+who wants his office back and will sabotage the union to run out the clock), a *coalition*
+(deposed gods of harvest, storm, and the sun, each reclaiming their abandoned domain
+through the gap Death's incompleteness leaves), and a *law* (the Beings, who will simply
 let it happen). This gives us:
-- A concrete antagonist Alice and Acheron can fight: **the First Death** and the lesser
-  Old Gods rallying behind him, working to keep Alice from taking the mantle (kill her
-  belief, kill her trust in Acheron, run out the clock, or — late — kill Alice herself,
-  which the bracelet was made to prevent... and which is why the bracelet matters).
-- A reason it's NOW: the bargain's grace period ends *because he finally found her.*
-  Finding Alice is what starts the bomb. (This is the cruelest, best engine: their
-  reunion is the inciting catastrophe.)
+- A concrete, individuated antagonist Alice and Acheron can fight: the **coalition** of
+  deposed Old Gods (2-4 named, plus the sense of more rallying at the edges), working to
+  keep Alice from taking the mantle — kill her belief, kill her trust in Acheron, run out
+  the clock, or — late — kill Alice herself, which the bracelet was made to prevent... and
+  which is why the bracelet matters. The First Death leads; the others escalate the
+  pressure in turn.
+- A reason it's NOW: the bargain's grace period ends *because he finally found her* — for
+  the FIRST time since she reincarnated (no prior loss; see Acheron's wound). Finding
+  Alice is what starts the bomb. (This is the cruelest, best engine: their reunion is the
+  inciting catastrophe.)
 - Stakes that ARE the romance: every escalation is a relationship beat (see ladder).
-- The First Death's leverage on Alice is her vocation: he can show her that as Death's
-  Lady she will *take* lives, not save them — turning her own moral identity into the
-  weapon against the union.
+- The coalition's leverage on Alice is her vocation: the First Death can show her that as
+  Death's Lady she will *take* lives, not save them — turning her own moral identity into
+  the weapon against the union — while the other gods make the cost of her *refusal*
+  visible in the rotting, storm-wracked, sunless world her wards now sit inside.
 
-This is the version mapped through the outline. The author can keep Thread A or B as the
-primary at confirmation; the structure holds either way.
+### THE COALITION (2-4 individuated gods + the sense of more)
 
-### Escalation ladder (mapped to turning points)
-1. **~25% (Plot Turn 1):** The reunion has consequences. The first "wrongness" appears —
-   a patient who should pass *can't*, suspended in agony Acheron can't release. Acheron
+**Structure:** Mór leads (the deposed Death; the only one whose domain Alice can *directly*
+complete, so he is the spearhead and the negotiator). The other three are deposed gods of
+the domains named in the opening myth — harvest, storm, sun — who can only return *through*
+the seam Mór's incomplete office leaves, so they need him to keep that office open (i.e.,
+to keep Alice from taking the mantle). They are allies of convenience, not friends: united
+by exile, rivalrous about who gets restored first. Behind them, "the sense of more" — other
+exiled gods stirring at the edges, unnamed, felt as the world-wide wrongness. The coalition
+never convenes an on-page "council" without reaching Alice through *people dying in her
+ward* (engagement rule, §3); we meet the gods one at a time, each escalating a different act.
+
+#### Mór — the First Death (ringleader / leading face)  [deposed Old God of Death]
+**Surface:** Courtly, reasonable, grieving — presents not as a monster but as the
+*rightful* holder of an office stolen by an upstart who broke the rules to keep a wife.
+Mirror of Acheron: what Death is without love.
+**Want:** His domain back. Concretely: run out the clock / prevent the union, so the
+office reverts to him by the Beings' own rule. He'd rather Alice simply *refuse* than die.
+**Lie/Logic:** "Death must be impartial. Love in the office is the corruption that broke
+the world. I am the cure." He believes he is saving the cosmos from sentimentality.
+**Role in coalition:** Leader and seam-keeper. The others can only return while Death stays
+incomplete, so Mór is the linchpin — and the one who does the *arguing* (the others do the
+damage). He privately intends to be restored first and is using the coalition as much as
+leading it.
+**Method:** Never a brute first. He works on Alice's vocation: shows her the lives Lady
+Death will *take*, frames her as a killer-in-waiting, drips the cost Acheron hid. Only when
+persuasion fails does he move to force.
+**Contradiction:** He is not wrong about everything — a Death that plays favorites IS
+dangerous — which makes him the strongest kind of antagonist: partly right.
+**Chaos (antagonist tic):** obsessive ritual orderliness (straightens objects, cannot abide
+a thing out of place) — domain-of-the-impartial leaking into tic.
+
+#### Saira — the deposed god of the HARVEST  [coalition, Act-One pressure]
+**Surface:** Maternal, abundant, terribly patient — speaks of "ripeness" and "rot" as the
+same process. The first wrongness Alice can name belongs to her.
+**Want:** Her fields back. Returns through the seam as *things refusing their season* —
+deaths that won't complete, bodies that won't pass, gardens rotting green, IV lines and
+wounds that won't close (the body as a field that won't yield).
+**Lie/Logic:** "Nothing should be held back from its time — not crops, not the dying. He
+holds souls past ripeness; I only let them fall." She frames Acheron's overstretched mercy
+as *hoarding.*
+**Role in coalition:** First mover — her rot is the early-act "symptoms." She presses Alice
+through the patients who *can't* die.
+**Chaos (tic):** compulsively peels/segments any fruit in reach and lines up the pieces; eats
+none.
+
+#### Bréon — the deposed god of STORM  [coalition, Act-Two pressure]
+**Surface:** Loud where Mór is quiet; gleeful, impatient, the coalition's blunt instrument.
+Brings the literal weather of the opening myth — storms that "rage."
+**Want:** His sky back. Returns as *storms that don't behave* — the misbehaving weather, the
+snow that falls upward, the pressure-headaches and barometric wrongness that fill the ER.
+**Lie/Logic:** "The world was *alive* when we ran it. Their tidy little offices made it a
+morgue. Let it storm." He wants chaos restored, mistakes it for vitality.
+**Role in coalition:** Escalation/force. When Mór's persuasion stalls (mid-book), Bréon is
+the one who turns pressure into *threat* — the first time someone Alice loves is endangered.
+He chafes at Mór's patience.
+**Chaos (tic):** can't stop tapping a rhythm — counts thunder under his breath even indoors.
+
+#### Helia — the deposed god of the SUN  [coalition, Act-Three pressure / the final knock]
+**Surface:** Radiant, cold, the most frightening because the most withdrawn — she returns by
+*taking light away.* "The sun didn't rise" (opening myth) is her signature; she is the
+endgame symptom.
+**Want:** Her sky back, and to be restored *first* (her rivalry with Mór is the coalition's
+fault line Alice can exploit at the climax).
+**Lie/Logic:** "Light is mine to give. They ration it. I will simply stop." Withholding as
+power.
+**Role in coalition:** The last and largest pressure — the dimming/unrisen sun of Act Three,
+the visible proof that refusal is killing the world. At the climax her rivalry with Mór
+(who gets restored first) is the crack that lets Alice's *mercy-and-choice* split the
+coalition rather than fight it head-on.
+**Chaos (tic):** never looks directly at anyone; addresses the air beside their head.
+
+> **Cast control:** four named gods + "the sense of more." We meet them ONE AT A TIME,
+> each owning an act (Saira → Act One symptoms; Mór → midpoint argument; Bréon → Act-Two
+> threat; Helia → Act-Three siege), so the reader never faces a cast-of-thousands. The
+> *coalition dynamic* — exiles allied by convenience, rivalrous about restoration order —
+> is the lever Alice uses at the climax (she doesn't out-fight them; she un-unites them).
+
+### Escalation ladder (mapped to turning points — coalition pressure distributed by act)
+1. **~25% (Plot Turn 1) — SAIRA / harvest steps up:** The reunion has consequences. The
+   first "wrongness" appears — a patient who should pass *can't*, suspended in agony
+   Acheron can't release; wounds and lines that won't close; the early rot. Acheron
    realizes the grace period has ended; the clock has started. *(Relationship beat: Alice
    learns loving him means being needed by him — and that her "no" has a body count.)*
-2. **~50% (Midpoint):** The First Death makes contact / strikes — proves the threat is
-   real and personal, and reveals the rule: become Lady Death or Death reverts and the
-   Old Gods flood back. Alice glimpses/regains a fragment of her past life with Acheron.
-   *(Relationship beat: she stops loving a stranger and starts loving someone she
-   remembers — and resents being given no real choice.)*
-3. **~75% (Plot Turn 2 / dark night):** The cost is named and paid-in-advance. The First
-   Death engineers a loss that uses Alice's own vocation against her (she must let
-   someone die / a patient she loves is the leverage), OR exposes what becoming Lady
-   Death truly costs (mortal life, memory of THIS life, the patients). Trust between
-   Alice and Acheron breaks — he kept the full cost from her. *(Lowest point.)*
-4. **~90%+ (Climax):** Alice chooses, on her own terms, redefining what Lady Death *is* —
-   not Death's opposite but its mercy. She takes the mantle to save both the world and
-   him, transforming the "cost" into her choice. **[PROPOSAL: mantle taken at CLIMAX,
-   not midpoint — see §rationale.]**
+2. **~50% (Midpoint) — MÓR / the First Death makes contact:** The coalition's ringleader
+   appears and *argues* — proves the threat is real and reveals the rule: become Lady
+   Death or Death reverts to him and the coalition floods back. He names the others by
+   their symptoms (so the reader feels the ensemble). Alice glimpses/regains a fragment of
+   her past life with Acheron. *(Relationship beat: she stops loving a stranger and starts
+   loving someone she remembers — and resents being given no real choice.)*
+3. **~60-75% (Act Two-B) — BRÉON / storm escalates to threat:** When Mór's persuasion
+   stalls, the coalition's blunt instrument turns pressure into *force* — the misbehaving
+   storms, and the first time someone Alice loves is directly endangered. This is the act
+   where the threat stops being an argument.
+4. **~75% (Plot Turn 2 / dark night) — the cost is named and a loss is forced:** The
+   coalition engineers a tragedy that uses Alice's own vocation against her (a patient she
+   loves is the leverage), and the FULL cost is exposed: becoming Lady Death severs her
+   mortal life and the ordinary human future she'd have had — career, aging, a quiet
+   mortal death — **but she keeps her memory of this life and everyone in it.** Trust
+   between Alice and Acheron breaks — he kept the *scale* of the loss (her whole mortal
+   future) from her, to spare her. *(Lowest point.)*
+5. **~85% (Act Three) — HELIA / the sun withdraws (siege):** The largest, last pressure —
+   the dimming, unrisen sun of the opening myth, the visible proof that refusal is killing
+   the world. The coalition presses for reversion before Alice can act.
+6. **~90%+ (Climax) — Alice chooses, on her own terms,** redefining what Lady Death *is* —
+   not Death's opposite but its mercy. She takes the mantle (mortal life and human future
+   given up; memory kept) to save both the world and him, and she breaks the coalition not
+   by force but by its own fault line: Helia's rivalry with Mór over who is restored first.
+   Mantle taken at the **CLIMAX (Ch.18)**, not midpoint, so the whole book is the weighing.
 
 ---
 
@@ -207,18 +315,23 @@ else; lonely in a life full of people.
 hair over clear blue eyes, hawk nose. Sits with the dying who have no one. Calls Alice
 "little one." Self-deprecating ("I just hope I haven't botched the explanation").
 **Wound:** Was a mortal so obsessed with death he was chosen to become it — then made a
-bargain to keep his wife, and has spent thousands of years *finding her in stranger after
-stranger and losing her again to time, never reaching her before she died.* He has done
-this loop more than once. **[PROPOSAL: Alice is not the first reincarnation he found —
-he found her before and lost her (she died before he could explain / before she chose).
-This is why he's so careful with her now, and why the clock terrifies him.]**
+bargain to keep his wife, and has spent **thousands of years searching for her reincarnated
+soul and never once finding her, until now.** This is the FIRST time he has found her since
+she died and was reborn. His terror is not old grief from a prior loss — it is the
+*freshly-started clock* and the sheer enormity of finally, after millennia of failure,
+holding the one thing he has wanted, only to learn that finding her is what started the
+countdown that could take her (and the world) away. He is careful with her because he has
+ONE chance and no template for it — not because he botched a previous one.
 **Lie:** "If I am gentle enough, patient enough, I can do this without it costing her
 anything — I can love her without making her pay the price of being mine."
 **Want:** To complete the bargain — to have her, finally, as Lady Death.
 **Need:** To stop *protecting* her into passivity and trust her to choose with the whole
-terrible truth in front of her. (His withholding the full cost is the Act-3 breach.)
+terrible truth in front of her. (His withholding the full scale of the cost — that she'd
+lose her entire mortal future — is the Act-2/3 breach.)
 **Arc:** From *I will spare her the cost* → *I will give her the truth and let her
 choose, even if she chooses no.* He has to risk losing her on purpose to actually win her.
+His urgency reads as a man with one chance racing a clock he himself started, not a
+widower bracing for a second bereavement.
 **Voice markers:** Old diction softened by modern slang ("ripping off a bandaid,"
 "botched"); says "Gods" not "God"; understates cosmic things; deflects pain with boyish
 grins. "Little one." "You always were a sharp one."
@@ -235,21 +348,19 @@ on this one subject, in a blind panic about time.
   (his voice-under-pressure — see voice-dna). Once, he simply leaves mid-sentence rather
   than say the cost out loud.
 
-### The First Death (antagonist face) — the deposed Old God of Death  [PROPOSAL: name/gender]
-**Surface:** Courtly, reasonable, grieving — presents not as a monster but as the
-*rightful* holder of an office stolen by an upstart who broke the rules to keep a wife.
-Mirror of Acheron: what Death is without love.
-**Want:** His domain back. Concretely: run out the clock / prevent the union, so the
-office reverts to him by the Beings' own rule. He'd rather Alice simply *refuse* than die.
-**Lie/Logic:** "Death must be impartial. Love in the office is the corruption that broke
-the world. I am the cure." He believes he is saving the cosmos from sentimentality.
-**Method:** Never a brute first. He works on Alice's vocation: shows her the lives Lady
-Death will *take*, frames her as a killer-in-waiting, drips the cost Acheron hid. Only
-when persuasion fails does he move to force.
-**Contradiction:** He is not wrong about everything — a Death that plays favorites IS
-dangerous — which makes him the strongest kind of antagonist: partly right.
-**Chaos (case-study/antagonist):** an obsessive ritual orderliness (he straightens
-objects, cannot abide a thing out of place) — domain-of-the-impartial leaking into tic.
+### The antagonist — THE OLD GODS COALITION
+The full, individuated antagonist treatment (Mór the First Death as ringleader; Saira/
+harvest, Bréon/storm, Helia/sun; the coalition dynamic and act-by-act distribution; each
+god's chaos tic) lives in **§2 → "THE COALITION."** Summary for character-tracking:
+- **Mór — the First Death (ringleader/face):** courtly, partly-right, the negotiator who
+  *argues*; mirror of Acheron (what Death is without love); wants his office back and is
+  the seam-keeper the others depend on.
+- **Saira (harvest), Bréon (storm), Helia (sun):** deposed gods reclaiming the domains named
+  in the opening myth, returning *through* Death's incomplete seam; allies of convenience,
+  rivalrous about restoration order. They escalate one per act (Saira→Act I, Bréon→Act II,
+  Helia→Act III).
+The coalition reaches Alice through *people dying in her ward* (never a free-floating
+council scene); the climax splits them via Helia-vs-Mór rivalry, not brute force.
 
 ### Supporting cast (MINI PROFILES)
 
@@ -304,7 +415,7 @@ is canon ("Beats me," Acheron says) and is scarier kept that way.
 1. **Ch.1 reunion:** "I have been searching for you for thousands of years." (seed line)
 2. **~Midpoint:** the reveal that *finding her started the clock* — their reunion is what
    dooms the world; loving her is the catastrophe.
-3. **~75%:** the First Death's argument: "As his Lady, you won't save them. You'll
+3. **~75%:** Mór's (the First Death's) argument: "As his Lady, you won't save them. You'll
    *take* them. Ask him what you'll become." (turns her vocation into the weapon)
 4. **Climax:** Alice redefines Lady Death — "I'm not the end of healing. I'm the last
    thing it does." (theme landing as a shareable line)
@@ -314,7 +425,10 @@ Reader, ten minutes after finishing: **"Aching but warmed — convinced that bei
 completely, across death and lifetimes, is worth any cost, and quietly reconsidering
 whether the people we lose are lost or just handed on."** Bittersweet-but-affirming, not
 tragic. The ending earns the warmth by making the cost real (she does lose something —
-see mantle cost) but the gain larger.
+see mantle cost — she gives up her mortal life and the ordinary human future, but KEEPS her
+memory of this life and everyone in it: she will still know Reyes, Jonah, her patients, the
+self she built) but the gain larger. The warmth is earned BY the kept memory — she carries
+them all forward; that is the point of the cost being mortality-not-amnesia.
 
 ## 6d. CULTURAL VOCABULARY  [PROPOSAL]
 Design **"Lady Death"** itself as the ownable concept — recast from "Death's wife" into
@@ -341,8 +455,10 @@ identity-affirming beat per ~3-4 chapters (Alice chosen not for beauty but for b
    finally hears it as *recognition* (~Act 2) and lands hardest if he STOPS using it once
    he sees her as his equal/Lady (climax) — switch to her name or a new name.
 4. **The boatman-with-lantern on the blade**: first read = creepy decoration. Re-read =
-   the *previous* ferryman/Death (foreshadows the First Death / the office's lineage), and
-   the lantern = the mercy Alice will come to embody. Seed Ch.1; pay at antagonist reveal.
+   the *previous* ferryman/Death — **Mór, the First Death** — engraved into the office's own
+   instrument (foreshadows the ringleader / the office's lineage), and the lantern = the
+   mercy Alice will come to embody, the thing Mór's impartial Death never carried. Seed
+   Ch.1; pay at the midpoint antagonist reveal.
 5. **"It just depends on how you want to live your life, I guess." (Ch.1 last line):**
    first read = gentle non-pressure. Re-read = devastating, because by midpoint we know
    her *not* choosing has a cosmic body count — his kindness here is him refusing to

@@ -27,7 +27,9 @@ word_floor:
 phase:
   current: 1
   status: "architecture complete — ready for chapter loop"
-  history: ["2026-06-21: architect built foundation.md, outline.md, voice-dna.md (20 ch, ~96k); proposals logged for author confirmation"]
+  history:
+    - "2026-06-21: architect built foundation.md, outline.md, voice-dna.md (20 ch, ~96k); proposals logged for author confirmation"
+    - "2026-06-21: RECONCILIATION pass — author confirmed open decisions; 3 differed from architect proposals and were reconciled across foundation.md/outline.md/voice-dna.md. (1) ANTAGONIST recast from single 'First Death' to an OLD GODS COALITION: Mór (deposed Death) leads/face; Saira(harvest)/Bréon(storm)/Helia(sun) escalate one per act; 'sense of more'; climax splits the coalition via Helia-vs-Mór rivalry, not brute force. (2) MANTLE COST changed to mortal-life + human-future, MEMORY KEPT (no amnesia); Ch15/18/20 + foundation §6c/§1 updated. (3) PRIOR-LOSS thread removed — Ch.1 is the FIRST find since reincarnation; Acheron's urgency recast as first-find + started-clock (foundation Acheron Wound, Ch12). total_planned UNCHANGED at 20, ~96k, turning points unchanged (PT1 Ch5/MID Ch10/PT2 Ch15/CLIMAX Ch18-19); braided romance beats and 2 open-door scenes (Ch8/Ch13) intact."
 
 chapters:
   total_planned: 20

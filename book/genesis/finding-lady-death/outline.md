@@ -5,13 +5,18 @@
 > tense** (see voice-dna). Open-door MODERATE heat braided with the cosmic plot — every
 > escalation is also a relationship beat. Turning points marked:
 > **PT1 ≈ 25% (Ch.5) · MIDPOINT ≈ 50% (Ch.10) · PT2/Dark Night ≈ 75% (Ch.15) · CLIMAX ≈ 90% (Ch.18-19).**
-> All **[PROPOSAL]** items await author confirmation (see STATE.yaml architect_proposals).
+> **Author decisions RESOLVED 2026-06-21** (STATE.yaml `resolved_author_decisions`). Three
+> changed and are reconciled here: (1) ANTAGONIST = the **Old Gods COALITION** (Mór the
+> First Death leads; Saira/harvest, Bréon/storm, Helia/sun escalate one per act — see
+> foundation §2), not a lone First Death; (2) MANTLE COST = mortal life + the ordinary human
+> future, **memory KEPT** (no amnesia); (3) NO prior loss — Ch.1 reunion is the FIRST time
+> Acheron has found her since she reincarnated. Former `[PROPOSAL]` tags are now resolved.
 
 ## Structural-diversity ledger (no 2 consecutive chapters share internal structure)
 Ch1 confession/strange · Ch2 chronological-ward · Ch3 single-scene · Ch4 parallel(past-flash) ·
 Ch5 in-medias-res(code) · Ch6 domestic/quiet · Ch7 collage(myth+ward) · Ch8 single-long-scene(date) ·
 Ch9 fragmented · Ch10 in-medias-res(strike) · Ch11 chronological · Ch12 parallel(past-life) ·
-Ch13 domestic/intimacy · Ch14 single-scene(antagonist) · Ch15 fragmented(dark night) ·
+Ch13 domestic/intimacy(Bréon strikes) · Ch14 single-scene(Mór ultimatum) · Ch15 fragmented(dark night) ·
 Ch16 chronological(rebuild) · Ch17 collage(siege) · Ch18 single-scene(choice) ·
 Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 
@@ -88,9 +93,12 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
   watches him fail to reach the soul; he's overstretched, somewhere else, late. He returns
   shaken and tells her the truth that changes everything: **finding her ended the Beings'
   grace period. The clock has started.** A Death without his Lady is breaking; the seams
-  are opening; this is the first leak. Her choice now has a body count — but he refuses to
-  pressure her ("how you want to live your life"). The romance and the plot fuse here:
-  loving her is the catastrophe.
+  are opening; this is the first leak. He names the shape of it without naming her yet: the
+  body that won't pass, the wound that won't close — *something is reclaiming the harvest of
+  the dying through the gap* (SAIRA's first pressure, unattributed; the coalition entering
+  by symptom, not by face). Her choice now has a body count — but he refuses to pressure her
+  ("how you want to live your life"). The romance and the plot fuse here: loving her is the
+  catastrophe.
 - **Anchor:** the patient's hand Alice can't let go of, that can't die.
 - **Surprise:** Acheron *apologizes to the patient*, not to Alice.
 - **Theme:** present (vocation vs destiny made literal). **Opening:** in medias res code.
@@ -117,10 +125,14 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 ### Chapter 7 — "The Office of Death"
 - **POV:** Alice. **Structure:** collage (myth + ward + Acheron's explanation). **~4,900w.**
 - **Beats:** Mechanics & worldbuilding, braided: Acheron explains the new-gods system, the
-  Old Gods stripped not killed, the seams, what a "domain" is, why he's stretched. Alice
-  starts seeing the wrongness *around town* (storms misbehaving, a death-that-shouldn't,
-  rot). Reyes notices Alice's distraction (mentor-cost beat). Jonah's debt/ambition problem
-  surfaces (he leans on Alice). The cosmos enters through the people she loves.
+  Old Gods stripped not killed, the seams, what a "domain" is, why he's stretched — and,
+  crucially, that the deposed gods do not return alone: **his incomplete office is the one
+  seam they can ALL push through, so a coalition is gathering** (he can feel harvest already,
+  storm and sun stirring behind it). Sets up the ensemble threat before any god has a face.
+  Alice starts seeing the wrongness *around town* (gardens rotting green out of season —
+  Saira; the first odd weather — Bréon's distant approach; a death-that-shouldn't). Reyes
+  notices Alice's distraction (mentor-cost beat). Jonah's debt/ambition problem surfaces (he
+  leans on Alice). The cosmos enters through the people she loves.
 - **Anchor:** snow that falls *upward* for three seconds outside the ER doors.
 - **Surprise:** Acheron describes apocalypse the way you'd describe an HVAC failure.
 - **Theme:** present. **Opening:** cold-open on the wrongness. **Beat subversion:** the
@@ -146,8 +158,9 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
   Acheron gone more, stretched thinner; Alice covering for the gaps with medicine that
   can't fix metaphysics. Her failed-management beat: the **child patient** dies and Alice
   *laughs* — helpless, horrified, in front of the family. Rock-bottom of competence;
-  Reyes pulls her off, worried. The First Death's hand first felt (unseen) — these deaths
-  are being *engineered* to break her.
+  Reyes pulls her off, worried. The coalition's hand first felt (unseen) — Saira's harvest-
+  rot is thickest here (bodies that won't pass, wounds that won't yield); these deaths are
+  being *engineered* through the seam to break her, the prelude to Mór stepping forward.
 - **Anchor:** the sound of her own wrong laughter.
 - **Surprise:** the laugh itself (register catastrophically wrong, intentionally).
 - **Theme:** present. **Opening:** fragment/flash. **Beat subversion:** the "midpoint build"
@@ -156,24 +169,29 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 
 ### Chapter 10 — MIDPOINT — "The First Death" (~50%)
 - **POV:** Alice. **Structure:** in medias res — the strike. **~5,100w.**
-- **Beats:** The antagonist reveals himself: **the deposed Old God of Death** appears,
-  courtly and reasonable, and lays out the rule plainly — *complete the office (install a
-  Lady) or it reverts to me; the Beings will allow it; the world bleeds back to the Old
-  Gods either way unless you choose.* He frames himself as the rightful, impartial holder
-  Acheron displaced by breaking the rules for love. He does NOT attack; he *argues* — and
-  plants the poison: "ask him what you'll become." Simultaneously, Alice gets her first
-  true **past-life fragment** — a memory of loving Acheron in another body, in another age.
-  She loves a stranger no longer; she loves someone she *remembers.* But she also realizes
-  she's been given no real choice. Mid-book gear-shift: from "should I love him" to "what
-  will it cost the world if I don't."
+- **Beats:** The coalition's ringleader reveals himself: **Mór, the deposed Old God of
+  Death** (the First Death) appears, courtly and reasonable, and lays out the rule plainly —
+  *complete the office (install a Lady) or it reverts to me; the Beings will allow it; the
+  world bleeds back either way unless you choose.* Critically, he reveals he is **not alone**:
+  he names the rot she's been fighting (Saira/harvest) and warns that storm and sun (Bréon,
+  Helia) are waiting their turn — his incomplete office is the door they ALL come through.
+  This is the moment the threat becomes an ensemble in Alice's understanding. He frames
+  himself as the rightful, impartial holder Acheron displaced by breaking the rules for
+  love. He does NOT attack; he *argues* — and plants the poison: "ask him what you'll
+  become." Simultaneously, Alice gets her first true **past-life fragment** — a memory of
+  loving Acheron in another body, in another age. She loves a stranger no longer; she loves
+  someone she *remembers.* But she also realizes she's been given no real choice. Mid-book
+  gear-shift: from "should I love him" to "what will it cost the world if I don't."
 - **Anchor:** the past-life fragment — Acheron's laugh in a doorway that she has never seen
   but *knows.*
 - **Surprise:** the antagonist is *gracious*, even kind; the villain you can't hate.
 - **Theme:** present (free will vs fate front and center). **Opening:** in medias res.
   **Beat subversion:** the "villain reveal" — he's right about enough to be terrifying.
   **Shareable:** "ask him what you'll become" (#3 seeded). **Re-read payoff:** "you always
-  were a sharp one" lands (#2). **Writer warnings:** antagonist must be persuasive, not
-  cartoonish.
+  were a sharp one" lands (#2); boatman-on-the-blade = Mór, the previous ferryman (#4 begins
+  to pay). **Writer warnings:** Mór must be persuasive, not cartoonish; name the coalition by
+  SYMPTOM/domain, don't parade the other gods on-page yet (keep cast control — they each get
+  their own act).
 
 ---
 
@@ -195,13 +213,15 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 ### Chapter 12 — "Remembrance"
 - **POV:** Alice. **Structure:** parallel (this life / the past life). **~4,900w.**
 - **Beats:** The reincarnation thread blooms (subtitle: *Death and Remembrance*). Alice
-  regains a substantial stretch of the past life — their mortal years together, the
-  bargain made at his bedside, *and* (per [PROPOSAL]) a prior reincarnation he found and
-  **lost** before she could choose (she died first). She understands his terror of the
-  clock now. Devastating intimacy: she grieves a life she's only just remembering. The two
-  women (past wife, present Alice) are revealed as one soul — jealousy dissolved into
-  ache.  **[PROPOSAL: how much she regains — RECOMMEND partial/emotional, not full
-  download, so present-Alice's choice stays HERS, not the wife's.]**
+  regains a substantial — but partial/emotional, not full-download — stretch of the past
+  life: their mortal years together and the bargain made at his bedside. She understands his
+  terror of the clock now: not because he ever found and lost her before (**he never has —
+  this is the first time he has found her since she reincarnated**), but because he has
+  searched thousands of years with NOTHING, and now finally holds her exactly as the
+  countdown begins — one chance, no template, the clock he started ticking against the one
+  thing he ever wanted. Devastating intimacy: she grieves a life she's only just
+  remembering. The two women (past wife, present Alice) are revealed as one soul — jealousy
+  dissolved into ache. (Partial recall keeps present-Alice's choice HERS, not the wife's.)
 - **Anchor:** the weight of a particular cup (Acheron's chaos-memory) now in *her* hand.
 - **Surprise:** she mourns Acheron's grief more than her own death.
 - **Theme:** present (identity across lives). **Opening:** past-life cold open. **Beat
@@ -212,22 +232,28 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 - **Beats:** Stolen warmth before the storm. They live a few ordinary days as if the clock
   weren't running — her apartment, his bad-art commentary, cooking, a second **open-door
   moderate** scene that is now *known* love, not discovery. The happiest chapter; the
-  reader must feel what's at stake. Ends with the first sign the First Death has moved from
-  arguing to acting (a threat touches someone Alice loves).
+  reader must feel what's at stake. Ends with the first sign the coalition has moved from
+  arguing to acting: **BRÉON (storm) steps up** — Mór's persuasion has stalled, so the
+  coalition's blunt instrument turns pressure into force, and a misbehaving storm endangers
+  someone Alice loves. The second named god enters, by force where Mór entered by argument.
 - **Anchor:** morning light, two coffees, both gone cold because they didn't get up.
 - **Surprise:** pure happiness placed exactly where dread should be.
 - **Theme:** RECEDES (breathing). **Opening:** quiet domestic. **Heat:** open-door moderate
   (2nd). **Beat subversion:** the "calm before the storm" beat held a beat too long, on
-  purpose, so the break hurts.
+  purpose, so the break hurts — and the storm that breaks it is *literal* (Bréon). **Writer
+  warnings:** introduce Bréon by his weather and his impatience with Mór (the coalition is
+  not a monolith); keep cast control — one new god, glimpsed.
 
 ### Chapter 14 — "The Rightful Holder"
 - **POV:** Alice. **Structure:** single scene — confrontation with the antagonist. **~4,900w.**
-- **Beats:** The First Death corners Alice alone (without Acheron) and makes his real
+- **Beats:** Mór (the First Death) corners Alice alone (without Acheron) and makes his real
   play: he shows her, undeniably, the lives Lady Death will take — including, perhaps, that
   to take the mantle she must let a specific patient die *now* (the mechanism / down
   payment). He offers her an out: refuse, stay mortal, keep her hands clean, and *he'll*
-  take the office back and "do it properly." He weaponizes her ethics. Alice wavers —
-  genuinely. The antagonist's partial rightness peaks.
+  take the office back and "do it properly" — and the coalition (he implies) will be sated
+  with their domains and recede. He weaponizes her ethics. Alice wavers — genuinely. The
+  antagonist's partial rightness peaks. (Note for Writer: Mór oversells the coalition's
+  contentment — Helia's rivalry will later expose this as a lie, the climax's crack.)
 - **Anchor:** the orderly straightening of objects as he speaks (his tic) while he describes
   mass death.
 - **Surprise:** he's *gentle* with her; offers her mercy, which is the trap.
@@ -237,14 +263,19 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 
 ### Chapter 15 — PLOT TURN 2 / DARK NIGHT — "The Cost, Paid" (~75%)
 - **POV:** Alice. **Structure:** fragmented (collapse). **~5,000w.**
-- **Beats:** The full cost is named and a loss is forced. **[PROPOSAL — the cost:
-  becoming Lady Death severs her mortal life AND her memory of *this* life — she'd keep
-  the soul-memory of all the lives but lose Alice-of-Brookwood, Reyes, Jonah, the
-  patients, the self she built.]** The First Death engineers a tragedy using her vocation
-  (a patient she loves / the down-payment death), and Alice learns Acheron knew the
-  memory-cost and hid it — *again.* Trust shatters. She refuses. She walks away from
-  Acheron to save her own self and her mortal vocation. Lowest point: she has the bracelet,
-  the love, the truth, and she's saying no — and the world is starting to die for it.
+- **Beats:** The full cost is named and a loss is forced. **THE COST (resolved): becoming
+  Lady Death severs her mortal life and the ordinary human future she'd have had — her
+  career, growing old, the small mortal death she'd have died, an ordinary life — but she
+  KEEPS her memory of this life and everyone in it (Reyes, Jonah, the patients, the self she
+  built; she carries them all forward).** The coalition engineers a tragedy using her
+  vocation (a patient she loves / the down-payment death), and Alice learns Acheron hid the
+  *scale* of it — that she'd lose her whole mortal future, every ordinary thing she'd ever
+  have — to spare her, *again.* Trust shatters. She refuses. She walks away from Acheron to
+  save her own mortal life and vocation. Lowest point: she has the bracelet, the love, the
+  truth, and she's saying no — and the world is starting to die for it.
+- **Writer note:** the grief here is "I'd have to give up *being mortal* — aging, a normal
+  life, an ordinary death," NOT "I'd forget everyone." Do not write amnesia dread. Memory is
+  kept; that is the warmth the ending is built on.
 - **Anchor:** Acheron's face when she takes off (or moves to take off) the bracelet for the
   first time — the un-take-off-able thing, removed.
 - **Surprise:** flat, numb prose where the biggest grief is — Alice's voice goes clinical.
@@ -262,11 +293,13 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 - **POV:** Alice. **Structure:** chronological (rebuild from rock bottom). **~4,800w.**
 - **Beats:** Alice in her mortal life, having refused — and watching the wrongness win.
   Reyes burning out under impossible deaths; Jonah scared; the ward overwhelmed by people
-  who can't die and people who shouldn't. Alice realizes neutrality is a lie: *not
-  choosing is choosing the First Death's world.* She reframes the question — not "what do I
-  lose" but "what is the most loving thing." Theme turns: her oath ("do no harm" / "first,
-  do no harm") and Lady Death's office are revealed as the SAME vow at scale. She decides
-  to act — on her own terms, not the bargain's.
+  who can't die and people who shouldn't, the rot spreading, the weather wrong. Alice
+  realizes neutrality is a lie: *not choosing is choosing the coalition's world — Mór's
+  impartial Death, Saira's endless rot, Bréon's storms, and the sun beginning to fail.* She
+  reframes the question — not "what do I lose" (and she now knows she keeps her memory, keeps
+  *them*; what she loses is only the mortal future) but "what is the most loving thing."
+  Theme turns: her oath ("first, do no harm") and Lady Death's office are revealed as the
+  SAME vow at scale. She decides to act — on her own terms, not the bargain's.
 - **Anchor:** Reyes, exhausted, telling Alice the thing that reframes it (mentor's last
   gift) — or Alice finding the dead colleague's pager and finally understanding Reyes's tic.
 - **Surprise:** the turn comes from a *mundane* mentor line, not a cosmic revelation.
@@ -276,29 +309,37 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 
 ### Chapter 17 — "Seams"
 - **POV:** Alice. **Structure:** collage (siege — ward + town + cosmos). **~4,900w.**
-- **Beats:** The clock runs out / the Old Gods press in hard; the world tips toward
-  reversion. Alice and Acheron reunite as *allies* before they reunite as lovers — she
-  confronts him about the lie, he finally does the thing his arc demands: gives her the
-  WHOLE truth, cost and all, and *lets her choose,* even if she chooses to stay and lose
-  him. Plan forms for the climax. The First Death moves to force the reversion before she
-  can act — escalating to a direct threat on Alice (which the bracelet, by design, blocks:
-  she *cannot* be killed — so he must make her *refuse* or run out the clock).
+- **Beats:** The clock runs out / the coalition presses in hard; the world tips toward
+  reversion. **HELIA (sun) steps up — the last and largest pressure:** the light begins to
+  fail, the unrisen/dimming sun of the opening myth, visible proof that refusal is killing
+  the world. Here Alice (and the reader) also catches the coalition's FAULT LINE: Helia
+  resents that Mór, by the Beings' rule, would be restored FIRST — the exiles are allied by
+  convenience, not loyalty. Alice and Acheron reunite as *allies* before they reunite as
+  lovers — she confronts him about the lie, he finally does the thing his arc demands: gives
+  her the WHOLE truth (cost and all — mortal life and future gone, memory kept) and *lets
+  her choose,* even if she chooses to stay and lose him. Plan forms for the climax: not to
+  out-fight the coalition but to USE its fault line. Mór moves to force the reversion before
+  she can act — escalating to a direct threat on Alice (which the bracelet, by design,
+  blocks: she *cannot* be killed — so he must make her *refuse* or run out the clock).
 - **Anchor:** Acheron saying the cost out loud at last, voice gone ancient and steady.
 - **Surprise:** his confession is *calm* — the panic gone now that he's chosen honesty.
 - **Theme:** present. **Opening:** cold-open on the seams. **Beat subversion:** the "team
   assembles" beat is just two people and a dying world. **Re-read payoff:** boatman-blade /
-  the lineage (#4) clarified — the First Death IS the old boatman.
+  the lineage (#4) clarified — **Mór, the First Death, IS the old boatman** engraved on the
+  blade. **Writer warnings:** introduce Helia by withheld light and her cold rivalry with
+  Mór; plant the fault line clearly — it is the climax's mechanism.
 
 ### Chapter 18 — CLIMAX (part 1) — "Lady Death"  (~90%)
 - **POV:** Alice. **Structure:** single decisive scene. **~5,000w.**
-- **Beats:** Alice chooses — fully informed, on her own terms — to take up the mantle.
-  **[PROPOSAL: mantle taken at CLIMAX, not midpoint.]** She redefines what Lady Death is:
-  not Death's opposite, not a killer, but *the mercy in the office* — the last thing
-  healing does. ("I'm not the end of healing. I'm the last thing it does.") The taking has
-  a real cost (per [PROPOSAL]: she loses the mortal-Alice life / the memory-of-this-life —
-  OR a softened cost, author's call). She does it with eyes open. This neutralizes the
-  First Death's central argument (a Lady chosen for love can still be impartial mercy) and
-  closes the office the Beings required.
+- **Beats:** Alice chooses — fully informed, on her own terms — to take up the mantle
+  (mantle taken at the CLIMAX, not midpoint). She redefines what Lady Death is: not Death's
+  opposite, not a killer, but *the mercy in the office* — the last thing healing does. ("I'm
+  not the end of healing. I'm the last thing it does.") **The taking has a real, resolved
+  cost: she gives up her mortal life and the ordinary human future she'd have had — career,
+  aging, a small mortal death — but she KEEPS her memory of this life and everyone in it.**
+  She does it with eyes open, choosing to carry them all forward rather than live among them
+  as a mortal. This neutralizes Mór's central argument (a Lady chosen for love can still be
+  impartial mercy) and closes the office the Beings required.
 - **Anchor:** the bracelet becoming the full scythe in her hand / the lantern-light passing
   to her.
 - **Surprise:** the transformation is quiet and chosen, not a fireworks apotheosis.
@@ -309,16 +350,25 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 ### Chapter 19 — CLIMAX (part 2) — "Reversion Denied"
 - **POV:** Alice (now becoming/as Lady Death). **Structure:** in medias res — confrontation.
   **~4,900w.**
-- **Beats:** The First Death's last stand: the office is being completed and he moves to
-  stop it / force reversion anyway. The confrontation is won not by force but by the thing
-  he denied — *mercy and choice* (Alice/Lady Death does for the world what he never could;
-  possibly she offers HIM mercy — a true ending, rest, the thing the deposed god secretly
-  wanted). The Beings withdraw the threat: the office is whole; reversion is denied; the
-  seams close; the Old Gods recede. The cost of Alice's choice is felt (the loss lands).
-  Acheron and Alice as Death and Lady Death — equals at last.
-- **Anchor:** the First Death finally laid to rest by the mercy he scorned (or the seam
-  closing as the sun rises *correctly*).
-- **Surprise:** the antagonist defeated by being *understood*, not beaten.
+- **Beats:** The coalition's last stand: the office is being completed and **Mór moves to
+  stop it / force reversion anyway, the other deposed gods pressing their domains behind him
+  (Bréon's storms, Helia withholding the sun, Saira's rot at full tide).** Alice does not
+  out-fight an ensemble of gods — she **splits it.** She uses the fault line: the coalition
+  is allied only by exile, and Mór would be restored first. Offering *mercy and choice* —
+  the very things Mór denied — she un-unites them: she gives Helia (and the others) what Mór
+  never could (rest, an honest ending, or simply the truth that he was using them), and the
+  coalition fractures rather than wins. Mór's own argument is neutralized (a Lady chosen for
+  love delivers impartial mercy after all); possibly she offers HIM the rest he secretly
+  wanted. The Beings withdraw the threat: the office is whole; reversion is denied; the seams
+  close; **the deposed gods recede, each unsatisfied but unable to hold the seam without
+  Mór, and the opening myth's symptoms reverse (the sun rises *correctly*).** The cost of
+  Alice's choice is felt (her mortal life and future given up; her memory intact). Acheron
+  and Alice as Death and Lady Death — equals at last.
+- **Anchor:** Mór finally laid to rest by the mercy he scorned, the coalition behind him
+  unraveling (the seam closing as the sun rises *correctly* — Helia's domain answering to
+  the new whole office instead of to her).
+- **Surprise:** the antagonists defeated by being *understood* and *divided*, not beaten —
+  an ensemble undone by its own rivalry, not a single villain slain.
 - **Theme:** present. **Opening:** in medias res. **Beat subversion:** the "final battle"
   beat won by compassion. **Re-read payoff:** the bracelet's full meaning (#1, #6 — why she
   survived the crash) closes.
@@ -326,11 +376,14 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 ### Chapter 20 — "Remembrance" (resolution / emotional residue)
 - **POV:** Alice. **Structure:** quiet, spacious. **~4,600w.**
 - **Beats:** The new equilibrium. What Alice kept and what she lost made concrete and
-  bittersweet. **[PROPOSAL for the cost-resolution: she loses mortal-Alice's life but is
-  given a way to ease the people she loved (Reyes, Jonah, her patients) — she becomes the
-  mercy at their bedsides, the way Acheron was at hers; she may not be remembered but she
-  remembers them.]** Possibly she is the young figure who now sits with the dying — closing
-  the loop of the opening (a child somewhere sees Lady Death and asks "are you okay?").
+  bittersweet. **Cost-resolution (resolved): she loses her mortal life and the ordinary
+  human future — she will not grow old, will not have the small mortal life and death she'd
+  imagined — but she keeps every memory and everyone in it. She remembers Reyes, Jonah, her
+  patients, all of it, and now becomes the mercy at their bedsides the way Acheron was at
+  hers — present for the people she loved, on the other side of the threshold, carrying them
+  forward.** The warmth is in the keeping: she did not have to forget anyone to become this.
+  Possibly she is the figure who now sits with the dying — closing the loop of the opening (a
+  child somewhere sees Lady Death and asks "are you okay?").
   Acheron and Alice together, the office whole. He stops calling her "little one" — calls
   her by name, or a new name — because she's his equal now (re-read payoff #3). Final
   image deposits the residue: aching, warmed, certain that being known across death is
@@ -361,3 +414,11 @@ Ch19 in-medias-res(climax) · Ch20 quiet/epilogue-adjacent.
 - **Originality / beat subversion:** every chapter names its subverted beat. PASS.
 - **Turning points placed:** PT1 Ch5 (~25%), MID Ch10 (~50%), PT2 Ch15 (~75%), CLIMAX
   Ch18-19 (~90%). PASS.
+- **Coalition distribution (one god per act, cast-controlled):** Saira/harvest seeded Ch5/7/9
+  → Mór/First Death named & ensemble revealed Ch10, ultimatum Ch14 → Bréon/storm Ch13 →
+  Helia/sun Ch17, fault line exploited at climax Ch19. Four named + "sense of more"; never a
+  free-floating council scene. PASS.
+- **Cost consistency (memory KEPT):** Ch15 names cost = mortal life + human future, memory
+  kept; Ch18/Ch20 resolve identically; no amnesia anywhere. PASS.
+- **No prior loss:** Ch12 explicitly recasts Acheron's terror as first-find + started clock,
+  not a previous bereavement. PASS.

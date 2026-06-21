@@ -82,16 +82,34 @@
   this again — okay. Little one, the short version is: I've been looking for you for a very
   long time, and I'd really rather not lose you to the explanation."*
 
-### The First Death (antagonist)  [PROPOSAL — name/gender open]
+### Mór — the First Death (antagonist ringleader)  [deposed god of Death; coalition leader]
 - **Vocabulary band:** Courtly, archaic-formal, *unbroken* by slang (the opposite of
   Acheron — that contrast is the cover-the-name solution). Reasoned, never raised.
 - **Syntax fingerprint:** Balanced, periodic sentences; rhetorical questions; the calm of
   someone who has already won the argument in his head.
 - **Verbal tics:** addresses Alice as **"child"** or "Doctor" (formal, never "little one" —
-  reserved to Acheron); "Surely you see"; "It is only right."
+  reserved to Acheron); "Surely you see"; "It is only right." Speaks of the coalition with
+  cold collegial distance ("my fellow exiles," "the others grow impatient — I do not").
 - **Never says:** slang; apology; raised voice; he never threatens — he *offers.*
 - **Sample line:** *"He kept you from death and calls it love. I would only ask you to do
   your work as you swore to — to do no harm. Surely you see the difference, child."*
+
+### The other coalition gods (escalation voices — one per act; cast-controlled)
+Each gets ONE sharp register so they never blur with Mór or each other. They appear by
+symptom first, by voice briefly.
+- **Saira (harvest, Act I pressure):** maternal, slow, conflates ripeness and rot; speaks in
+  growing-things imagery. Tic-line: *"Everything has its season, Doctor. He only hoards what
+  should have fallen."* Never courtly-Mór's rhetoric; warmer, more terrible.
+- **Bréon (storm, Act II force):** loud, gleeful, impatient — the coalition's blunt
+  instrument; the ONLY god who is *fast* and informal-rough (a different break from Acheron's
+  gentle-modern). Tic-line: *"Tidy little offices. They made a morgue of a living world. Let
+  it storm."* Chafes at Mór aloud.
+- **Helia (sun, Act III / climax fault line):** radiant, cold, withdrawn; addresses the air
+  beside your head, never you; clipped and absolute. Tic-line: *"Light is mine. I will simply
+  stop."* Her resentment of Mór (restored first) is voiced flatly — the crack Alice uses.
+> Differentiation: Mór = courtly/never-cracks; Saira = warm/agrarian; Bréon = fast/rough;
+> Helia = cold/oblique. None overlaps Acheron's slang-softened gentleness or Alice's clinical
+> questions.
 
 ### Dr. Marisol Reyes (mentor)
 - **Voice marker:** Clipped imperatives, gallows humor. "Chart it or it didn't happen."
@@ -111,15 +129,19 @@
 |---|---|---|
 | Alice | rapid practical/clinical questions; "What happens now?" | vs Acheron: she's clinical & questioning, he's gentle & declarative |
 | Acheron | "little one" + modern-slang-softened old diction; says "Gods" | vs First Death: same archaic root, but Acheron breaks formal with slang & self-deprecation |
-| First Death | unbroken courtly formality; "child," "Surely you see"; never apologizes | vs Acheron: Acheron always cracks formal; First Death never does |
+| Mór (First Death) | unbroken courtly formality; "child," "Surely you see"; never apologizes | vs Acheron: Acheron always cracks formal; Mór never does |
+| Saira (harvest) | maternal, slow, growing-things/rot imagery | vs Mór: warm & agrarian, not courtly-rhetorical |
+| Bréon (storm) | fast, loud, rough-informal, gleeful | vs Acheron: informal but harsh/eager, not gentle-modern |
+| Helia (sun) | cold, oblique, absolute; talks past you | vs Mór: both formal, but Helia is clipped/withdrawn, Mór is expansive/courtly |
 | Reyes | clipped imperatives, gallows one-liners; unfinished sentences | vs Alice: Alice questions, Reyes commands |
 | Jonah | over-talks, stats-as-comfort, third-person-under-stress | vs everyone: he fills silence; the leads use silence |
 | Amy | tart, dry, "Doctor" with irony | vs Reyes: Amy is patient-side & wry, Reyes is staff-side & terse |
 
-> No two characters share a sharpest marker. Acheron vs First Death (the riskiest pair —
-> both archaic) are split by the **slang-break test**: Acheron always softens formal
-> diction with modern slang and self-deprecation; the First Death never does, and never
-> says "little one."
+> No two characters share a sharpest marker. Acheron vs Mór (the riskiest pair — both
+> archaic) are split by the **slang-break test**: Acheron always softens formal diction with
+> modern slang and self-deprecation; Mór never does, and never says "little one." The other
+> three gods are each pulled away from Mór's courtliness on a different axis (Saira warm,
+> Bréon fast/rough, Helia cold/oblique) so the coalition never sounds like one voice.
 
 ---
 
@@ -153,7 +175,12 @@
   short, present sensory beats; Acheron's nervousness (the eternal being undone) is the
   emotional hook, not performance.
 - **Climax/transformation (Ch.18-19):** NO heat — switch to a **sacred/quiet register**;
-  the taking of the mantle is reverent, not sensual.
+  the taking of the mantle is reverent, not sensual. **Cost register (binding):** the grief
+  to write is the loss of the *mortal life and ordinary future* (aging, a small mortal
+  death, the human life she'd have lived) — NOT amnesia. Alice KEEPS her memory of this life
+  and everyone in it; the warmth of the ending depends on it. Never write farewell-to-memory
+  or "she would forget them" dread anywhere. The bittersweet note is "I carry you all
+  forward," not "I will not remember you."
 
 ---
 
