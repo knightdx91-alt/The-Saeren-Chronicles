@@ -6,7 +6,7 @@ They had not gone ten steps down the carpeted hall before a voice came after the
 
 "There you are."
 
-Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, and the keeping of a small promise sat plainly on her face, pleased with itself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
+Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, pleased with herself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
 
 "Told you I'd find you," she said. "I'm very reliable, in the things that don't matter." Her gaze went over Viridia's head to Alice, who was looking up at her with open wonder. "And you've made a friend. Good. Hold on to that one. First-day friends are the ones who knew you before you'd decided who to be."
 
@@ -50,15 +50,15 @@ Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at o
 
 *This is called a focus. To the best of my knowledge it has been passed down on your mother's side for more generations than anyone has counted. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
 
-That was all. No name. No *love.* No spirits-guide-you. Just an instruction — and the more she looked at it the less it read like a gift and the more it read like a hand on her shoulder she had not felt arrive. Someone had known where she would be. Someone had known she would be asked, in a class she had not yet attended, by a teacher she had not yet met, a specific question, and had decided in advance what her answer would be and written it down for her. *Tell her no.* It was not phrased as advice. It was phrased the way you tell a thing to a person you are managing.
+That was all. No name. No *love.* No spirits-guide-you. Just an instruction, and the more she looked at it the less it read like a gift and the more it read like a hand on her shoulder she had not felt arrive. Someone had known she would be asked a specific question, in a class she had not yet attended, by a teacher she had not yet met, and had decided in advance what her answer would be. *Tell her no.* It was not phrased as advice. It was phrased the way you tell a thing to a person you are managing.
 
 She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it, the mark of something meant to come apart into two halves and then mended, or never quite finished. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone. She could no more read them than she could read the wind.
 
 *Keep this with you always.*
 
-Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and arranged the words she would say out loud in a room she had not yet entered. A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.* The wanting-to-know that came up under the unease was not warm. It was the cold careful wanting of a person who has just found out a stranger has had a key to her house.
+A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.*
 
-She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
+She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. The moment it settled against her hip the focus went briefly cold, then warm, a small private greeting, and somewhere at the very edge of her attention something else seemed to turn toward the warmth and take notice. Then it was only a metal rod against her leg, and the room was only a room. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
 "You're quiet," Alice said, from her own bed.
 
@@ -198,7 +198,7 @@ And then, near the end, the line Viridia would carry the way she carried the oth
 
 *No matter the circumstances of my passing, always know that I loved you.*
 
-*The circumstances of my passing.* As though there had been circumstances. As though her mother, writing this, sitting at the kitchen table perhaps while the toast burned and the tea went cold, had known there would be circumstances to be uncertain about. Had known, and not said. Had folded the knowing into ordinary words and left it for Viridia to find on a night like this one, in a school full of strangers, with a tiger's claw-marks still hanging in the air of the dining hall downstairs.
+*The circumstances of my passing.* As though there had been circumstances. As though her mother, writing this at the kitchen table while the toast burned, had known there would be circumstances to be uncertain about. Had known, and not said. Had folded the knowing into ordinary words and left it for Viridia to find on a night like this one, in a school full of strangers.
 
 *Be careful who you let see you do it.*
 
