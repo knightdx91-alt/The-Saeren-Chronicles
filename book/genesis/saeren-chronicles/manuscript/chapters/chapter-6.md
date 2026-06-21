@@ -84,7 +84,7 @@ Viridia stopped with the spoon halfway up. "Broken how?"
 
 *That,* said Lor-ar, *is the whole of the world you were given. It is not the whole of the world.* He looked at her with something that was almost pity and almost patience and entirely ancient. *You cannot have life without death, little one. Nor light without the dark. Most higher things are made with both. It is the natural shape of a living thing. The lower beasts may have only one, and that is no fault of theirs; they were made that way, and they are whole in the way a thing is whole when it was never meant to be more.* The storm eyes held hers. *Your people were meant to be more. And someone, long ago, took the other half away. That is the brokenness. Not a flaw you were born with. A wound that was done to you, so long ago that you have forgotten it was ever a wound, and call the scar your nature.*
 
-Viridia sat very still in the dark with the cold soup in her lap.
+Viridia sat unmoving in the dark with the cold soup in her lap.
 
 "And me," she said. Quietly. Already knowing, the way she always knew the thing a half-beat before it was said. "What about me."
 
@@ -132,7 +132,7 @@ It was Alice, when the wonder had worn down to a glow, who remembered her own ne
 
 Viridia listened, and was glad for Alice, genuinely, warmly glad, and underneath the gladness, so quiet she almost missed it in herself, was a thread of something more complicated. Alice was building a life here. A sponsor of her own, a wing of her own, a path of her own that belonged not to Viridia but to who Alice was going to become. Three days ago they had been two strangers at the outside edge of the same room. Now Alice had somewhere to go in the morning, somewhere that was hers. It was exactly what Viridia had wanted for her. It was also, she registered with a small private honesty, a door opening between them, the first hairline gap of two lives that had briefly been one and would now begin, gently, to be two again. She was happy for Alice. She was. And she was, very faintly, afraid of being left, which she recognized, the moment she felt it, as the same fear that had sent her into the forest to call for something that would *stay.*
 
-She put the thought away with the others. She was good at putting things away. She let only the gladness show.
+She put the thought away with the others; she had grown good at that. She let only the gladness show.
 
 "Does it?" Viridia asked. "Suit you?"
 
@@ -156,4 +156,4 @@ She did not know what she was. That was the plain fact at the bottom of it. Thre
 
 But under the fear was the other thing again, the warm thing, the first heat felt in a long-cold room. If she was somehow the whole one, then the void her parents' deaths had opened was not the only thing she was made of. There was this, too: something in her enormous and unfinished and entirely her own. She held both at once, the grief stowed small behind her ribs and the strange new life assembling itself around her, and did not choose between them. You did not get to choose. You carried the loss and the becoming in the same two hands.
 
-The half-moon moved a little in the round window. Lor-ar's breathing rose and fell. And Viridia Saeren, fourteen years old, who had come through the gate three days ago with nothing she could name, lay awake between the dark she had been given and the dark she was walking into, and at some point, without deciding to, she let go of the day, and went over the edge of it, and down.
+The half-moon moved a little in the round window. Lor-ar's breathing rose and fell. And Viridia Saeren, fourteen years old, who had come through the gate three days ago with nothing she could name, lay awake between the dark she had been given and the dark she was walking into, and at some point, without deciding to, she let go of the day the way Alice did, trusting it to catch her, and went over the edge of it, and down.
