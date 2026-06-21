@@ -1,0 +1,70 @@
+project:
+  title: "Pompeii (working title)"
+  genre: "Historical romance / time-slip fantasy"
+  subgenre: "Time-travel romance (Outlander-style), ancient Rome"
+  language: "English"
+  word_count_target: 260000   # long single volume, Outlander-scale
+  comp_titles: ["Outlander (Diana Gabaldon)"]
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "A modern woman who inherited her late father's love of the ancient world buys an antique map said to lead to the Library of Alexandria, follows its coordinates, and opens a door into 1st-century Rome — where the Oracle of Delphi tells her where (but not when) the door home will reopen, she falls in love with a disgraced ex-gladiator, builds a family, and must choose between them and her own survival as Vesuvius erupts over Pompeii."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# GENESIS-FROM-IDEA run — build a new book from the author's story bible.
+adaptation:
+  mode: "genesis-from-bible"
+  canon_sources:
+    story_bible: "research/story-bible.md"   # author canon (spoken idea); wins over pipeline
+  chapter_1_locked: false
+  chapters_to_produce: []   # set after architect builds the outline
+
+word_floor:
+  manuscript_min_words: 220000   # long single volume (Outlander-scale)
+  manuscript_target_words: 260000
+  per_chapter_min_words: 5000
+
+phase:
+  current: 1
+  status: "scaffolded — bible staged; decisions resolved; awaiting architect (foundation + outline + voice-dna)"
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "Build to the story bible; honor the beat order; historically accurate 'to a certain point' (Outlander standard) — real period detail + real political backdrop, fictional leads."
+  # --- Settled author canon ---
+  - "TONE/SCOPE: Outlander-style sweeping time-slip historical romance. ONE long standalone (~260k target, 220k floor) running all the way through the eruption and her final choice."
+  - "HISTORY: Flavian era. She arrives ~70 AD (Vespasian, r.69-79); romance + family span ~9 years; Vesuvius erupts 79 AD under Titus. NOT Nero (died 68). Keep the political backdrop accurate."
+  - "MAP: purports to lead to the lost LIBRARY OF ALEXANDRIA; the real secret beneath the legend is a door through time. Bought at an estate sale of a self-proclaimed treasure hunter who vanished (left notes + coordinates); shopkeeper bought it only because it was accurate for its period."
+  - "MECHANISM: following the coordinates opens a time-door. She lands first in GREECE (Delphi). The ORACLE OF DELPHI tells her WHERE the door home is (Pompeii) but NOT WHEN it opens; she learns the 'when' later by other means."
+  - "GREECE FIRST: a lone foreign woman in antiquity cannot simply travel — she must establish footing/protection in Greece before the long journey to Pompeii. Use this constraint as real obstacle, not hand-waved."
+  - "LOVE INTEREST: a disgraced EX-GLADIATOR accused of an affair with the emperor's wife (the accusation ruined/exiled him). They marry and have children over years in the past."
+  - "CLIMAX: when she tries to leave, her family cannot pass through to the future. Choice = stay in the past with them or leave to save herself, AS Vesuvius erupts. The eruption is the literal + emotional ticking clock."
+  - "ROMANCE HEAT: EXPLICIT / spicy — on-page detailed intimacy (full romantasy heat)."
+
+open_author_decisions:
+  - "Protagonist's name and modern era (present day vs a specific decade?)."
+  - "Father OR grandfather as the archaeologist who sparked her love of the ancient world?"
+  - "The ex-gladiator's name and the specifics of the wife-affair scandal (whose court — Vespasian/Titus household, or a provincial governor's?)."
+  - "HOW she learns WHEN the door opens (a second oracle/sign, the treasure hunter's notes, a recurring celestial/temple cue?)."
+  - "Does the vanished treasure hunter reappear, and what is the larger mystery behind the map and the doors?"
+  - "Final choice outcome: does she STAY or GO? (this is the book's ending)."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/pompeii/."
+  - "Single-POV (protagonist) likely, Outlander-style first-person feel — architect to confirm POV/tense."
+revision_cycles: 0
