@@ -72,7 +72,12 @@ ever — so the pressure has no outlet; it can only build until it snaps.
 ## 3. ESCALATION LADDER → TURNING POINTS
 
 The bible's beat order, mapped to the ~25/50/75% structure. "And then it gets worse"
-is native: every relief move tightens the trap.
+is native: every relief move tightens the trap. (SCOPE: ~150k single novel across
+**29 chapters** at ~5,100–5,400 words each; turning points fall at Ch.7 / Ch.15 /
+Ch.22–24 / climax Ch.27–28 — see `outline.md`. Percentages below are unchanged; only
+the chapter count grew, by deepening the journey-home stages, the court/Maren thread,
+the war's stepped escalation, situational dragon-memory reveals, and an earned
+convergence.)
 
 - **Setup (0–10%).** Two cages introduced in parallel: Amelia hidden behind the
   Queen's walls, desperate to be *seen*; Korvan, sixteen-plus and still unshifted,
@@ -320,7 +325,7 @@ A complete single-novel arc that honors "Loric cannot be satisfied, only stopped
   and allows the propaganda anyway; tragic, not oblivious. (Matches the original proposal.)
 - **Does Korvan confide the garden meeting?** RESOLVED — **NO. He carries it ENTIRELY
   ALONE.** He tells Selwyn no one. The reader is the only witness. The emotional
-  pressure and the Ch.10 snap come from *carrying it alone*, not from a confession or
+  pressure and the Ch.14 snap come from *carrying it alone*, not from a confession or
   betrayal risk. (Overrides the earlier "confide to Selwyn" proposal.)
 - **Maren:** RESOLVED — **CONFIRMED.** Amelia's keeper/handmaid and the one human the
   Queen won't feed on; woven through the Amelia court-POV chapters as relationship +

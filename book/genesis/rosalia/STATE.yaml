@@ -16,7 +16,7 @@ adaptation:
   canon_sources:
     story_bible: "research/story-bible.md"   # author canon (Google Drive "Rosalia"); wins over pipeline
   chapter_1_locked: false
-  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
 
 word_floor:
   manuscript_min_words: 140000   # ~500 printed pages hard floor
@@ -25,12 +25,13 @@ word_floor:
 
 phase:
   current: 1
-  status: "architecture complete — ready for chapter loop"
+  status: "architecture complete (SCOPE EXPANDED to ~150k / 29 ch) — ready for chapter loop"
   history:
     - "2026-06-21: architect built foundation.md + outline.md + voice-dna.md (20-ch dual-parallel-POV plan)."
+    - "2026-06-21: SCOPE RAISED to ~150k (target 150k / floor 140k, ~500+ pp). Outline expanded 20 -> 29 ch at ~5,100-5,400 each (projected ~151k). Depth not padding: more journey-home stages (4,10,12,16,21), deeper court/Maren thread (2,18,20), stepped war escalation (12,18,20,27-28), situational dragon-memory reveals (12,15,16,21,22), earned convergence with yearning + open-door payoff (25,26), two-beat climax (27-28). Canon beat order, dual-parallel POV, and all resolved decisions preserved. TPs: Ch.7 / Ch.15 / Ch.22-24 / climax Ch.27-28."
 
 chapters:
-  total_planned: 20
+  total_planned: 29
   completed: []
   scores: {}
 
@@ -44,7 +45,7 @@ quality_gate:
 
 guardrails:
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
-  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST. Log frequent flags in feedback/style-flags.md."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Build to the story bible; honor the inciting-incident beat order and thematic principles. Do NOT contradict author canon below."
   # --- Settled author canon (from the bible — never violate) ---
