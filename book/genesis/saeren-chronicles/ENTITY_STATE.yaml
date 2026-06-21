@@ -1,6 +1,12 @@
 # ENTITY_STATE — canonical state keeper (BUILD over chapter-1.md + character-bible.md)
 last_updated_chapter: 18
 mode: UPDATE
+last_update_pass:
+  date: 2026-06-21
+  by: entity-tracker
+  reason: "agency_pass_round6 (STATE.yaml) — passive->active beat conversions re-extracted from revised chapters."
+  chapters_reprocessed: [3, 4, 5, 8, 16]
+  changes: "Viridia agency_beats_round6 (Ch.3 defies note/keeps focus openly+loses anonymity; Ch.4 breaks cover onto Lightwell's radar; Ch.5 defies Amber/over-pours pact-call; Ch.8 ripple; Ch.16 chooses to leave Alice + hidden rune-craft from cover); Amber ch4/ch5 status (favor spent; now frightened/angry); ADDED open mystery 'hungry thing in the dark' (Bk2 hook, distinct from Hollowing/void)."
 
 characters:
   viridia_saeren:
@@ -17,6 +23,12 @@ characters:
     focus: "silver rod, mother's side, Moravian inscription; not yet primed at Ch.1 end"
     knows_at_ch1_end: "parents dead 3 days; arrived at Hazel; met Amber, Alice, Lady Lightwell"
     location_ch1_end: "orientation hall, leaving with Alice"
+    agency_beats_round6:
+      ch3: "DEFIES THE NOTE (Tell her no): instead of pocketing her mother's silver rod-focus quietly, she walks to the front to KEEP it openly, on her own terms, in a crowded room — choosing to be seen choosing. Cost = trades anonymity (which she came to Hazel craving) for being the one who decides. Mrs. Zoran wakes the focus (it elongates to a glowing cane, 'practically begging'); Viridia now suspects she was 'measured' across time by whoever packed the focus, and resolves to learn whose footprints they are (cold, active wanting vs. passive destiny)."
+      ch4: "BREAKS COVER on Lightwell's radar: told to be quiet behind Amber in the office, she steps out from behind Amber and openly argues for the Magical Warfare placement, revealing she wrote on Cote's quiz that the light mages were WRONG to put the dark lines to the sword. Lightwell grants the warfare/summoning request specifically because of what VIRIDIA showed, not only Amber's favor. Cost = consciously spends her anonymity; Lightwell now remembers her ('the most dangerous thing about you... you notice things and say them out loud in the wrong rooms')."
+      ch5: "DEFIES AMBER'S 'start small' rule + OVER-POURS the pact/summoning-call: Amber made her promise to send the littlest call (3 soft pulses, a toad/finch). Viridia chooses instead to throw herself wholly open ('rather risk the bottom dropping out than bond a small thing that might not stay'), pours past her own bottom — orb burns WHITE-AND-BLACK at once (both halves; first felt 'complete'); gains first glimpse of the wood's mana-web. Cost = near-fatal drain (nosebleed, collapse), summons Lor-ar (far bigger than intended), and the over-pour rolls out past the named wood where a 'hungry thing in the dark' heard it (see open_mysteries). Lor-ar: 'you have announced yourself, the once, to a hungry thing in the dark.'"
+      ch8: "Ripple line: her 'reaches past the safe edge' trait (shown Ch.3-5) tied to the True Bond with Raizen — the same refusal of the safe-small call that drew Lor-ar shapes the over-reaching bond."
+      ch16: "TWO costly choices: (1) consciously OBEYS Lightwell's order and LEAVES Alice — chooses the eight girls behind Amber's failing shield over running 3 corridors for the one friend who loved her without wanting anything back. The loss of Alice is partly her own doing, owned, not done to her ('the worst thing she had ever done'). (2) Spends HIDDEN dark-side RUNE-CRAFT FROM COVER to decide the students' escape: while the captain talks, she inscribes an explosion rune from across the burning hall onto his staff, linked to his own protection rune (a 'death symbol' — a killing made of his own defense). Botches the third stroke (inverted, as on the iron bench), the bad line draws back into her — splits the skin of her left forearm, numbs two fingers — she lays a true line over it just in time. The captain's shield becomes a sealed bomb. She remained UNSEEN ('he had never seen Viridia at all'); hiding right is why she lived and why she could decide the eight's escape from cover."
     knows_at_ch15_end: "(adds to ch9) The ranking-test/Chancellor arc (Ch.12-14): excused from Intro-to-Magic class (Ch.12, no longer needed). THE WELL/SOURCE (Ch.14): touched the source of all magic; learned the pact (2nd war) + the DELIBERATE partial severing of mankind's dark-half connection (fear of equals, not monsters) = why dark mages are rare; the dark connection is frayed but NOT gone (might be mended — hope/hubris, untested); her core grew ~100x (was a 'hearth', now a 'furnace'); a personal THREAD with her mother (Bella) running DOWN into the source's depths that she could see but COULD NOT follow (Bk2 mystery); a strange ABSENCE at the rim of the world's lattice that the source itself flinches from (void precursor — abstract, no entity). Chancellor's cover story: the well only gives a larger core, once only, don't tell friends. She HID that her experience differed; lied to his trap-question ('did you see/hear anything?') with a worried face while he wore the glasses. THE THRESHOLD (Ch.15, via Amber): peace holds only until ONE more dark mage killed BY DECREE; then Jazen goes to war; if it breaks, Lightwell evacuates the dark-mage girls (incl. Viridia) to Jazen's camp."
     core_size: "post-well (Ch.14): vastly larger ('furnace'); must now bank it down to a flicker by daylight (practiced Ch.14-15)"
     can_cast_portals: "YES, learned from touching the source/recognizing the modified portal scroll (Ch.14); opens her own portal in the attack (Ch.16)"
@@ -39,6 +51,8 @@ characters:
     backstory: "parents murdered at age 8; shattered own light core to say goodbye"
     secret_she_keeps: "Lady Lightwell is Jazen's mother (does NOT tell Viridia)"
     promise_unpaid_at_ch1: "I'll come find you the second it's over (pays off opening Ch.2)"
+    ch4_NEW: "Spends her one irreplaceable Lightwell favor ON PURPOSE on a 3-day stranger (Viridia) — secures the Warfare placement + permission to teach summoning. Goes pale doing it; first beat of her loyalty to Viridia."
+    ch5_status_change_NEW: "After Viridia DEFIES her 'start small' rule and over-pours the summoning-call, Amber turns FRIGHTENED AND ANGRY (fear wearing the coat of anger): grabs Viridia's shoulders, shakes her, 'I told you small. I made you promise small... you opened yourself up like a slit throat. I felt the bottom go out of you.' Names the dread she now half-understands in Viridia: 'What is it in you that would rather die asking than live with a small answer?... I think I already know, and I don't like that I know it.' Relationship to Viridia now carries this wary, protective fear."
   lady_isolde_lightwell:
     role: "Headmistress (~15 years)"
     spectacles: "ROSE-TINTED (never plain glasses)"
@@ -118,6 +132,12 @@ new_world_facts_ch12_15:
 
 open_contradictions: 0
 open_mysteries:
+  - thread: "The 'hungry thing in the dark' (Ch.5) — BOOK-TWO HOOK (intentional, NO Book-One payoff)"
+    introduced: "ch-5"
+    source: "Ch.5 Lor-ar: 'a call that size does not stop at the edge of a clearing... out there something heard it and did not come — which is worse than if it had. You have announced yourself, the once, to a hungry thing in the dark, and a thing like that does not forget the taste of a door thrown open.'"
+    cause: "Viridia's Ch.5 over-pour (defying Amber's 'start small') flung her summoning-call far past the named wood; the thing heard and did NOT come."
+    distinct_from: "NOT the Hollowing and NOT the void-absence the source fears (Ch.14). A separate, earlier-seeded predator alerted specifically by the over-pour. Possible (unconfirmed) tie to Cote's Ch.4 'Horrors from beyond the veil / drain the life from any they touched' woodcut seed — left unjoined on purpose."
+    status: "chekhov_open / deferred to Book Two (logged deliberately per agency_pass_round6; = continuity WARN-1)"
   - "What did the parents actually die from? (authorial truth set; Viridia doesn't know)"
   - "Who wrote the unsigned note with the focus?"
   - "The thread in the well connecting to Bella (Ch.14 seed) — she can see it, can't follow it"
