@@ -3,7 +3,7 @@ project:
   genre: "Fantasy"
   subgenre: "Epic / political fantasy with romance (dual-POV)"
   language: "English"
-  word_count_target: 100000
+  word_count_target: 150000   # ~500+ printed pages at ~250-300 words/page
   comp_titles: []
   engagement_type: {primary: "empathy (50%)", secondary: "fascination (35%)", tertiary: "intellectual (15%)"}
   premise: "In a world where vampires, shifters, and humans are bound by an uneasy treaty, the Queen's secret natural-born daughter and the chief's son who shifts into a long-extinct dragon are thrown together by a grief-driven schemer who exposes her at a banquet — tipping two peoples back into a war neither outsider has a place in."
@@ -19,9 +19,9 @@ adaptation:
   chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
 word_floor:
-  manuscript_min_words: 95000
-  manuscript_target_words: 100000
-  per_chapter_min_words: 4500
+  manuscript_min_words: 140000   # ~500 printed pages hard floor
+  manuscript_target_words: 150000
+  per_chapter_min_words: 5000
 
 phase:
   current: 1
@@ -60,7 +60,7 @@ guardrails:
 
 # --- RESOLVED by author 2026-06-21 ---
 resolved_author_decisions:
-  - "SCOPE: single ~100,000-word novel (target 100k, floor 95k). Architect proposes the climax/endpoint within a complete arc."
+  - "SCOPE: single large novel of ~150,000 words (target 150k, floor 140k) to land ~500+ printed pages. Architect proposes the climax/endpoint within a complete arc."
   - "AMELIA THREAD: true parallel-POV timeline — cut between Korvan's journey home and Amelia's situation at court throughout."
   - "LORE: dragon ancestral memory does NOT connect to Atlantis/vampires. Korvan & Amelia's bond is 'parallel outsiders', not shared bloodline."
   - "QUEEN/LORIC: the Queen does NOT remember killing Loric's father — one wartime kill among many. His vendetta is beneath her notice (tragic irony)."
