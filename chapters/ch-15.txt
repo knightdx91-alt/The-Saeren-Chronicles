@@ -46,7 +46,7 @@ Alice flushed with pleasure and tried to hide it and failed, the way she always 
 
 She belonged. Here. At this frightening table, with these two impossible people, in a school built to destroy what she was. For the length of one ordinary breakfast she was not the only whole person she had met or the most dangerous girl at Hazel or the keeper of a thread she could not follow. She was a girl whose friend had calm hands and whose sponsor was acquiring her a second breakfast through theft, and she was, against every odd and every grief, happy.
 
-She did not know it was the last morning. That is the cruelty of the good hour. It does not announce itself. It only becomes precious afterward, in the looking back, when you would give anything to be bored at that table again, listening to two girls argue about geese.
+She did not know it was the last morning. The good hour never announces itself; it only becomes precious afterward, when you would give anything to be bored at that table again, listening to two girls argue about geese.
 
 There was a moment, near the end of it, when she almost told them.
 
@@ -128,7 +128,7 @@ She talked about the threat with Raizen, in the night air, where it was safe to 
 
 She felt his understanding come warm down the bond, and under it, his disagreement, which he did not soften, because he had her temper as well as Lor-ar's sense. "That is the one place your cleverness fails you," he said. "You think if you do not name a thing it cannot come. You have it backwards, little one. The unnamed thing comes anyway, and finds you unready, because you spent the time you might have used to ready yourself pretending the time was longer than it was." A slow wingbeat. "Name it. *When* the war comes. Say it, and then go on having your breakfasts, but have them knowing. The breakfast is not made worse by knowing. It is made dearer."
 
-She was quiet, riding the long muscled warmth of him through the dark, turning it over. And because she was high, and the night was clear, she sent the sight out toward the rim of the world the way she had at the assembly window, and found the dimness again, that thin grey wrongness on the horizon, the country where the threads of life had begun to fail. It sat nearer than a week ago. She was almost sure of it. The greyness had crept in toward the mountains the way a stain creeps up cloth, slow enough to doubt and quick enough to dread, and she marked it and held her tongue, telling Raizen nothing, because she had only fear to describe it with and no fact, and she drew her attention back to the warm certain body beneath her.
+She was quiet, riding the long muscled warmth of him through the dark, turning it over. And because she was high, and the night was clear, she sent the sight out toward the rim of the world the way she had at the assembly window, and found the dimness again, that thin grey wrongness on the horizon, the Hollowing, the country where the threads of life had begun to fail. It sat nearer than a week ago. She was almost sure of it. The greyness had crept in toward the mountains the way a stain creeps up cloth, slow enough to doubt and quick enough to dread, and she marked it and held her tongue, telling Raizen nothing, because she had only fear to describe it with and no fact, and she drew her attention back to the warm certain body beneath her.
 
 He was right, and she hated that he was right, and she loved that he would tell her so without dressing it up.
 
@@ -140,7 +140,7 @@ She had meant to. In the days that followed she did begin, after a fashion, dril
 
 * * *
 
-The last night, she did not know was the last night.
+The last night came dressed as nothing at all.
 
 It had been a good evening, an unremarkable one. Alice had come back early from the ward, yawning, full of a story about a second-year who'd turned his own eyebrows blue trying a glamour and come in mortified.
 

@@ -70,7 +70,7 @@ The hall rose into noise and motion. Lor-ar did not move from Viridia's hip.
 
 *She is afraid,* he said. *Of the man, and for you, and she has hidden it from a roomful of children who needed her not to be. That woman would make a magnificent general. It is a great waste that she is spending herself running a school.*
 
-Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon, a dimness, a thinning, as though somewhere too distant to name a thing had begun to drink the light out of the land. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
+Viridia turned the sight, once, toward the tall windows and the country beyond them, the way she did now without deciding to. Far off, past the lawns and the trees, where the living threads of the world usually lay thin and steady, a smudge sat low against the horizon, a dimness, a thinning, the Hollowing drinking the light out of the land the way Lor-ar had said it would. It held for a breath. Then a cloud shifted, or her attention did, and it was gone. She told herself it meant nothing. She filed it regardless. She had stopped trusting the things she most wished to call nothing.
 
 * * *
 
@@ -164,7 +164,7 @@ He held out his hand. On the broad rough palm lay a small triangular blade of th
 
 Viridia looked at the small grey blade in her hand, warm from his, and felt its enormity settle on her the way the spears had, too large, undeserved, a weight she did not know how to set down or take up. She had no people. She had had two, and they were three weeks dead, and she had said goodbye to no one and buried no one and the place where her people should have been was a cold open door inside her she kept her back turned to. And here was a creature with filed teeth and slit eyes, a thing her whole world called a monster, giving her a name and a token and a promise that she would not stand alone.
 
-Her eyes burned. The pressure came up behind them, sudden and hot, the body reaching past her for the release she never let it have. *No one sees you do it. You decide who sees.* She set her jaw and clenched everything down, and the wave crested and broke against the inside of her face and did not get out, and she breathed, once, slow, through her nose, and won.
+Her eyes burned. The pressure came up behind them, sudden and hot, the body reaching past her for the release she never let it have. She set her jaw and clenched everything down, and the wave crested and broke against the inside of her face and did not get out, and she breathed, once, slow, through her nose, and won.
 
 Nargash watched her win it. She knew he saw. The slit pupils did not miss things; he was a hunter, and grief on a face was only another body telling its truth. But he said nothing about it, and that was the kindest thing he could have done, and she understood that he knew that too.
 
