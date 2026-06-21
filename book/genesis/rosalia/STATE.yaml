@@ -5,7 +5,7 @@ project:
   language: "English"
   word_count_target: 100000
   comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  engagement_type: {primary: "empathy (50%)", secondary: "fascination (35%)", tertiary: "intellectual (15%)"}
   premise: "In a world where vampires, shifters, and humans are bound by an uneasy treaty, the Queen's secret natural-born daughter and the chief's son who shifts into a long-extinct dragon are thrown together by a grief-driven schemer who exposes her at a banquet — tipping two peoples back into a war neither outsider has a place in."
   created: "2026-06-21"
   updated: "2026-06-21"
@@ -16,7 +16,7 @@ adaptation:
   canon_sources:
     story_bible: "research/story-bible.md"   # author canon (Google Drive "Rosalia"); wins over pipeline
   chapter_1_locked: false
-  chapters_to_produce: []   # set after architect builds the outline
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
 word_floor:
   manuscript_min_words: 95000
@@ -25,11 +25,12 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — bible staged; awaiting author decisions, then architect (foundation + outline + voice-dna)"
-  history: []
+  status: "architecture complete — ready for chapter loop"
+  history:
+    - "2026-06-21: architect built foundation.md + outline.md + voice-dna.md (20-ch dual-parallel-POV plan)."
 
 chapters:
-  total_planned: 0
+  total_planned: 20
   completed: []
   scores: {}
 
@@ -67,6 +68,15 @@ open_author_decisions:
   - "Is Korvan's mother alive / does he have siblings?"
   - "Does the chief know Korvan's connection with Amelia was genuine (not the propaganda figure she'll be made into)?"
   - "Does Korvan confide the garden meeting to anyone, or carry it alone?"
+
+# --- Architect PROPOSALS (2026-06-21) — flagged, NOT locked; confirm with author ---
+architect_proposals:
+  - "Korvan's mother: DECEASED years ago (a clan-death the chief 'survived to fight later' — seeds his pragmatism creed). One YOUNGER sibling who shifts normally/on-time, sharpening Korvan's outsider ache."
+  - "Chief knows the bond was genuine: YES, privately — and still lets Korvan be made into propaganda because protecting the truth would cost more than he can pay (makes the chief tragic, not oblivious; sharpens the father-son dilemma in Ch.10/16)."
+  - "Korvan confides the garden meeting: ONLY to Selwyn, late and partial (Ch.14) — gives the secret a witness + a betrayal risk, and a cause for the Ch.10 snap."
+  - "ENDPOINT: single complete arc; Loric is OUTLASTED/contained at unrecoverable cost, NOT defeated by argument (canon: he can't be negotiated). Reveal-to-reader-only: the Queen never knew his name. Amelia chooses to be seen on her terms; Korvan authors the dragon as his own place. Bittersweet partial peace; sequel-optional. (Ch.19-20)"
+  - "Maren: NEW supporting character (Amelia's keeper/handmaid, the human the Queen won't feed on) invented to give Amelia's court thread a relationship + human stake. Confirm or cut."
+  - "Style gate: ADD these deliberate motifs to tools/style_check.py ALLOWLIST before the chapter loop: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'/'later' (Chief's creed)."
 
 decisions:
   - "Folder-per-book genesis project under book/genesis/rosalia/."
