@@ -1,194 +1,208 @@
 # Pacing Heatmap — The Saeren Chronicles, Book One: The Hazel Years
 
-Objective-as-possible pacing map of all 18 chapters. Measurable columns (word count,
-dialogue density) come from `wc`/`grep`. Tension and Momentum are judgment scores (1–10),
-with one-line reasoning each. Scene-vs-summary is estimated from a full read of each
-chapter. Built 2026-06-21 against the current revised manuscript.
+*Objective-as-possible pacing map of the round-4 manuscript (2026-06-21). Measured columns
+(word count, dialogue density) are from `wc -w` and a quote-line/quote-word heuristic; tension
+and momentum are judgment scores (1–10) with one line of reasoning each. Compares against the
+prior `evaluations/pacing-map.md` (round-3) to assess whether the Ch.1–4 opening and the
+Ch.10–12 / Ch.15 middle-act sag were fixed by the round-4 war-clock pass. No prose was edited
+to produce this document.*
 
-Method notes:
-- **Word count:** `wc -w` on each chapter file.
-- **Dialogue density:** quote-mark count / 2 (paired) measured by `grep -o`, cross-checked
-  against count of paragraphs opening with a quote, then sanity-checked by eye. NOTE: this
-  UNDERCOUNTS chapters heavy in telepathic mind-speech (italic, no quote marks) — Lor-ar,
-  Raizen, and the dragons. Ch.7, 8, 9, 11 play more conversational than the quote-mark
-  number suggests.
-- **Scene vs. summary:** % of the chapter rendered as live dramatized scene (in-the-moment,
-  beat-by-beat) vs. narrated/compressed summary, reflection, or essayistic telling.
-- **Introspection load:** subjective High / Med / Low — how much of the page is interior
-  monologue, cataloguing, and reflection.
+Total manuscript (chapter files): **88,871 words** (was ~85,535 at external-review pass;
+~86,000 at round-3). The round-4 additions landed mostly in the middle act.
+
+---
+
+## How to read this
+
+- **Tension (1–10):** how much pressure/conflict/uncertainty is live *on the page* in the moment.
+- **Momentum (1–10):** forward drive — does the plot move, or circle?
+- **Scene/Summary:** rough % dramatized scene vs. narrated summary.
+- **Dlg%:** dialogue word-share (quote-bearing lines' words ÷ total), a rough heuristic.
+- **Intro:** introspection load (H/M/L).
 
 ---
 
 ## HEATMAP TABLE
 
-Tension (T) and Momentum (M), 1–10, with bars (each block ≈ 1 point, rounded).
-
-| Ch | Title | Words | T | bar | M | bar | Scene% | Dlg | Introsp | What changes (irreversible) |
-|----|-------|------:|---|-----|---|-----|--------|-----|---------|-----------------------------|
-| 1  | The Path to Hazel        | 4928 | 3 | `███░░░░░░░` | 4 | `████░░░░░░` | 70 | Low-Med | High | Viridia arrives at Hazel; meets Alice; stands up — establishes orphan grief & the watcher. |
-| 2  | The Emergency Meeting     | 4554 | 5 | `█████░░░░░` | 5 | `█████░░░░░` | 65 | Med | High | Maimed fourth-year shown; Viridia opens spellbook → letter + name-with-no-dates + "circumstances." |
-| 3  | Introduction to Magic     | 4465 | 5 | `█████░░░░░` | 5 | `█████░░░░░` | 75 | High | Med | Focus wakes into a "thirsty" cane; Zoran reveals it was made for someone with BOTH halves. |
-| 4  | History and Lunch         | 4476 | 5 | `█████░░░░░` | 5 | `█████░░░░░` | 70 | High | Med | Amber spends her one irreplaceable favor; Viridia enrolled in Warfare; the no-essay bond w/ Alice. |
-| 5  | Amber's Story             | 4625 | 6 | `██████░░░░` | 6 | `██████░░░░` | 80 | Med | Med | Amber's backstory; Viridia summons Lor-ar — orb burns white AND black; she bonds an "extinct" tiger. |
-| 6  | Lady Lightwell's Concern  | 4299 | 4 | `████░░░░░░` | 4 | `████░░░░░░` | 55 | Low-Med | High | Lor-ar plants "your people are broken"; Alice gets her own sponsor/path. Mostly aftermath + reflection. |
-| 7  | What Lor-ar Knows         | 4708 | 4 | `████░░░░░░` | 3 | `███░░░░░░░` | 40 | Low | Very High | Big reveal: she is whole, the world is broken; she sees Alice's wounded core and chooses silence. |
-| 8  | The Forest at Night       | 4877 | 7 | `███████░░░` | 8 | `████████░░` | 85 | Low-Med | Med | Egg hatches; Viridia True-Bonds Raizen — "changed in a way that cannot be undone." |
-| 9  | Lady Lightwell's Office   | 4737 | 6 | `██████░░░░` | 5 | `█████░░░░░` | 60 | High | Med | Lightwell revealed as hidden dark mage; resistance + Jazen + coming-war exposition delivered. |
-| 10 | The Language of Magic     | 4818 | 4 | `████░░░░░░` | 4 | `████░░░░░░` | 50 | Med | High | Weeks pass; she learns Moravian language, Raizen speaks, Zoran converts. "She is healing" = high point. |
-| 11 | The Dangris               | 4699 | 6 | `██████░░░░` | 6 | `██████░░░░` | 80 | Med | Med | Dangris train her; she draws blood, earns 4 Damascus spears; learns the "read the thread" kill. |
-| 12 | The Ranking Test Is Announced | 5159 | 6 | `██████░░░░` | 5 | `█████░░░░░` | 65 | High | Med | Chancellor announced; she resolves to bank her core & hide. "Something is about to change." |
-| 13 | The Day of the Test       | 4796 | 8 | `████████░░` | 7 | `███████░░░` | 80 | Med | Med | Disc goes gold; she votes "no" under surveillance; Chancellor dons seeing-glasses; "Follow me." |
-| 14 | The Portal                | 5433 | 7 | `███████░░░` | 6 | `██████░░░░` | 70 | Med | High | The Well: she learns the severing, finds her mother's unreachable thread, senses the "absence." |
-| 15 | Amber Returns             | 5200 | 5 | `█████░░░░░` | 4 | `████░░░░░░` | 60 | High | Med | War stakes re-stated; "the worst peace" holds. Deliberate calm-before — the last good night. |
-| 16 | The Attack                | 5211 | 10 | `██████████` | 10 | `██████████` | 95 | Low-Med | Med | The raid: school falls; she kills, saves 8, chooses NOT to go for Alice; Lightwell duels & is lost. |
-| 17 | The Forest and the Camp   | 4923 | 7 | `███████░░░` | 6 | `██████░░░░` | 70 | Med | High | Reach the camp; Jazen = Lightwell's son; the no-thread grief — reaching for Alice and finding nothing. |
-| 18 | What Comes Next           | 4620 | 5 | `█████░░░░░` | 5 | `█████░░░░░` | 50 | Med-High | High | Council votes for war; "we're done with small"; Viridia faces forward. Denouement + launch into Book 2. |
-
-Total manuscript ≈ 85,528 words (clears the 85k floor). Chapter range 4,299–5,433.
+| Ch | Title | Words | Tension | | Momentum | | Scene:Sum | Dlg% | Intro | What changes (irreversible) |
+|----|-------|------:|:-------:|---|:--------:|---|:---------:|:----:|:-----:|------------------------------|
+| 1 | The Path to Hazel | 5,107 | 5 | █████░░░░░ | 6 | ██████░░░░ | 70:30 | 25 | H | Viridia arrives at Hazel; meets Amber & Alice; orphan-grief established. |
+| 2 | The Emergency Meeting | 4,575 | 7 | ███████░░░ | 7 | ███████░░░ | 75:25 | 31 | M | Maimed fourth-year + focus/note/spellbook: forest lethality and a hidden inheritance land. |
+| 3 | Introduction to Magic | 4,570 | 6 | ██████░░░░ | 7 | ███████░░░ | 80:20 | 59 | M | "Made for someone with both"; the thirsty focus wakes — her anomaly named to her. |
+| 4 | History and Lunch | 4,547 | 7 | ███████░░░ | 7 | ███████░░░ | 75:25 | 57 | M | Amber spends her one irreplaceable favor; Magical Warfare placement; quiz defiance. |
+| 5 | Amber's Story | 4,669 | 8 | ████████░░ | 8 | ████████░░ | 80:20 | 32 | M | Amber's shattered-core backstory; the bond; the summoning call carried too far. |
+| 6 | Lady Lightwell's Concern | 4,332 | 6 | ██████░░░░ | 6 | ██████░░░░ | 65:35 | 29 | H | Aftermath; "your people are broken" — the severing reframed; Lor-ar in the room. |
+| 7 | What Lor-ar Knows | 4,503 | 6 | ██████░░░░ | 6 | ██████░░░░ | 55:45 | 8 | **H** | Whole-core reveal: she may be the only unbroken person she has met. |
+| 8 | The Forest at Night | 4,915 | 8 | ████████░░ | 8 | ████████░░ | 80:20 | 18 | M | Dragon egg hatches → Raizen; Varissa's threat; the pact deepens. |
+| 9 | Lady Lightwell's Office | 4,638 | 8 | ████████░░ | 8 | ████████░░ | 80:20 | 51 | M | **The war is named**; Jazen, the resistance, the decree-trigger set (loaded gun). |
+| 10 | The Language of Magic | 5,609 | 6 | ██████░░░░ | 6 | ██████░░░░ | 60:40 | 32 | M | Moravian language learned; **decree near-signing reported (clock ticks)**; greyness 3rd→2nd ridge. |
+| 11 | The Dangris | 5,310 | 7 | ███████░░░ | 7 | ███████░░░ | 80:20 | 42 | L | Spear training under the Dangris; **capital patrol near-miss in the clearing**; life-fire/thread weakness learned. |
+| 12 | The Ranking Test Announced | 5,214 | 7 | ███████░░░ | 7 | ███████░░░ | 75:25 | 47 | M | The Chancellor is coming; bank-the-core plan; "something is about to change." |
+| 13 | The Day of the Test | 4,798 | 8 | ████████░░ | 8 | ████████░░ | 80:20 | 38 | M | The gold disc; the silver glasses; "Follow me" — singled out by the most dangerous man alive. |
+| 14 | The Portal | 5,354 | 8 | ████████░░ | 7 | ███████░░░ | 70:30 | 32 | H | The well; the severing's origin; the mother-thread she cannot follow. |
+| 15 | Amber Returns | 5,915 | 6 | ██████░░░░ | 6 | ██████░░░░ | 70:30 | 52 | M | The last good peace; **second decree drafted (clock advances)**; full Viridia–Alice scene + promise. |
+| 16 | The Attack | 5,256 | 10 | ██████████ | 10 | ██████████ | 85:15 | 12 | M | The raid; the alcove choice; Alice lost; the escape. The world ends a second time. |
+| 17 | The Forest and the Camp | 4,957 | 7 | ███████░░░ | 7 | ███████░░░ | 70:30 | 28 | M | Jazen reveal; the no-bond-to-Alice grief; arrival at the resistance. |
+| 18 | What Comes Next | 4,602 | 6 | ██████░░░░ | 7 | ███████░░░ | 65:35 | 44 | M | The council; the accounting; the turn outward into the war (book-two engine set). |
 
 ---
 
-## OSCILLATION CHECK (does the book breathe?)
+## The tension / momentum curve
 
-Tension sequence: **3 5 5 5 6 4 4 7 6 4 6 6 8 7 5 10 7 5**
+```
+Ch:  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18
+Ten: 5  7  6  7  8  6  6  8  8  6  7  7  8  8  6 10  7  6
+Mom: 6  7  7  7  8  6  6  8  8  6  7  7  8  7  6 10  7  7
+                          └─ former SAG, now lifted ─┘
+```
 
-It breathes adequately in the back half but has two flat stretches early:
+Compare to round-3 momentum (from prior `pacing-map.md`):
+`6 7 7 7 8 6 6 8 8 [4 5 6] 8 7 [6] 10 7 6`. The trough chapters moved:
+**Ch.10 4→6, Ch.11 5→7, Ch.12 6→7.** Ch.15 holds at 6 but is no longer the lone basin — it now
+sits inside a breathing pattern rather than a flat run, and carries a clear clock-tick plus the
+emotional payoff scene the prior map asked for.
 
-- **Flat run A — Ch.2–4 (T = 5,5,5):** three consecutive chapters at identical tension.
-  Each *does* land a real turn (spellbook letter; tiger-focus reveal; Amber's favor), so it
-  is not inert, but the *level* never moves. To a reader the early-Hazel section reads as one
-  long, even-keeled orientation rather than a rising/falling pulse. See Ch.1–4 verdict.
-- **Flat/dip run B — Ch.6–7, and the Ch.10 dip:** Ch.6 (T4) and Ch.7 (T4) sit low back-to-back,
-  then after the Ch.8 spike the book dips again at Ch.10 (T4). The reveals in 6/7 are large in
-  *content* but small in *pressure* — delivered in stillness (a bedroom, a morning) with
-  nothing at stake in the scene itself.
-- **Healthy oscillation — Ch.8 onward:** 7→6→4→6→6→8→7→5→10→7→5 genuinely rises and falls.
-  The Ch.15 (T5) deliberate trough before the Ch.16 (T10) climax is textbook and *earned*
-  (the chapter announces itself as "the last good night").
+---
 
-Net: the second half (8–18) paces well. The first half (1–7) has a soft, even middle and
-two low-pressure reveal chapters that risk feeling samey.
+## (a) THE OPENING (Ch.1–4): publisher's first-pages verdict
+
+**Verdict: the opening no longer drags. It is submission-ready.** The round-2 trims + earlier
+hook fix held, and round-4 did not disturb them.
+
+- **Ch.1** opens on the strongest possible line ("The last ordinary morning of Viridia's life
+  smelled like scorched bread and her mother's tea") and closes the first scene on a planted hook
+  ("She thought about it for the rest of her life"). Tension is a 5 — a quiet, grief-driven,
+  character-establishing chapter — but it is *propulsive quiet*: dialogue 25%, scene-dominant,
+  and every beat seeds something (the stone, the watchful-mother voice, the misread copper-haired
+  girl). For an emotional-primary YA fantasy first-pages sample this is the right register; it
+  reads as controlled, not slow.
+- **Ch.2–4** climb to 6–7 and hold. Ch.2's maimed-fourth-year reveal is a genuine chapter-jolt;
+  Ch.3 is the most dialogue-heavy chapter in the book (59%) and moves briskly; Ch.4 ends on Amber
+  spending her irreversible favor — a real, costed turn.
+- **One residual caution, not a drag:** Ch.1's first two scenes are pure setup; an agent reading
+  only the first 5 pages gets atmosphere + the hook line but no plot-question yet — the engine
+  (focus, note, maimed girl) arrives in Ch.2. This is normal and within genre tolerance, and the
+  hook line carries it. No change recommended.
+
+**Improved vs. round-3:** the opening was already healthy in the prior map (momentum 6–7) and is
+confirmed not regressed by the round-4 pass.
+
+---
+
+## (b) THE MIDDLE-ACT SAG (Ch.10–12 + Ch.15): war-clock verdict
+
+**Verdict: the sag is resolved.** All four interventions the prior map prescribed were executed
+in the text, and they work — the middle now reads as "the hero races a visibly running clock,"
+exactly the difference the stalled beta readers asked for.
+
+Evidence, matching the prior map's prescriptions #1–#5:
+
+1. **Decree near-signing in Ch.10 (#1, highest leverage).** Ch.10 ~lines 141–151: Amber returns
+   from a job, drops the deflection entirely, and reports a dark-mage baker whose decree "went all
+   the way to the desk for signing," stopped only by someone losing their nerve. "One signature.
+   That's the whole of the distance left." The chapter closes: "the war was not a horizon after
+   all. It was a number, and the number was one." Abstract dread becomes a countdown; every
+   training scene after it reads as preparation against a deadline. *Ch.10 momentum 4→6.*
+
+2. **Patrol near-miss in Ch.11 (#3, threat made present).** Ch.11 ~lines 89–99: Nargash kills the
+   drill mid-stroke, the clearing goes dark, a capital patrol passes within "a spear's throw."
+   Exit line: "You train as though the war is six weeks off. It walked within a spear's throw of
+   you tonight." The spike of physical stakes the middle lacked; also ties the patrol to the
+   greyness ("The line where the soldiers stop has moved. It moves the way the grey thing on the
+   rim moves"). *Ch.11 momentum 5→7.*
+
+3. **Measurable ridge-by-ridge greyness (#2, atmosphere → instrument).** Now counted, not
+   glimpsed: Ch.10 ("Two ridges nearer… It moves faster than it did"), Ch.11 ("on the second
+   ridge now, where a fortnight ago it had sat on the third… a speed she could nearly put a number
+   to"), Ch.12 (assembly-window sighting, filed), Ch.15 ("nearer than a week ago… the way a stain
+   creeps up cloth"). The image is now a gauge the reader is trained to dread. Successful.
+
+4. **Second decree drafted + full Viridia–Alice scene in Ch.15 (#1 repeat + #5).** Ch.15 ~line
+   101: a mud-caked runner brings word that "They named another one… a weaver… Drawn up. Sitting
+   on the desk for the second time this month," with the gloss "both hands were moving, and
+   neither was moving back." The clock advances a second time mid-calm. Ch.15 ~lines 105–119
+   delivers the on-page, full-strength Viridia–Alice two-hander ("We don't do this anymore…
+   Promise") to maximize the Ch.16 loss — landing the dramatic irony hard ("the week the promise
+   was meant to be kept in would not come").
+
+5. **Cost-of-competence staged (#4).** Ch.10 ~line 79: an inverted warming-shape numbs two
+   fingers for nine days ("The air forgives. The object remembers"). Ch.11: Venquar opens her
+   skin repeatedly; she takes real cuts. Competence now carries consequence, not just acquisition.
+
+**What still reads as the floor of the middle:** Ch.10 and Ch.15 are the two lowest middle
+chapters (6/6) and the most interior + summary-structured — Ch.10 spans weeks in montage ("She
+got it wrong for a week"), Ch.15 is by design a calm-before-the-storm chapter and is now the
+**longest in the book at 5,915 words**. They are no longer drag (each carries a clock-tick and a
+strong emotional beat), but they are the softest spots and the likeliest skim points for a
+hostile reader.
+
+**Improved vs. round-3:** the trough is gone — Ch.10–12 lifted +2/+2/+1 momentum; the war went
+from "said" to "shown ticking." **What remains:** Ch.10 and Ch.15 still lean summary/introspective
+and now run long; the densest-exposition concern the prior map raised for Ch.14 (#6) is only
+partly addressed — Ch.14 is still a high-tension but introspection-heavy download (it works
+because the mother-thread lands, but it is the book's densest cosmology page).
 
 ---
 
 ## DRAG FLAGS (tension AND momentum ≤ 5, or high summary / high introspection / nothing-changes)
 
-- **Ch.1 — The Path to Hazel (T3 / M4) — strongest drag candidate for PACING, even though it
-  is a strong chapter for voice and is the locked benchmark.** Almost entirely atmosphere and
-  interior cataloguing: breakfast, gate, hallway-paintings tour, orientation address, two quiet
-  conversations with Alice. The only forward event is "girl arrives and meets a friend." Slow
-  passages: the painting-gallery walk (lines ~96–104) and the orientation-address block
-  (~118–198). Beautiful, low-propulsion as a page-one sample. See verdict.
-- **Ch.6 — Lady Lightwell's Concern (T4 / M4).** ~55% is aftermath: Viridia drained, sleeping,
-  waking, eating cold soup, lying awake "taking the things out and looking at them" (the long
-  list-recap, lines ~149–158). The Lor-ar "your people are broken" seed is good, but the
-  chapter is mostly recovery and reflection. High introspection, low scene.
-- **Ch.7 — What Lor-ar Knows (T4 / M3) — single lowest-momentum chapter.** Flagged in its own
-  header as "Essayistic." A two-hander lecture in a bedroom: brokenness explained, the
-  mana-sight demo, the "you are whole" reveal, then the parents question. The reveal is the
-  thematic spine of the book, but *nothing external changes* — she ends the chapter walking out
-  the same door she could have walked out at the start. The "carrots are still alive" beat
-  (~92–96) is the only scene-action in a chapter of talk. **Highest drag risk by the strict
-  metric.**
-- **Ch.10 — The Language of Magic (T4 / M4).** Deliberate time-spanning montage ("got it wrong
-  for a week," "two weeks after he hatched," "late spring by then"). Covers weeks in compressed
-  summary; the Zoran-converts and Alice-learns-to-see beats are lovely but the chapter circles
-  (training, healing, training) and its stated function is "she is healing," i.e. a plateau by
-  design. Reads as a mid-book breather; watch it doesn't sap momentum right after the Ch.8 high.
-- **Ch.18 — What Comes Next (T5 / M5) — borderline.** Council debate + two edge-of-camp
-  conversations + a long closing accounting. Appropriate as finale-denouement, but the "take an
-  accounting" passage (~109–125) is a several-hundred-word summary of everything-gained-and-lost
-  that restates what the reader just lived. Earned closure, but it is summary, and the second-
-  longest reflective block in the book.
+No chapter now scores ≤5 on both axes — the round-3 drag chapters cleared the bar. Remaining soft
+spots, in order of concern:
 
-No chapter is a true "nothing changes" drag — every chapter lands at least one irreversible
-beat. The risk is *concentration* of low-pressure, high-introspection chapters (6, 7, 10),
-not empty ones.
+- **Ch.10 (6/6) — softest in the book.** Highest summary ratio (~40%), week-spanning montage,
+  three interior set-pieces (the language exposition, Mrs. Zoran's arc, the healing). Earns its
+  length with the Moravian reveal + the decree-tick, but it is the chapter a skim reader is most
+  likely to thin. At 5,609 words it is the first trim candidate *if* the book ever needs to lose
+  words (it does not — 88,871 sits comfortably over the 85k floor).
+- **Ch.15 (6/6) — now the longest chapter (5,915 w).** Deliberately a low-tension breath before
+  Ch.16 (correct structural choice) but doing a lot at once: Amber's "why I sponsored you," the
+  war re-explained, the second decree, the Alice promise, the last-night reverie. The
+  war-explanation passage (~lines 61–73) re-states Ch.9 material; a reader who remembers Ch.9 may
+  feel the recap. Not a drag, but the one place the middle could still tighten.
+- **Ch.7 (6/6) — lowest dialogue density in the book (8%), high introspection.** Essayistic by
+  design (the whole-core reveal). Lands thematically but is the most static prose stretch;
+  acceptable as a single beat because Ch.8 spikes to 8/8 right after.
+- **Ch.6 (6/6).** Aftermath/reframing chapter; fine in isolation (see oscillation note).
+
+No "nothing changes" chapters: every chapter carries an irreversible turn (see table).
 
 ---
 
 ## RUSH / WHIPLASH FLAGS
 
-- **Ch.8 — The Forest at Night (T7, +3 from Ch.7's T4).** A large but *welcome* jump — the book
-  needs it after the Ch.6–7 trough. Crams many firsts (night ride, two ancient dragons, Drake's
-  backstory, hatching, True Bond, death-threat to Lightwell) into one chapter; dense but well-
-  sequenced, not a true rush.
-- **Ch.16 — The Attack (T10, +5 from Ch.15's T5) — biggest whiplash, and INTENDED.** This is the
-  climax and the +5 jump is the point; Ch.15 is explicitly the calm-before. Inside Ch.16, several
-  major turns land in fast succession: door-breach kill, captain duel + explosion-rune kill, the
-  gallery view of the Lightwell/Chancellor duel, the alcove choice to abandon Alice, the portal
-  escape. The prose accelerates with it, so the density mostly earns out — BUT the
-  Lightwell/Chancellor duel is observed from above and resolved off-page (she is "lost," not shown
-  to fall). A reader may feel the single biggest adult death is rushed past in favor of the escape.
-  Confirm that weighting is intended.
-- **No micro-rushes elsewhere.** The reveal chapters err toward slow, not fast.
+- **Ch.15 → Ch.16 (6/6 → 10/10): the largest jump in the book (+4/+4).** *Intended* whiplash —
+  calm-before-the-storm into the attack — and well-earned (Ch.15 primes "the way ice holds right
+  up until the moment it doesn't"). Reads as design, not error. Only risk: Ch.15's length
+  (5,915 w) makes the reader wait a beat long for the break; a reader impatient after the Ch.13
+  test peak could feel Ch.14–15 as a long descent before Ch.16. Watch, do not cut.
+- **Ch.16 (10/10) is a true single-chapter spike**, and the descent to Ch.17 (7/7) is the right
+  shape for an aftermath chapter — no rush problem on the back half.
+- **No chapter crams multiple major turns with too little breath.** Ch.16 is the most
+  event-dense and it is the climax, where density is correct. Ch.4 stacks two turns (favor +
+  warfare placement) but gives each room.
 
 ---
 
-## SPECIAL FOCUS: DO OPENING CHAPTERS 1–4 DRAG FOR A FIRST-PAGES SAMPLE?
+## OSCILLATION CHECK (does the book breathe?)
 
-**Verdict: Partially yes — the opening is voice-rich but propulsion-light. An agent reading a
-1–4 (or 1–3) sample will feel an even, low-pressure hum rather than a hook that escalates. It
-does not bore, but it does not pull.**
+The book breathes well. Tension: `5 7 6 7 8 6 6 8 8 6 7 7 8 8 6 10 7 6` — up/down on roughly a
+1–2 chapter rhythm throughout, with three clean peaks (Ch.8–9, Ch.13–14, Ch.16) and a recovery
+breath after each.
 
-Quantified scene-vs-summary for the sample block:
-
-| Ch | Scene% (dramatized) | Summary/Reflection% | Tension | Momentum |
-|----|--------------------:|--------------------:|--------:|---------:|
-| 1  | ~70 | ~30 | 3 | 4 |
-| 2  | ~65 | ~35 | 5 | 5 |
-| 3  | ~75 | ~25 | 5 | 5 |
-| 4  | ~70 | ~30 | 5 | 5 |
-| **1–4 avg** | **~70** | **~30** | **4.5** | **4.75** |
-
-Reading of the numbers:
-- **Scene ratio is actually healthy (~70%).** The problem is not too much summary — it is that
-  the *scenes themselves are low-stakes*: a breakfast, a gate, a hallway tour, an orientation
-  address, unpacking a suitcase, a magic-class demo, reading a quiz, a favor in an office. Well-
-  dramatized, but the in-scene stakes are mostly social/atmospheric.
-- **Tension flatlines at 5 across 2–4** (opens at 3 in Ch.1). Three identical-tension chapters
-  in the sample = no felt escalation. The strongest early spike — the maimed fourth-year and
-  the dragon-warning in Ch.2 (lines ~133–149) — is the single most gripping image in the opening
-  and it is *buried at the end of Ch.2*, not used to pull the reader in sooner.
-- **The first ~2,000 words of Ch.1 are pure interiority and mood** (breakfast memory, gate, the
-  long physical/psychological self-description at ~52–54, the painting tour). For a cold first-
-  page reader this is the highest-risk stretch in the book. The hook that exists ("very calmly
-  and very silently, drowning," ~216) does not arrive until near the chapter's end.
-- **The real engines of intrigue are planted but back-loaded:** the no-dates name on the family
-  tree (Ch.2 ~185–187), "the circumstances of my passing" (Ch.2 ~201), the focus "made for
-  someone with both" (Ch.3 ~179), Amber spending her one favor (Ch.4). A reader who reaches the
-  end of Ch.4 has plenty of mystery; a reader sampling only the first 1,500–2,000 words has
-  grief, atmosphere, and a stone.
-
-**Bottom line for the sample:** Chapters 1–4 will not lose a patient literary reader — prose and
-characterization carry it — but they under-deliver on *forward pressure* for a competitive
-first-pages submission. The fix is NOT cutting summary (the scene ratio is fine); it is **raise
-early stakes / surface a hook sooner**: pull a charge of the Ch.2 dragon-maiming or the
-"circumstances / no-dates" mystery up toward the Ch.1 opening, and let tension *move* across 2–4
-instead of holding at 5.
+- **One flat run to note: Ch.6–7 (6/6, 6/6).** Two consecutive interior/aftermath chapters at the
+  same level — the only back-to-back same-level pair in the book. Short (two chapters, not 3+) and
+  immediately answered by Ch.8's spike to 8/8, so it is not a sag. It is the closest thing to a
+  flat patch and worth watching if either chapter ever grows.
+- **The former 3-chapter flat run (round-3 Ch.10–12) is gone** — the war-clock pass broke it up
+  (now 6/7/7). This is the single biggest structural improvement since the prior map.
 
 ---
 
-## SLOWEST CHAPTERS (ranked)
+## BOTTOM LINE
 
-1. **Ch.7 — What Lor-ar Knows** (M3, essayistic bedroom lecture; lowest momentum in the book)
-2. **Ch.1 — The Path to Hazel** (T3; slow, interior page-one; hook arrives late)
-3. **Ch.6 — Lady Lightwell's Concern** (T4/M4; mostly recovery + a long reflective list)
-4. **Ch.10 — The Language of Magic** (T4/M4; weeks-spanning montage / deliberate plateau)
-5. **Ch.18 — What Comes Next** (borderline; council debate + long closing accounting)
-
-## FASTEST / HIGHEST-ENERGY
-
-Ch.16 (climax, T10/M10) · Ch.13 (test day, T8) · Ch.8 (dragon bond, T7/M8).
-
----
-
-## ONE-PARAGRAPH SUMMARY FOR THE AUTHOR
-
-The back half (8–18) paces beautifully — it rises, troughs deliberately before the Ch.16
-climax, and lands. The vulnerability is the front half: Chapters 1–4 hold a flat tension level
-(≈5) with strong-but-low-stakes scenes, and Chapters 6, 7, and 10 are low-pressure, high-
-introspection chapters where the reveals are large but nothing in the *scene* is at risk —
-Ch.7 in particular is an essayistic two-hander where, externally, nothing changes. None are
-empty; every chapter lands a real turn. The single most actionable pacing note is the opening
-sample: surface a hook sooner and let tension move across 2–4 rather than holding steady.
+The round-4 war-clock pass did what the prior pacing-map prescribed: it converted the middle act
+from a training montage where "the hero gets safer" into a countdown where "the hero races a
+visibly running clock." The opening was already fixed and remains submission-ready. The book now
+breathes on a healthy 1–2 chapter rhythm with no drag chapters and one intentional whiplash into
+the climax. The only residual softness is that Ch.10 and Ch.15 lean summary/introspective and run
+long — they are no longer sags, but they are the chapters a hostile skim would thin first.

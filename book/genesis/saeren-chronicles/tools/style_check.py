@@ -78,6 +78,9 @@ ALLOWLIST = [
     "she did not cry she",                  # same motif, n-gram window
     "three second years five third years",  # Ch16 headcount motif (the count that won't add to Alice)
     "second years five third years",        # same headcount motif, window
+    "the hollowing",                        # canon: the named dread-object/war-blight (deliberate term, Ch10-15)
+    "drink the light out of the land",      # Hollowing description echo (deliberate)
+    "drunk the land empty",                 # same Hollowing description (deliberate)
 ]
 
 # n-gram repetition settings
