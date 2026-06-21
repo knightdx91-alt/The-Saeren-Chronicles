@@ -100,7 +100,7 @@ The Headmistress's eyes moved to Viridia. They went, for the briefest instant, t
 
 "I know. But half the time a first-year doesn't know yet what she's for, and we make her take the safe class anyway, and four years later she's qualified for the life she'd have fallen into regardless." Amber said it fast and even, a speech she'd had ready. "Another class would do her more good. I believe that, ma'am, or I wouldn't spend the breath."
 
-Lady Lightwell regarded her for a long moment. Then, faintly, she almost smiled. "You argue like someone's taught you to. Very well. I'll allow the substitution." She drew a sheet toward her, wrote a brief note, and held it out. "Give that to Mr. Cote so he knows to mark her absent and not truant. Was there a second thing?"
+Lady Lightwell regarded her for a long moment. Then, faintly, she almost smiled. "You make a tidy case. Very well. I'll allow the substitution." She drew a sheet toward her, wrote a brief note, and held it out. "Give that to Mr. Cote so he knows to mark her absent and not truant. Was there a second thing?"
 
 "There was." Amber did not take the note straight away. She glanced sideways at Viridia, a flick, a warning, *brace,* and then squared up to the desk. "Yes, ma'am. Two things, actually."
 
@@ -124,11 +124,23 @@ The spectacles went still in Lady Lightwell's hand.
 
 For a moment Lady Lightwell said nothing, and the nothing was worse than shouting would have been. She rose from her chair and went to the window, where a sliver of afternoon got through the blind, and stood with her back to them, and when she spoke it was to the glass.
 
-"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How small a reason it would take to close it?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you ask me to put a three-day first-year into the one course in this school I would least like to explain. You think you know what you're asking. You don't."
+"Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How small a reason it would take to close it?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you ask me to put a three-day first-year into the one course in this school I would least like to explain. You think you know what you're asking. You don't. The answer is no, Miss Summers. I'll allow the substitution and not the rest. Take your win and be glad of it."
 
-"Then tell me," Amber said. Quiet. Brave. Too brave, maybe. "Tell me what I'm asking."
+It was meant to be the end. Viridia felt the door swinging shut, felt Amber's favor sliding back unspent into a future that would never come round again, and she did the thing she had been told not to do.
 
-"No." Lady Lightwell's mouth thinned. "I'll grant it, against my better judgment, and I'll let you go on thinking you understand it, because the alternative is worse. That's the kindest thing I can do for you today." She came back to the desk and sat. "And it is, you should know, considerable unkindness dressed up as a favor. Remember that I warned you."
+"You said it would cost her," Viridia said.
+
+The room went quiet in a new way. Amber's head turned a fraction; *quiet,* the turn said, *I told you quiet.* But Viridia had stepped half out from behind her, and she did not step back. Lady Lightwell looked at her — really at her now, the whole of her — and waited.
+
+"You said what she's asking might cost her," Viridia went on, and kept her voice level the way she kept everything level, "and she spent it anyway, on a girl she's known three days, because she thinks I'll drown without it. So she's right that I have no one. But I'm not asking you to keep me safe. I wrote on Mr. Cote's quiz this afternoon that the light mages were wrong to put the dark lines to the sword, and I knew when I wrote it that it was the answer nobody in this building wanted, and I wrote it anyway, because it was true." She let that sit a beat, in a room with a white crystal and a black one a hand's reach apart. "I'm not going to be pleasant and helpless. I'm going to be in the world whether you teach me or not. The only question is whether I go into it knowing what I'm doing." She heard how much of herself she was setting out on the desk, in the open, the way she'd set the focus out that morning, and she let it stand. "Teach me how not to be at the mercy of whoever's in the room. That's all I'm asking. I'd rather you than the world."
+
+The office was very still. Amber had stopped breathing.
+
+Lady Lightwell came back from the window slowly. She looked at Viridia for a long moment, and something in the rose-lensed face shifted, the way a held thing shifts when it is set down. "You argue like someone's taught you to," she said at last, quietly. "Or like no one had to." She let out a breath. "And you do not even know yet to be afraid of what you just said in front of me. That is the most dangerous thing about you, Miss Saeren. You notice things, and then you say them out loud, in the wrong rooms, to the wrong people, because they are true. The world has a name for girls like that, and it is not a kind one."
+
+"Then tell me what I'm asking," Amber said, finding her voice again, low and brave. "Tell me what we're asking."
+
+"No." Lady Lightwell's mouth thinned. "I'll grant it, against my better judgment, and I'll let you both go on thinking you understand it, because the alternative is worse. That's the kindest thing I can do for you today." She came back to the desk and sat. "And it is, you should know, considerable unkindness dressed up as a favor. Remember that I warned you. Both of you." Her eyes stayed on Viridia a beat longer. "I grant it because of what *she* showed me just now, Miss Summers, not only because you paid. You should know that too. You bought the door. She is the one who walked up and knocked on it where I could see her face."
 
 The office was very quiet. The white crystal sat beside the black one. Outside the steel-banded door the school went on, distant and unknowing.
 
@@ -154,7 +166,9 @@ Amber leaned back against the cold stone wall. The lounge was gone; she looked, 
 
 For a second she thought Amber wouldn't answer at all. Then Amber pushed off the wall, and the grin came back up over whatever had been underneath it, the way the surface always came back up with her. "Maybe I just like a long shot," she said. "Maybe I'm impulsive, like I keep telling everyone. Maybe I lost a bet." She started walking, fast enough that Viridia had to follow. "Or maybe," she threw back over her shoulder, lighter than air, "I'm a very good judge of people and you'll make me look brilliant in four years. Come on. We've a creature to find you, and the afternoon won't keep."
 
-It was a deflection and they both knew it was a deflection, and Viridia let it go, the way Alice let things go, on purpose, not leaning on a closed door. But she did not forget it. She took the question, and the pale face, and the way Amber's eyes had gone to her stone at the door three days back, and she folded them down small and put them away with the note in the strange hand and the name with no dates and the violet pressed flat in a green book.
+It was a deflection and they both knew it was a deflection, and Viridia let it go, the way Alice let things go, on purpose, not leaning on a closed door. But she did not forget it.
+
+She was thinking, too, about what she herself had just done. She had come to Hazel meaning to go unseen, and in two rooms in one day she had stood up and let herself be looked at — first the focus, waked and examined in the open instead of pocketed quiet as the note had wanted, and now the office, where she had stepped out from behind Amber and put the truest, least safe thing she owned on a Headmistress's desk. Amber had spent a favor she could not get back. Viridia had spent something too, and she had spent it knowingly: the anonymity she had walked in craving, the small grey safety of being no one anybody remembered. Lady Lightwell remembered her now. *The most dangerous thing about you.* She had handed the woman the dangerous thing herself, with both hands, on purpose, and she could not pretend it had been done to her. She took the question, and the pale face, and the way Amber's eyes had gone to her stone at the door three days back, and she folded them down small and put them away with the note in the strange hand and the name with no dates and the violet pressed flat in a green book.
 
 She was beginning, she realized, to have rather a lot of things put away.
 

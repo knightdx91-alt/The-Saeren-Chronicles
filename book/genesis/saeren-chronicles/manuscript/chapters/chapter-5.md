@@ -78,7 +78,9 @@ They waited. The wood breathed around them. And then, off to the right, a snuffl
 
 She went down on one knee in front of it, easy, unafraid. "Would you have me?" she asked it, looking into its small dark eye. The boar considered her. Then it leaned its snout into her open palm, and at the touch it came apart, dissolved into a swarm of tiny lights that drew together and settled, with a small bright finality, into a white charm now hanging on Amber's bracelet.
 
-"And that," Amber said, getting up and brushing off her knee, grinning at Viridia's face, "is that. I'll let him rest a bit before I call him back; rude to do it straight off. Don't be disheartened if nothing comes for you, by the way. Some people call for weeks before they find their match." She gestured Viridia up off the bench. "Your turn."
+"And that," Amber said, getting up and brushing off her knee, grinning at Viridia's face, "is that. I'll let him rest a bit before I call him back; rude to do it straight off. Don't be disheartened if nothing comes for you, by the way. Some people call for weeks before they find their match." She gestured Viridia up off the bench. "Your turn. And listen — small. I mean it. Send out the *littlest* call you can manage, the way I showed you, three soft pulses and no more. Reach for a mana toad, a finch, something that costs nothing. You don't know your own bottom yet, and the only way to learn it is from above it, not below. Big calls bring big things, and a big thing will bond a girl who can't hold it and burn her hollow doing it. Start small. Every word of that is a rule. Promise me."
+
+"I promise," Viridia said, and at the time she even meant it.
 
 * * *
 
@@ -90,7 +92,9 @@ She needed not to be alone.
 
 That was the whole of it, underneath everything: under the grief she carried behind her ribs, under the careful face, under the inheritance she kept beneath the bed. She had let exactly two people near her in three days and she was already terrified of losing them. She needed something that would not be taken. Something that would stay.
 
-She did not think about light or dark. She did not think about hiding. She thought only about the need, and she reached, and because she was not thinking, she reached with all of it.
+*Small,* Amber had said. *Reach for a finch.* A mana toad would not stay. A finch would not stay. A small safe creature called with three soft pulses would be a small safe thing she might lose the way she had lost everything, and she had had enough, in three days and a lifetime, of small safe things that left. She understood exactly what Amber had told her and exactly why, understood the arithmetic of it, that a call too big for her could kill her — Amber had said it twice, plainly, and the boar had only just shown her what a measured call looked like. She understood all of it and she decided, standing in the green light with her dead mother's cane in both hands, that she would rather risk the bottom dropping out of her than make a careful little call and bond some careful little thing that might not stay either.
+
+It was a choice. She made it knowing it broke the only rule Amber had asked her to keep, knowing the cost might be more than a nosebleed. She did not think about light or dark. She did not think about hiding. She thought about the need, the whole unfenced size of it, and she opened herself all the way down past where she had ever opened before, and she reached with all of it.
 
 She felt the magic move and she did not stop it. It came up out of her core the way grief did, sudden and unbidden, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
 
@@ -102,7 +106,7 @@ The clearing had gone strange around her. With the orb burning white-and-black i
 
 "I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
 
-She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was. And the call had gone out with all of it behind it, far past the clearing, far past where Amber's three neat pulses had reached, rolling out into parts of the wood that had no names. She was in no state to wonder what, that far out, might have lifted its head to listen.
+She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, exactly as Amber had warned her she might, except that there had been no *might* about it — she had aimed past the bottom on purpose, and here it was, the price, running warm off her chin. And the call had gone out with all of it behind it, far past the clearing, far past where Amber's three neat pulses had reached, rolling out into parts of the wood that had no names, because she had flung the door open as wide as it would go instead of cracking it the careful inch Amber had shown her. She was in no state to wonder what, that far out, might have lifted its head to listen. She had not summoned, she would understand later. She had refused the safe call and thrown the door open wide enough that something large heard.
 
 On the bench, Amber started up to help her, and froze.
 
@@ -122,7 +126,7 @@ It came toward her slowly, and the clearing seemed to make room for it. There wa
 
 It lowered its great head to look at her, level, eye to lightning eye.
 
-*I heard your call, little one.* The voice was in her mind, deep and dry and unhurried, the voice of something very old and faintly amused. *The forest has chosen to grant you a companion. I will be your protector, for now. My name is Lor-ar, of the pride of the sky.* The eyes held hers. *Will you accept this bond?*
+*You did not call so much as throw yourself open, little one.* The voice was in her mind, deep and dry and unhurried, the voice of something very old and faintly amused. *A wiser girl would have whispered. You shouted with everything you had, past every limit set for you, and a thing my size does not answer a whisper. So. You wanted a companion who would stay, and you were willing to spend your life to ask for it. I have lived three hundred years among small careful calls. Yours was neither. I will be your protector, for now. My name is Lor-ar, of the pride of the sky.* The eyes held hers. *Will you accept this bond?*
 
 Viridia, who had asked the wood for something that would stay, reached out one shaking hand and laid it on the broad warm forehead of a creature out of legend.
 

@@ -111,7 +111,10 @@ Re-run the analysts and confirm the agency score actually moved (don't trust the
 ## 5. STEP 4 — REBUILD & DISTRIBUTE
 
 - Bump `REVISION` → `r6`. Run `tools/assemble_manuscript.py` then `tools/build_pdf.py`.
-- `git rm` the old `-r5` deliverables; commit the new `-r6` PDF + `full-manuscript-r6.md`.
+- **KEEP prior revisions** (author wants r5 retained). Do NOT `git rm` the `-r5` deliverables —
+  the filename tag means `-r6` files are created alongside them, nothing is overwritten. Just
+  `git add` and commit the new `-r6` PDF + `full-manuscript-r6.md`. (Each revision's deliverables
+  accumulate in `delivery/production/` and `manuscript/`, so any past version stays pullable.)
 - Refresh the public **`book-review`** branch: merge main, regenerate `chapters/ch-NN.txt`
   (strip `<!-- -->` comments), commit, push. (Raw link pattern:
   `https://raw.githubusercontent.com/knightdx91-alt/The-Saeren-Chronicles/main/book/genesis/saeren-chronicles/delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r6.pdf`)
