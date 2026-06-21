@@ -34,7 +34,7 @@ The door splintered inward.
 
 It came apart on a single heavy blow, wood bursting inward in a spray of splinters, and a man filled the broken frame, white and gold, the capital's army, a sword already swinging, and Lor-ar did not hesitate. He was across the room before the man had cleared the threshold, three hundred years of killing in one fluid leap, and his jaws closed on the man's throat and tore, one hard wrench of the great head, and the man's blood went up the wall in a long arc and across Alice's badly-made bed and the man folded down into the doorway with his sword unswung.
 
-Viridia stood very still for one half-second with her own breath loud in her ears and a stranger's blood spattered warm across the foot of the bed where she slept, and the world narrowed and went cold and clear, the way the source had gone cold and clear, the way everything went when the cataloguing part of her took the helm because the rest of her could not be trusted with it.
+Viridia froze for one half-second with her own breath loud in her ears and a stranger's blood spattered warm across the foot of the bed where she slept, and the world narrowed and went cold and clear, the way the source had gone cold and clear, the way everything went when the cataloguing part of her took the helm because the rest of her could not be trusted with it.
 
 She grabbed the quiver. She slung it across her back. She took a spear in her hand. The balance of it was the one familiar thing in a room gone wrong, and she held to it.
 
