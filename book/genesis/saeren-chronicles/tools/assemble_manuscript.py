@@ -13,8 +13,14 @@ NUMWORDS = {1:"ONE",2:"TWO",3:"THREE",4:"FOUR",5:"FIVE",6:"SIX",7:"SEVEN",
             14:"FOURTEEN",15:"FIFTEEN",16:"SIXTEEN",17:"SEVENTEEN",18:"EIGHTEEN"}
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Single source of truth for the revision tag (bump book/.../REVISION to re-stamp).
+try:
+    REV = open(os.path.join(ROOT, "REVISION"), encoding="utf-8").read().strip()
+except FileNotFoundError:
+    REV = ""
+_rev = f"-{REV}" if REV else ""
 CH_DIR = os.path.join(ROOT, "manuscript", "chapters")
-OUT = os.path.join(ROOT, "manuscript", "full-manuscript.md")
+OUT = os.path.join(ROOT, "manuscript", f"full-manuscript{_rev}.md")
 
 CH1_TITLES = {1:"The Path to Hazel"}
 

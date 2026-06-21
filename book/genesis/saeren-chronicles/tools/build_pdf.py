@@ -27,9 +27,15 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame,
                                 Paragraph, Spacer, PageBreak, NextPageTemplate)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "manuscript", "full-manuscript.md")
+# Single source of truth for the revision tag (bump book/.../REVISION to re-stamp).
+try:
+    REV = open(os.path.join(ROOT, "REVISION"), encoding="utf-8").read().strip()
+except FileNotFoundError:
+    REV = ""
+_rev = f"-{REV}" if REV else ""
+SRC = os.path.join(ROOT, "manuscript", f"full-manuscript{_rev}.md")
 OUT = os.path.join(ROOT, "delivery", "production",
-                   "Saeren-Chronicles-Book-One-6x9-interior.pdf")
+                   f"Saeren-Chronicles-Book-One-6x9-interior{_rev}.pdf")
 
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
 pdfmetrics.registerFont(TTFont("PlexSerif", f"{FONT_DIR}/IBMPlexSerif-Regular.ttf"))
