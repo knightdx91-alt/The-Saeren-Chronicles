@@ -28,7 +28,7 @@ word_floor:
 phase:
   current: 1
   status: "architecture complete — ready for chapter loop"
-  history: ["scaffolded", "architecture complete (foundation+outline+voice-dna) 2026-06-21"]
+  history: ["scaffolded", "architecture complete (foundation+outline+voice-dna) 2026-06-21", "RECONCILED to author's binding corrections 2026-06-21: (1) TRIO UNITY — rewrote Raven & Knight as committed co-architects, deleted all doubter/betrayal/sabotage/schism/lovers-split framing across foundation+outline+voice-dna (Ch.4,10,14,17,19,20,21 reworked; Raven/Knight character blocks + voice cards rewritten); (2) LAUNCH ENDPOINT — rebuilt Ch.19-21 so the children+settlers go THROUGH and all three MCs STAY Earth-side together, cliffhanger = unified trio facing Vance's raid having sent the kids on, colony unseen (Book Two); (3) rejected Raven 'final act' options A/B/C/D. Added company-name shortlist to architect_proposals."]
 
 chapters:
   total_planned: 21
@@ -93,14 +93,11 @@ architect_proposals:
     turning_points: {TP1: "Ch.5 The Choice (~24%)", TP2: "Ch.10 The First Van (~50%)", TP3: "Ch.16 One Degree (~76%)", climax: "Ch.20 The Door (~95%)"}
     act_break_epigraphs: "4 institutional documents (brochure / memo / camp-eval / manifest). Architect note: first epigraph placed at Ch.6 (founding), not Ch.3."
   book_one_endpoint:
-    recommendation: "End on the one-way launch under Vance's raid (Ch.20), residue coda Ch.21. The new planet is NOT shown (Book Two)."
-    OPEN_who_goes_through: "Children + chosen settlers go through; PROPOSE Sol/Ezra/Wren make it; PROPOSE Raven's final act ambiguous (options below). Troy's threshold choice (mission vs Raven vs family) rendered WITHOUT a verdict — the cliffhanger."
-    OPEN_raven_final_act_options:
-      - "A) Raven sends a child through and STAYS behind (sacrifice; sets her as Book-Two resistance on Earth)."
-      - "B) Raven goes THROUGH to protect the kids from Troy's plan (splits the lovers across the door — strong cliffhanger)."
-      - "C) Raven opens the door for Vance / sabotages the manifest (overt betrayal)."
-      - "D) Raven refuses to choose and the door closes mid-decision (maximal ambiguity)."
-    OPEN_troy_fate: "PROPOSE Troy stays Earth-side to hold the door / face the aftermath (keeps him + Vance for Book Two) OR goes through (relocates Book Two off-world). Recommend Troy STAYS."
+    RESOLVED: "BINDING (author 2026-06-21). End on the one-way launch under Vance's raid (Ch.20), residue coda Ch.21. The new planet/colony is NOT shown (Book Two)."
+    who_goes_through: "CHILDREN + chosen settlers go THROUGH (Sol/Ezra/Wren make it). Troy, Raven, AND Knight ALL STAY Earth-side, TOGETHER — by their own prior agreement (Ch.17). The colony is unreachable (one-way door) in Book Two."
+    cliffhanger: "The UNIFIED trio, having sent the children on, caught in the wreckage as Vance's raid reaches them. NO split among the three. The drama is the shared, total cost — not a last-second choice between mission and person."
+    raven_final_act: "RESOLVED — options A/B/C/D REJECTED by author. Raven is a committed co-architect: she helps send the kids through and stays with Troy and Knight. No sacrifice-split, no go-through, no door-for-Vance, no refusal-ambiguity."
+    troy_fate: "RESOLVED — Troy STAYS Earth-side with Raven and Knight (keeps all three + Vance for Book Two)."
   children_lines_not_to_cross:
     recommendation: "Moral weight, never gratuity. Hold these lines on-page:"
     lines:

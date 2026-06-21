@@ -51,17 +51,17 @@
 **Beat subversion:** the "building the empire" montage is subverted into a quiet recruiting-of-children prologue disguised as charity.
 
 ## Chapter 4: Going Thin — [RAVEN] — ~4,800  *(first non-Troy POV)*
-**Premise:** Raven learns to control phasing and becomes the company's operational architect; first crack of doubt about the means.
-**Function:** Establishes close-third POV machinery; deepens Raven; opens the moral-conscience thread; advances company build.
-**Emotional anchor:** Raven practicing — going thin through the same warehouse wall, on purpose now, and finding she misses the time it was an accident.
-**Emotional surprise:** mastery feels like loss.
-**Key beats:** Raven runs logistics, real estate (the orphanage holdings begin under shell companies), legal (Priya hired). Troy/Raven domestic warmth — the romance solidifies (open-door moderate first intimacy beat, tender). Raven's first "are we sure about the kids" — Troy deflects with the sunk-cost logic. Citrus motif established.
-**Theme presence:** present (the line).
+**Premise:** Raven learns to control phasing and becomes the company's operational architect — the one who turns Troy's dream into a working machine; she sets the terms of HOW it will be done, all-in on the WHAT.
+**Function:** Establishes close-third POV machinery; deepens Raven as committed co-architect (not a doubter); opens the *cost-bearer* thread (she names what things cost; she never asks whether to pay); advances company build.
+**Emotional anchor:** Raven practicing — going thin through the same warehouse wall, on purpose now, and finding she misses the time it was an accident. Mastery as the price of being the one who does the hard things on purpose.
+**Emotional surprise:** mastery feels like loss — and she chooses it anyway, the wrong-register beat being how steady she is about giving up the wonder.
+**Key beats:** Raven runs logistics, real estate (the orphanage holdings begin under shell companies), legal (Priya hired). Troy/Raven domestic warmth — the romance solidifies (open-door moderate first intimacy beat, tender). Raven's first articulation of the COST: not "are we sure about this" but "if we do this, here's exactly what it will take and what it will make of us — and I'm not going to pretend it's less than that." Troy euphemizes; Raven insists on the true word; they are AGREED on the act, only at odds over naming it. Citrus motif established.
+**Theme presence:** present (cost, not consent — both are in, the question is who'll say it plainly).
 **Structure:** Single close-third, single primary location.
-**Chaos:** Raven peels oranges; involuntary phase at a budget meeting (failed emotional management, mundane).
-**Subtext:** the intimacy scene's real conversation is "are you still the boy from the warehouse or the man who buys orphanages?"
-**Writer warning:** intimacy MODERATE — sensual, not graphic; emotional content carries it.
-**Beat subversion:** the "training montage" of a hero mastering powers is rewritten as a woman mastering the thing that used to be wonder and grieving it.
+**Chaos:** Raven peels oranges; involuntary phase at a budget meeting (failed emotional management, mundane — the toll, not doubt).
+**Subtext:** the intimacy scene's real conversation is "I will build this with you and I will make you look at what it is — don't ever ask me to pretend." Two co-architects, one wanting the comfort of euphemism, one refusing it.
+**Writer warning:** intimacy MODERATE — sensual, not graphic; emotional content carries it. DO NOT write Raven as the moral brake or a reluctant participant — she is the most committed operator in the room; her edge is honesty about cost, never opposition to the plan.
+**Beat subversion:** the "training montage" of a hero mastering powers is rewritten as a woman deliberately mastering the thing that used to be wonder, grieving it, and proceeding — the chill is her steadiness.
 
 ## Chapter 5: The Choice — [TROY] — ~5,100  ★ TURNING POINT 1 (~24%)
 **Premise:** Hiring the assistants; the conference where the MCs reveal the company's REAL purpose and offer the serum-or-leave choice; Priya leaves, Devon and Bull descend to sub-level 3.
@@ -130,19 +130,19 @@
 **Beat subversion:** the "detective finds the smoking gun" beat is subverted — he finds the gun (orphanages) but can't yet read what it means; the reader's dread outpaces his knowledge.
 
 ## Chapter 10: The First Van — [RAVEN] — ~5,200  ★ TURNING POINT 2 (~50%)
-**Premise:** The orphanage program goes operational on-page: the first children arrive at intake; Raven, who runs it, meets Ezra and Wren and flinches.
-**Function:** The midpoint moral plunge — the dark engine becomes flesh-and-blood children with names. Raven's doubt becomes a fault line.
-**Emotional anchor:** Ezra counting the other kids by name as they file off the van so none get lost.
-**Emotional surprise:** the children are HAPPY — fed, safe, chosen; the horror is how good it looks.
-**Key beats:** intake; resilience-scoring (the device's intake form makes them stock); Raven assigned to run it because she's "the kind one"; meeting Ezra (leader), Wren (smallest), Sol (older). Raven's first real refusal to Troy — and his sunk-cost rebuttal. The line is named and crossed in the same scene.
+**Premise:** The orphanage program goes operational on-page: the first children arrive at intake; Raven, who built and runs it, meets Ezra and Wren and registers the full human weight of what she has committed to — and commits harder.
+**Function:** The midpoint moral plunge — the dark engine becomes flesh-and-blood children with names. NOT a fault line opening between Raven and the others; the plunge is the reader's (and Raven's) confrontation with the cost she has chosen to administer well.
+**Emotional anchor:** Ezra counting the other kids by name as they file off the van so none get lost — and Raven, watching, counting along with him (her tic), already keeping them.
+**Emotional surprise:** the children are HAPPY — fed, safe, chosen; the horror is how good it looks, and how good Raven is at making it so.
+**Key beats:** intake; resilience-scoring (the device's intake form makes them stock); Raven runs it because she trusts no one to do it more carefully — this is her conviction, not a reluctant assignment; meeting Ezra (leader), Wren (smallest), Sol (older). Raven and Troy talk: she names it without softening ("say the real word — we're not rescuing them, we're choosing them, and I'll do the choosing because I'll do it kindest"); Troy euphemizes; they are UNIFIED on doing it, divided only on language. The line is named and crossed deliberately, together.
 **Progressive:** pays Ch.3's reconnaissance and Ch.5's machinery; opens the camp.
-**Theme presence:** central — the spine question detonates.
+**Theme presence:** central — the spine question detonates, and all three answer it the same way.
 **Structure:** Single-scene at intake, close-third Raven.
-**Chaos:** Raven's orange (she peels one watching the van); involuntary phase suppressed.
-**Subtext:** Troy's "we're saving them" vs Raven's "we're harvesting them" — same sentence, opposite meanings.
-**Shareable moment:** the reveal that the orphanages are the settler stock, made concrete by a child counting heads.
-**Writer warning:** MORAL WEIGHT, not gratuity. The kids are people, not props. No on-page harm to children here.
-**Beat subversion:** the "villain's lair revealed" beat expects cages and cruelty; instead it's a bright, loving, well-run children's home — and that's the abomination.
+**Chaos:** Raven's orange (she peels one watching the van); involuntary phase suppressed (the toll, not a flinch from the plan).
+**Subtext:** Troy says "we're saving them," Raven says "say what we're actually doing" — and then she does it more competently than he could, because she refuses to hide from it. Same act, one honest word.
+**Shareable moment:** the reveal that the orphanages are the settler stock, made concrete by a child counting heads — and the woman running it counting along.
+**Writer warning:** MORAL WEIGHT, not gratuity. The kids are people, not props. No on-page harm to children here. CRITICAL: Raven is NOT the conscience trying to stop this — she is the co-architect who insists on naming the horror and then executes it most carefully. Her edge cuts toward honesty, never toward defection.
+**Beat subversion:** the "villain's lair revealed" beat expects cages and cruelty; instead it's a bright, loving, well-run children's home built by the most committed of the three — and that's the abomination.
 
 ## Chapter 11: Sub-Level Three — [KNIGHT] — ~4,800
 **Premise:** The assistants' transformations resolve — Devon and Bull manifest (or one fails); Knight, who minded them, sees the first cost of the serum on adults who chose blindly.
@@ -181,16 +181,17 @@
 **Beat subversion:** the "training arc" expects toughening-makes-them-strong payoff; here the success (Sol's power) and the catastrophe are the SAME event — proof and atrocity are inseparable.
 
 ## Chapter 14: At Any Cost — [RAVEN] — ~5,100
-**Premise:** The hidden full slogan is paid off; Raven confronts the trio; she decides, privately, to act against the program — and Troy chooses the mission over her objection.
-**Function:** The romance fracture; the slogan's meaning lands; sets Raven's sabotage thread toward the climax.
-**Emotional anchor:** Raven saying the full slogan back to Troy as an accusation — "A New World. At any cost." — and his silence.
-**Emotional surprise:** Troy doesn't argue; he agrees, calmly, which is worse than a fight.
-**Key beats:** fallout from the camp; the trio's worst argument; Troy's full sunk-cost creed stated aloud; Raven outwardly relents, inwardly turns; she begins a quiet plan (smuggle a child / preserve a door). Knight aligns hard with Troy (Book-Two schism seeded).
+**Premise:** The hidden full slogan is paid off; in the aftermath of the camp the three name the price out loud to each other — and all three, fully, say yes. The chapter is the trio's RECOMMITMENT, not their fracture.
+**Function:** The slogan's meaning lands; the unity is sealed under maximum pressure (so the reader can never wait for one of them to break ranks); establishes that the cost they each carry is private and different but the commitment is shared. Sets the toll-thread (what it's doing to each of them), NOT a sabotage thread.
+**Emotional anchor:** Raven saying the full slogan aloud — "A New World. At any cost." — not as accusation but as a vow the three of them make over the camp's wreckage, each meaning a different cost.
+**Emotional surprise:** the scene that genre-trains the reader to expect a betrayal or a lovers' split delivers the opposite — they choose each other and the mission harder, calmly, and the calm is the chilling thing.
+**Key beats:** fallout from the camp; the three talk it through with brutal honesty — Raven names the true cost (the children), Knight names what he's carrying for them, Troy names the dream; no one flinches; they reaffirm together. Troy's full creed stated aloud and Raven does NOT relent-while-secretly-turning — she agrees with clear eyes and adds the cost no one else will say. Knight, carrying the heaviest part, makes it explicit he'll keep carrying it so they don't have to. The three are more bonded leaving the room than entering it. (Book-Two engine seeded as the private TOLL on each — Knight's hidden cracking, Raven's accumulating ledger, Troy's deepening blindness — never a schism among them.)
 **Theme presence:** central.
-**Structure:** Dialogue-driven confrontation + Raven's private resolve.
-**Cultural-vocab:** full slogan paid off.
-**Subtext:** "I still love you" running under "I'm going to stop you."
-**Beat subversion:** the "lovers' fight" beat expects a blowup-and-reconcile; here they DON'T fight — agreement masks rupture, intimacy becomes espionage.
+**Structure:** Dialogue-driven scene of recommitment + each character's private cost rendered.
+**Cultural-vocab:** full slogan paid off — now spoken by all three as a shared vow.
+**Subtext:** "I love you / I'm with you / I'll carry it" running three ways at once — the real conversation is each one quietly taking weight off the others.
+**Writer warning:** REJECTED FRAMING — no "I'm going to stop you," no espionage, no secret plan against the mission, no Knight-vs-Raven schism. The tension is HOW MUCH IT COSTS and WHO BEARS WHAT, never WHETHER. Render three people choosing the same terrible thing together.
+**Beat subversion:** the "lovers' fight / second-act betrayal" beat — which the whole genre and the reader are primed for — is refused entirely: instead of rupture, a deeper, quieter, more disturbing unity. The expected split never comes, and its absence is the horror.
 
 ## Chapter 15: Voicemail — [VANCE] — ~4,900
 **Premise:** Vance, defying orders, gets a source/leak (PROPOSED: Priya, the assistant who left) and finally understands the orphanages; he's now genuinely dangerous and closing on Troy.
@@ -218,15 +219,16 @@
 ## ACT III — RACE / ESCAPE (Ch.17–21)  *(ACT-break epigraph #4 before Ch.18: a redacted intake form / passenger manifest)*
 
 ## Chapter 17: The Manifest — [RAVEN] — ~5,000
-**Premise:** Who goes through the one-way door? The trio fights over the manifest; Raven's secret plan (a child, a door, a defection) sets up; the camp survivors are loaded.
-**Function:** Defines the stakes of the wormhole; forces the final moral accounting (who is "worth" saving); positions Raven's betrayal.
-**Emotional anchor:** the passenger list — names of children Raven met in Ch.10/13, now line items.
-**Emotional surprise:** Knight, not Troy, makes the coldest cut to the manifest, and it shocks even Troy.
-**Key beats:** the wormhole is one-way and limited-capacity; selection = a triage of human worth; Sol/Ezra/Wren on or off the list; Raven sets her move; Vance's net tightening off-page.
+**Premise:** Who goes through the one-way door? The trio builds the manifest TOGETHER — the final, unified moral accounting; the camp survivors are confirmed; the three lock in that the children go and they stay.
+**Function:** Defines the stakes of the wormhole; forces the final accounting (who is "worth" saving); CEMENTS the plan all three have agreed on — children + chosen settlers through, the trio Earth-side. No secret plan, no defection: the manifest is a shared act of authorship.
+**Emotional anchor:** the passenger list — names of children Raven met in Ch.10/13, now line items — and the three names NOT on it: Troy, Raven, Knight, by their own choice.
+**Emotional surprise:** the cold cuts to the manifest are made by all three in agreement; the shock is how settled they are, and that no one argues to put themselves on the list.
+**Key beats:** the wormhole is one-way and limited-capacity; selection = a triage of human worth the three perform together; Sol/Ezra/Wren confirmed on the list; the trio explicitly decide THEY do not go — they stay to run the launch, hold the door, and face whatever comes (this is the plan, not a sacrifice one of them sneaks); Knight does the hardest cutting to spare Raven and Troy, by arrangement among them, not by surprising them; Vance's net tightening off-page.
 **Theme presence:** central.
 **Structure:** Fragmented (the list + scenes), high tension.
-**Chaos:** the children's card game; Raven's orange; Knight's game silent now (his joke-drop = pressure).
-**Beat subversion:** the "evacuation/who-gets-on-the-boat" beat expects noble sacrifice; here the selection is a cold actuarial sort the heroes perform on children.
+**Chaos:** the children's card game; Raven's orange; Knight's game silent now (his joke-drop = the weight, not doubt).
+**Writer warning:** NO secret manifest move, NO smuggling-out plan, NO defection setup. Raven is co-author of this list, eyes open. The agony is doing it together, not one of them resisting.
+**Beat subversion:** the "evacuation/who-gets-on-the-boat" beat expects the heroes to fight to save themselves or to fracture over the list; here the three calmly write themselves OFF it and sort children ON it, in unison — noble-sacrifice inverted into shared, deliberate authorship of a triage.
 
 ## Chapter 18: Unsafe — [TROY] — ~4,900
 **Premise:** The wormhole's first test; it works but it's lethal-risky; Jacob (and the lured MIT team) confront what they've built; a test goes wrong.
@@ -240,38 +242,39 @@
 **Beat subversion:** the "the device finally works" beat expects triumph; the success reveals the device's true cost, making victory indistinguishable from catastrophe.
 
 ## Chapter 19: The Net — [VANCE] — ~4,900  ★ begins the climax (~90%)
-**Premise:** Vance moves on the facility — a raid against orders, racing the launch; the bio-family is caught in it; Troy's two worlds finally collide.
-**Function:** Detonates the clock; brings the antagonist into physical proximity; forces the final escape.
-**Emotional anchor:** Vance breaching the building as the wormhole spins up — the cereal-aisle griever now a man with a warrant and a gun.
+**Premise:** Vance moves on the facility — a raid against orders, racing the launch; the bio-family is caught in it; his world finally collides with the trio's.
+**Function:** Detonates the clock; brings the antagonist into physical proximity as the children are about to be sent through; forces the final launch under fire.
+**Emotional anchor:** Vance breaching the building as the wormhole spins up — the cereal-aisle griever now a man with a warrant and a gun, arriving just too late to stop the door.
 **Emotional surprise:** Vance, face to face with the children, hesitates — the kids are the proof and the reason he can't simply burn it all down.
-**Key beats:** the raid; the facility scramble; the family endangered; Vance reaches the sub-levels/camp transfer; first direct Vance/MC contact (PROPOSED: Vance meets Raven or Knight, NOT Troy — saving Troy/Vance face-off for Book Two; see proposals).
+**Key beats:** the raid; the facility scramble; the family endangered; Vance reaches the sub-levels/camp transfer; first direct Vance/MC contact (PROPOSED: Vance meets Raven or Knight — who are holding the line TOGETHER with Troy, not split off — NOT Troy directly; saving Troy/Vance face-off for Book Two; see proposals). The trio is unified and braced inside, working the launch as one.
 **Theme presence:** central.
 **Structure:** Cross-cut action, multiple POV beats (anchor Vance).
-**Beat subversion:** the "ticking-clock raid" expects the hero-cop to win or lose cleanly; here the raid succeeds AND fails — he gets in, but the children freeze him.
+**Writer warning:** the three MCs are a coordinated team under the raid — none is secretly working with Vance, none opens a door for him. Any MC he meets is loyal to the others.
+**Beat subversion:** the "ticking-clock raid" expects the hero-cop to win or lose cleanly; here the raid succeeds AND fails — he gets in, but the children freeze him, and the trio he came to break are standing together, unbroken, having already done the thing.
 
 ## Chapter 20: The Door — [TROY] — ~5,200  ★ CLIMAX (~95%)
-**Premise:** The launch/escape: the wormhole opens; the children and chosen go through; Raven's secret choice fires; Troy must choose the mission or a person at the threshold.
-**Function:** The book's climax and the series cliffhanger — who steps through, who stays, what it costs.
-**Emotional anchor:** the wormhole's hum; the door of light; who is left holding it.
-**Emotional surprise:** the launch is silent and beautiful, not a battle — the horror and the wonder are the same image.
-**Key beats:** spin-up under the raid; the children go through; Raven acts (PROPOSED options: she sends a child through and stays / she refuses to go / she goes through to protect the kids from Troy's plan / she opens the door for Vance — SEE PROPOSALS, do not lock). Troy's threshold choice: mission vs Raven vs family. The one-way door closes. CLIFFHANGER: who made it, who didn't, where they are.
-**Theme presence:** central — the spine question handed to the reader.
-**Structure:** Single sustained climax sequence, present-tense first person (Troy) — the form puts us INSIDE the man at the moment he can't see clearly.
-**Chaos:** the pen one last time; the first-shock memory; Raven's orange.
-**Writer warning:** AMBIGUITY by design per open endpoint; render the choice, not a verdict. Voice-under-pressure: Troy's justification-spiral at maximum.
-**Beat subversion:** the "big climactic battle" is replaced by a quiet, devastating departure — the loudest expectation, met with silence.
+**Premise:** The launch: the wormhole opens; the children and chosen settlers go THROUGH; Troy, Raven, and Knight — together, as planned — get them across and stay behind to hold the door and face the raid. No split, no threshold dilemma; the agony is watching the future leave through a one-way door while the three who built it remain on the dying world.
+**Function:** The book's climax and the series cliffhanger — the children are gone (unreachable, Book Two), the trio is unified and trapped Earth-side with Vance breaching, and the cost is total and shared.
+**Emotional anchor:** the wormhole's hum; the door of light; the three of them, side by side, watching the last child cross — and then turning, together, to face the building coming down around them.
+**Emotional surprise:** the launch is silent and beautiful, not a battle — the horror and the wonder are the same image — and the trio's faces, all three steady, is what undoes the reader.
+**Key beats:** spin-up under Vance's raid; the children sent through (Sol/Ezra/Wren make it); each MC has a hard job in the launch and does it shoulder to shoulder — Raven phases through the failing infrastructure to keep the door stable; Knight burns himself electrically to power/hold it; Troy makes the final go-call. NO one steps through; NO one betrays; the three CHOOSE to stay together by prior agreement (Ch.17). The one-way door closes on the children's side. The trio is left in the wreckage as Vance reaches them. CLIFFHANGER: the children are safe and gone beyond reach; the three architects are caught, together, with everything spent and the consequences arriving.
+**Theme presence:** central — the spine question handed to the reader, answered the same way by all three.
+**Structure:** Single sustained climax sequence, present-tense first person (Troy) — the form puts us INSIDE the man at the moment of total commitment.
+**Chaos:** the pen one last time; the first-shock memory; Raven's orange; Knight's joke-drop into silence as he holds the door.
+**Writer warning:** REJECTED — no Raven secret choice, no defection, no door-for-Vance, no lovers-split-across-the-threshold, no Troy choosing mission-vs-person. The decision was made in Ch.17 and is UNANIMOUS: kids through, trio stays. The drama is execution and cost, not a last-second wavering. Render the three as one. Voice-under-pressure: Troy's justification-spiral at maximum even as he keeps his footing.
+**Beat subversion:** the "big climactic battle" AND the "lovers torn apart at the portal" — both expected — are refused: a quiet, devastating, UNANIMOUS departure of the children while the architects calmly stay to be caught. The loudest expectations met with stillness and unity.
 
-## Chapter 21: The Start of the Rest of Our Lives — [TROY or RAVEN — PROPOSED] — ~4,800
-**Premise:** Aftermath and residue: a final group photo with faces missing; the door closed; the cost made visible; the Book-Two engine armed (Vance survives/knows; Knight & Raven's schism; the new world waiting).
-**Function:** Deposits the emotional residue; closes Book One's arc (escape achieved) while opening the series.
-**Emotional anchor:** the group photo, fewer faces — *"this is the start of the rest of our lives."*
-**Emotional surprise:** the line that was pure hope in Ch.2 is now a wound; delivered flat, not tragic.
-**Key beats:** who survived/escaped; Vance's status (PROPOSED: alive, with the truth, no longer able to be told to stand down — Book-Two hunter); the bio-family's fate (PROPOSED: Mom learns / Cora exposed); Raven & Knight's positions for Book Two; the new world unseen, waiting.
+## Chapter 21: The Start of the Rest of Our Lives — [TROY] — ~4,800
+**Premise:** Aftermath and residue: the children are gone through the door (the colony unseen, Book Two); the three of them — Troy, Raven, Knight — are still together, still here, in the wreckage, facing what they've done and what's coming. A final photo: the trio still in frame, the children's faces gone.
+**Function:** Deposits the emotional residue; closes Book One's arc (the launch succeeded, the architects stayed) while arming the series — three antiheroes stranded Earth-side with a colony they can never reach and a hunter who now knows everything.
+**Emotional anchor:** the photo — the three of them, unchanged in the frame, and where the children should be there is only the closed door — *"this is the start of the rest of our lives,"* said by three people with nowhere left to go.
+**Emotional surprise:** the line that was pure hope in Ch.2, spoken by three kids about a future, is now spoken by three adults who sent the future away from themselves; delivered flat, not tragic.
+**Key beats:** the immediate aftermath of the launch and raid; the trio together (no split — they face it as one); Vance's status (PROPOSED: alive, with the truth, no longer able to be told to stand down — Book-Two hunter who has now met them); the bio-family's fate (PROPOSED: Mom learns / Cora exposed); the THREE positioned for Book Two as a unified team trapped on Earth; the new world (and the children) unseen and unreachable, waiting on the far side of a one-way door.
 **Theme presence:** central, then RELEASES into the reader.
-**Structure:** Quiet coda; mirrors Ch.2's structure.
-**Re-read seed:** the photo line; the slogan; the pen.
-**Writer warning:** end on residue (complicity), not resolution. Cliffhanger toward the planet without showing it.
-**Beat subversion:** the "victorious escape" denouement is subverted into a portrait of what escape cost — triumph rendered as grief.
+**Structure:** Quiet coda; mirrors Ch.2's structure (same trio, same line, inverted meaning).
+**Re-read seed:** the photo line (Ch.2 unity = hope → Ch.21 unity = the thing that cost everyone else); the slogan; the pen.
+**Writer warning:** end on residue (complicity), not resolution. The trio is INTACT and unified — the Book-Two engine is what they now have to live with TOGETHER and the unreachable colony, NOT a schism among them. Cliffhanger toward the planet/children without showing them.
+**Beat subversion:** the "victorious escape" denouement is subverted into a portrait of what staying cost — the heroes don't escape; they send the future away and remain to pay, together; triumph rendered as a shared, permanent debt.
 
 ---
 

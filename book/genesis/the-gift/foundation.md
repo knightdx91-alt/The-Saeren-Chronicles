@@ -11,7 +11,7 @@
 - **Word count:** 100k target, 95k floor. ~21 chapters; math below in outline clears the floor with cushion.
 - **Turning points:** ~25% (Ch.5–6), ~50% (Ch.10–11), ~75% (Ch.16), ~90% (Ch.19–20).
 - **Human-closeness focus:** ≥30% of pages on relationships (Troy/Raven; the three as a found family; Troy & his bio family; the investigator & his dead daughter; the MCs & the children). The dark engine only disturbs if the love is real.
-- **Emotional arc:** "W" with ~8 oscillations — wonder → cost → wonder → deeper cost → false triumph → moral collapse → race → escape/dread.
+- **Emotional arc:** "W" with ~8 oscillations — wonder → cost → wonder → deeper cost → false triumph → the full weight named (all three carry it, none breaks ranks) → race → the children sent through / the trio left holding the aftermath (dread, not relief).
 - **Dialogue share (Thriller):** target 30–45% per chapter; quiet/lab chapters can dip to 25%.
 
 ---
@@ -46,7 +46,7 @@ Sub-questions braided through:
 - Is rescuing a child from a broken system the same as owning them?
 - When love is the reason you do monstrous things, is it still love?
 
-The book never answers. Troy believes yes. Raven comes to believe no. Knight believes the question itself is cowardice. The reader is left holding it.
+The book never answers. All three answer YES — that is the unity and the horror of them. They differ only on HOW, on what each is willing to carry, and on whether they can survive having paid it. Troy answers yes from idealism (no one disposable again); Raven answers yes from clear-eyed logic (she ran the math and refuses to flinch from her own conclusion); Knight answers yes from love (the family is the only thing that ever held, and the mission is how it stays whole). The reader is left holding the question all three closed.
 
 **Theme presence:** ~80%. RECEDES in Ch.2 (warm family diner) and Ch.8 (a pure Troy/Raven domestic chapter) so the cost lands harder by contrast.
 
@@ -59,8 +59,8 @@ The book never answers. Troy believes yes. Raven comes to believe no. Knight bel
 **Wound:** Grew up in the foster system; moved schools three times; kicked out of homes; only got a real family at sixteen. He was disposable. He decided no one he loves will ever be disposable again — and then built a machine that decides exactly that for other children.
 **Lie:** "If I can save enough people, the cost to a few doesn't count against me." (Disposability transferred, not healed.)
 **Want:** Launch the new world — get his people through the wormhole.
-**Need:** To accept that he cannot be both the savior and innocent; to let one person matter more than the species (Raven).
-**Arc:** Wonder → architect → justifier → the man who signs the camp's casualty reports → forced, at the wormhole, to choose between the mission and the person. (Cliffhanger leaves which he chose ambiguous per open endpoint — see proposals.)
+**Need:** To accept that he cannot be both the savior and innocent — that sending the children through is not absolution, only commitment, and that the three of them will live the rest of their lives Earth-side inside what they did.
+**Arc:** Wonder → architect → justifier → the man who signs the camp's casualty reports → at the wormhole he does NOT waver: he sends the children and chosen settlers through and stays behind with Raven and Knight to face the aftermath. The cliffhanger is not "did he choose the mission over a person" — it is "the three of them are still here, together, on a poisoned Earth, having spent everything, with Vance at the door." His resolve is total; the question is whether resolve was worth its price.
 **Voice markers:** First-person present-tense drift, run-on enthusiasm, self-deprecating asides, comic-book references, science explained with childlike joy, occasional dropped/typo-flavored cadence smoothed but kept warm. He narrates atrocity in the same eager voice he narrates wonder — that's the horror.
 **Contradiction:** A man who weaponizes orphans against the orphan system, and genuinely thinks he's the good guy. Squeamish about literal blood, fine with statistical death.
 
@@ -70,37 +70,37 @@ CHARACTER CHAOS (Commercial-thriller profile — 3/4):
 - **Unprompted memory:** The crescent scar from the warehouse coke bottle (gone in Ch.1) — the *memory* of bleeding as a kid recurs at sterile, bloodless moments (the lab; the conference; over a child's chart). Mutates each time.
 - **Failed emotional management:** Cries at a vending machine when it eats his dollar, the day after a non-dramatic, off-page death at the camp. Laughs at the wrong moment in a deposition.
 
-### Raven — POV (close third)
-**Surface:** Troy's girlfriend; sharp, dry, the operational spine of the company; phasing (walks through solid matter — described as *going thin*, *unstitching*, NEVER named after any trademark). Eyes the company's human cost the way Troy won't.
-**Wound:** Has spent her life unable to be fully present/solid even before the power — the power literalizes a pre-existing tendency to slip out of rooms when things get hard.
-**Lie:** "If I stay close to Troy I can keep him human." (She thinks proximity is control.)
-**Want:** The dream AND Troy AND a line they won't cross.
-**Need:** To accept the line was crossed long ago and choose Troy or her conscience, not both.
-**Arc:** Co-founder → enforcer → the first to flinch at the children → the one who tries to smuggle a kid out / sabotage / open the door. The romance's emotional truth-teller.
-**Voice markers:** Clipped, ironic, ends arguments with a question. Counts things. Touches walls to remind herself she can choose to be solid.
-**Contradiction:** The one with a conscience is also the most ruthless operator — she runs the orphan program because she trusts no one else to be kind enough.
+### Raven — POV (close third) — CO-ARCHITECT (all-in)
+**Surface:** Troy's girlfriend; sharp, dry, the operational spine of the company; phasing (walks through solid matter — described as *going thin*, *unstitching*, NEVER named after any trademark). She is the one who makes the dream WORK — logistics, real estate, the manifest, the cold arithmetic of who and how many. She does not flinch from the cost; she insists on seeing it plainly and proceeding anyway.
+**Wound:** Watched the world spend people her whole life — slow, deniable, no one accountable — and concluded that the only sin is sentiment that lets the spending continue. She has spent her life unable to be fully present/solid even before the power; the power literalizes a tendency to slip through what others can't pass. She decided long ago she would not slip away from THIS.
+**Lie:** "If I look at the cost honestly and pay it on purpose, I am not the same as the people who looked away." (Clarity as innocence — she thinks naming the price absolves the paying of it.)
+**Want:** The new world built and the children through the door — and the three of them intact on the other side of having done it.
+**Need:** To learn that seeing the cost clearly does not make you cleaner than the man who lies about it; that she carries it whether or not she names it. (She does NOT need to be "talked out of the mission" — that arc is rejected. Her growth is toward owning that her clear eyes were never a moral exemption.)
+**Arc:** Co-founder → operational architect → the one who runs the orphan program because she trusts no one to do it more carefully → the one who, at the launch, executes the manifest and sends the children through with her own hands, then stays Earth-side with Troy and Knight to hold the line. She is the trio's *truth-teller about cost* — she names what the others euphemize — but naming it never once means refusing it. (Book-Two engine: not a schism with the others, but the slow private toll of having been the one who counted the children onto the list.)
+**Voice markers:** Clipped, ironic, ends arguments with a question. Counts things. Touches walls to remind herself she can choose to be solid — and chooses to stay solid for the hard jobs no one else will do clean.
+**Contradiction:** The one who insists on naming the cost out loud is also the most efficient at paying it — she demands honesty about the horror and then administers it more competently than anyone. Tenderness and ruthlessness in one hand.
 
 CHARACTER CHAOS (3/4):
-- **Irrelevant obsession:** Citrus. Peels oranges obsessively, the smell, hoards them; the lab always smells of orange when she's stressed.
-- **Cognitive distortion:** All-or-nothing — a plan is perfect or worthless; no partial credit, which makes compromise (and mercy) hard.
-- **Unprompted memory:** A childhood game of hide-and-seek with Knight where she hid so well no one found her and she had to come out herself, crying — recurs when she phases through walls and can't be reached.
-- **Failed emotional management:** Phases involuntarily when overwhelmed (goes thin and drops through a chair) at a mundane moment — a budget meeting, not the climax.
+- **Irrelevant obsession:** Citrus. Peels oranges obsessively, the smell, hoards them; the lab always smells of orange when she's working a hard manifest.
+- **Cognitive distortion:** All-or-nothing — a plan is perfect or worthless; no partial credit. Applied to the mission this makes her MORE committed, not less: half-measures are the only thing she finds contemptible.
+- **Unprompted memory:** A childhood game of hide-and-seek with Knight where she hid so well no one found her and she had to come out herself, crying — recurs when she phases through walls and can't be reached. Reminds her she is the one who comes out and does the thing.
+- **Failed emotional management:** Phases involuntarily when overwhelmed (goes thin and drops through a chair) at a mundane moment — a budget meeting, not the climax. The breaks are about the TOLL, never about doubting the plan.
 
-### Knight — POV (close third)
-**Surface:** Raven's brother; bigger, louder, the muscle and the morale; blood turns to bio-electricity, eyes glow electric blue. Charismatic, jokes through everything, the one the kids love.
-**Wound:** Always second to his sister and to Troy; the third wheel of a two-person love story who chose to be irreplaceable by being the most committed true believer.
-**Lie:** "Doubt is betrayal. If we hesitate, everyone we'd have saved dies on us." (Conviction as belonging.)
-**Want:** To matter — to be the one who makes the hard calls the lovers can't.
-**Need:** To learn that his loyalty has been weaponized; that being needed for the worst jobs is not being loved.
-**Arc:** Comic relief → true believer → the one who runs the camp → the one who, by Book One's end, has gone furthest and can't come back — sets up the Book Two schism between him and Raven.
-**Voice markers:** Profane, warm, deflects with jokes, calls Troy "boss" sarcastically, talks to the kids like equals. Goes silent and precise when he's about to do something terrible — the joke drops out (his voice-under-pressure).
-**Contradiction:** Gentlest with the actual children, hardest about the numbers. Loves them and spends them.
+### Knight — POV (close third) — CO-ARCHITECT (all-in)
+**Surface:** Raven's brother; bigger, louder, the muscle and the morale; blood turns to bio-electricity, eyes glow electric blue. Charismatic, jokes through everything, the one the kids love. He is the trio's HEART — the reason the team feels like a family and not a firm — and he is all-in not despite that warmth but because of it.
+**Wound:** Bounced between the same broken places Raven did; the family the three of them built in that warehouse is the first thing in his life that never sent him away. He is committed to the mission because the mission is what keeps the family together and gives it a purpose worth the cost — the alternative (the three of them with these gifts and no shared why) terrifies him more than any atrocity.
+**Lie:** "If I carry the heaviest part, no one I love has to. My back is wide enough for all of it." (Self-sacrifice as belonging — he takes on the worst jobs to spare Troy and Raven the weight, and calls that love.)
+**Want:** To keep the three of them whole and the children alive long enough to make it through the door — and to be the one who shoulders what shouldn't be shouldered, so the people he loves stay clean enough to live with it.
+**Need:** To learn that absorbing the cost for everyone does not make it weigh less — it just means he breaks alone — and that the family would rather share the weight than watch him crack carrying it for them. (He does NOT need to be "redeemed away from the mission," and he does NOT turn on Raven. His Book-Two engine is the private fracture of the man who took on too much, not a schism with his sister.)
+**Arc:** Comic relief → the team's beating heart → the one who runs the camp and does the cleanup so the others don't have to → the one who, at the launch, gets the children through the door and stands shoulder to shoulder with Troy and Raven to face Vance's raid. By Book One's end he has carried the most and shows it least — the crack is in him, not between him and the others.
+**Voice markers:** Profane, warm, deflects with jokes, calls Troy "boss" sarcastically, talks to the kids like equals. Goes silent and precise when he's about to do something terrible — the joke drops out (his voice-under-pressure). The silence is him picking up a weight, never him hesitating over whether to.
+**Contradiction:** Gentlest with the actual children, hardest about the numbers — and the hardness is a kindness he's doing for Raven and Troy, so they don't have to be the ones. Loves them and spends them, and counts the spending as his job to bear.
 
 CHARACTER CHAOS (3/4):
 - **Irrelevant obsession:** Competitive about a mobile game he plays during catastrophes; rage-quits over leaderboard rankings.
-- **Cognitive distortion:** Mind-reading — assumes everyone secretly agrees with the harsh call and is just too cowardly to say it.
-- **Unprompted memory:** The first shock — waking in the warehouse and hurting Raven, watching her fall through the wall. Returns whenever he uses his power deliberately on someone.
-- **Failed emotional management:** Laughs uncontrollably at a funeral-adjacent scene; the electricity arcs when he loses control (sparks at the wrong moment).
+- **Cognitive distortion:** Mind-reading — assumes everyone (including Raven) secretly needs him to make the harsh call so they don't have to, and that taking it from them is a gift.
+- **Unprompted memory:** The first shock — waking in the warehouse and hurting Raven, watching her fall through the wall. Returns whenever he uses his power deliberately on someone; the original wound he's spent his life over-correcting (never again let his power cost his sister).
+- **Failed emotional management:** Laughs uncontrollably at a funeral-adjacent scene; the electricity arcs when he loses control (sparks at the wrong moment). The breaks are the toll of carrying it alone, never a wobble in commitment.
 
 ### The Investigator — POV (close third) — *name PROPOSED: Marcus Vance (alt: Daniel Okonkwo, Ray Calloway)*
 **Surface:** Federal genetic-ethics task-force lead, methodical, decent, the reader's surrogate conscience. Told from above to leave the company alone.
@@ -140,7 +140,7 @@ CHARACTER CHAOS (Commercial-thriller, but he's the empathy anchor so 4/4):
 - Knight's assistant: **Bull (Theo Bullard)** (ex-military, takes it, becomes camp staff)
 
 ### Key children — PROPOSED
-- **Ezra** (~11, the resilient leader the kids follow; Raven's flinch-point)
+- **Ezra** (~11, the resilient leader the kids follow; the child whose competence most makes Raven feel the cost she's chosen to carry)
 - **Wren** (~9, smallest, the line-not-to-cross; whoever wants to protect her humanizes them)
 - **Sol** (~13, the first kid to manifest a power — the proof of concept that damns the program)
 
@@ -155,8 +155,8 @@ Diverse register required (visual / auditory / gestural / verbal). Selected book
 - **Ch.10 (TP2):** the first orphanage van; a child counting the others by name.
 - **Ch.13:** Sol's hands sparking in the dark of the camp bunk — proof it works, and the bottom dropping out.
 - **Ch.16 (TP3):** the investigator standing in Cora's lab, one degree from the truth, holding Ellie's glasses.
-- **Ch.20 (climax):** the wormhole's hum; who steps through and who is left holding the door.
-- **Ch.21 (residue):** the photo again, fewer faces — *the start of the rest of our lives.*
+- **Ch.20 (climax):** the wormhole's hum; the children and chosen settlers step THROUGH; the trio — Troy, Raven, Knight — all stay, together, watching the door of light close on the only future they built.
+- **Ch.21 (residue):** the photo again — the three of them still in frame, but the children's faces gone (through the door, unreachable now) — *the start of the rest of our lives,* said by three people with nowhere left to go.
 
 **Mandatory surprise per chapter:** wrong-register beat (Troy laughing at the vending machine; Knight's game-rage during a crisis; the investigator crying in produce; a child's joke during the camp horror).
 
@@ -168,7 +168,7 @@ Diverse register required (visual / auditory / gestural / verbal). Selected book
 5. The investigator was told to leave them alone *because his daughter's death made him too dangerous to be right* (Ch.9/16).
 
 ## 4c. EMOTIONAL RESIDUE
-Ten minutes after finishing, the reader should be *unable to decide whether they'd have stepped through the door* — and disturbed that they understood Troy the whole time. Complicity, not catharsis.
+Ten minutes after finishing, the reader should be *unable to decide whether they'd have built the door at all* — and disturbed that they understood not just Troy but all three of them the whole time. The unity is the gut-punch: there's no "good one" to root for who'll stop it. Three people you'd have a beer with sent the children through and stayed to live with it, and you followed every step of their reasoning. Complicity, not catharsis.
 
 ## 4d. CULTURAL VOCABULARY
 - **"At any cost."** — designed branded phrase. First as the warm public slogan "A New World" (Ch.6); the hidden full slogan revealed Ch.14; by the end the reader hears the amputation in those three words. Reinforced ~5×, deepening each time.
@@ -179,14 +179,14 @@ Ten minutes after finishing, the reader should be *unable to decide whether they
 
 ## 4f. RE-READ ARCHITECTURE (3–5 seeds)
 1. **Ch.1 foster lines** ("I was disposable") read as origin of empathy first time; second time they're the seed of the disposability he inflicts on the orphans.
-2. **The group photo line** (Ch.2) — pure hope first; gutting at Ch.21 when faces are missing.
+2. **The group photo line** (Ch.2) — pure hope first; gutting at Ch.21 when the three of them are still together but the children's faces are gone through the door. The trio's unity, hopeful at the start, becomes the thing that cost everyone else.
 3. **The fountain pen** that can't pierce *his* skin (Ch.1) — invulnerability as gift; later, the man who can't be hurt is the one who decides who gets hurt.
 4. **Priya's exit** (Ch.5) reads as cowardice/loss of a minor character first; on re-read she's the only one who passed the moral test.
 5. **The investigator told to "leave them alone"** (Ch.9) reads as corrupt cover-up; re-read reveals the order was *protecting the timeline* in a way that lands differently after the endpoint.
 
 ## 5. SYMBOL & MOTIF SYSTEM (2–4; keep 30–40% of detail as plain texture)
 **The group photo** — first appearance Ch.2 (three faces, hope). Evolves: reshot at company founding (Ch.6), at the camp (Ch.13, kids included — sinister). Final Ch.21, fewer faces. Theme: the cost made visible by who's no longer in frame.
-**The door / threshold** — warehouse wall Raven phases through (Ch.2); the door Priya closes (Ch.5); sub-level 3 doors (Ch.5); the wormhole (Ch.20). Theme: who gets to choose which side they're on.
+**The door / threshold** — warehouse wall Raven phases through (Ch.2); the door Priya closes (Ch.5); sub-level 3 doors (Ch.5); the wormhole (Ch.20). Theme: who gets sent through and who stays to pay for it. At the climax the trio chooses the SAME side — they keep the door open for the children and remain Earth-side together, the inverse of escape.
 **Skin & blood** — Troy's vanished scar / unpierceable skin (Ch.1); Knight's electric blood; the children's first manifestations. Theme: the body as both gift and ledger of cost.
 **Citrus/orange (Raven)** — texture-leaning motif; the smell of her fear; lands once at the end. Mostly atmosphere, not message.
 

@@ -38,21 +38,21 @@
 - **Never says:** clinical detachment about people he loves; he never admits a moral cost in plain words (he reroutes to "the bigger picture").
 - **Sample line:** "I gave the two people I love a needle full of maybe, and the worst part is I'd do it again, gladly, today."
 
-#### Raven (close-third)
+#### Raven (close-third) — CO-ARCHITECT (all-in)
 - **Vocabulary band:** operational, legal-adjacent, precise; sensory when stressed (citrus).
 - **Syntax fingerprint:** clips; ends arguments with a question; counts things.
 - **Rhythm:** fragments under pressure; short declaratives.
-- **Verbal tics:** "Are we sure?"; counting ("that's four, Troy, four"); peeling an orange while she talks.
-- **Never says:** sentimental reassurance; she won't lie to comfort.
-- **Sample line:** "You keep saying we're saving them. Say the other word. Say what we're doing to them."
+- **Verbal tics:** "Say the real word"; counting ("that's four, Troy, four — I counted them"); peeling an orange while she talks.
+- **Never says:** sentimental reassurance; she won't lie to comfort — and she never says "we should stop" (she's all-in; her edge is honesty about the price, not refusal to pay it).
+- **Sample line:** "You keep saying we're saving them. Say the other word too. We're choosing them. I'll do the choosing — I'll do it kindest — but don't you dare make it sound clean."
 
-#### Knight (close-third)
-- **Vocabulary band:** street-warm, profane, gamer slang, gentle with kids.
-- **Syntax fingerprint:** loose and loud, then suddenly short and precise when he's about to do something terrible.
-- **Rhythm:** jokes as punctuation; the joke-drop signals danger.
-- **Verbal tics:** sarcastic "boss"; "everybody here knows it, they're just scared to say it"; leaderboard rage.
-- **Never says:** doubt out loud (his lie is that doubt = betrayal).
-- **Sample line:** "Don't look at me like that. Somebody's gotta make the call the lovebirds can't, and lucky me, I sleep fine."
+#### Knight (close-third) — CO-ARCHITECT (all-in)
+- **Vocabulary band:** street-warm, profane, gamer slang, gentle with kids; the heart of the team.
+- **Syntax fingerprint:** loose and loud, then suddenly short and precise when he's picking up a weight no one else should have to.
+- **Rhythm:** jokes as punctuation; the joke-drop signals he's shouldering something, not hesitating over it.
+- **Verbal tics:** sarcastic "boss"; "I got it, you two don't have to"; "let me carry that one"; leaderboard rage.
+- **Never says:** that the cost is too high to pay (his lie is that his back is wide enough for all of it; he reframes doubt as a weight to absorb FOR the others, never a reason to stop). He never turns on Raven or Troy.
+- **Sample line:** "Don't look at me like that. Somebody's gotta carry the part that'd break you two, and lucky me, I'm built for it. Go be the ones who get to sleep."
 
 #### Marcus Vance (close-third)
 - **Vocabulary band:** federal/procedural, understated, cracking at grief.
@@ -69,7 +69,7 @@
 |---|---|---|
 | Troy | First-person present-tense WONDER even over horror; comics asides | vs Knight: Troy never curses-to-deflect; Troy reroutes to "the bigger picture," Knight to a joke |
 | Raven | Clips + ends on a QUESTION + counts | vs Vance (also restrained): Raven interrogates the present moment; Vance files it and addresses the dead |
-| Knight | Joke-drop into military-short when about to act; ozone in the prose | vs Troy: Knight admits he sleeps fine; Troy can't admit cost at all |
+| Knight | Joke-drop into military-short when shouldering a weight; ozone in the prose; "let me carry that" | vs Troy: Knight openly takes on the cost to spare the others; Troy can't admit cost at all |
 | Vance | Direct address to dead Ellie mid-paragraph; "per the file" | vs Raven: Vance's questions are rhetorical to a ghost; Raven's demand answers from the living |
 
 No two share a sharpest marker. ✓
