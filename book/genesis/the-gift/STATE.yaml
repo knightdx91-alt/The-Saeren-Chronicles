@@ -62,12 +62,17 @@ guardrails:
   - "ENDGAME TECH: a one-way teleporter / portable wormhole. MIT researchers Troy once helped were lured (with others) to the company to build it."
   - "FRAMING: the three MCs are SYMPATHETIC ANTIHEROES (we root for them despite the darkness). MULTI-POV (Troy + Raven/Knight and/or the investigator). SERIES — Book One ~100k, ending on the launch/escape (the new planet itself is later books). Romance (Troy/Raven) is a STRONG thread; heat = OPEN DOOR, MODERATE."
 
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "TRIO UNITY (CRITICAL): Troy, Raven, and Knight are ALL IN THIS TOGETHER — a unified team committed to the plan. NO betrayal subplot, NO lovers-split, NO Raven-opposes-the-mission arc. Reject architect's Raven 'final act' options A/B/C/D entirely. Their conflicts are about HOW/cost, never whether — and they stay loyal to each other. Raven & Knight are co-architects of 'any cost', not reluctant brakes."
+  - "LAUNCH ENDPOINT: at the Book One launch, the CHILDREN + chosen settlers go THROUGH the one-way wormhole; Troy, Raven, AND Knight ALL STAY behind (Earth-side) together. The new planet/colony is NOT shown (Book Two). The cliffhanger is the trio together facing the aftermath/raid, having sent the kids on — not a split between them."
+  - "POV: keep first-person PRESENT-tense for TROY (Ch.1 benchmark voice; narrates horror in the same delighted voice as wonder); close-third past for Raven/Knight/Vance with labeled POV headers."
+  - "ACCEPTED defaults: investigator Marcus Vance (daughter Ellie, 9; reaches one degree from Troy by Ch.16, raids at launch, survives knowing, Troy/Vance face-off saved for Book Two); 'children lines not to cross' as architect specified; one fatal sub-level-3 transformation (Ch.11) to indict the 'honest' choice; names (Devon Marsh, Priya Sahota who LEAVES, Theo 'Bull' Bullard; kids Ezra/Wren/Sol; sister Dr. Cora Woods); Boston/Cambridge + remote wilderness camp."
+
 open_author_decisions:
-  - "Book One endpoint specifics: where exactly the launch/escape cliffhanger falls; who/what makes it through the one-way wormhole."
-  - "How morally far the antiheroes go on-page re: the children (architect to handle with care; confirm lines not to cross)."
-  - "The investigator's name + how close he gets by Book One's end."
-  - "Names for the three assistants and key kids."
-  - "Setting/city specificity."
+  - "Company name (architect to propose a shortlist)."
+  - "Mom & Dad first names; exact city for the camp (PNW vs northern New England)."
+  - "Flavor of the 'hands-off' order on Vance (banal/economic vs quiet govt IP interest)."
 
 decisions:
   - "Folder-per-book genesis project under book/genesis/the-gift/."
