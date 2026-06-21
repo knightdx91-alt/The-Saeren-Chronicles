@@ -108,7 +108,7 @@ She had braced, vaguely, for something like the stone at her throat: a pale flam
 
 Her own core was the twin of his, the same plaited wheel of light and dark, and it was vast. Where his was a coal, hers was a hearth. Where his turned slow and certain, hers wheeled with a banked, patient force that she could feel as well as see, a deep furnace-rumble in her own chest that she had been living on top of her entire life and never once heard. It dwarfed the pale ember of her mother's stone the way the sun dwarfs a struck match. It was, she thought, the size of three of his.
 
-She sat very still.
+She sat rigid, not trusting herself to move.
 
 "That's not right," she said. Her voice had gone flat, the way it went under pressure, the cataloguing voice, the naming voice. "That's bigger than yours. That's. You're three hundred. You're a spirit walker. I'm fourteen. That's not possible..."
 
@@ -180,7 +180,7 @@ The hope went out, quietly, the way the sight had gone out, leaving the room dul
 
 So the grief came back. It had never left; it never left; but it had been crowded for an hour, pushed to the edge of the room by the burning grass and the carrots and the vast wheeling fact of herself, and now it walked back into the middle of her and sat down where it always sat, behind her ribs, in the held place no one was permitted to see. Only now it had a new question folded into it, a question that would not be answered in this book or this school or perhaps anywhere: *did you know what I was? Did you carry it the way I carry it now? Were you whole, the two of you, in that cold house, and never once let me see you do it?*
 
-She would think about it, she understood, for the rest of her life. She filed that too.
+She would think about it, she understood, for the rest of her life. She set it with the others and let it be.
 
 * * *
 
