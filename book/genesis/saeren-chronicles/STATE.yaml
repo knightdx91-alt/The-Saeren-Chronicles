@@ -149,3 +149,24 @@ style_alignment_pass_ch5_6_9:
   new_repeated_phrases_in_scope: none  # only surfaced n-gram 'and held it out' is pre-existing (Ch.1/4/14) and was reduced
   genesis_floor: ">= 8.5 held on all three edited chapters (punctuation-level + additive sensory texture; no dimension weakened)"
   preserved: ["all canon", "voice/plot/characters/continuity", "interrupted-dialogue dashes", "scene-break marker", "deliberate motifs"]
+
+agency_pass_round6:
+  date: 2026-06-21
+  goal: "Fix passive protagonist (analytical/beta #1 issue) via approved passive->active beat conversions."
+  conversions_implemented:
+    - "Ch.3: Viridia openly keeps her mother's focus on her own terms (defies the note); cost = loses anonymity."
+    - "Ch.4: breaks cover to turn Lady Lightwell; cost = lands on Lightwell's radar on purpose."
+    - "Ch.5: defies Amber's 'start small', over-pours the pact-call; cost = near-fatal drain, angry Amber, a 'hungry thing' alerted."
+    - "Ch.8: ripple line tying 'reaches past the safe edge' trait to the dragon bond."
+    - "Ch.16: consciously chooses to obey/leave Alice (loss partly her doing) + spends hidden rune-craft from cover to decide the eight's escape (near-exposure; the many over Alice)."
+  verification:
+    analytical: "active-beat ratio ~33% -> ~55-65%; passivity substantially improved; climax causality intact; no plot hole."
+    continuity: "0 critical, 2 warning, 3 minor; visibility-vs-unseen reconciled (allies notice != capital sees; Ch.16 'never saw Viridia')."
+    polish: "trimmed over-stamped 'on purpose/knowingly' meta-commentary (Ch.4/5/16); removed leftover 'standing quiet behind her as instructed' (Ch.4)."
+  open_threads:
+    - "BOOK-TWO HOOK (intentional): the Ch.5 'hungry thing in the dark' that heard Viridia's over-pour. Logged deliberately; no Book-One payoff required. (continuity WARN-1)"
+  todo:
+    - "entity-tracker UPDATE: ENTITY_STATE.yaml stale re: agency beats + 'hungry thing' open mystery (continuity WARN-2)."
+  word_count: 93246
+  gate: clean
+  revision_tag: r6
