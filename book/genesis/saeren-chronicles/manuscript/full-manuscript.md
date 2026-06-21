@@ -41,9 +41,9 @@ She had been excited, once. Three days ago, a lifetime ago, she had torn open th
 
 Now she stood at the gate and felt nothing she could name.
 
-Her hand found the stone at her throat without asking permission. It was a habit her fingers had learned before the rest of her noticed: the smooth dark-blue weight of it, the carved symbols along its sides that seemed to hold a faint light even out here in plain sun. Her mother's stone. She closed her fist around it and the edges pressed into her palm, and that small specific discomfort was steadier than anything else she had.
+Her hand found the stone at her throat without asking permission. It was a habit her fingers had learned before the rest of her noticed: the smooth dark-blue weight of it, the carved symbols along its sides that seemed to hold a faint light even out here in plain sun. Her mother's stone. She closed her fist around it and the edges pressed into her palm, and that small specific discomfort was steadier than anything else she had. For a moment she thought she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed. Then it was cool glass again, ordinary in the plain sun. The sun, she told herself. Only the sun.
 
-She was not a large girl: slight of build, fine-boned, the sort that made grown-ups want to feed her. Her hair was a pale silver-blonde that fell to the middle of her back, and she had let it hang loose this morning because braiding it had felt like more than she could manage. Her eyes were green and at the moment fixed on the middle distance, on nothing, the way eyes go when the person behind them is somewhere else entirely. She held her shoulders in a slight inward curve, not slouching, exactly, but drawn in, as though making herself a smaller target. There was nothing soft in the way she stood, though. Underneath the shyness was something set. A spine that did not bend even when the rest of her wanted to.
+She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all. Yet the set of her did not give way: under the shyness was a spine that refused to bend, even when the rest of her wanted to.
 
 Beside her, Aleric Porter had not stopped talking since the motorcar.
 
@@ -117,7 +117,7 @@ The front rows were already half full, and they were loud.
 
 Not loud in any rude way. It was the bright, overlapping chatter of girls who already knew one another, who had met at this gathering or that one, whose mothers were acquainted, who had been writing letters all summer and now fell on each other with the relief of finally being in the same room. They leaned across the aisles. They compared the trim on their uniforms and the charms on their bracelets. One girl was demonstrating something with her hands, a small flourish, and three others were laughing. They had the easy gravity of a thing already formed, a group with edges, and Viridia, standing in the doorway, was very plainly on the outside of those edges.
 
-She was good at this part, at least. The watching. She had always been good at standing slightly apart and taking the measure of a room, and grief had only sharpened it, had stripped away whatever part of her used to want to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
+She was good at this part, at least: the watching. Grief had only sharpened it, stripping away whatever part of her had once wanted to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
 
 A tall girl with copper hair turned in her seat and picked Viridia out where she stood. Her eyes did the quick sum strangers do, the loose hair, the slight build, the plainness of her, and landed last on the dark-blue stone at Viridia's throat. They stayed there a moment too long. Then the girl leaned to her neighbor and said something behind two fingers, and both of them looked, and looked away, and laughed. It was nothing. Viridia filed it anyway. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
 
@@ -143,7 +143,7 @@ There was nothing for it. She went.
 
 The carpet gave under her feet and took her footsteps with it, so that she crossed the front of that bright room in a silence that felt, to her, enormous. A few of the girls glanced up as she passed, a flick of attention, a quick weighing, the brief curiosity reserved for a newcomer, and then went back to their conversations, because she did nothing to hold them. She did not smile too widely or speak too soon. She simply found one of the last empty chairs near the front, on the aisle, and sat, and set her hands in her lap, and let the noise close back over her like water over a dropped stone.
 
-She held very still. It was easier to disappear if you held still.
+She kept herself motionless. It was easier to disappear if you did not move.
 
 At the desk, Lady Lightwell squared her stack of papers against the wood with two crisp taps, set them down, and at last lifted her head. The rose-tinted lenses swept once across the rows of waiting girls, and for a half-second, no longer, Viridia had the distinct and uncomfortable sensation of having been seen. Not glanced at. Seen, the way her mother used to see her across the breakfast table, as though the surface were not the interesting part.
 
@@ -203,7 +203,7 @@ Viridia stayed in her chair.
 
 It was not a decision. Her body had simply declined to stand, and she let it, because for a moment the effort of rising and arranging her face and moving with the current felt like more than she had in her. So she sat, small and still in the emptying room, with the long columns of dusty light leaning across the floor and the faded figures on the ceiling raising their arms toward their fire, and she let herself, for just a breath, stop performing the ordinary.
 
-Her hand had found the stone again. She had not noticed it go. Her fingers closed around the dark-blue weight of it at her throat, the carved edges biting gently into her palm, and she held on the way you hold the side of a pool when the water is deeper than you expected.
+Her hand had found the stone again. She had not noticed it go. Her fingers closed around it, the carved edges biting gently into her palm, and she held on the way you grip the side of a pool when the water turns out deeper than you expected.
 
 That was the thing none of them knew, the girls with their plans and their easy gravity. They had no idea. They walked out of that room into the bright simple front of their lives and not one of them could have guessed that the quiet girl in the front row was, very calmly and very silently, drowning, and had been for three days, and would be tomorrow, and was getting frighteningly good at doing it where no one could see. The pressure behind her eyes built and built. She breathed around it. She did not let it past. No one sees you do it, she told herself, in something close to her mother's voice. You decide who sees.
 
@@ -302,13 +302,13 @@ Viridia found, to her own surprise, that the corner of her mouth wanted to move.
 
 She let it go after that, slid off into talk of the room, of where the bathing rooms were, of whether the round window opened, and Viridia understood that the letting-go was deliberate, that Alice had found a closed door and chosen, on purpose, not to lean on it. It was the second time. Viridia was beginning to think it might be the most reliable thing about her.
 
-They unpacked in the comfortable way of two people who do not yet know each other and have decided, provisionally, to. Alice talked the whole while, about her nan, about the long train down with a man who'd snored, about how she'd packed three jumpers and her mum had taken two out and put a fourth in so she'd ended up with a wardrobe nobody had agreed on. She arranged a small army of belongings along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch and he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. She had brought nothing to put out, only the cases, and what was in them she meant to keep under the bed and inside the drawer and behind her ribs. She noticed the difference between their two halves of the room, the populated and the bare, and noticed that Alice noticed it too, and noticed that Alice said nothing about it, which she counted, privately, as the third reliable thing.
+They unpacked in the comfortable way of two people who do not yet know each other and have decided, provisionally, to. Alice talked the whole while, about her nan, about the long train down with a man who'd snored, about how she'd packed three jumpers and her mum had taken two out and put a fourth in so she'd ended up with a wardrobe nobody had agreed on. She arranged a small army of belongings along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch and he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. She had brought nothing to put out, only the cases, and what was in them she meant to keep under the bed and inside the drawer and behind her ribs. The difference between their two halves of the room was plain, the populated and the bare. Alice clocked it too, Viridia could tell, and said nothing about it, which she counted, privately, as the third reliable thing.
 
 "There," Alice said, when Stitch was settled and the sweets were hidden and the room was as much theirs as an afternoon could make it. She flopped back onto her bed. "Home. For four years." She said it bravely and it cracked very slightly at the end, on *years,* and she heard it crack and plowed straight on. "Tell me one thing about you. Anything. I've told you my whole life and I don't know one thing about you and we live here now."
 
 Viridia thought about it. There were a great many things she would not say. She looked for one she could. "I like knowing the names of things," she said at last. "Paintings. Plants. People. If I know what a thing's called I feel better about it being in the room."
 
-Alice considered this with the gravity she gave to most things, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
+Alice weighed this, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
 
 * * *
 
@@ -507,6 +507,8 @@ No hands. She had not expected any. She slipped the ring off her finger and laid
 
 For a moment nothing. Then green came up out of the soil, fast, a stem unspooling, leaves opening, and at the top a bud that swelled and split and went red, a deep wet poppy-red, the petals shivering as they unfolded. The whole class breathed in at once. The room smelled, suddenly and entirely, of turned earth.
 
+There was something else, too, and Viridia seemed to be the only one who caught it: a faint cold draught with no open window to explain it, a thin thread of metal laid along the back of her tongue. It was there and then it was gone. She pressed her tongue to her teeth and said nothing, and around her the other girls only clapped and craned for a better look, feeling, as far as she could tell, nothing at all.
+
 "Now." Mrs. Zoran took the ring off again and set it on the desk, where it sat looking utterly ordinary. "This is what can happen without one."
 
 She passed her bare hand over the next pot.
@@ -549,7 +551,7 @@ Mrs. Zoran turned it in her fingers, slowly, the cheerful patter gone quiet. She
 
 Then she pushed her magic into it.
 
-Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. The hair rose along her forearms. A taste came into the back of her mouth, cold and metal, and she pressed her tongue to her teeth and made it stay there, unmentioned. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
+Viridia could not have said how she knew, she had no name yet for the sense that told her, but she felt it happen, felt the pull of it from a foot away, the way you feel a draught from an opened door. The hair rose along her forearms, the way it had lifted over the poppy pot, only stronger now, much stronger. The cold metal taste came back into the back of her mouth, and she pressed her tongue to her teeth and made it stay there, unmentioned. Mrs. Zoran drew a breath and gave the rod everything she had. The half-orb at the top kindled, a pure white light welling up inside it until it shone fierce and steady, and the rod itself *moved.* It lengthened in her hands, the silver flowing longer the way water finds a slope, growing and growing until what she held was no longer a rod but a slim white-glowing cane near four feet long, the carved scroll running its whole length now, the seam in the orb glowing brightest of all.
 
 The light faded. The cane stayed.
 
@@ -623,7 +625,7 @@ She watched Viridia take that.
 
 Her mouth thinned. "I've my own opinion as to why so many are born with no gift at all these days. I think we killed our way to it."
 
-Viridia held very still. "So it's a dark focus."
+Viridia did not move. "So it's a dark focus."
 
 "It's an *old* one. Older than the war, I'd guess, from the script and the metal. I've never seen the like of either. It may well have been made when whole was the ordinary thing and nobody thought it strange." She handed the cane back, and Viridia took it in both hands. "It's the strongest focus I've ever held. And it was made for someone with both sides of the gift."
 
@@ -645,7 +647,7 @@ Viridia thanked her, for the cane, for the words, for the risk she had only half
 
 The corridor was empty. The class had gone on; Alice was waiting somewhere down by History; the school went about its loud distant business one floor up and one floor down. For a moment there was nobody, and Viridia stopped, and held the cane up before her in the grey window-light.
 
-She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But standing alone in the empty corridor, she allowed in, briefly, something that grief had crowded out for days, not its grey weight, not the careful work of holding her face still.
+She turned it slowly. The seam in the orb. The scroll she could not read. *Made for someone with both sides of the gift.* She did not know, yet, what that meant about her. She had a suspicion she had been carrying since the orientation hall without daring to take it out and look at it, and she did not take it out now. But standing alone in the empty corridor, she allowed in, briefly, something that grief had pushed under for days, not its grey weight, not the careful work of keeping her face level.
 
 She turned the cane once more and watched the grey light slide down the white scroll. A focus that had been thirsty long enough to frighten Mrs. Zoran. A focus made for someone whole, in an age when whole had been ordinary, handed down a tree of names a thousand years deep to a girl in a corridor who could not read its writing. It ought to have been too large a thing to hold. It sat balanced and easy in her hand, the way the rod had sat in the loop of her skirt, the skirt sewn around it. As though, somewhere down all those branches, someone had measured her without ever having met her.
 
@@ -842,7 +844,7 @@ Something went still and careful in Viridia. "What did you put?"
 
 For a moment Viridia could not speak at all, and for once grief was not the reason.
 
-"No," she said, when she had it. "You haven't been stupid." She did not say *I wrote the same.* She did not say *you have no idea how much I needed to hear that someone else looked at that question and could not write the safe thing either.* She filed it instead, the broth and the boot-mender and the way Alice had said *you'd have killed her?*, filed it with the things she was keeping, except that this one she kept warm, near the front, where she could find it. "It wasn't stupid," she said again. "It was right. They're not always the same thing here. You should know that. But this time they were."
+"No," she said, when she had it. "You haven't been stupid." She did not say *I wrote the same.* She did not say *you have no idea how much I needed to hear that someone else looked at that question and could not write the safe thing either.* She filed it instead, the broth and the boot-mender and the way Alice had said *you'd have killed her?*, set among the things she was keeping, except that this one she kept warm, near the front, where she could find it. "It wasn't stupid," she said again. "It was right. They're not always the same thing here. You should know that. But this time they were."
 
 Amber had been watching the two of them with an odd expression, half amused and half something else, something almost wistful. "God," she said, mostly to herself. "First-years." But she said it the way you say a thing you're fonder of than you'll admit, and she clapped her hands once and broke the moment open before it could get too large. "Right. Pembrook, off you go, this next part's just for the kidnapped. Viridia, with me. Time to go and ring the dinner bell for the whole forest and see what comes."
 
@@ -941,7 +943,7 @@ That was the whole of it, underneath everything: under the grief she carried beh
 
 She did not think about light or dark. She did not think about hiding. She thought only about the need, and she reached, and because she was not thinking, she reached with all of it.
 
-She felt the magic move and she did not stop it. It came up out of her core the way grief came up, fast, without asking, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
+She felt the magic move and she did not stop it. It came up out of her core the way grief did, sudden and unbidden, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
 
 On the bench, Amber went still.
 
@@ -951,7 +953,7 @@ The clearing had gone strange around her. With the orb burning white-and-black i
 
 "I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
 
-She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was.
+She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was. And the call had gone out with all of it behind it, far past the clearing, far past where Amber's three neat pulses had reached, rolling out into parts of the wood that had no names. She was in no state to wonder what, that far out, might have lifted its head to listen.
 
 On the bench, Amber started up to help her, and froze.
 
@@ -1106,7 +1108,7 @@ Viridia stopped with the spoon halfway up. "Broken how?"
 
 *That,* said Lor-ar, *is the whole of the world you were given. It is not the whole of the world.* He looked at her with something that was almost pity and almost patience and entirely ancient. *You cannot have life without death, little one. Nor light without the dark. Most higher things are made with both. It is the natural shape of a living thing. The lower beasts may have only one, and that is no fault of theirs; they were made that way, and they are whole in the way a thing is whole when it was never meant to be more.* The storm eyes held hers. *Your people were meant to be more. And someone, long ago, took the other half away. That is the brokenness. Not a flaw you were born with. A wound that was done to you, so long ago that you have forgotten it was ever a wound, and call the scar your nature.*
 
-Viridia sat very still in the dark with the cold soup in her lap.
+Viridia sat unmoving in the dark with the cold soup in her lap.
 
 "And me," she said. Quietly. Already knowing, the way she always knew the thing a half-beat before it was said. "What about me."
 
@@ -1154,7 +1156,7 @@ It was Alice, when the wonder had worn down to a glow, who remembered her own ne
 
 Viridia listened, and was glad for Alice, genuinely, warmly glad, and underneath the gladness, so quiet she almost missed it in herself, was a thread of something more complicated. Alice was building a life here. A sponsor of her own, a wing of her own, a path of her own that belonged not to Viridia but to who Alice was going to become. Three days ago they had been two strangers at the outside edge of the same room. Now Alice had somewhere to go in the morning, somewhere that was hers. It was exactly what Viridia had wanted for her. It was also, she registered with a small private honesty, a door opening between them, the first hairline gap of two lives that had briefly been one and would now begin, gently, to be two again. She was happy for Alice. She was. And she was, very faintly, afraid of being left, which she recognized, the moment she felt it, as the same fear that had sent her into the forest to call for something that would *stay.*
 
-She put the thought away with the others. She was good at putting things away. She let only the gladness show.
+She put the thought away with the others; she had grown good at that. She let only the gladness show.
 
 "Does it?" Viridia asked. "Suit you?"
 
@@ -1178,7 +1180,7 @@ She did not know what she was. That was the plain fact at the bottom of it. Thre
 
 But under the fear was the other thing again, the warm thing, the first heat felt in a long-cold room. If she was somehow the whole one, then the void her parents' deaths had opened was not the only thing she was made of. There was this, too: something in her enormous and unfinished and entirely her own. She held both at once, the grief stowed small behind her ribs and the strange new life assembling itself around her, and did not choose between them. You did not get to choose. You carried the loss and the becoming in the same two hands.
 
-The half-moon moved a little in the round window. Lor-ar's breathing rose and fell. And Viridia Saeren, fourteen years old, who had come through the gate three days ago with nothing she could name, lay awake between the dark she had been given and the dark she was walking into, and at some point, without deciding to, she let go of the day, and went over the edge of it, and down.
+The half-moon moved a little in the round window. Lor-ar's breathing rose and fell. And Viridia Saeren, fourteen years old, who had come through the gate three days ago with nothing she could name, lay awake between the dark she had been given and the dark she was walking into, and at some point, without deciding to, she let go of the day the way Alice did, trusting it to catch her, and went over the edge of it, and down.
 
 
 CHAPTER SEVEN
@@ -1291,7 +1293,7 @@ She had braced, vaguely, for something like the stone at her throat: a pale flam
 
 Her own core was the twin of his, the same plaited wheel of light and dark, and it was vast. Where his was a coal, hers was a hearth. Where his turned slow and certain, hers wheeled with a banked, patient force that she could feel as well as see, a deep furnace-rumble in her own chest that she had been living on top of her entire life and never once heard. It dwarfed the pale ember of her mother's stone the way the sun dwarfs a struck match. It was, she thought, the size of three of his.
 
-She sat very still.
+She sat rigid, not trusting herself to move.
 
 "That's not right," she said. Her voice had gone flat, the way it went under pressure, the cataloguing voice, the naming voice. "That's bigger than yours. That's. You're three hundred. You're a spirit walker. I'm fourteen. That's not possible..."
 
@@ -1363,7 +1365,7 @@ The hope went out, quietly, the way the sight had gone out, leaving the room dul
 
 So the grief came back. It had never left; it never left; but it had been crowded for an hour, pushed to the edge of the room by the burning grass and the carrots and the vast wheeling fact of herself, and now it walked back into the middle of her and sat down where it always sat, behind her ribs, in the held place no one was permitted to see. Only now it had a new question folded into it, a question that would not be answered in this book or this school or perhaps anywhere: *did you know what I was? Did you carry it the way I carry it now? Were you whole, the two of you, in that cold house, and never once let me see you do it?*
 
-She would think about it, she understood, for the rest of her life. She filed that too.
+She would think about it, she understood, for the rest of her life. She set it with the others and let it be.
 
 * * *
 
@@ -1428,7 +1430,7 @@ And then, because she still had not closed the new sight, she looked at the drag
 
 If her own core was a hearth and Lor-ar's a coal, these were furnaces, foundries, things that did not belong inside a body. The scarlet dragon's core wheeled white and dark together, the whole gift, vast and turning slow as weather. The black dragon's was the same and was somehow more, older, denser, with a heaviness to the dark side of it that pulled at her own like a hand at the hem of a coat. She understood, looking, why the floor of the world had answered her call by sending these. They were not large creatures. They were nearer to forces. And the egg between them, when she found the courage to look at it, held the smallest fire she had ever seen with the sight, a new spark barely lit, all the colors at once, turning over and over inside the shell like a thing impatient to begin.
 
-She made herself let the sight go, before it pulled her in. Even then it came back the moment she stopped holding it off, settling over her eyes without her asking, and she filed that, too: it was getting easier. It was getting harder to turn off.
+She made herself let the sight go, before it pulled her in. Even then it came back the moment she stopped holding it off, settling over her eyes without her asking, and she noted that, too: it was getting easier. It was getting harder to turn off.
 
 *You cut it close, Lor-ar.* The voice came into her skull without ceremony, vast and rough, the black dragon's, though he had not moved. *You are fortunate he has not hatched. It could come at any breath.*
 
@@ -1468,7 +1470,7 @@ He did not seem to mind. "Near six thousand years," he said. "Varissa, near five
 
 He stood, abruptly, and walked off toward the dark edge of the clearing, and between one stride and the next he was the dragon again, and he went up off the ground with a single thunderous beat of his wings and into the night sky, and a moment later, high overhead, he tore a long ragged plume of black fire into the dark.
 
-Viridia sat very still by the fire. She had asked, four days ago, for something that would not leave her. She had not understood, until now, that everything in this world that came when called came from somewhere, was someone's, had been loved before it was hers. She had thought she was asking the forest for a gift. She had been asking it for someone else's child.
+Viridia sat motionless by the fire. She had asked, four days ago, for something that would not leave her. She had not understood, until now, that everything in this world that came when called came from somewhere, was someone's, had been loved before it was hers. She had thought she was asking the forest for a gift. She had been asking it for someone else's child.
 
 * * *
 
@@ -1509,6 +1511,8 @@ He opened his eyes.
 The world stopped.
 
 She had no other way to say it, after, and she did not try to find one. Time, which had been running fast all night, simply set itself down. The firelight stilled. The clearing went away. There was the small heat of him in her hands and there were his eyes finding hers, eyes that held every color the way his scales did and behind the colors something old and waking and unmistakably *aware,* and into the held silence of that look something passed both ways at once, a recognition with no words in it, a tying-off, a knot pulled tight in the dark, and she felt it land in the same place under her ribs where the hearth turned, felt her own enormous core flare and reach and take him in.
+
+It cost her. The taking-in dragged at the hearth hard enough that the clearing tilted and went white at the edges, and the old iron taste flooded the back of her mouth, and she had to lock her elbows to keep from folding down over the wet weight of him. She held on. She would have held on through a great deal worse, and some far-back part of her, even then, suspected she might one day have to.
 
 She was changed in that moment. She knew it as it happened, which was the strangest part of all. Her senses ran suddenly keener, all of them at once: the firelight came up too bright, the crackle of the burning logs too sharp, the night air carrying scents she had no names for, resin and scorched stone and the clean cold of the heights above. The mana-sight, which she had been holding open all day by an act of will, dropped into place inside her and stopped being work; she understood, without testing it, that she would never again have to reach for it, that it had become a thing she simply had, the way she had her own two hands.
 
@@ -1589,7 +1593,7 @@ She was due now.
 
 The door at the top of the stone stair had steel bands worked into the wood and red runes cut into the steel. She had passed it twice before and thought it only stern, a heavy old door an institution kept for show. Now, with the sight, she could see that it was nothing of the kind. The runes ran with a deep banked working, layered, patient, the lines of it doubled and re-doubled in a way that spoke of years of careful addition; and she could not read what it said, the script being the older kind that lived in her mother's book and her own focus, but she could read what it was for. It was a door built to keep things out, and to keep things in, and to hear, perhaps, whether anyone stood listening at it. More care had been put into this one door than into the whole rest of the wing. A schoolmistress's study had no business being warded like a vault.
 
-Unless, of course, it was not only a study. She filed that, the way she filed everything. Up close the wood smelled of old wax and colder iron, and the runes gave off a faint warmth she could feel before her knuckles ever touched them, as though the door were breathing slowly in the dim of the stairwell. She raised one fist, waited until it had stopped shaking, and knocked.
+Unless, of course, it was not only a study. She marked it, the way she marked everything. Up close the wood smelled of old wax and colder iron, and the runes gave off a faint warmth she could feel before her knuckles ever touched them, as though the door were breathing slowly in the dim of the stairwell. She raised one fist, waited until it had stopped shaking, and knocked.
 
 "Come in," said the voice from within, after a pause that was a beat too long.
 
@@ -1611,9 +1615,9 @@ There was a silence.
 
 *She also wished it conveyed,* Lor-ar added, into the quiet, with the air of a creature delivering the last and best item of his commission, *that she is being kind. She asked me to be sure you understood that this was the kind version, and that you would not enjoy the other one. I have now said it twice, which I believe satisfies the instruction "word for word," and which I confess I have enjoyed more than is seemly.* He laid his chin back down on his paws. *Dragons are very direct. It is restful.*
 
-Lady Lightwell sat very still behind her desk and absorbed this, and Viridia, watching her with the new sight, saw the thing she had been half-expecting since the morning Lor-ar taught her to look and she had not yet dared confirm: that under the light-core necklace at the Headmistress's throat, where there should have been the pale flame of any light mage, there turned instead a black swirling mass, slow and deep, a dark core hidden behind a borrowed light. The same arrangement as Amber's. The Headmistress of Hazel Preparatory, the woman who trained the country's light mages, was a dark mage wearing a light mage's face.
+Lady Lightwell went motionless behind her desk and absorbed this, and Viridia, watching her with the new sight, saw the thing she had been half-expecting since the morning Lor-ar taught her to look and she had not yet dared confirm: that under the light-core necklace at the Headmistress's throat, where there should have been the pale flame of any light mage, there turned instead a black swirling mass, slow and deep, a dark core hidden behind a borrowed light. The same arrangement as Amber's. The Headmistress of Hazel Preparatory, the woman who trained the country's light mages, was a dark mage wearing a light mage's face.
 
-Viridia kept her own face still. She had a great deal of practice at keeping her face still.
+Viridia kept her own face empty. She had a great deal of practice at keeping her face from telling on her.
 
 "Word for word," Lady Lightwell said at last. "Yes. I imagine that is word for word; you have the look of a girl who delivers things exactly." She drew a slow breath. "Tell her. No. Do not tell her anything. One does not reply to a dragon; one survives having been addressed by one." She set both hands flat on the desk. "I will keep her son safe. I would have done in any case. It is, I will admit, a more motivating instruction than most I receive."
 
@@ -1798,7 +1802,7 @@ She learned the shape for growth first, because Lor-ar said the gentle ones were
 
 Once, on the fourteenth night, Lor-ar broke off a lesson mid-shape and stood, ears forward, facing out past the treeline, and would not say what he had heard. Viridia turned the sight that way and found, far off past the forest, the same low greyness she had glimpsed from the assembly window weeks before, a thinning in the living threads of the land, as though somewhere too distant to name a thing had begun to drink the light out of the world. It held a moment. Then it was gone. "What is that," she asked, and Lor-ar said only, *A thing that is getting closer. Mind your shape. We have less time than the spring would have you believe,* and she filed it, and the lesson went on, but the ease had gone out of the night.
 
-There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it. She was building, she had noticed, a long and growing list of things filed for later, and she was beginning to suspect that the later they were filed for was not going to be a comfortable one.
+There were harder shapes, and dangerous ones, and Lor-ar doled those out slowly and would not be hurried. There was a shape he would draw and then rub out at once, every time, and would not teach her, and would not name, and when she pressed him he only said *not yet, and perhaps not ever, and certainly not until you have learned that some words are easier to say than to call back.* She filed it away. She was building, she had noticed, a long and growing list of such things, set aside for a later she was beginning to suspect would not be a comfortable one.
 
 * * *
 
@@ -1808,7 +1812,7 @@ He had been growing fast, half the size of Drake already, though he kept to a sm
 
 *You are doing it wrong,* Raizen said. *You are thinking the shape. You should be remembering it.*
 
-Viridia went very still. Alice, beside her, had not heard it; it had come down the bond, hers alone. "Raizen?"
+Viridia stopped dead. Alice, beside her, had not heard it; it had come down the bond, hers alone. "Raizen?"
 
 *Yes.* A pause, and then, with the unmistakable delight of a creature trying out a new toy: *I can talk now. I have your memories, did you know? From the bond. So I already know how to. It is very strange, having someone else's words in my mouth before I have grown the mouth properly.* The small head tipped against her jaw. *You give the shapes too much effort. They are in you already, the way they are in me. Stop building them. Just recall them, the way you recall your own name.*
 
@@ -1828,7 +1832,7 @@ Viridia saw less of Alice in the daylight now, and the seeing-less had its own s
 
 One afternoon Viridia went and found her there, because she missed her, and stood in the doorway of the long bright ward and watched Alice work before Alice saw her. It was not glamorous work. There was a child with a fever that no spell could quite break, and Alice was sitting with her, wringing out a cloth in cold water and laying it on the small hot forehead and talking, low, the steady inconsequential stream of talk that was Alice's truest gift, naming the things in the room one by one to give the fever something to follow that was not itself. The child's eyes tracked Alice's voice. The healers came and went with their focuses and their bright workings, and did the parts that magic could do, and Alice did the part it could not, which was to be a warm voice in the room so that no one had to be ill alone.
 
-Viridia did not go in. She watched a while, and went back to her library, and thought about it for a long time.
+Viridia did not go in. She stood there a while, and went back to her library, and thought about it for a long time.
 
 That evening Alice came back later than usual and sat on the edge of her bed without taking her shoes off. "The man from the coast died this morning," she said. She said it plainly, and the plainness was its own held thing; Viridia recognized the shape of it, having a great deal of that shape herself. "The one with the burns. The healers had done everything there was to do, days ago. There wasn't any more magic for it. So at the end it was just sitting." She looked at her hands. "His own people couldn't reach here in time. So it was me. I held his hand." A silence. "I'm glad it was me. Is that a strange thing to be glad of? I keep thinking it must be. But I am. I'm glad he wasn't on his own."
 
@@ -2013,7 +2017,7 @@ Viridia ran through everything she had read, and came up empty, and said so.
 
 "You could," Lor-ar agreed. "It is a thing the dark mages have always known and the light mages never trouble to learn, because they have never had to fear an enemy who could read the thread. You can read the thread. You can do a great many things they have never had to fear, little one, which is exactly why you must never, ever let them learn that you can, until the one moment when letting them learn it is the last thing they ever do." He held her gaze a beat longer than was comfortable. "File it. You will want it one day. I hope you will not, but you will."
 
-Viridia filed it. It went onto the long list, the one that was filed for the uncomfortable later, and she had the cold sense, sitting in the scorched clearing with her healed arm and her aching shoulders, that the later was coming closer.
+Viridia filed it. It went onto the long list, the one reserved for the uncomfortable later, and she had the cold sense, sitting in the scorched clearing with her healed arm and her aching shoulders, that the later was coming closer.
 
 Lor-ar drew the rest of it out of her the same way, question by question, where the army was strong and where it was blind, where numbers helped and where they hindered, how a small force that could not be found might still strike a large one that could; and where she was wrong he corrected her, and where she was right he made her say *why,* until the loose facts in her head settled into something with edges. A map of how the war would actually be fought. And, faint but unmistakable upon it, the place where a girl with both halves of the gift and a spear and a dragon and a list of filed and terrible things might come to matter.
 
@@ -2086,7 +2090,7 @@ She paused. Viridia felt Lor-ar go fractionally more alert against her hip, a ti
 
 "The second piece of news. This year, the test will be overseen in person by the High Chancellor himself."
 
-The silence that followed was different from the first silence. The first had been anticipation. This was the held breath of people who did not entirely know why the news frightened them and were frightened anyway, the instinct arriving ahead of the reason. Viridia did not have to manufacture the small careful arrangement of her own face. She let it be what the room's was: surprised, impressed, a little overawed. Underneath it, out of anyone's sight, the cold cataloguing part of her began very quietly to work.
+The silence that followed was different from the first silence. The first had been anticipation. This was the indrawn quiet of people who did not entirely know why the news frightened them and were frightened anyway, the instinct arriving ahead of the reason. Viridia did not have to manufacture the small careful arrangement of her own face. She let it be what the room's was: surprised, impressed, a little overawed. Underneath it, out of anyone's sight, the cold cataloguing part of her began very quietly to work.
 
 The High Chancellor did not visit schools. She knew that much from Mr. Cote's dry books and from the way the older girls spoke of the capital, a place that sent letters and decrees and examiners but did not, itself, arrive. The man who sat at the very top of the light-mage world was going to walk into Hazel on Friday and sit in a chair and watch.
 
@@ -2178,7 +2182,7 @@ Lady Lightwell excused her from her ordinary classes for the three days before t
 
 So she had three days, and she spent them the way Lor-ar told her to spend them, which was not at all the way the fourth-years spent theirs.
 
-The days she gave to the library, and to learning the public exercise as the fourth-years learned it, the scenario-disc and its judgments, the forms of combat the examiner would look for, building the convincing surface of a gifted ordinary girl. She read until her eyes ached and then she practiced the banking, sitting cross-legged in the alcove with the mana-sight turned on herself, watching her own core, learning to throttle it. It was harder than any spell. The core wanted to be itself. Damping it was like holding a held breath while talking and walking and smiling, hour after hour, the whole of her bent to the work of seeming less. By the third day she could hold a first-year's glow for an hour at a time without slipping. She practiced the small things too, the right amount of effort to show, the right amount of strain on her face for magic that cost her nothing, the performance of a limit she did not have.
+The days she gave to the library, and to learning the public exercise as the fourth-years learned it, the scenario-disc and its judgments, the forms of combat the examiner would look for, building the convincing surface of a gifted ordinary girl. She read until her eyes ached and then she practiced the banking, sitting cross-legged in the alcove with the mana-sight turned on herself, watching her own core, learning to throttle it. It was harder than any spell. The core wanted to be itself. Damping it was like keeping a shout swallowed while she talked and walked and smiled, hour after hour, the whole of her bent to the work of seeming less. By the third day she could hold a first-year's glow for an hour at a time without slipping. She practiced the small things too, the right amount of effort to show, the right amount of strain on her face for magic that cost her nothing, the performance of a limit she did not have.
 
 The nights she gave to the clearing.
 
@@ -2231,7 +2235,7 @@ The Day of the Test
 
 The arena had been swept clean of leaves overnight, and that was the first wrong thing Viridia noticed when they brought the fourth-years out into the cold bright morning to see it.
 
-It was the open ring at the school's eastern edge where the older girls did their physical drills, a wide floor of pale packed sand inside a low ring of stone benches, and it was always, every morning of the year, scattered with the first fallen leaves of the season. Today it was bare. Someone had been out before dawn with a broom and the care of a person preparing a room for an important guest, and the sand lay raked in long even lines, and the emptiness of it, the deliberate swept emptiness, sat in Viridia's chest like a held breath. They had cleaned the place. People cleaned a place when they wanted nothing about it to draw the eye except the thing they meant you to see.
+It was the open ring at the school's eastern edge where the older girls did their physical drills, a wide floor of pale packed sand inside a low ring of stone benches, and it was always, every morning of the year, scattered with the first fallen leaves of the season. Today it was bare. Someone had been out before dawn with a broom and the care of a person preparing a room for an important guest, and the sand lay raked in long even lines, and the emptiness of it, the deliberate swept emptiness, sat in Viridia's chest like a warning she had no words for yet. They had cleaned the place. People cleaned a place when they wanted nothing about it to draw the eye except the thing they meant you to see.
 
 The thing they meant her to see arrived an hour after breakfast.
 
@@ -2251,7 +2255,7 @@ His eyes passed over her. They did not stop. She counted that, filed it, did not
 
 They were called by ranking, lowest first, which meant Viridia waited the longest. She sat in the dining hall through the whole of the morning and most of the afternoon while the fourth-years went out one by one and came back changed, some pale, some shaking, one girl crying without sound into her sleeve, one boy laughing too loudly with relief. No one was allowed to speak of what they had seen. The not-speaking filled the hall like water.
 
-Lor-ar lay across her lap and slept, truly slept, or did a thing so close to sleep she could not tell the difference, and she sat very still under his weight and watched the door and banked her core and rehearsed, somewhere behind her careful face, the girl she was going to be when her name was called. Competent. A little nervous. Bright but not unnatural. A first-year who had studied hard and had a knack. Nothing that wanted looking at twice.
+Lor-ar lay across her lap and slept, truly slept, or did a thing so close to sleep she could not tell the difference, and she sat unmoving under his weight and watched the door and banked her core and rehearsed, somewhere behind her careful face, the girl she was going to be when her name was called. Competent. A little nervous. Bright but not unnatural. A first-year who had studied hard and had a knack. Nothing that wanted looking at twice.
 
 The fourth-years came and went, and Viridia, who could not help reading a room, read them. A tall girl named Regina, who hated everyone and was rumored to be the best of them, went out with her chin high and came back grey and would not meet anyone's eye, and the meaning of that traveled the hall without a word being spoken. A small round girl came back beaming and could not hide it and was ashamed of not being able to hide it, which meant she had passed and feared the others would think her boastful for being glad. One girl did not come back to the hall at all; a runner took her things out to her, and no one asked. Della, who was a first-year and not being tested, had wedged herself onto the end of Viridia's bench and kept up a low running commentary about everyone, which was Della's way of being frightened on Viridia's behalf without saying so. "Regina cried," she whispered, scandalized and delighted and worried all at once. "Regina. I didn't know she had the water in her." Viridia let the chatter run over her like the wind in the high windows and kept her eyes on the door.
 
@@ -2345,7 +2349,7 @@ Tobias grinned, and the grin was not unkind. "Don't take it hard," he said. "I'm
 
 * * *
 
-The dining hall fell silent when she came in, and then filled with the held breath of two dozen fourth-years and a hundred younger girls all wanting to know and none allowed to ask. She found her bench. Lor-ar uncurled and made room and she sat, and he pressed warm against her side, and down the bond he said only, *Later. Eat something. Your hands are shaking and you have not noticed.* They were. She made them stop.
+The dining hall fell silent when she came in, and then filled with the strained hush of two dozen fourth-years and a hundred younger girls all wanting to know and none allowed to ask. She found her bench. Lor-ar uncurled and made room and she sat, and he pressed warm against her side, and down the bond he said only, *Later. Eat something. Your hands are shaking and you have not noticed.* They were. She made them stop.
 
 She did not see Alice. The Chancellor's order had sent all the helpers to the medical wing for the day, so Alice was three corridors away, and the test-day drawing the two of them had laughed over weeks ago, who would get to watch whom, had come to nothing. Viridia hoped she was happy in the bright ward, breaking fevers, missing nothing she needed to miss.
 
@@ -2402,7 +2406,7 @@ The scroll caught. The glyphs lit one after another in a racing chain until the 
 
 There is a moment she would return to.
 
-The cave was dark, and cold, and the only light in it came from a stone pedestal a few feet ahead, where something glowed. The portal sealed shut behind her without a sound. She stood very still and let her eyes find the shape of the place: a low rough chamber, older than old, the walls unworked stone, the air still and dry and tasting of nothing, of stone, of the deep places of the world that had never had weather. There was no sound. Not the drip of water, not the stir of air. The silence had a weight to it, the silence of a room that had been waiting a very long time.
+The cave was dark, and cold, and the only light in it came from a stone pedestal a few feet ahead, where something glowed. The portal sealed shut behind her without a sound. She stood motionless and let her eyes find the shape of the place: a low rough chamber, older than old, the walls unworked stone, the air still and dry and tasting of nothing, of stone, of the deep places of the world that had never had weather. There was no sound. Not the drip of water, not the stir of air. The silence had a weight to it, the silence of a room that had been waiting a very long time.
 
 She went to the pedestal.
 
@@ -2426,7 +2430,7 @@ She saw more than the fact of it. The source did not give her dates or names; it
 
 The light mages had not won the second war. They had simply made sure no one would ever be strong enough to start a third, and called the silence afterward a victory, and built schools to teach the children of the survivors that the dark had always been the smaller, lesser thing, a defect, a brokenness, when in truth it had been a garden the gardeners had poisoned because it grew taller than the wall. She thought of Mrs. Zoran's dead brother, the beekeeper. She thought of Amber, eight years old over her murdered parents. She thought of her own hidden whole self, and of Alice's broken core, and of every girl at Hazel wearing a pale stone over a dark one, and she understood that all of it, every grief she had touched in a month, ran back to this room and this cut.
 
-And she understood that the cut had not fully taken. The connection to the dark was tenuous now, starved, but it was not gone. It was still there, frayed and faint. A thing that had been cut could, perhaps, be mended. The thought arrived whole and enormous and she had no idea yet whether it was hope or hubris, and she held it, and the source held her, and her own core, she felt, was changing under the contact, swelling, its capacity opening outward like a held breath finally let go, more room in her than there had been a minute ago, a hundredfold more, the reason, she understood, that the Chancellor sent his best students here: they came back stronger. A larger core. That was all the others ever got. A larger core and no idea what they had touched.
+And she understood that the cut had not fully taken. The connection to the dark was tenuous now, starved, but it was not gone. It was still there, frayed and faint. A thing that had been cut could, perhaps, be mended. The thought arrived whole and enormous and she had no idea yet whether it was hope or hubris, and she held it, and the source held her, and her own core, she felt, was changing under the contact, swelling, its capacity opening outward like a fist uncurling after a lifetime closed, more room in her than there had been a minute ago, a hundredfold more, the reason, she understood, that the Chancellor sent his best students here: they came back stronger. A larger core. That was all the others ever got. A larger core and no idea what they had touched.
 
 She had got more. She had got everything. And she knew, even drowning in it, that she must never let him learn that she had.
 
@@ -2498,7 +2502,7 @@ That night, in the dark of her room with Alice not yet back from the ward, she t
 
 "So now you truly know," he said, when she had finished, "how broken your people have made themselves. I have known it three hundred years. I did not think to see a human girl learn it in an afternoon." He was quiet a moment. "And the thread. The one you could not follow."
 
-"My mother." She had not been able to say it in the cave, even to the cave. She could barely say it now. "It was her. I know it was her. The source has her somewhere in it and I couldn't get to her." The held thing pressed up behind her eyes again and she breathed it down. "Lor-ar. Why would she be there. People aren't *in* the source. You said yourself we're only threads off it. Why does she have a thread that goes *down,* into it, that none of the others have?"
+"My mother." She had not been able to say it in the cave, even to the cave. She could barely say it now. "It was her. I know it was her. The source has her somewhere in it and I couldn't get to her." The pressure rose up behind her eyes again and she breathed it down. "Lor-ar. Why would she be there. People aren't *in* the source. You said yourself we're only threads off it. Why does she have a thread that goes *down,* into it, that none of the others have?"
 
 "I do not know," Lor-ar said, and the honesty of it was its own kind of cold comfort, because he did not soften it. "I have never heard of such a thing. It may be a great gift in your line, or a great wound, or both; in my experience the two are usually the same object seen from different sides. I know only that you must not try to follow it again until you are far stronger and far less alone, because a thread that runs into the source runs into something with no bottom, and a girl who falls into a thing with no bottom does not come back to tell anyone what was down there." He let that sit. "Ask Drake. Or Varissa. They were alive when the pact was made; Drake was *there.* If anyone living knows what your mother was, it is one of them. Do not ask in writing. Do not ask where the school can hear."
 
@@ -2585,7 +2589,7 @@ It was Amber who told her about the war, later, when Alice had gone back to the 
 
 "You know about Jazen." Not a question; Lightwell had told her some of it, in the warded office. "The resistance. The fourth-years running supplies. You know there's a peace, of a kind. A bad peace, but a peace." Amber pulled her thin chain out from her collar and turned the pale stone over in her fingers, the artificial light-core that hid the shattered dark one beneath. "Here's the part you don't know. The peace is held by a single thread, and the thread is this: Jazen has sworn there will be no war, no march on the capital, nothing, so long as the capital does not kill another dark mage by decree. Not in a raid, those happen, those are war already in everything but name. By *decree.* An official killing. A sanctioned one, signed and stamped, the state saying out loud that being born with a dark core is a crime worth death." Her jaw worked. "He's terrified of himself, Jazen. Two years ago they burned his sister Jan in a raid, and he—" she stopped. "He killed a great many soldiers. Alone. In about a minute. He's spent every day since trying to make sure he never has a reason to do it again, because he knows what's in him and he's more afraid of it than the capital is. So he holds the line at the decree. One more sanctioned killing, and he says he stops holding."
 
-Viridia stood very still in the wind, doing the cold arithmetic of it. "And the Chancellor's here," she said. "Now. After hearing rumors that Lightwell trains dark mages. After watching me make a test go gold." The shape of it assembled itself in her, ugly and clear. "He's not here for the ranking test. He's here to decide whether the rumors are true. And if he decides they're true—"
+Viridia stood quiet in the wind, doing the cold arithmetic of it. "And the Chancellor's here," she said. "Now. After hearing rumors that Lightwell trains dark mages. After watching me make a test go gold." The shape of it assembled itself in her, ugly and clear. "He's not here for the ranking test. He's here to decide whether the rumors are true. And if he decides they're true—"
 
 "Then he goes home and signs a decree," Amber said quietly. "And the line breaks. And the war Lor-ar keeps telling you is coming, comes." She let the stone drop back under her collar. "That's why everyone's so brave, Viridia. That's the brave you've been smelling all month. We're all standing on a frozen lake in spring listening for the crack."
 
@@ -2716,7 +2720,7 @@ The door splintered inward.
 
 It came apart on a single heavy blow, wood bursting inward in a spray of splinters, and a man filled the broken frame, white and gold, the capital's army, a sword already swinging, and Lor-ar did not hesitate. He was across the room before the man had cleared the threshold, three hundred years of killing in one fluid leap, and his jaws closed on the man's throat and tore, one hard wrench of the great head, and the man's blood went up the wall in a long arc and across Alice's badly-made bed and the man folded down into the doorway with his sword unswung.
 
-Viridia stood very still for one half-second with her own breath loud in her ears and a stranger's blood spattered warm across the foot of the bed where she slept, and the world narrowed and went cold and clear, the way the source had gone cold and clear, the way everything went when the cataloguing part of her took the helm because the rest of her could not be trusted with it.
+Viridia froze for one half-second with her own breath loud in her ears and a stranger's blood spattered warm across the foot of the bed where she slept, and the world narrowed and went cold and clear, the way the source had gone cold and clear, the way everything went when the cataloguing part of her took the helm because the rest of her could not be trusted with it.
 
 She grabbed the quiver. She slung it across her back. She took a spear in her hand. The balance of it was the one familiar thing in a room gone wrong, and she held to it.
 
@@ -2947,7 +2951,7 @@ He led them on through more woods, and every so often he stopped to disable a wa
 
 She got her people down to the fire.
 
-The villagers came out as they passed, and word had clearly run ahead, because some of them murmured condolences to the children, and offered blankets, and a heavy woman with kind eyes scooped up the smallest of the second-years and carried her toward the warmth without being asked. The kindness undid the children where the fear had not; several of them began, finally, to cry, now that it was safe, now that there were arms and blankets and fire. Viridia got them to the central bonfire and saw them settled, and Amber sank down by the fire and stared into it and still did not speak, and Viridia stood a little apart with Lor-ar pressed against her leg, watching the flames, too wired to sit, the cold clear part still standing its watch even here, even now, even where it was finally safe.
+The villagers came out as they passed, and word had clearly run ahead, because some of them murmured condolences to the children, and offered blankets, and a heavy woman with kind eyes scooped up the smallest of the second-years and carried her toward the warmth without being asked. The kindness undid the children where the fear had not; several of them began, finally, to cry, now that it was safe, now that there were arms and blankets and fire. Viridia got them to the central bonfire and saw them settled, and Amber sank down by the fire and stared into it and still did not speak, and Viridia stood a little apart with Lor-ar pressed against her leg, watching the flames, too wired to sit, the watchful part of her still on duty even here, even now, even where it was finally safe.
 
 Jazen came out of the dark into the firelight, wiping sweat from his forehead with a kerchief he then folded into his pocket, his grin not quite reaching his eyes. He wore plain brown trousers and a dark blue shirt, and he looked, in the firelight, very young and very tired and like a man holding a great many things up by main force.
 
@@ -2965,7 +2969,7 @@ And she watched Jazen go still as she spoke, stiller and stiller, until by the e
 
 "No." Jazen shook his head, hard, once. "They wouldn't have let her escape. Not her. They'd have made sure of her before anything else." He opened his eyes, and they were wet, and he did not bother to hide it, which told Viridia more about him than anything he had said. "They've taken everything from me now. First my sister. Now my mother."
 
-Viridia went very still.
+Viridia went rigid.
 
 "Your mother," she said.
 
@@ -3146,6 +3150,6 @@ Viridia Saeren stood at the edge of the hidden camp and faced forward, toward th
 
 She did not know if Alice was alive.
 
-She only knew that she was, and that she would not stop, and that whatever the world had decided about girls like her, it had decided too soon, before it had met this one.
+She only knew that she was alive, that she would not stop, that whatever the world had decided about girls like her, it had decided too soon, before it had met this one.
 
 She took a breath, went to find her people, and began.
