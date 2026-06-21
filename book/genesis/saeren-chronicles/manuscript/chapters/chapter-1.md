@@ -49,9 +49,9 @@ She had been excited, once. Three days ago, a lifetime ago, she had torn open th
 
 Now she stood at the gate and felt nothing she could name.
 
-Her hand found the stone at her throat without asking permission. It was a habit her fingers had learned before the rest of her noticed: the smooth dark-blue weight of it, the carved symbols along its sides that seemed to hold a faint light even out here in plain sun. Her mother's stone. She closed her fist around it and the edges pressed into her palm, and that small specific discomfort was steadier than anything else she had.
+Her hand found the stone at her throat without asking permission. It was a habit her fingers had learned before the rest of her noticed: the smooth dark-blue weight of it, the carved symbols along its sides that seemed to hold a faint light even out here in plain sun. Her mother's stone. She closed her fist around it and the edges pressed into her palm, and that small specific discomfort was steadier than anything else she had. For a moment she thought she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed. Then it was cool glass again, ordinary in the plain sun. The sun, she told herself. Only the sun.
 
-She was not a large girl: slight of build, fine-boned, the sort that made grown-ups want to feed her. Her hair was a pale silver-blonde that fell to the middle of her back, and she had let it hang loose this morning because braiding it had felt like more than she could manage. Her eyes were green and at the moment fixed on the middle distance, on nothing, the way eyes go when the person behind them is somewhere else entirely. She held her shoulders in a slight inward curve, not slouching, exactly, but drawn in, as though making herself a smaller target. There was nothing soft in the way she stood, though. Underneath the shyness was something set. A spine that did not bend even when the rest of her wanted to.
+She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all. Yet the set of her did not give way: under the shyness was a spine that refused to bend, even when the rest of her wanted to.
 
 Beside her, Aleric Porter had not stopped talking since the motorcar.
 
@@ -125,7 +125,7 @@ The front rows were already half full, and they were loud.
 
 Not loud in any rude way. It was the bright, overlapping chatter of girls who already knew one another, who had met at this gathering or that one, whose mothers were acquainted, who had been writing letters all summer and now fell on each other with the relief of finally being in the same room. They leaned across the aisles. They compared the trim on their uniforms and the charms on their bracelets. One girl was demonstrating something with her hands, a small flourish, and three others were laughing. They had the easy gravity of a thing already formed, a group with edges, and Viridia, standing in the doorway, was very plainly on the outside of those edges.
 
-She was good at this part, at least. The watching. She had always been good at standing slightly apart and taking the measure of a room, and grief had only sharpened it, had stripped away whatever part of her used to want to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
+She was good at this part, at least: the watching. Grief had only sharpened it, stripping away whatever part of her had once wanted to step forward and be included. She catalogued the girls without meaning to. The one demonstrating the flourish was used to being watched and liked it. The two by the window were performing their friendship a little, for the benefit of the others.
 
 A tall girl with copper hair turned in her seat and picked Viridia out where she stood. Her eyes did the quick sum strangers do, the loose hair, the slight build, the plainness of her, and landed last on the dark-blue stone at Viridia's throat. They stayed there a moment too long. Then the girl leaned to her neighbor and said something behind two fingers, and both of them looked, and looked away, and laughed. It was nothing. Viridia filed it anyway. The small dark-haired one near the front kept glancing at the door, waiting for someone, or simply, like Viridia, taking stock.
 
@@ -151,7 +151,7 @@ There was nothing for it. She went.
 
 The carpet gave under her feet and took her footsteps with it, so that she crossed the front of that bright room in a silence that felt, to her, enormous. A few of the girls glanced up as she passed, a flick of attention, a quick weighing, the brief curiosity reserved for a newcomer, and then went back to their conversations, because she did nothing to hold them. She did not smile too widely or speak too soon. She simply found one of the last empty chairs near the front, on the aisle, and sat, and set her hands in her lap, and let the noise close back over her like water over a dropped stone.
 
-She held very still. It was easier to disappear if you held still.
+She kept herself motionless. It was easier to disappear if you did not move.
 
 At the desk, Lady Lightwell squared her stack of papers against the wood with two crisp taps, set them down, and at last lifted her head. The rose-tinted lenses swept once across the rows of waiting girls, and for a half-second, no longer, Viridia had the distinct and uncomfortable sensation of having been seen. Not glanced at. Seen, the way her mother used to see her across the breakfast table, as though the surface were not the interesting part.
 
@@ -211,7 +211,7 @@ Viridia stayed in her chair.
 
 It was not a decision. Her body had simply declined to stand, and she let it, because for a moment the effort of rising and arranging her face and moving with the current felt like more than she had in her. So she sat, small and still in the emptying room, with the long columns of dusty light leaning across the floor and the faded figures on the ceiling raising their arms toward their fire, and she let herself, for just a breath, stop performing the ordinary.
 
-Her hand had found the stone again. She had not noticed it go. Her fingers closed around the dark-blue weight of it at her throat, the carved edges biting gently into her palm, and she held on the way you hold the side of a pool when the water is deeper than you expected.
+Her hand had found the stone again. She had not noticed it go. Her fingers closed around it, the carved edges biting gently into her palm, and she held on the way you grip the side of a pool when the water turns out deeper than you expected.
 
 That was the thing none of them knew, the girls with their plans and their easy gravity. They had no idea. They walked out of that room into the bright simple front of their lives and not one of them could have guessed that the quiet girl in the front row was, very calmly and very silently, drowning, and had been for three days, and would be tomorrow, and was getting frighteningly good at doing it where no one could see. The pressure behind her eyes built and built. She breathed around it. She did not let it past. No one sees you do it, she told herself, in something close to her mother's voice. You decide who sees.
 

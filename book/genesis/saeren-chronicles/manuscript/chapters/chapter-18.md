@@ -126,6 +126,6 @@ Viridia Saeren stood at the edge of the hidden camp and faced forward, toward th
 
 She did not know if Alice was alive.
 
-She only knew that she was, and that she would not stop, and that whatever the world had decided about girls like her, it had decided too soon, before it had met this one.
+She only knew that she was alive, that she would not stop, that whatever the world had decided about girls like her, it had decided too soon, before it had met this one.
 
 She took a breath, went to find her people, and began.
