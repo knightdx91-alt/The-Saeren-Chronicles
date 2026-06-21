@@ -21,10 +21,16 @@ import os, re, html
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
 from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.colors import CMYKColor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame,
-                                Paragraph, Spacer, PageBreak, NextPageTemplate)
+                                Paragraph, Spacer, PageBreak, NextPageTemplate,
+                                CondPageBreak)
+
+# Pure K-only black for text: converts cleanly to K-only in a CMYK pass
+# (0% C, 0% M, 0% Y, 100% K) — no rich-black, no rosettes on press.
+K_BLACK = CMYKColor(0, 0, 0, 1)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Single source of truth for the revision tag (bump book/.../REVISION to re-stamp).
@@ -55,20 +61,44 @@ pdfmetrics.registerFont(TTFont("Helvetica", f"{FONT_DIR}/IBMPlexSerif-Regular.tt
 TRIM_W, TRIM_H = 6 * inch, 9 * inch
 M_SIDE, M_TOP, M_BOT = 0.75*inch, 0.75*inch, 0.70*inch
 
+# allowWidows=0 / allowOrphans=0 ask reportlab to never leave a single line
+# of a paragraph stranded at the bottom (orphan) or top (widow) of a page.
 body = ParagraphStyle("body", fontName="PlexSerif", fontSize=11, leading=15.5,
-                      alignment=TA_JUSTIFY, firstLineIndent=16)
+                      alignment=TA_JUSTIFY, firstLineIndent=16,
+                      textColor=K_BLACK, allowWidows=0, allowOrphans=0)
 body_first = ParagraphStyle("body_first", parent=body, firstLineIndent=0)
 scene = ParagraphStyle("scene", parent=body, alignment=TA_CENTER,
                        firstLineIndent=0, spaceBefore=10, spaceAfter=10)
+# keepWithNext on the chapter number/title binds the heading to the first
+# body line so a heading can never strand alone at the foot of a page.
 ch_num = ParagraphStyle("ch_num", fontName="PlexSerif-Bd", fontSize=13,
                         alignment=TA_CENTER, leading=16, spaceAfter=6,
-                        textColor="#000000")
+                        textColor=K_BLACK, keepWithNext=1)
 ch_title = ParagraphStyle("ch_title", fontName="PlexSerif-It", fontSize=18,
-                          alignment=TA_CENTER, leading=22, spaceAfter=28)
+                          alignment=TA_CENTER, leading=22, spaceAfter=28,
+                          textColor=K_BLACK, keepWithNext=1)
 title_main = ParagraphStyle("title_main", fontName="PlexSerif-Bd", fontSize=26,
-                            alignment=TA_CENTER, leading=32)
+                            alignment=TA_CENTER, leading=32, textColor=K_BLACK)
 title_sub = ParagraphStyle("title_sub", fontName="PlexSerif-It", fontSize=15,
-                           alignment=TA_CENTER, leading=20)
+                           alignment=TA_CENTER, leading=20, textColor=K_BLACK)
+# Front/back-matter styles (centered, K-only black).
+fm_center = ParagraphStyle("fm_center", fontName="PlexSerif", fontSize=11,
+                           alignment=TA_CENTER, leading=16, textColor=K_BLACK)
+fm_small = ParagraphStyle("fm_small", fontName="PlexSerif", fontSize=9.5,
+                          alignment=TA_CENTER, leading=14, textColor=K_BLACK)
+fm_head = ParagraphStyle("fm_head", fontName="PlexSerif-Bd", fontSize=16,
+                         alignment=TA_CENTER, leading=20, spaceAfter=22,
+                         textColor=K_BLACK)
+fm_body = ParagraphStyle("fm_body", fontName="PlexSerif", fontSize=11,
+                         leading=16, alignment=TA_JUSTIFY, textColor=K_BLACK,
+                         allowWidows=0, allowOrphans=0)
+fm_half = ParagraphStyle("fm_half", fontName="PlexSerif-It", fontSize=16,
+                         alignment=TA_CENTER, leading=20, textColor=K_BLACK)
+
+
+# Mutable holders so build() can report the front-matter offset / total pages.
+BODY_OFFSET = [0]
+PAGE_COUNT = [0]
 
 
 def md_inline(t):
@@ -126,23 +156,81 @@ def paras_from(text):
     return out
 
 
-def build():
+def build(pad_to_even=False):
     chapters = parse(SRC)
     story = []
 
-    # --- Title page (front matter, unnumbered) ---
+    # Track the running page index so we can drop blank versos to force the
+    # next major element onto a recto (odd page). The whole front matter runs
+    # on the "front" template (unnumbered).
+    state = {"page": 0}  # number of pages already emitted
+
+    def end_page():
+        state["page"] += 1
+        story.append(PageBreak())
+
+    def blank_verso_if_needed():
+        # After emitting a page, if the count is even (i.e. the next page would
+        # be a verso/even page), emit a blank to push the next element to recto.
+        if state["page"] % 2 == 1:  # last page was a recto -> next is verso
+            story.append(Spacer(1, 1))
+            end_page()
+
     story.append(NextPageTemplate("front"))
+
+    # --- p1 recto: half-title ---
+    story.append(Spacer(1, 3.2*inch))
+    story.append(Paragraph("THE SAEREN CHRONICLES", fm_half))
+    end_page()
+    blank_verso_if_needed()  # blank verso so the title page lands on a recto
+
+    # --- recto: title page ---
     story.append(Spacer(1, 1.8*inch))
     story.append(Paragraph("THE SAEREN CHRONICLES", title_main))
-    story.append(Spacer(1, 0.35*inch))
-    story.append(Paragraph("Book One", title_sub))
-    story.append(Paragraph("The Hazel Years", title_sub))
-    story.append(PageBreak())
-    # blank verso
-    story.append(Spacer(1, 1*inch))
-    story.append(PageBreak())
+    story.append(Spacer(1, 0.30*inch))
+    story.append(Paragraph("Book One: The Hazel Years", title_sub))
+    story.append(Spacer(1, 1.6*inch))
+    story.append(Paragraph("Post Peleos", fm_center))
+    end_page()
+
+    # --- verso: copyright page ---
+    cp = [
+        "Copyright © 2026 Post Peleos",
+        "",
+        "All rights reserved.",
+        "",
+        "This is a work of fiction. Names, characters, places, and incidents "
+        "are products of the author’s imagination or are used fictitiously. "
+        "Any resemblance to actual persons, living or dead, events, or locales "
+        "is entirely coincidental.",
+        "",
+        "No part of this book may be reproduced in any form or by any "
+        "electronic or mechanical means, including information storage and "
+        "retrieval systems, without written permission from the author, except "
+        "for the use of brief quotations in a book review.",
+        "",
+        "ISBN [ISBN]",
+        "",
+        "First Edition",
+        "",
+        "[IMPRINT]",
+    ]
+    story.append(Spacer(1, 3.0*inch))
+    for line in cp:
+        story.append(Paragraph(line if line else "&nbsp;", fm_small))
+    end_page()
+
+    # --- recto: dedication ---
+    story.append(Spacer(1, 3.6*inch))
+    story.append(Paragraph("[Dedication]", ParagraphStyle(
+        "ded", parent=fm_center, fontName="PlexSerif-It")))
+    end_page()
+    blank_verso_if_needed()  # blank verso so Chapter One starts on a recto
 
     # --- Body (numbered) ---
+    # Page numbering offset: body page "1" is the next physical page. The footer
+    # callback subtracts this offset from doc.page.
+    BODY_OFFSET[0] = state["page"]
     story.append(NextPageTemplate("body"))
     for idx, (num, title, text) in enumerate(chapters):
         story.append(Spacer(1, 1.1*inch))
@@ -158,8 +246,33 @@ def build():
                 story.append(Paragraph(md_inline(content),
                                        body_first if first else body))
                 first = False
-        if idx != len(chapters) - 1:
-            story.append(PageBreak())
+        story.append(PageBreak())  # every chapter ends its page; back matter follows
+
+    # --- Back matter (still numbered; runs on the body template) ---
+    story.append(Paragraph("About the Author", fm_head))
+    story.append(Paragraph(
+        "Post Peleos is a writer of fantasy. <i>The Saeren Chronicles</i> is "
+        "their debut novel.", fm_body))
+    story.append(Spacer(1, 0.2*inch))
+    story.append(Paragraph("[EXPANDED BIO OPTIONAL]", fm_small))
+    story.append(PageBreak())
+
+    story.append(Paragraph("Acknowledgments", fm_head))
+    story.append(Paragraph("[Acknowledgments]", fm_body))
+    story.append(PageBreak())
+
+    story.append(Paragraph("Book Two", fm_head))
+    story.append(Paragraph(
+        "Viridia’s story continues in Book Two of The Saeren Chronicles.",
+        ParagraphStyle("teaser", parent=fm_center, fontName="PlexSerif-It")))
+    story.append(Spacer(1, 0.15*inch))
+    story.append(Paragraph("Coming soon.", fm_center))
+
+    # IngramSpark requires an EVEN physical page count for perfect binding.
+    # A first pass measures the count; if odd, we re-run with one trailing blank.
+    if pad_to_even:
+        story.append(PageBreak())
+        story.append(Paragraph("&nbsp;", fm_small))
 
     def front_page(canvas, doc):
         canvas.setFont("PlexSerif", 10)  # avoid Helvetica default resource
@@ -167,23 +280,33 @@ def build():
     def body_page(canvas, doc):
         canvas.saveState()
         canvas.setFont("PlexSerif", 10)
-        # page number centered in the footer; body numbering starts at 1
-        # (front matter is the title page + 1 blank verso = 2 pages).
-        canvas.drawCentredString(TRIM_W/2, 0.45*inch, str(doc.page - 2))
+        # Body page numbering starts at 1 on Chapter One. doc.page is the
+        # physical page index (1-based); subtract the front-matter page count.
+        n = doc.page - BODY_OFFSET[0]
+        if n >= 1:
+            canvas.setFillColor(K_BLACK)
+            canvas.drawCentredString(TRIM_W/2, 0.45*inch, str(n))
         canvas.restoreState()
 
     frame = Frame(M_SIDE, M_BOT, TRIM_W - 2*M_SIDE, TRIM_H - M_TOP - M_BOT, id="text")
     doc = BaseDocTemplate(OUT, pagesize=(TRIM_W, TRIM_H),
                           title="The Saeren Chronicles - Book One: The Hazel Years",
-                          author="", leftMargin=M_SIDE, rightMargin=M_SIDE,
+                          author="Post Peleos", leftMargin=M_SIDE, rightMargin=M_SIDE,
                           topMargin=M_TOP, bottomMargin=M_BOT)
     front = PageTemplate(id="front", frames=[frame], onPage=front_page)
     bodyt = PageTemplate(id="body", frames=[frame], onPage=body_page)
     doc.addPageTemplates([front, bodyt])
     doc.build(story)
+    # Total physical page count = the canvas page counter after build.
+    PAGE_COUNT[0] = doc.page
     return OUT
 
 
 if __name__ == "__main__":
     out = build()
+    if PAGE_COUNT[0] % 2 == 1:
+        # odd count -> add one trailing blank page so binding gets an even count
+        out = build(pad_to_even=True)
     print("wrote", out)
+    print(f"front-matter pages (unnumbered): {BODY_OFFSET[0]}")
+    print(f"TOTAL PHYSICAL PAGE COUNT (even for binding): {PAGE_COUNT[0]}")
