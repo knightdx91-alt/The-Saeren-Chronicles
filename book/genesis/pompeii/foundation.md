@@ -24,7 +24,7 @@
   - **TP3 / the "WHEN" learned + family can't pass** dawning — ~80% (Ch. 36)
   - **Climax onset / eruption begins** — ~84% (Ch. 38); book ends IN 79 AD (Ch. 45)
 - **Dialogue share:** Romance band 30–45%. Target ~35% (period narration is dense, so lean to the lower-middle).
-- **Emotional arc:** "W" with ~9 oscillations across 48 chapters — grief-low → wonder-high → danger-low → love-high → false-summit → dread-low → domestic-high → catastrophe-low → final-choice.
+- **Emotional arc:** "W" with ~9 oscillations across 45 chapters — grief-low → wonder-high → danger-low → love-high → false-summit → dread-low → domestic-high → catastrophe-low → final-choice.
 - **Human-closeness topic focus:** 40%+ (romance + family is the spine; comfortably clears 30%).
 
 ---
@@ -80,7 +80,7 @@ of the past a way of living, or a way of refusing your own present?* (Her arc is
 that the past she worshipped as a relic is, in fact, a place where she finally becomes a
 person rather than a curator of someone else's grief.)
 
-**Theme presence rule:** Present in ~38 of 48 chapters. RECEDES deliberately in the pure-
+**Theme presence rule:** Present in ~36 of 45 chapters. RECEDES deliberately in the pure-
 plot/survival chapters (the brigand road, the port-city con, the eruption-mechanics
 chapters) where action and dread take the wheel.
 

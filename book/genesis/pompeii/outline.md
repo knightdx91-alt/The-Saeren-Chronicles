@@ -1,7 +1,11 @@
 # Outline — "Pompeii" (working title)
 
-> 48 chapters · ~5,200–5,600 words each · projected total **~262,000** (floor 220,000).
+> 45 chapters · ~5,200–5,800 words each · projected total **~250,000** (floor 220,000).
 > POV: **first-person, past tense, retrospective** (older Mara narrating) — see voice-dna.md.
+> **Modern frame: LATE 1990s (author-fixed).** No dead cell phone; future-relics are a 35mm film
+> camera + undeveloped roll, the father's dig slides, a Discman, paper field notes, a wristwatch.
+> **The book ENDS IN 79 AD (author-fixed): NO modern coda.** She STAYS and DIES in the ash as an
+> active, chosen end. (Former Ch.43–48 coda collapsed/re-ended in the past; see Act V.)
 > Turning points marked **[TP]**. Author-open items flagged **[PROPOSAL]** (names provisional).
 > Fenn document-inserts marked **[INSERT]** after the named chapter. Beats are a guide, not a prison —
 > NON-NEGOTIABLE beats are tagged; everything else may flex if a better impulse emerges.
@@ -44,9 +48,9 @@
 **Function:** Raise the mystery; show her competence (modern) and her isolation; commit her physically.
 **Emotional anchor:** A photograph of Fenn at the same site, decades old, looking *exactly her age*.
 **Emotional surprise:** She treats a possibly-supernatural quest as a fieldwork checklist.
-**Key beats:** 1) Decoding the notes. 2) Telling no one (no one to tell — isolation). 3) Travel to the site [PROPOSAL: a Mediterranean dig-coast]. 4) The phone she charges out of habit. 5) The threshold-place: a ruined doorway, cold air.
+**Key beats:** 1) Decoding the notes. 2) Telling no one (no one to tell — isolation; this is the late-'90s, a remote coast, a payphone she doesn't use). 3) Travel to the site [PROPOSAL: a Mediterranean dig-coast]. 4) Her fieldwork ritual — loading the film camera, checking the wristwatch, her father's slides in her bag (re-read seed #4 begins). 5) The threshold-place: a ruined doorway, cold air.
 **Progressive:** From buying to going. Adds: Fenn's face, her aloneness. Opens toward Ch.4: she'll survey the threshold.
-**Theme presence:** Curating grief vs. living. **Chaos:** the phone ritual (re-read seed #4 begins).
+**Theme presence:** Curating grief vs. living. **Chaos:** the camera/notebook ritual (re-read seed #4 begins).
 **Structure:** Travel/montage + arrival. **Reading speed:** accelerate then decelerate at the door.
 **Word target:** 5,300. **Writer warnings:** Resist info-dump on the Library legend; ration it.
 **Beat subversion:** Genre expects a dramatic portal; she finds a *boring* ruin and almost leaves.
@@ -97,7 +101,7 @@
 **Function:** Establish the foothold; the "lone foreign woman can't just travel" obstacle made concrete.
 **Emotional anchor:** Mara's hands failing at a loom; Kallia's lamp left burning for an absent son.
 **Emotional surprise:** A fit of helpless laughter at her own uselessness.
-**Key beats:** 1) Suspicion → grudging shelter. 2) Language, dress, the rules of being a woman. 3) The lamp. 4) Mara hides the map/phone. 5) Why she can't just walk to Pompeii.
+**Key beats:** 1) Suspicion → grudging shelter. 2) Language, dress, the rules of being a woman. 3) The lamp. 4) Mara hides the map and her kit (camera, slides, notebook, watch). 5) Why she can't just walk to Pompeii.
 **Progressive:** Arrival → foothold. Adds: Kallia, the social rules. Opens toward Ch.8: she needs money/identity.
 **Theme presence:** Living forward vs. curating. **Chaos (Kallia):** the lamp/the unsellable room (secondary-character life #1).
 **Structure:** Domestic, two-hander. **Word target:** 5,300.
@@ -401,9 +405,9 @@
 ## Chapter 32: The Sea Goes Out
 **Premise:** Strange portents multiply (wells drying, animals fleeing, the bay receding); Mara's dread crystallizes; she finally does the arithmetic.
 **Function:** Force the reckoning; converge the seismic clock with the door-when; pivot toward climax prep.
-**Emotional anchor:** Mara finishing the calculation by lamplight: the door opens in days — and the date is one she knows from her own century.
+**Emotional anchor:** Mara finishing the calculation by lamplight: the door opens in days — and the date matches one already in her own field notebook, in her own hand, from her own century.
 **Emotional surprise:** She laughs (failed emotional management) — the horrible Greek-funeral laugh returns.
-**Key beats:** 1) Portents. 2) She digs up the notes. 3) The arithmetic, finished. 4) The phone — last seen Ch.42 plan: she checks the dead phone's date relic (re-read seed #4). 5) She knows: the door and the eruption are the same week.
+**Key beats:** 1) Portents. 2) She digs up Fenn's notes and her own kit. 3) The arithmetic, finished. 4) The relic reckoning — her field notebook / the wristwatch / her father's dig-season dates (re-read seed #4 pays); she's carried the WHEN all along. 5) She knows: the door and the eruption are the same week.
 **Progressive:** Dread → knowledge. Adds: the convergence (door = eruption). Opens toward Ch.33.
 **Theme presence:** Curating vs. living, the choice now visible. **Chaos:** the laugh.
 **Structure:** Internal + portents collage. **Reading speed:** accelerate. **Word target:** 5,400.
@@ -459,7 +463,14 @@
 
 ---
 
-# ACT V — THE ERUPTION & THE CHOICE (Ch. 37–48, ~79–100%)
+# ACT V — THE ERUPTION & THE CHOICE (Ch. 37–45, ~80–100%)
+> **Re-ended in 79 AD (author-fixed): NO modern coda.** Former Ch.43–48 (which included a present-day
+> excavation, a modern museum case, and a future-frame narrator reveal) are removed. Their non-modern
+> payoffs — the ash/preservation image, Theano's prophecy decoded, the motif convergence, the "function
+> unknown" irony, the central question handed to the reader — are folded into THREE past-set closing
+> chapters (43–45), expanded for depth so the climax→ending sequence is fuller, not padded. The last
+> image is the family in the ash. The retrospective "thirty years" register is reframed as Mara
+> narrating from inside her last hours (see voice-dna §0), never as a future survivor.
 
 ## Chapter 37: The Hour
 **Premise:** With the door open and the volcano erupting, Mara refuses to leave; the family runs for shelter together as ash buries the world.
@@ -511,15 +522,15 @@
 
 ## Chapter 41: What She Carries
 **Premise:** With minutes left, Mara chooses — and the choice is rendered through action, not speech: she lets the door close.
-**Function:** The decision (recommended ending: she stays); the climax's emotional peak.
-**Emotional anchor:** Mara taking off and dropping the dead phone, the map, every relic of the future — and lifting Aelia instead. (Oracle's seed #1 pays off: "keep nothing you can carry.")
+**Function:** The decision (ending, author-fixed: she STAYS & DIES); the climax's emotional peak.
+**Emotional anchor:** Mara taking off and dropping the camera, the slides, the wristwatch, the map — every relic of the future — and lifting Aelia instead. (Oracle's seed #1 pays off: "keep nothing you can carry.")
 **Emotional surprise:** Calm. After all the fighting, her choice is *peaceful* — the catalogue-brain finally quiet, as in Ch.16.
-**Key beats:** 1) The seconds. 2) She lets go of the future-objects. 3) She steps fully back; the door begins to close. 4) Valens understands; no triumph, only grief and love. 5) The door closes / the surge comes. **[PROPOSAL: ending = STAY. See foundation §4c.]**
+**Key beats:** 1) The seconds — the door is a real, usable, open exit (escape is genuinely available — render it so, or the choice isn't agency). 2) She lets go of the future-objects by her own hand. 3) She steps fully back into the family's side; the door begins to close because she WON'T be the one it takes. 4) Valens understands; no triumph, only grief and love. 5) The door closes / the surge nears. **ENDING = STAY & DIE, author-fixed. Render as ACTIVE CHOICE, never as the door failing her.**
 **Progressive:** Terms → choice. Adds: the answer to the central question (left for the reader to judge). Opens toward Ch.42.
 **Theme presence:** Living forward over returning — fully resolved in action.
 **Subtext:** Surface = letting a door close; real = choosing a life over a survival.
-**Structure:** Single-scene, slowed time. **Reading speed:** decelerate hard. **Word target:** 5,400.
-**Writer warnings:** NO speech-y declaration; the choice is bodily (drop the phone, lift the child). Procedural-flat then one clean image.
+**Structure:** Single-scene, slowed time. **Reading speed:** decelerate hard. **Word target:** 5,600.
+**Writer warnings:** NO speech-y declaration; the choice is bodily (drop the camera, lift the child). Procedural-flat then one clean image. CRITICAL: the door is a LIVE exit she turns from — agency, not passivity; the volcano must never be allowed to "decide" for her.
 **Beat subversion:** Genre's heroine survives to mourn; she chooses NOT to survive-alone — the braver, rarer landing.
 
 ## Chapter 42: The Last Ordinary Thing
@@ -527,96 +538,64 @@
 **Function:** The book's emotional residue chamber; quiet after the choice; bank the unbearable tenderness.
 **Emotional anchor:** Valens re-tying Aelia's sandal in the dark — one last knot — because his hands need something to do.
 **Emotional surprise:** They talk about *bread*. About nothing. About everything by talking about nothing.
-**Key beats:** 1) The shelter, the dark. 2) The children, comforted. 3) Mara and Valens, finally at peace with the choice. 4) The *click* — now unmistakably her own. 5) The surge reaches them — rendered as light/heat/silence, not gore.
-**Progressive:** Choice → consequence accepted. Adds: peace; the last image. Opens toward Ch.43.
+**Key beats:** 1) The shelter, the dark. 2) The children, comforted. 3) Mara and Valens, finally at peace with the choice. 4) The *click* — now unmistakably her own. 5) The ash thickens at the door; the surge is not yet here (the end is held for Ch.45).
+**Progressive:** Choice → consequence accepted. Adds: peace; the held breath before the end. Opens toward Ch.43.
 **Theme presence:** What we keep by keeping small things (the knot, the bread, the click).
 **Structure:** Quiet single-scene. **Word target:** 5,300.
-**Writer warnings:** Restraint absolute; the horror is offstage; the tenderness is everything.
+**Writer warnings:** Do NOT deliver the killing surge here — it lands in Ch.45. This is the last ordinary hour.
+**Beat subversion:** Genre's deaths are dramatic; this one is a family talking about bread.
+**Writer warnings:** Restraint absolute; the horror is offstage; the tenderness is everything. Do NOT deliver the killing surge here.
 **Beat subversion:** Genre's deaths are dramatic; this one is a family talking about bread.
 
-## Chapter 43: Ash  **[climax onset already passed — this is the aftermath-image, ~90%+]**
-**Premise:** Time-skip / lift: the eruption ends; the region is preserved; a coda begins to form (POV shift considered).
-**Function:** Transition from death to legacy; the ash/preservation motif lands; set up the frame's return.
-**Emotional anchor:** The bay silent under feet of ash; a loaf of bread carbonized whole in an oven (real Pompeii detail).
-**Emotional surprise:** Beauty. The horror has become eerie, terrible beauty.
-**Key beats:** 1) The silence after. 2) The buried region. 3) [PROPOSAL: brief POV/frame shift — see voice-dna; perhaps Fenn survived elsewhere, or a modern excavator finds them]. 4) The objects that survive (a knot of leather, a carbonized loaf). 5) Toward the modern coda.
-**Progressive:** Death → preservation. Adds: the long after. Opens toward Ch.44.
-**Theme presence:** Ash/preservation = to be remembered ≠ to be alive; she chose alive.
-**Structure:** Lyrical aftermath / possible POV shift. **Word target:** 5,200.
-**Writer warnings:** Confirm POV approach with author (voice-dna proposal). Don't cheapen with a "and a skeleton holding a baby was found" — earn any modern echo.
-**Beat subversion:** Genre ends at the death; we continue into the strange peace after.
+## Chapter 43: The Dark at Noon  **[79 AD — no modern frame]**
+**Premise:** In the buried shelter the day goes black; in the long dark Mara's mind travels back over the whole of it, and Theano's prophecy finally means exactly, only, what it always meant.
+**Function:** Pay off re-read seed #1 and Theano's arc from INSIDE the past — the reflective callback rendered as Mara's lived memory in the shelter, not a future scene at Delphi.
+**Emotional anchor:** Theano's "you will keep nothing you can carry" surfacing in Mara's memory as she sits in the dark having carried nothing through the door but her own arms full of children.
+**Emotional surprise:** Mara understands the Oracle withheld the hour out of *mercy* — and that knowing it would have changed nothing; she'd have stayed regardless. Relief, not bitterness.
+**Key beats:** 1) Day turned to black at noon; the shelter; lamp at midday. 2) Mara's memory back to Delphi — Theano, the cats, the riddle. 3) The prophecy decoded line by line, now plainly true. 4) Why mercy was vagueness; the Oracle was right. 5) Mara, at peace with all of it, turns back to her family in the dark.
+**Progressive:** Last ordinary hour → the dark deepening; the past's meaning settling. Adds: Theano's payoff; the prophecy's full sense. Opens toward Ch.44.
+**Theme presence:** What we owe each other (mercy vs. truth); curating vs. living, resolved.
+**Structure:** Reflective interior + memory braid (the only place the retrospective register goes deep). **Word target:** 5,600.
+**Writer warnings:** Keep it IN 79 AD — this is memory, not a Delphi coda scene. The "thirty years" register = "the years I had," not "since." Restraint; one lamp, one dark room.
+**Beat subversion:** Genre's prophecy-payoff is "it came true!"; here it's "it never mattered — she'd have chosen love anyway," realized in the grave-dark, not at the shrine.
 
-## Chapter 44: The Excavation  **[PROPOSAL: modern coda — confirm]**
-**Premise:** Present day: an archaeologist (Fenn's heir? a colleague? the shopkeeper?) excavates the site and finds traces that are unmistakably *her*.
-**Function:** Close the frame; pay off the modern thread; deliver the cultural-vocabulary and re-read rewards.
-**Emotional anchor:** A modern hand uncovering the carbonized loaf with Mara's specific scoring pattern (bread motif, full circle).
-**Emotional surprise:** The finder doesn't know the story; the reader does — devastating dramatic irony reversed.
-**Key beats:** 1) Modern dig. 2) Finds: the leather knot, the loaf, perhaps the phone-shaped void. 3) Fenn's archive surfaces (the law of the doors as a "myth"). 4) The map's fate. 5) The reader holds what the finder can't see.
-**Progressive:** Preservation → discovery. Adds: the modern frame closed. Opens toward Ch.45.
-**Theme presence:** Curating the dead vs. having lived — the conservator is now the conserved.
-**Structure:** Modern frame, restrained. **Word target:** 5,200.
-**Writer warnings:** This coda is a PROPOSAL; if author prefers no modern return, fold Ch.44–45 into the past entirely. Avoid sentimentality.
-**Beat subversion:** Genre's tidy "discovered and honored" closure; here the finder will never know the love story — only the reader will.
+## Chapter 44: What the Ash Keeps  **[79 AD — no modern frame]**
+**Premise:** As the ash deepens over the shelter, the family's small things — the knot, the loaf, the click — gather their full meaning; Mara, the conservator, knows precisely what she and theirs will become, and is not afraid.
+**Function:** Motif convergence (bread, knots, the *click*, ash, the map) and the "function unknown" irony — delivered through Mara's OWN conservator's awareness, from inside the ending, with no museum and no excavator on the page.
+**Emotional anchor:** Mara naming, to herself, exactly what the ash will preserve and what it can't: it will keep the shape of a leather knot and lose the reason for it; it will keep the loaf and lose the hand that scored it. She is cataloguing her own grave, and for once the catalogue is an act of love, not fear.
+**Emotional surprise:** The "function unknown" line lands in HER mouth — she imagines, wryly, the knot one day called *function unknown*, and it is the saddest and truest joke she's ever made. She laughs the small true laugh (failed-emotional-management motif, transfigured).
+**Key beats:** 1) The ash thick at the door; the family close. 2) The objects gathered — Valens's knot, Aelia's bread-frown, the buried map. 3) Mara's conservator's-eye reckoning of what survives and what is lost. 4) The "function unknown" irony, owned by her. 5) Valens counts the children one last time; the count reaches four; he stops counting.
+**Progressive:** Memory settled → legacy understood from within. Adds: the motif convergence; the conservator-becomes-conserved completed. Opens toward Ch.45.
+**Theme presence:** To be remembered ≠ to be known; she chose to be *alive* over being *understood* — and knows it.
+**Structure:** Object-meditation collage, interior. **Word target:** 5,500.
+**Writer warnings:** NO modern museum, NO excavator, NO present-day frame. The irony is supplied by Mara's foreknowledge as a conservator, not by a future scene. Avoid sentimentality; let the wry catalogue carry it.
+**Beat subversion:** Genre's triumphant legacy (and the obvious modern-museum reveal); here legacy is a woman cataloguing her own grave with love, and a love no museum will ever hold — stated entirely in 79 AD.
 
-## Chapter 45: The One It Brought
-**Premise:** [PROPOSAL-dependent] The retrospective narrator's frame resolves — WHO has been telling this story, and from when?
-**Function:** Reveal the narration's source; pay off the retrospective "I have had thirty years to ask myself."
-**Emotional anchor:** The reveal of the narrator's vantage [PROPOSAL: Mara survived after all in some form / Mara recorded it before the end / Fenn assembled it from her buried account].
-**Emotional surprise:** Recontextualizes the whole telling.
-**Key beats:** 1) The frame's identity revealed. 2) The "thirty years" line answered. 3) The central question handed explicitly to the reader. 4) No verdict given. 5) The door, the law, the choice — stated once, plainly, as legacy.
-**Progressive:** Discovery → meaning. Adds: who speaks, and why. Opens toward the final movement.
-**Theme presence:** The central question, handed to the reader unanswered.
-**Structure:** Reflective frame. **Word target:** 5,200.
-**Writer warnings:** **MAJOR PROPOSAL** — the narrator's vantage depends on the ending choice; do NOT lock without author. Default-safe option: Mara wrote/buried an account; Fenn (or his heir) found it; the narration is her voice from her last days.
-**Beat subversion:** Genre's narrator-reveal is a twist; here it's a quiet inheritance.
-
-## Chapter 46: Delphi, Long After
-**Premise:** Callback to the Oracle: her prophecy reread in full, every line now meaning exactly what it always meant.
-**Function:** Pay off re-read seed #1 and Theano's arc; tie Greece to the end.
-**Emotional anchor:** Theano's withheld "when" reframed — she withheld it out of mercy, knowing Mara would stay regardless.
-**Emotional surprise:** The Oracle was right that mercy is vagueness — telling the when would have changed nothing.
-**Key beats:** 1) Theano's fate / final scene. 2) The prophecy decoded for the reader. 3) Why she withheld the hour. 4) The cats outlive her. 5) Toward the close.
-**Progressive:** Meaning → the prophecy's full sense. Adds: Theano's resolution. Opens toward Ch.47.
-**Theme presence:** What we owe each other (mercy vs. truth).
-**Structure:** Reflective callback. **Word target:** 5,200.
-**Writer warnings:** Could be folded earlier if pacing demands; flexible placement.
-**Beat subversion:** Genre's prophecy-payoff is "it came true!"; here it's "it never mattered — she'd have chosen love anyway."
-
-## Chapter 47: What Survives
-**Premise:** The objects, the names, the small immortalities — what of the family persists into the present and why it matters.
-**Function:** Penultimate; gather every motif (bread, knots, the click, ash, the map) for the final landing.
-**Emotional anchor:** A museum case in the present holding the leather knot, labeled wrong — "function unknown."
-**Emotional surprise:** The reader knows the function; "function unknown" is the saddest and truest line in the book.
-**Key beats:** 1) Motifs gathered. 2) The knot mislabeled. 3) The loaf preserved. 4) The map's resting place. 5) The narrator's last preparation to close.
-**Progressive:** Resolution → legacy. Adds: the motif convergence. Opens toward Ch.48.
-**Theme presence:** To be remembered ≠ to be known; she chose to be *alive* over being *understood*.
-**Structure:** Object-meditation collage. **Word target:** 5,200.
-**Beat subversion:** Genre's triumphant legacy; here legacy is a mislabeled artifact and a love no museum can hold.
-
-## Chapter 48: The Door (Closing)
-**Premise:** The final image: the choice stated once, the central question handed to the reader, no verdict — and the very last sensory beat of the family.
-**Function:** Deposit the designed emotional residue (implicated, grieving people who never existed).
-**Emotional anchor:** The last line returns to the *click* — and the reader cannot tell if it's the father's glasses, Mara's, or a door closing. (All three. None. The reader decides.)
-**Emotional surprise:** It ends not on grief but on a small, ordinary, almost-happy beat — bread, a knot, a child's hand.
-**Key beats:** 1) The choice, stated plainly, once. 2) The question handed over. 3) The final family image. 4) The *click*. 5) Silence / white space.
-**Progressive:** Legacy → the end. Closes every thread; answers nothing the reader must answer themselves.
+## Chapter 45: The Door (Closing)  **[79 AD — final chapter; the surge, the ash, the last image]**
+**Premise:** The surge comes. The choice, stated plainly once; the central question handed to the reader, no verdict; the very last sensory beat of the family in the ash.
+**Function:** Deliver the held-back killing surge and the designed emotional residue (implicated; grieving people who never existed). The book ENDS HERE, in the past.
+**Emotional anchor:** The last line returns to the *click* — and the reader cannot tell if it's her father's glasses, Mara's own, or the far-off sound of a door, somewhere, finally closing. (All three. None. The reader decides.)
+**Emotional surprise:** It ends not on grief but on a small, ordinary, almost-happy beat — bread, a knot, a child's hand — then light, heat, silence.
+**Key beats:** 1) The surge approaching; rendered as light/heat/silence, not gore. 2) The choice, stated plainly, once. 3) The central question handed to the reader. 4) The final family image — a knot, a hand, the warmth. 5) The *click*; silence; white space.
+**Progressive:** Legacy → the end. Closes every thread; answers nothing the reader must answer for themselves. The last image is in 79 AD.
 **Theme presence:** The central question, unanswered, in the reader's hands.
-**Structure:** Short, spare final chapter (may run under 5,000 — the one permitted exception; ~4,800).
-**Word target:** 4,800. **Writer warnings:** NO authorial verdict; NO "and so she learned"; end on image and the *click*. Restraint absolute.
-**Beat subversion:** Genre's catharsis-and-closure; here the book refuses to tell you whether she chose right.
+**Structure:** Short, spare final chapter (may run under 5,000 — the one permitted exception; ~4,800). **Reading speed:** decelerate to stillness, then stop.
+**Word target:** 4,800. **Writer warnings:** NO authorial verdict; NO "and so she learned"; NO modern frame of any kind. End on image, the *click*, and white space. The surge is offstage-felt: light, heat, then nothing. Restraint absolute.
+**Beat subversion:** Genre's catharsis-and-closure (and the expected modern-day epilogue); here the book refuses to leave the past and refuses to tell you whether she chose right.
 
 ---
 
 ## OUTLINE QUALITY CHECK (self-audit)
-- **Progressive, not parallel:** Premise lines form a causal chain (grief→map→crossing→survival→oracle→love→marriage→family→law→eruption→choice→legacy); not reorderable.
+- **Progressive, not parallel:** Premise lines form a causal chain (grief→map→crossing→survival→oracle→love→marriage→family→law→eruption→choice→ash); not reorderable. Ends fully in 79 AD.
 - **No orphans:** every chapter has explicit backward/forward links.
 - **Emotional variety:** anchors rotate visual (door, ash, mountain) / auditory (the *click*, silence) / gestural (knots, re-tied sandals) / verbal (the Oracle's line, "function unknown").
-- **Chaos distribution:** Mara (bread/completionism/click/laugh) Ch.1,6,16,23,32; Valens (knots/count/sand/tears) Ch.9,11,14,18,33,39,42; Theano Ch.12,46; Fenn Ch.2,26; secondaries Kallia Ch.7,17, Drusus Ch.10,15,34, Sabina Ch.24,30. Spread, not clustered.
+- **Chaos distribution:** Mara (bread/completionism/click/laugh) Ch.1,6,16,23,32,44; Valens (knots/count/sand/tears) Ch.9,11,14,18,33,39,42,44; Theano Ch.12,43 (memory); Fenn Ch.2,26; secondaries Kallia Ch.7,17, Drusus Ch.10,15,34, Sabina Ch.24,30. Spread, not clustered.
 - **Opening diversity:** Ch.1 wrong-emotion/failure; Ch.2 object; Ch.5 in-medias-res; Ch.12/24/36 single-scene set-pieces; varied.
 - **Breathing room:** Ch.21, Ch.28 RECEDE; Ch.2,10,15 theme recedes for plot/caper.
-- **Word distribution:** 4,800 (Ch.48) to 5,600 (Ch.36) — well within 2× rule.
-- **Structural diversity:** chronological / two-hander / collage / fragmented / single-scene / in-medias-res / object-meditation rotate; no 3 consecutive identical.
+- **Word distribution:** 4,800 (Ch.45) to 5,600 (Ch.36/41/43) — well within 2× rule.
+- **Structural diversity:** chronological / two-hander / collage / fragmented / single-scene / in-medias-res / object-meditation / interior-memory-braid rotate; no 3 consecutive identical.
 - **Secondary lives onstage:** Kallia (Ch.7,17), Drusus (Ch.10,15), Sabina (Ch.24,30) — ≥2 satisfied.
-- **Originality (8.5 rule):** every chapter carries a named Beat subversion; key genre beats (meet-cute, oracle, other-woman return, noble sacrifice, deadline discovery, narrator reveal) are all inverted.
+- **Originality (8.5 rule):** every chapter carries a named Beat subversion; key genre beats (meet-cute, oracle, other-woman return, noble sacrifice, deadline discovery) are all inverted. The biggest subversion is structural: the expected modern-day epilogue is REFUSED — the book ends in the ash.
+- **No modern coda (author-fixed):** the former Ch.43–48 modern excavation/museum/frame-reveal are removed; their non-modern payoffs (Theano's prophecy, motif convergence, "function unknown," the handed-over question) are folded into past-set Ch.43–45.
 
-**Projected total: 48 chapters × avg ~5,460 = ~262,000 words (floor 220,000 cleared with ample margin).**
+**Projected total: 45 chapters × avg ~5,440 = ~245,000 words (floor 220,000 cleared with comfortable margin; near the 260k target with the expanded eruption/aftermath material).**

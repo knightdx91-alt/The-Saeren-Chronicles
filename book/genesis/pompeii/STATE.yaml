@@ -16,7 +16,7 @@ adaptation:
   canon_sources:
     story_bible: "research/story-bible.md"   # author canon (spoken idea); wins over pipeline
   chapter_1_locked: false
-  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48]   # 48 chapters, ~5.2-5.6k each, ~262k projected
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45]   # 45 chapters, ~5.2-5.8k each, ~245k projected (was 48; modern coda removed, book ends in 79 AD)
 
 word_floor:
   manuscript_min_words: 220000   # long single volume (Outlander-scale)
@@ -28,9 +28,10 @@ phase:
   status: "architecture complete — ready for chapter loop"
   history:
     - "2026-06-21: architect built foundation.md + outline.md (48 ch) + voice-dna.md; STATE updated."
+    - "2026-06-21: RECONCILED to author's final decisions. Two changed: (1) modern frame -> LATE 1990s (dead-phone relic replaced by film camera/undeveloped roll, father's dig slides, Discman, paper notebooks, wristwatch; updated foundation §CALIBRATION/§3/§4f/§5, outline Ch.3/6/32/41, voice-dna §0/Mara card); (2) NO modern coda -> book now ENDS IN 79 AD. Removed former modern Ch.44 (excavation), Ch.45 (frame reveal), Ch.47 (modern museum); folded their non-modern payoffs (Theano prophecy, motif convergence, 'function unknown', handed-over question) into new past-set Ch.43-45. Chapter count 48 -> 45. Retrospective narrator reframed as Mara telling it from inside her last hours (no future survivor). Ending confirmed STAY & DIE rendered as ACTIVE agency. Heat unchanged (Ch.16/18/20 + late payoff). Projected ~245k (floor 220k cleared)."
 
 chapters:
-  total_planned: 48
+  total_planned: 45
   completed: []
   scores: {}
 

@@ -7,9 +7,8 @@
 
 ---
 
-## 0. POV / TENSE — RECOMMENDATION (flagged for author)
-**Recommended: first-person, past tense, RETROSPECTIVE** (older Mara narrating the whole
-story from a vantage near the end of her life — see Ch.45 frame proposal). Justification:
+## 0. POV / TENSE (author-fixed)
+**First-person, past tense, RETROSPECTIVE** — older Mara narrating. Justification:
 1. It is the **Outlander register** the author named (Gabaldon = first-person past, Claire's
    wry modern intelligence inside the period).
 2. Retrospection is the book's **suspense engine**: the narrator knows the volcano comes, so
@@ -17,9 +16,15 @@ story from a vantage near the end of her life — see Ch.45 frame proposal). Jus
    before the character, which is the entire point of setting a love story at Pompeii.
 3. Single-POV keeps the time-door's rules honest (we only know what Mara knows; Fenn's
    inserts carry what she can't see).
-**One sanctioned exception:** Act V coda (Ch.43–44) may shift to a close-third or modern-frame
-POV IF the author approves the modern excavation ending; otherwise stay in Mara's voice
-throughout. **[PROPOSAL — confirm POV/tense and the coda exception.]**
+
+**NARRATOR CONCEIT — RECONCILED (author-fixed: she dies; NO modern coda).** Because Mara stays
+and dies in the ash and the book ends in 79 AD, the retrospective vantage is NOT a future survivor
+looking back. It is the voice of a woman who has lived the whole nine years and is telling it from
+*inside* the ending — the foreknowledge ("I would learn, too late…") is lived memory, not a
+20th-century deathbed. Read it as her account given in the long dark of the last shelter (Ch.45),
+the whole life passing before her in the hours before the surge. The "thirty years" register
+becomes "the years I had," not "the years since." **NO POV shift, NO modern frame, NO close-third
+coda.** Stay in Mara's first-person voice from Ch.1 through the final line in the ash.
 
 ---
 
@@ -67,8 +72,10 @@ artifacts, because naming them as people would end her. **The prose strips to in
 ## 2. PER-CHARACTER VOICE CARDS
 
 #### MARA (protagonist / narrator)
-- **Vocabulary band:** Educated modern, museum/conservation register leaking in (condition,
-  provenance, weathering, friable); dry idiom; private anachronisms.
+- **Vocabulary band:** Educated modern (**late-1990s frame of reference — author-fixed**;
+  no 2000s+ tech idiom, no "google/text/swipe"; her modern touchstones are film cameras,
+  mixtapes/Discman, carousel slides, payphones, paper notebooks), museum/conservation register
+  leaking in (condition, provenance, weathering, friable); dry idiom; private anachronisms.
 - **Syntax fingerprint:** Spirals into long comma-linked sentences when wondering; chops to
   fragments when afraid. Classifies under stress.
 - **Rhythm:** Statements that turn into questions; self-correcting clauses ("It was bronze. It
