@@ -139,27 +139,29 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
 ## Status (update this section as you go)
 
-> ### ▶ NEXT SESSION — START HERE: execute the Round-4 revision
-> Book One has had a round-3 line pass (pacing/show-don't-tell/motif variation, all 18
-> chapters, gate-clean, **86,726 words**) plus a full QA sweep. **The next task is to
-> EXECUTE the Round-4 revision plan**, chapter by chapter, with the usual per-chapter
-> discipline (read → fix → `python3 tools/style_check.py` clean → check word floor → commit).
+> ### ▶ NEXT SESSION — START HERE: Round-6, fix the PASSIVE PROTAGONIST
+> Rounds 3–5 are done and committed (pacing, show-don't-tell, motif variation, war-clock,
+> climax causal joint, Ch.16 jeopardy, the dread-object named "the Hollowing"). Current build
+> **r5, ~89,898 words**, style gate CLEAN, all canon held. Fresh evaluators say opening + middle
+> now "work" (beta avg 7.7; pacing opening "submission-ready"). An honest agent-style read says
+> the remaining blocker is **#1 the protagonist is too PASSIVE** (same root cause as the
+> lingering "too quiet/slow" notes), plus positioning (quiet book in a loud aisle) and production.
 >
-> - **Plan to execute:** `book/genesis/saeren-chronicles/feedback/revision-plan-round4.md`
->   (read §7e "Consolidated round-4 priority" first — it's the ordered to-do).
-> - **Supporting diagnostics:** `book/genesis/saeren-chronicles/evaluations/`
->   — `pacing-map.md`, plus `review/` (genesis-floor-scores, disruptor-differentiation,
->   info-dump-detector, character-arc-consistency, beta-reader-panel).
-> - **Open with the front-50 pass (Ch.1–3):** seed the "whole-in-a-severed-world" *sensation*
->   earlier, add an early **misread**, reframe the heirloom note as surveillance-unease, give the
->   Alice friendship one misfire. Then Pacing #1 (decree-clock) + #2 (measurable greyness) in Ch.10–12.
-> - **Verdict driving this:** strong draft, **not yet submission-ready**; the levers are early-act
->   pacing, front-50 differentiation, and the scene-end "narrated-meaning" tic. Craft is above gate;
->   the only systemic weakness is Pacing (Book Floor 7.8 @ Ch.15).
-> - **Constraints:** keep gates green, respect per-chapter ~4,500 floor (Ch.4/Ch.6 run lean → convert
->   in place, don't net-cut), hold all canon guardrails.
-> - After the pass: reassemble `full-manuscript.md` + rebuild PDF, log in `feedback/progress.md`,
->   re-run the beta panel. **Production track** (CMYK/front matter/proof) is still open and non-blocking.
+> - **MASTER PLAN to execute:** `book/genesis/saeren-chronicles/feedback/revision-plan-round6.md`
+>   (read its TL;DR first — full tool-sequenced steps, constraints, and pathways).
+> - **The fix is CONVERSIONS, not new plot:** turn beats that happen TO Viridia into costly CHOICES
+>   she makes (focus/"tell her no", the sponsorship, the bond-call, the slept-through attack warning).
+>   Aim ~4 conversions in Ch.1–9 + a decisive Ch.16. Agency without cost is not agency.
+> - **GATE:** Step 1 (design) is `book-architect` → `feedback/agency-conversion-plan.md` (decision-map
+>   + proposed conversions). **AUTHOR MUST APPROVE that conversion list BEFORE any prose is rewritten.**
+>   If that file is missing, re-dispatch the architect task (see round-6 plan §2).
+> - Then implement with `book-editor` (per-chapter gate-clean), verify with the analysts
+>   (`analytical-peer-reviewer`, `beta-reader-panel`, `character-arc-consistency`, `continuity-guardian`),
+>   rebuild as **r6** (bump the `REVISION` file) + refresh the `book-review` branch.
+> - **Non-prose tracks (parallel):** `book-packager` for a query that frames the quiet voice as the
+>   feature (literary/boutique agents, small press); production (CMYK/front matter/widows) before print.
+> - **Constraints:** canon absolute; don't contradict the fixed Ch.16 causality; gates green;
+>   word floor ≥85,000 (ample headroom); Genesis Floor ≥8.5.
 
 - **Book One COMPLETE.** All 18 chapters finalized & committed — **85,045 words**,
   every chapter Genesis Floor ≥ 8.5, full continuity audit clean (0 critical/0
