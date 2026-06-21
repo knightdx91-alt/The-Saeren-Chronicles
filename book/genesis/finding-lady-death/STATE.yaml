@@ -1,0 +1,68 @@
+project:
+  title: "Finding Lady Death"
+  genre: "Paranormal romance"
+  subgenre: "Urban/contemporary fantasy romance (mythic — Death & reincarnation)"
+  language: "English"
+  word_count_target: 95000
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "A medical resident who has seen Death since she was nine learns she is the reincarnated wife of Acheron — the man who became Death — and must decide whether to take up the mantle of Lady Death, just as the deposed Old Gods (and the mysterious powers that stripped them) move to reclaim their abandoned domains."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# Hybrid run: author supplied an OPENING SCENE (voice benchmark) but no plot roadmap.
+# Architect builds foundation + outline + voice-dna FROM that opening; Ch.1 is benchmark prose.
+adaptation:
+  mode: "genesis-from-opening"
+  canon_sources:
+    original_draft:  "research/original-draft.txt"   # author's opening scene = voice benchmark + seed canon
+  chapter_1_locked: false        # opening is the VOICE BENCHMARK; may be polished but preserve its voice
+  chapters_to_produce: []        # set after architect builds the outline
+
+word_floor:
+  manuscript_min_words: 90000
+  manuscript_target_words: 95000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "scaffolded — opening staged as voice benchmark; decisions resolved; awaiting architect"
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Preserve the OPENING SCENE's voice (research/original-draft.txt) as the book's benchmark; expand to the outline, do not contradict the seed."
+  # --- Settled author canon (from the opening scene) ---
+  - "PROTAGONIST: Alice Haywood. Has seen Death since age 9; medical resident at Brookwood Medical Center; top of her class, Youngstown University; long black hair. Wears a scythe-charm bracelet (made only for her & Acheron) constantly; it means she will not die. Sole survivor of a car accident; drawn to the dying/suffering."
+  - "LOVE INTEREST: Acheron ('very Greek' parents), now DEATH. Was once a mortal obsessed with death; took up Death's mantle during the Gods' War. Long black hair, clear blue eyes, hawk-sharp nose; black tee with a white scythe; can be seen only by the near-death or by Alice; carries a black-handled scythe (lantern-and-boatman image on the blade) summoned from his shirt. Calls Alice 'little one'."
+  - "THE BARGAIN: when chosen as Death, Acheron's reluctance to leave his wife won a deal — they live a full mortal life together, then on passing he becomes Death and must FIND her once she reincarnates; when found, she becomes LADY DEATH. He has searched 'thousands of years.'"
+  - "MYTHOS: long ago the Ancient/Old Gods fought a centuries-long War and abandoned their domains (crops withered, storms raged, the sun didn't rise). Mysterious powerful BEINGS (identity unknown even to Acheron) decreed NEW gods be chosen, stripping the old ones of power. Acheron was one such replacement (Death)."
+  - "TONE/SCOPE: paranormal romance; STANDALONE ~95k (floor 90k); romance heat = OPEN DOOR, MODERATE (sensual on-page, not graphic)."
+
+open_author_decisions:
+  - "Central engine (author leaning): the OLD GODS returning to reclaim their domains AND/OR the mysterious beings who deposed them — architect to develop both and propose the sharpest threat/antagonist."
+  - "Does Alice take up the Lady Death mantle, and WHEN (midpoint vs climax)? What does becoming Lady Death cost her (her mortal medical life, mortality, memory of this life)?"
+  - "How much of her PAST life with Acheron does she remember / regain, and how does that interact with falling for him again now?"
+  - "Setting specificity (Youngstown/Brookwood — real-feeling Ohio contemporary?)."
+  - "Acheron's late wife vs present-day Alice: is she literally the same soul (so jealousy is moot) — confirm framing."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/finding-lady-death/."
+  - "Single-POV Alice (close third or first — architect to confirm to match the opening's voice)."
+revision_cycles: 0
