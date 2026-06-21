@@ -124,7 +124,7 @@ Viridia had been waiting for it. She glanced at Lor-ar, curled in cat-shape on t
 
 Mrs. Zoran looked at the shapes on the page for a long time.
 
-"Knowledge is power," she said at last, quietly, the same words she had said the day she risked herself to read Viridia's focus aloud. "I have spent my whole life teaching girls to push their magic through a crutch because no one ever told me there was a pen." She looked up, and there were tears in her eyes too, but different from Alice's, the tears of a person shown, late in life, a thing she could have spent that life loving. "Show me. Show me how to make one."
+"Knowledge is power," she said, very low now, the same words she had said the day she risked herself to read Viridia's focus aloud. "I have spent my whole life teaching girls to push their magic through a crutch because no one ever told me there was a pen." She looked up, and there were tears in her eyes too, but different from Alice's, the tears of a person shown, late in life, a thing she could have spent that life loving. "Show me. Show me how to make one."
 
 She got it wrong for a week, the same as Viridia had, and there was something both funny and moving in watching a grown woman fail at the thing in exactly the same order a fourteen-year-old had failed at it. She cursed, quietly, in a way Viridia had not known teachers could. She came in some mornings hollow-eyed from staying up at it. Once she nearly wept with frustration, and caught herself, and said, "Listen to me. Forty-six and crying over a houseplant," and laughed instead, and went back to it.
 

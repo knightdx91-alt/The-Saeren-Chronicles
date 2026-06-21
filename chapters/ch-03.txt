@@ -88,7 +88,13 @@ She opened the lid.
 
 The class came forward in a slow press, and the box turned out to be full of small wonders: pendants and rings and rods and beads, none of them quite ordinary, each catching the light with its own private weather.
 
-Two girls did not go to the box. Viridia was one. The other was a girl named Rose, who came up holding out her wrist, where a tiny silver hammer hung from a bracelet.
+Two girls did not go to the box. Viridia almost did.
+
+She stood at the back of the press with her hand on the rod at her waist and found, to her own surprise, that she resented the note. *Tell her no.* A stranger had reached into her luggage and decided, in advance, what her mouth would do in a room the stranger would never see. She thought, for one cold contrary moment, of walking up to the box and taking some pretty bead from it just to prove that no unseen hand was working her like a puppet on a string. Her fingers actually loosened on the rod.
+
+Then she stopped, because that was its own kind of being arranged, doing the opposite of a thing only because you'd been told the thing. She made herself find the real reason underneath both. The rod was her mother's. It had been in the family longer than anyone had counted. It was the last warm thing she owned. She would keep it because *she* chose it, not because a note told her to and not to spite the note either, and she would do it in the open, where the choosing was hers and visible and could not be mistaken for obedience. It cost her something to decide that. The note had wanted her to pocket the thing quietly, unexamined, drawing no eye. She was about to do the opposite, and she knew, standing there, that she was trading the small safety of going unnoticed for the larger fact of being the one who decided. She came her three days to Hazel wanting to disappear. She let go of that on purpose, in a warm crowded room full of growing things, and walked to the front to be seen choosing.
+
+The other girl who had not gone to the box was a girl named Rose, who came up holding out her wrist, where a tiny silver hammer hung from a bracelet.
 
 "Ah, Miss Rose." Mrs. Zoran took the wrist gently and turned it. "Your mother's old focus?"
 
@@ -102,7 +108,7 @@ Viridia slid the silver rod from the loop at her waist and gave it over, and wat
 
 Mrs. Zoran turned it in her fingers, slowly, the cheerful patter gone quiet. She ran a thumb along the scrollwork. She tilted the rounded head to the light and found the single seam that ran through it. "Where did you come by this?"
 
-"It was my mother's. It's been in the family." Viridia chose her next words the way she chose all of them lately. "I was told I wouldn't need to take one from the box."
+"It was my mother's. It's been in the family." Viridia chose her next words the way she chose all of them lately. "I'd rather use hers than take one from the box."
 
 "You were told correctly." Mrs. Zoran's eyes came up over the top of her glasses. "Do you know what the writing says?"
 
@@ -214,6 +220,6 @@ She turned the cane once more and watched the grey light slide down the white sc
 
 She felt watched.
 
-Not in the room — the corridor was empty. Watched across time. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her in advance what to say to a teacher she had not met. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* It was not a door swung open in welcome. It was a door someone else had already walked through, ahead of her, leaving it on the latch. Behind the grief, very faint, she heard herself want to know who — not the warm wanting of a girl handed a destiny, but the cold steady wanting of one who has found a stranger's footprints in her own house and means to learn whose they are.
+Not in the room — the corridor was empty. Watched across time. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her in advance what to say to a teacher she had not met. The note. She had not done as it said, not exactly — she had kept the focus, but on her own terms and in the open, and the open was the part the note had not wanted. She wondered, now, whether the wanting-her-quiet had been for her protection, and whether she had just spent something the stranger had meant her to keep. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* It was not a door swung open in welcome. It was a door someone else had already walked through, ahead of her, leaving it on the latch. Behind the grief, very faint, she heard herself want to know who — not the warm wanting of a girl handed a destiny, but the cold steady wanting of one who has found a stranger's footprints in her own house and means to learn whose they are.
 
 Then footsteps somewhere, and a girl's laugh, and the school came back. Viridia slid the cane into the loop at her waist, where it now stuck out absurdly past her knee and there was nothing to be done about it, and went to find Alice on the bench by History, carrying her question quietly, the way she had just been told.
