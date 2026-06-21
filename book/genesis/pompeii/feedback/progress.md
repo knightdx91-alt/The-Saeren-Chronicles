@@ -10,4 +10,7 @@ Scaffolded 2026-06-21 from book/genesis/_template.
 5. Run the chapter loop in order; commit per chapter; keep this file current.
 
 ## Resume point
-Nothing drafted yet.
+Ch.1 "The Drawer" drafted & evaluated (4,906 words). Floor 8.5 / Avg 9.0 — PASS. Style: 1 em-dash, #11 fingerprint at zero. Next: Ch.2.
+
+## Pacing log
+- Ch.1: PACING PASS — correct grief-LOW establishing beat; clean scene/summary balance; strong hook (first line) + pull (the *click*); dialogue ~0% (intentional interior chapter, acceptable); 4,906w (above 4,800 floor, ~7% under 5,300 target). No fix required.

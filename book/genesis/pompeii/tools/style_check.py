@@ -40,6 +40,9 @@ ALLOWLIST = [
     # Add THIS book's deliberate recurring motifs / canon terms here.
     "the one it brought",
     "the dead don't leave",
+    "the bread starter",
+    "his reading glasses",
+    "next season",
 ]
 
 # n-gram repetition settings
