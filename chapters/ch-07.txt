@@ -108,7 +108,7 @@ She had braced, vaguely, for something like the stone at her throat: a pale flam
 
 Her own core was the twin of his, the same plaited wheel of light and dark, and it was vast. Where his was a coal, hers was a hearth. Where his turned slow and certain, hers wheeled with a banked, patient force that she could feel as well as see, a deep furnace-rumble in her own chest that she had been living on top of her entire life and never once heard. It dwarfed the pale ember of her mother's stone the way the sun dwarfs a struck match. It was, she thought, the size of three of his.
 
-She sat very still.
+She sat rigid, not trusting herself to move.
 
 "That's not right," she said. Her voice had gone flat, the way it went under pressure, the cataloguing voice, the naming voice. "That's bigger than yours. That's. You're three hundred. You're a spirit walker. I'm fourteen. That's not possible..."
 
@@ -146,9 +146,7 @@ Viridia watched Alice reach the door below and fumble it open one-handed, books 
 
 She did not move.
 
-Because what would she be giving her? A door Alice could not walk through. A wound Alice could not feel and now could never un-know. The candle was steady. The candle was *enough,* it had always been enough, Alice had built a sponsor and a wing and a path on the strength of that candle, and what right did Viridia have to lean across the only friendship she'd ever had and say *you are less than you were meant to be, and there is nothing either of us can do about it, and I am the only one in this whole school it isn't true of.*
-
-It would not make Alice whole. It would only make Viridia less alone. And she had already learned, in the forest, what it cost to reach for something only because you could not bear to be alone.
+Because what would she be giving her? A door Alice could not walk through. A wound Alice could not feel and now could never un-know. The candle was steady. The candle was *enough,* it had always been enough, and it would not make Alice whole to be told otherwise. It would only make Viridia less alone — and she had already learned, in the forest, what it cost to reach for something only because you could not bear to be alone.
 
 So she let the sight go. The room dimmed back to morning. Alice's pale candle, the burning grass, her own impossible hearth, all of it faded out, and the world came back ordinary and dull and survivable, and Viridia stood at the window holding the newest of her secrets, the heaviest one yet, the one she could not even hand to the one person who shared a room with her.
 
@@ -180,17 +178,13 @@ The hope went out, quietly, the way the sight had gone out, leaving the room dul
 
 So the grief came back. It had never left; it never left; but it had been crowded for an hour, pushed to the edge of the room by the burning grass and the carrots and the vast wheeling fact of herself, and now it walked back into the middle of her and sat down where it always sat, behind her ribs, in the held place no one was permitted to see. Only now it had a new question folded into it, a question that would not be answered in this book or this school or perhaps anywhere: *did you know what I was? Did you carry it the way I carry it now? Were you whole, the two of you, in that cold house, and never once let me see you do it?*
 
-She would think about it, she understood, for the rest of her life. She filed that too.
+She would think about it, she understood, for the rest of her life. She set it with the others and let it be.
 
 * * *
 
 She stood at the door with her hand on the latch and did not, for a moment, open it.
 
-She was not the girl who had arrived three days ago. That one had been a grief on a chain, a hollow handed off to a porter and a school. This one had a tiger, and a riddle with no floor to it, and a hearth wheeling under her ribs. There was no one in the whole school, no one in the whole *country,* as far as she could tell, who was the thing she was. Not Alice, with her steady candle. Not the teachers with their pale flames. Not even Lor-ar, who was whole but was not human, who could see her clearly but could not be her.
-
-She was not broken. That was the strange new fact of her, the one she would carry into the office and not say. She had spent fourteen years being told she was a half-thing in a world of half-things, and it was the half-things who were the wounded ones, every one of them, blind to the wound, beyond the reach of telling.
-
-It should have felt like a gift. Some of it did. But being the only whole person in a broken world was not the same as being the lucky one. It only meant you were alone in a new and more complicated way, and the people you loved most were the ones you could not share it with.
+She was not the girl who had arrived three days ago. That one had been a grief on a chain, a hollow handed off to a porter and a school. This one had a tiger, and a riddle with no floor to it, and a hearth wheeling under her ribs, and not broken, after all, in a world that was. The strange new fact of her, the one she would carry into the office and not say.
 
 Lor-ar wound once around her ankles, warm, the prickle of a held storm in the air of him.
 

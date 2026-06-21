@@ -50,13 +50,13 @@ Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at o
 
 *This is called a focus. To the best of my knowledge it has been passed down on your mother's side for more generations than anyone has counted. During your first magic class you will be asked whether you need one. Tell her no. Keep this with you always.*
 
-That was all. No name. No *love.* No spirits-guide-you. Just an instruction, given by someone who knew where she was going to be before she had known it herself.
+That was all. No name. No *love.* No spirits-guide-you. Just an instruction — and the more she looked at it the less it read like a gift and the more it read like a hand on her shoulder she had not felt arrive. Someone had known where she would be. Someone had known she would be asked, in a class she had not yet attended, by a teacher she had not yet met, a specific question, and had decided in advance what her answer would be and written it down for her. *Tell her no.* It was not phrased as advice. It was phrased the way you tell a thing to a person you are managing.
 
 She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it, the mark of something meant to come apart into two halves and then mended, or never quite finished. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone. She could no more read them than she could read the wind.
 
 *Keep this with you always.*
 
-Somebody had wanted her to have this. Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and decided what she would and would not tell a teacher she had not yet met. It should have been frightening. It mostly was. But under the fright, small and unwelcome, was a thing grief had crowded out for three days: she wanted to know who. She wanted to know why.
+Somebody she had never met had thought about her, specifically, and packed a thing for her, and folded a note, and arranged the words she would say out loud in a room she had not yet entered. A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.* The wanting-to-know that came up under the unease was not warm. It was the cold careful wanting of a person who has just found out a stranger has had a key to her house.
 
 She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
@@ -72,13 +72,13 @@ Viridia found, to her own surprise, that the corner of her mouth wanted to move.
 
 She let it go after that, slid off into talk of the room, of where the bathing rooms were, of whether the round window opened, and Viridia understood that the letting-go was deliberate, that Alice had found a closed door and chosen, on purpose, not to lean on it. It was the second time. Viridia was beginning to think it might be the most reliable thing about her.
 
-They unpacked in the comfortable way of two people who do not yet know each other and have decided, provisionally, to. Alice talked the whole while, about her nan, about the long train down with a man who'd snored, about how she'd packed three jumpers and her mum had taken two out and put a fourth in so she'd ended up with a wardrobe nobody had agreed on. She arranged a small army of belongings along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch and he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. She had brought nothing to put out, only the cases, and what was in them she meant to keep under the bed and inside the drawer and behind her ribs. She noticed the difference between their two halves of the room, the populated and the bare, and noticed that Alice noticed it too, and noticed that Alice said nothing about it, which she counted, privately, as the third reliable thing.
+They unpacked in the comfortable way of two people who have decided, provisionally, to know each other. Alice talked the whole while, and arranged a small army along her windowsill: a knitted rabbit gone bald at the ears that she set out and then, catching Viridia's eye, defended ("don't, his name's Stitch, he's been everywhere I have"), a tin of sweets, a framed photograph she stood facing her own pillow. Viridia put out nothing. The difference between their two halves was plain, the populated and the bare, and Alice clocked it and said nothing, which Viridia counted, privately, as the third reliable thing.
 
 "There," Alice said, when Stitch was settled and the sweets were hidden and the room was as much theirs as an afternoon could make it. She flopped back onto her bed. "Home. For four years." She said it bravely and it cracked very slightly at the end, on *years,* and she heard it crack and plowed straight on. "Tell me one thing about you. Anything. I've told you my whole life and I don't know one thing about you and we live here now."
 
 Viridia thought about it. There were a great many things she would not say. She looked for one she could. "I like knowing the names of things," she said at last. "Paintings. Plants. People. If I know what a thing's called I feel better about it being in the room."
 
-Alice considered this with the gravity she gave to most things, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
+Alice weighed this, then nodded slowly. "That's a good one," she decided. "That's a real one. All right." She rolled over, satisfied, as though a fair trade had been struck. And in a way one had.
 
 * * *
 

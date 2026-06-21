@@ -4,7 +4,7 @@
 
 Amber did not take her to the forest first. She took her into an empty classroom and shut the door.
 
-It was a teaching room that nobody had taught in for a while: chairs upturned on tables, a smell of chalk and disuse, a long board still ghosted with the half-erased diagram of something that might have been a spell or might have been a plumbing repair. Amber checked the corridor before she closed the door, which Viridia noticed, and pulled two chairs down off a table, which Viridia also noticed, and sat in one and gestured at the other, and for a moment said nothing at all, which Viridia noticed most of everything.
+It was a teaching room that nobody had taught in for a while: chairs upturned on tables, a smell of chalk and disuse, a long board still ghosted with the half-erased diagram of something that might have been a spell or might have been a plumbing repair. Amber checked the corridor before she closed the door. Viridia noticed. She pulled two chairs down off a table, which Viridia noticed too, sat in one, gestured at the other, and for a moment said nothing at all, which Viridia noticed most of all.
 
 "You asked me why," Amber said finally. "Out there. Why I'd spend it on you." She turned a chip of nail polish over with her thumbnail. "I gave you three answers and none of them were the one. You knew that."
 
@@ -92,7 +92,7 @@ That was the whole of it, underneath everything: under the grief she carried beh
 
 She did not think about light or dark. She did not think about hiding. She thought only about the need, and she reached, and because she was not thinking, she reached with all of it.
 
-She felt the magic move and she did not stop it. It came up out of her core the way grief came up, fast, without asking, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
+She felt the magic move and she did not stop it. It came up out of her core the way grief did, sudden and unbidden, and poured down her arms into the cane, and the half-orb at its top kindled. But not white. Not only white. The light that welled up inside it was white *and* black at once, a brilliant clean light and a deep velvet dark twined together in the same small space, neither swallowing the other, both somehow shining, a thing that should not have been possible and was sitting in her hands being possible anyway.
 
 On the bench, Amber went still.
 
@@ -102,7 +102,7 @@ The clearing had gone strange around her. With the orb burning white-and-black i
 
 "I need a companion who will stay," she sent out into the wood, in one long pulse, no longer holding anything back. "Someone who won't falter. Someone who'll be at my side until the end."
 
-She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was.
+She lifted the cane high and gave a cry, wordless, primal, scraped up from somewhere below thought, and the light left the orb in a rush that emptied her. Her legs went. She sat down hard on the clearing floor with her ears ringing and the world gone white at the edges, and a thin line of blood started from her nose and ran warm to her lip before she even felt it. She wiped it with the back of her hand and stared at the red smear, stupid with drain. Too much. She had given far past the bottom of herself, with no notion of where the stopping place was. And the call had gone out with all of it behind it, far past the clearing, far past where Amber's three neat pulses had reached, rolling out into parts of the wood that had no names. She was in no state to wonder what, that far out, might have lifted its head to listen.
 
 On the bench, Amber started up to help her, and froze.
 
@@ -167,5 +167,3 @@ There was no other word for it. He simply diminished, fur and horns and saber-fa
 Viridia got to her feet, swaying, and Amber got an arm under her, and the three of them started back out of the green underwater light toward the lawns and the grey stone school. And the whole way, Lor-ar, three hundred years old, extinct, a spirit walker by some title Viridia did not yet understand, possessed of magic that had made a teacher sweat just to wake its cousin, ran ahead of them through the long grass and then came tearing back, and ran ahead again, and circled, and pounced at nothing, exactly like an overgrown kitten let out for the first time, and Viridia watched him do it through the fog of her exhaustion and felt, rising up through the drain and the grief and the careful held weight of everything, something warm and entirely unguarded that she had not felt in so long she had half forgotten its name.
 
 It was not grief. That was the remarkable thing about it.
-
-It was not grief at all.

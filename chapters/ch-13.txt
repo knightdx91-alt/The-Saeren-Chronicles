@@ -4,7 +4,7 @@
 
 The arena had been swept clean of leaves overnight, and that was the first wrong thing Viridia noticed when they brought the fourth-years out into the cold bright morning to see it.
 
-It was the open ring at the school's eastern edge where the older girls did their physical drills, a wide floor of pale packed sand inside a low ring of stone benches, and it was always, every morning of the year, scattered with the first fallen leaves of the season. Today it was bare. Someone had been out before dawn with a broom and the care of a person preparing a room for an important guest, and the sand lay raked in long even lines, and the emptiness of it, the deliberate swept emptiness, sat in Viridia's chest like a held breath. They had cleaned the place. People cleaned a place when they wanted nothing about it to draw the eye except the thing they meant you to see.
+It was the open ring at the school's eastern edge where the older girls did their physical drills, a wide floor of pale packed sand inside a low ring of stone benches, and it was always, every morning of the year, scattered with the first fallen leaves of the season. Today it was bare. Someone had been out before dawn with a broom and the care of a person preparing a room for an important guest, and the sand lay raked in long even lines, and the emptiness of it, the deliberate swept emptiness, sat in Viridia's chest like a warning she had no words for yet. They had cleaned the place. People cleaned a place when they wanted nothing about it to draw the eye except the thing they meant you to see.
 
 The thing they meant her to see arrived an hour after breakfast.
 
@@ -24,7 +24,7 @@ His eyes passed over her. They did not stop. She counted that, filed it, did not
 
 They were called by ranking, lowest first, which meant Viridia waited the longest. She sat in the dining hall through the whole of the morning and most of the afternoon while the fourth-years went out one by one and came back changed, some pale, some shaking, one girl crying without sound into her sleeve, one boy laughing too loudly with relief. No one was allowed to speak of what they had seen. The not-speaking filled the hall like water.
 
-Lor-ar lay across her lap and slept, truly slept, or did a thing so close to sleep she could not tell the difference, and she sat very still under his weight and watched the door and banked her core and rehearsed, somewhere behind her careful face, the girl she was going to be when her name was called. Competent. A little nervous. Bright but not unnatural. A first-year who had studied hard and had a knack. Nothing that wanted looking at twice.
+Lor-ar lay across her lap and slept, truly slept, or did a thing so close to sleep she could not tell the difference, and she sat unmoving under his weight and watched the door and banked her core and rehearsed, somewhere behind her careful face, the girl she was going to be when her name was called. Competent. A little nervous. Bright but not unnatural. A first-year who had studied hard and had a knack. Nothing that wanted looking at twice.
 
 The fourth-years came and went, and Viridia, who could not help reading a room, read them. A tall girl named Regina, who hated everyone and was rumored to be the best of them, went out with her chin high and came back grey and would not meet anyone's eye, and the meaning of that traveled the hall without a word being spoken. A small round girl came back beaming and could not hide it and was ashamed of not being able to hide it, which meant she had passed and feared the others would think her boastful for being glad. One girl did not come back to the hall at all; a runner took her things out to her, and no one asked. Della, who was a first-year and not being tested, had wedged herself onto the end of Viridia's bench and kept up a low running commentary about everyone, which was Della's way of being frightened on Viridia's behalf without saying so. "Regina cried," she whispered, scandalized and delighted and worried all at once. "Regina. I didn't know she had the water in her." Viridia let the chatter run over her like the wind in the high windows and kept her eyes on the door.
 
@@ -72,7 +72,7 @@ The third was a sick child and an unknown fever, and she chose the healing rod a
 
 Then Quina pushed the fifth button, and Viridia knew at once it was not like the others.
 
-It was older. She felt the age of it the way you feel cold come off stone. She was sitting at a polished marble table, and nine others sat around it, and the light through the high windows was the light of a century she had only read about, and the faces around the table were grave and tired and powerful, and she understood, with a lurch that was entirely her own and not the borrowed mind's, that this was the Great War. The real one. The severing. And the question on the table, the question the nine grave faces were turning over in their low certain voices, was whether to end the war by destroying the strongest dark families to the last child.
+It was older. She felt the age of it the way you feel cold come off stone. She was sitting at a polished marble table, and nine others sat around it. The light through the high windows was the light of a century she had only read about. The faces around the table were grave and tired and powerful, and she understood, with a lurch that was entirely her own and not the borrowed mind's, that this was the Great War. The real one. The severing. And the question on the table, the question the nine grave faces were turning over in their low certain voices, was whether to end the war by destroying the strongest dark families to the last child.
 
 The task was simple. Pick up the rod for *yes,* or the rod for *no.*
 
@@ -118,7 +118,7 @@ Tobias grinned, and the grin was not unkind. "Don't take it hard," he said. "I'm
 
 * * *
 
-The dining hall fell silent when she came in, and then filled with the held breath of two dozen fourth-years and a hundred younger girls all wanting to know and none allowed to ask. She found her bench. Lor-ar uncurled and made room and she sat, and he pressed warm against her side, and down the bond he said only, *Later. Eat something. Your hands are shaking and you have not noticed.* They were. She made them stop.
+The dining hall fell silent when she came in, and then filled with the strained hush of two dozen fourth-years and a hundred younger girls all wanting to know and none allowed to ask. She found her bench. Lor-ar uncurled and made room and she sat, and he pressed warm against her side, and down the bond he said only, *Later. Eat something. Your hands are shaking and you have not noticed.* They were. She made them stop.
 
 She did not see Alice. The Chancellor's order had sent all the helpers to the medical wing for the day, so Alice was three corridors away, and the test-day drawing the two of them had laughed over weeks ago, who would get to watch whom, had come to nothing. Viridia hoped she was happy in the bright ward, breaking fevers, missing nothing she needed to miss.
 
