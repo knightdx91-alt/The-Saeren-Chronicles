@@ -49,13 +49,20 @@ book/genesis/<slug>/
 3. Produce the next chapter IN ORDER. Locate its material in `research/original-draft.txt`
    and REVISE/EXPAND to the roadmap beats — do not invent from scratch. Match the locked
    Ch.1 voice if one exists. Run each chapter through: write → dialogue-polish → hook-craft
-   → disruptor → evaluate → quality gate.
+   → disruptor → **pacing check** → evaluate → quality gate.
 4. Commit per chapter: `git add -A && git commit -m "genesis: finalize chapter N"`.
 
-## Quality gates (both must pass before a chapter is "done")
+## Quality gates (ALL must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
-  no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **PACING CHECK — required after EVERY chapter.** Assess the chapter's pacing in context of
+  its neighbors: scene-vs-summary balance (any sag or rush?), dialogue share within the genre
+  band, the emotional-arc slot (is this the right high/low for its place — see foundation.md),
+  hook-and-pull, and chapter length vs. adjacent chapters (no chapter >2× another). Log a
+  one-line verdict in `evaluations/` + `feedback/progress.md`; fix via book-editor/disruptor
+  BEFORE finalizing.
+- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤4 per
+  chapter (absolute), no NEW cross-chapter repeated phrase (add deliberate motifs to
+  ALLOWLIST), tics under ceiling. Log frequent flags in `feedback/style-flags.md`.
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:

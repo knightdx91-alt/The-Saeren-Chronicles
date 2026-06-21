@@ -50,6 +50,7 @@ guardrails:
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
   - "<add this book's settled canon guardrails here>"
 
