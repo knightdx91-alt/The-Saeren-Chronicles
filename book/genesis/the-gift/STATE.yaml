@@ -116,7 +116,13 @@ architect_proposals:
     assistants: {troy: "Devon Marsh (takes serum)", raven: "Priya Sahota (LEAVES — the real choice; later the leak)", knight: "Bull / Theo Bullard (takes serum, camp staff)"}
     children: {leader: "Ezra (~11)", smallest: "Wren (~9)", first_to_manifest: "Sol (~13)"}
     family: {sister: "Dr. Cora Woods", mom: "guardian ad litem (name TBD)", dad: "biker mechanic (name TBD)"}
-    company_name: "TBD — PROPOSE author choose; public slogan 'A New World' / hidden 'A New World At Any Cost' already canon."
+    company_name: "TBD — author to PICK from shortlist below. Public slogan 'A New World' / hidden 'A New World At Any Cost' already canon."
+    company_name_shortlist:
+      - "HELIX VANGUARD — clean biotech-corporate sound; 'helix' (the gene work) + 'vanguard' (first to the new world); the double meaning of 'vanguard' = the advance party sent ahead / sacrificed first. Recommended."
+      - "ASTERHELM Genomics — 'aster' (star) + 'helm' (to steer/shelter); reads as benevolent gene-medicine, secretly = steering humanity to another star. Warm public face, cold hidden aim."
+      - "VERDANT BIOSCIENCES — 'verdant' = green, living, the promise of a fertile new world; ironic against the children/camp; the kind of name that wins humanitarian awards. Strong for the 'how GOOD it looks' theme."
+      - "THRESHOLD Biotic — ties directly to the door/wormhole and sub-level motifs; 'crossing the threshold' as both cure and exodus; sleek, slightly clinical."
+      - "ARKWRIGHT Genetics — 'ark' (the saved remnant / the one-way vessel) + the surname-feel of a legacy founder; subtle Noah's-ark resonance for shipping a chosen few while the world drowns."
   setting:
     recommendation: "Boston/Cambridge anchor (MIT canon from Ch.1); camp in remote wilderness (PROPOSE Pacific Northwest or northern New England); facility = repurposed industrial waterfront (echoes the warehouse). Confirm city."
   assistant_transformation_open: "PROPOSE one sub-level-3 outcome is fatal/wrong (Ch.11) to prove the serum is a lottery and indict the 'honest' choice. Confirm whether an assistant dies."
