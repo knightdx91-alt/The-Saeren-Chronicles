@@ -123,3 +123,16 @@ Focused punctuation pass enforcing author rule: AT MOST 4 em-dashes per chapter 
 - Per-chapter em-dash before→after: ch1 20→2, ch2 13→0, ch3 28→0, ch4 16→0, ch5 17→1, ch6 8→0, ch7 19→0, ch8 11→1, ch9 7→0, ch10 13→0, ch11 10→0, ch12 5→0, ch18 9→1. (Residual 1–2 are intentional, under the 4 ceiling.)
 - style_check.py: NO EM-DASH/FINGERPRINT/TIC ceiling flags on any chapter. Two repeated-phrase flags my recasts briefly introduced were reworded away; net problems vs pre-pass baseline DROPPED by 2 (no new flags). (The script's "RESULT: N issue(s)" total is dominated by its pre-existing cross-chapter 4–6gram inventory, unrelated to this pass.)
 - Word count: 85,842 (chapters) — above the 85,200 floor. full-manuscript.md reassembled (assemble_manuscript.py) and 6x9 interior PDF rebuilt (build_pdf.py, delivery/production/, exit 0).
+
+## ROUND-3 REVIEWER PASS (2026-06-21)
+Applied the author's external-reviewer feedback (pacing / show-don't-tell / motif variation) chapter by chapter, by hand, with per-chapter gate + word-floor verification and per-chapter commits. Preserve-lists honored throughout; reviewer label-drift noted where the per-chapter notes didn't map to actual content.
+
+Highlights:
+- Ch.1: appearance-dump tell→show; **added micro active beat** (focus-stone mana flicker on the page-2 gate scene); trimmed observer-trait telling.
+- Ch.3: **show the magic-sense cost sooner** (faint sensing seeded at the first spell, escalates at focus-priming) — eases "magic ignites too late".
+- Ch.5: **strengthened end-pull** (subtle threat — uncontrolled call carries too far).
+- Ch.8: **added visceral bonding cost** (drain/iron-taste at the knot) per "escalate costs viscerally".
+- Ch.18: reworked closing line to remove doubled "and".
+- Whole manuscript: thinned overused motifs — "held breath", "very still", "filed", "cold clear part", "putting away" — while keeping deliberate motifs (water, bell/gate tie-back, "calm hands", "edge of the day", the absence "held breath" echo, "watch the body").
+
+Result: all 18 chapters gate-clean (style_check.py RESULT: clean), total **86,726 words** (above 85,000 floor). full-manuscript.md reassembled + 6x9 interior PDF rebuilt. Canon spellings verified (no "Jasen"; Pembrook, rose-tinted intact).
