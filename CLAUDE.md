@@ -139,6 +139,28 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
 ## Status (update this section as you go)
 
+> ### ▶ NEXT SESSION — START HERE: execute the Round-4 revision
+> Book One has had a round-3 line pass (pacing/show-don't-tell/motif variation, all 18
+> chapters, gate-clean, **86,726 words**) plus a full QA sweep. **The next task is to
+> EXECUTE the Round-4 revision plan**, chapter by chapter, with the usual per-chapter
+> discipline (read → fix → `python3 tools/style_check.py` clean → check word floor → commit).
+>
+> - **Plan to execute:** `book/genesis/saeren-chronicles/feedback/revision-plan-round4.md`
+>   (read §7e "Consolidated round-4 priority" first — it's the ordered to-do).
+> - **Supporting diagnostics:** `book/genesis/saeren-chronicles/evaluations/`
+>   — `pacing-map.md`, plus `review/` (genesis-floor-scores, disruptor-differentiation,
+>   info-dump-detector, character-arc-consistency, beta-reader-panel).
+> - **Open with the front-50 pass (Ch.1–3):** seed the "whole-in-a-severed-world" *sensation*
+>   earlier, add an early **misread**, reframe the heirloom note as surveillance-unease, give the
+>   Alice friendship one misfire. Then Pacing #1 (decree-clock) + #2 (measurable greyness) in Ch.10–12.
+> - **Verdict driving this:** strong draft, **not yet submission-ready**; the levers are early-act
+>   pacing, front-50 differentiation, and the scene-end "narrated-meaning" tic. Craft is above gate;
+>   the only systemic weakness is Pacing (Book Floor 7.8 @ Ch.15).
+> - **Constraints:** keep gates green, respect per-chapter ~4,500 floor (Ch.4/Ch.6 run lean → convert
+>   in place, don't net-cut), hold all canon guardrails.
+> - After the pass: reassemble `full-manuscript.md` + rebuild PDF, log in `feedback/progress.md`,
+>   re-run the beta panel. **Production track** (CMYK/front matter/proof) is still open and non-blocking.
+
 - **Book One COMPLETE.** All 18 chapters finalized & committed — **85,045 words**,
   every chapter Genesis Floor ≥ 8.5, full continuity audit clean (0 critical/0
   warning, 3 minor non-blocking). Canon guardrails held throughout.
