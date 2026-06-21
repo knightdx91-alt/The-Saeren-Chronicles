@@ -70,7 +70,7 @@ He led them on through more woods, and every so often he stopped to disable a wa
 
 She got her people down to the fire.
 
-The villagers came out as they passed, and word had clearly run ahead, because some of them murmured condolences to the children, and offered blankets, and a heavy woman with kind eyes scooped up the smallest of the second-years and carried her toward the warmth without being asked. The kindness undid the children where the fear had not; several of them began, finally, to cry, now that it was safe, now that there were arms and blankets and fire. Viridia got them to the central bonfire and saw them settled, and Amber sank down by the fire and stared into it and still did not speak, and Viridia stood a little apart with Lor-ar pressed against her leg, watching the flames, too wired to sit, the cold clear part still standing its watch even here, even now, even where it was finally safe.
+The villagers came out as they passed, and word had clearly run ahead, because some of them murmured condolences to the children, and offered blankets, and a heavy woman with kind eyes scooped up the smallest of the second-years and carried her toward the warmth without being asked. The kindness undid the children where the fear had not; several of them began, finally, to cry, now that it was safe, now that there were arms and blankets and fire. Viridia got them to the central bonfire and saw them settled, and Amber sank down by the fire and stared into it and still did not speak, and Viridia stood a little apart with Lor-ar pressed against her leg, watching the flames, too wired to sit, the watchful part of her still on duty even here, even now, even where it was finally safe.
 
 Jazen came out of the dark into the firelight, wiping sweat from his forehead with a kerchief he then folded into his pocket, his grin not quite reaching his eyes. He wore plain brown trousers and a dark blue shirt, and he looked, in the firelight, very young and very tired and like a man holding a great many things up by main force.
 
@@ -88,7 +88,7 @@ And she watched Jazen go still as she spoke, stiller and stiller, until by the e
 
 "No." Jazen shook his head, hard, once. "They wouldn't have let her escape. Not her. They'd have made sure of her before anything else." He opened his eyes, and they were wet, and he did not bother to hide it, which told Viridia more about him than anything he had said. "They've taken everything from me now. First my sister. Now my mother."
 
-Viridia went very still.
+Viridia went rigid.
 
 "Your mother," she said.
 
