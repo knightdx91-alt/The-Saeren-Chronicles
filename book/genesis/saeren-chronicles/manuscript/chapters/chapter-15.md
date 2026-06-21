@@ -2,7 +2,9 @@
 
 <!-- Word count: ~4950 | Structure: Chronological (EMOTIONAL PEAK / calm before) | Anchor: the last peaceful night, all three of them. -->
 
-Amber came to the door the next morning before Viridia had finished dressing, and she did not knock so much as arrive, the door opening a hand's width on her grin and her dark chipped nails curled around its edge.
+She had slept badly, the well and the thread and the waiting empty place turning under her all night, and woke before the bell and lay watching the grey light come up and sent the sight out once, low, toward the ridges, the way she could not stop herself doing now. The thinning was still there. It had not crossed in the night; small mercy. But it had not gone back either, and somewhere past it a pen was being held above a line. Two clocks, both running. She banked the dread down where it lived and got up to dress, because the day did not care what she had carried back through the seam, and the day still wanted a careful first-year in it.
+
+Amber came to the door before she had finished, and she did not knock so much as arrive, the door opening a hand's width on her grin and her dark chipped nails curled around its edge.
 
 "You're alive," Amber said. "I had a bet with myself. I won."
 
