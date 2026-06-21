@@ -56,8 +56,12 @@ book/genesis/<slug>/
 
 ## Quality gates (both must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
-  no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, **em-dash ≤ 4 per
+  chapter (absolute)**, no NEW cross-chapter repeated phrase (add deliberate motifs to
+  ALLOWLIST), tics under ceiling.
+- **Log every flag** in `feedback/style-flags.md`. If a phrase is flagged 3+ times: promote
+  to the ALLOWLIST if it's a deliberate motif, or add it to the "watch / kill" list if it's an
+  unconscious tic. Track which motifs/phrases keep getting refused so we stop repeating them.
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
