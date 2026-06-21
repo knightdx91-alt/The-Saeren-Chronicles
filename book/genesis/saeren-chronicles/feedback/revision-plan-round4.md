@@ -222,3 +222,62 @@ of a clock the reader already knows is running. None require touching Ch.16–18
 - One full-strength Viridia–Alice scene in the pre-climax run.
 - Reassemble `full-manuscript.md` + rebuild PDF; log the pass in `feedback/progress.md`.
 - Re-run the 5-persona beta panel; aim to lift Critic/Casual to clean "buy" and Hostile off "put back."
+
+---
+
+## 7. Diagnostics sweep (round-3 QA) — findings folded in
+
+Four read-only diagnostics were run against the round-3 manuscript (reports in `evaluations/review/`).
+They strongly converge with this plan and add a few sharp, specific items. Summary + new action items:
+
+### 7a. Genesis Floor scores (`genesis-floor-scores.md`)
+- **Craft is above gate everywhere** (Prose 8.8–9.3, Emotion/World up to 9.4). **The only systemic
+  weakness is Pacing** — the floor dimension in **11 of 18** chapters and in *every* sub-8.5 chapter.
+- **Book Floor = 7.8 (Ch.15).** 8 chapters already pass 8.5 (1,3,5,8,11,13,14,16).
+- **Lowest-Floor priorities: Ch.15, 7, 6, 10, 18** — all slow/clustered; liftable to ≥8.5 *without
+  touching prose*, by de-clustering and adding a clock.
+- **Plan impact:** confirms the §2 priority weighting; **add Ch.15 to the heavy-lift list** (it's the
+  single lowest, and Pacing #5 already targets it). De-cluster the reflective chapters that sit
+  back-to-back (6–7, 9–10, around 15).
+
+### 7b. Differentiation / disruptor (`disruptor-differentiation.md`)
+The book's edge is **real but back-loaded** — the first ~50pp run the genre template straight; the
+"whole-in-a-severed-world" inversion doesn't surface until Ch.7. **New action items (front-50 focus):**
+- **[OPEN] Migrate the *sensation* of the inversion into Ch.1–3** (cold-metal taste, sensing what
+  others can't) without explaining it. *(r3 added the Ch.1 flicker + Ch.3 sensing — push it further/earlier.)*
+- **[OPEN] Break the "composed adult hides something → Viridia detects it" formula:** let her **misread
+  someone early.** A fallibly-perceptive heroine is fresher *and* pre-pays the Ch.16 fatal error (her
+  one catastrophe is overruling her own reading). High value, cheap.
+- **[OPEN] Reframe the heirloom note (Ch.2)** as agency/surveillance unease rather than destiny.
+- **[OPEN] Give the Alice friendship one real misfire** (currently frictionless-instant).
+- **[OPEN] Lean into the bond being *arranged/non-consensual*** (Ch.8 dragon-pact) rather than
+  wish-fulfillment "a dragon chose me."
+
+### 7c. Info-dump / show-don't-tell (`info-dump-detector.md`)
+Book is **well-dramatized**; the real cost is a recurring **"narrated-meaning" tic** — scene/chapter-end
+paragraphs that *tell the reader what the scene just meant.*
+- **[OPEN] One targeted pass cutting/halving the emotion-tail paragraph at each scene/chapter end.**
+  Heaviest **Ch.7** (DEMOTE redundant restatements); moderate **Ch.6** (DISTRIBUTE coin/flame across 6–7),
+  **Ch.14** (DEMOTE the "She thought of Mrs. Zoran… She thought of Amber…" recap), **Ch.16** (the captain's
+  as-you-know confession + Viridia's interior restatement = plot twice mid-battle).
+- **Net-neutral:** reinvest freed words into the lean chapters (Ch.4, Ch.6). Ch.1–4 are clean — leave.
+
+### 7d. Character-arc / competence (`character-arc-consistency.md`)
+Arc-coherent; competence inflation **"real but largely earned"** (power comes from external gifts +
+the re-skinned "noticing" trait + the Tobias skill-cap). Two precise fixes:
+- **[OPEN — HARD] Seed one earlier "inscribe a rune onto an object" beat** before Ch.16, so the
+  distance rune-craft that ends the captain isn't a debut under fire (the text currently admits it is).
+  *(Continuity/believability — pairs with Ch.10–11 work.)*
+- **[OPEN — soft] Lean on the existing Tobias cap (Ch.13)** to justify the Kor-toh / four-spears honor.
+- **[OPEN — low] One small on-page Alice beat in the Ch.11–13 action stretch** (insurance; aligns with
+  Pacing #5).
+- **[Bk2 tracking] Re-home the dateless family-tree-name clue** (its spellbook vehicle burns Ch.16) via
+  the Well's mother-thread or Drake/Varissa.
+
+### 7e. Consolidated round-4 priority (updated)
+1. **Front-50 pass (Ch.1–3):** seed the inversion's *sensation* earlier + the **early misread** + heirloom-as-surveillance + Alice misfire. *(differentiation = the unaddressed market weakness)*
+2. **Pacing #1 (decree-clock) + #2 (measurable greyness)** in Ch.10–12; **de-cluster** the slow reflective chapters (6–7, 9–10).
+3. **Ch.15 lift** (lowest Floor) — clock + compression (Pacing #5 Alice scene lands here).
+4. **Emotion-tail pass** (Ch.7 heaviest, then 6/14/16) — net-neutral show-don't-tell.
+5. **Seed the rune-on-object beat** (Ch.10/11) so Ch.16 rune-craft is earned.
+6. Remaining per-chapter [OPEN] items in §3; then production + fresh betas.
