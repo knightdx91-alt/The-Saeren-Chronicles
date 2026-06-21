@@ -51,7 +51,7 @@ Now she stood at the gate and felt nothing she could name.
 
 Her hand found the stone at her throat without asking permission. Her mother's stone, the smooth dark-blue weight of it, the carved symbols that held a faint light even out here in plain sun. She closed her fist around it and the edges pressed into her palm, steadier than anything else she had. For a moment she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed, and under the warmth a thin taste of cold metal at the back of her tongue. She had felt it before and never told anyone. No one else, she was fairly sure, tasted the gate they walked through. Then it was cool glass again, the taste gone. The sun, she told herself.
 
-She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all. Yet the set of her did not give way: under the shyness was a spine that refused to bend, even when the rest of her wanted to.
+She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all.
 
 Beside her, Aleric Porter had not stopped talking since the motorcar.
 
@@ -135,9 +135,7 @@ Viridia's eye went to her last and stayed longest.
 
 She was not a large woman, but she filled the platform the way certain people fill a space simply by being indifferent to it. She wore a dress in the deep colors of late autumn, burnished gold at the bodice shading to a rose so dark it was nearly wine, with a high collar of emerald green that caught the window light. A pair of rose-tinted spectacles sat low on her nose, and through them her eyes moved down the page with brisk, unhurried attention. Her hair was pinned up. Everything about her was composed and exact and expensive-looking, and then Viridia's gaze dropped, the way it did, to the small wrong detail at the bottom of the picture.
 
-Her shoes were blue. Bright, plain, slightly scuffed blue, the blue of a thing chosen because it was liked rather than because it matched. Under all that careful autumn, the blue shoes were practically shouting.
-
-Viridia did not know why she found that reassuring. She only knew that she did.
+Her shoes were blue. Bright, plain, slightly scuffed blue, the blue of a thing chosen because it was liked rather than because it matched. Under all that careful autumn, the blue shoes were practically shouting, and something in Viridia eased at the sight of them.
 
 Beside her, Amber leaned in, her voice dropped low. "That's Lady Lightwell. The Headmistress. She takes orientation herself every year. Likes to see the new ones with her own eyes." There was something under the words Viridia couldn't read, some private weather, and then it passed. Amber tipped her head toward the front rows. "Take a seat up there. She has it set up so all the new arrivals are sure to hear everything."
 
@@ -150,8 +148,6 @@ And with a small wave of her black-nailed hand she was gone, down the side of th
 There was nothing for it. She went.
 
 The carpet gave under her feet and took her footsteps with it, so that she crossed the front of that bright room in a silence that felt, to her, enormous. A few of the girls glanced up as she passed, a flick of attention, a quick weighing, the brief curiosity reserved for a newcomer, and then went back to their conversations, because she did nothing to hold them. She did not smile too widely or speak too soon. She simply found one of the last empty chairs near the front, on the aisle, and sat, and set her hands in her lap, and let the noise close back over her like water over a dropped stone.
-
-She kept herself motionless. It was easier to disappear if you did not move.
 
 At the desk, Lady Lightwell squared her stack of papers against the wood with two crisp taps, set them down, and at last lifted her head. The rose-tinted lenses swept once across the rows of waiting girls.
 

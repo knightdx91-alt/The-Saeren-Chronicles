@@ -6,7 +6,7 @@ They had not gone ten steps down the carpeted hall before a voice came after the
 
 "There you are."
 
-Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, and the keeping of a small promise sat plainly on her face, pleased with itself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
+Amber caught up with the easy lope of someone who had never once in her life hurried and did not intend to start now. She fell into step on Viridia's left, pleased with herself, a little, the way people are when they have done a kind thing and are glad to be caught at it.
 
 "Told you I'd find you," she said. "I'm very reliable, in the things that don't matter." Her gaze went over Viridia's head to Alice, who was looking up at her with open wonder. "And you've made a friend. Good. Hold on to that one. First-day friends are the ones who knew you before you'd decided who to be."
 
@@ -56,7 +56,7 @@ She picked the rod up. It was lighter than it looked and colder than the room. T
 
 *Keep this with you always.*
 
-Somebody she had never met had packed a thing for her, and folded a note, and arranged the words she would say out loud in a room she had not yet entered. A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.*
+A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.*
 
 She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. The moment it settled against her hip the focus went briefly cold, then warm, a small private greeting, and somewhere at the very edge of her attention something else seemed to turn toward the warmth and take notice. Then it was only a metal rod against her leg, and the room was only a room. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
