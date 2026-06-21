@@ -18,7 +18,7 @@ The text did not call it a crusade. The text called it *consolidation.*
 
 Viridia's pencil stopped. She thought of a beekeeper who could not bring himself to swat a wasp, and of what *consolidation* would have meant for him. She underlined the word with her eye and did not underline it on the page.
 
-She took notes: the years of the wars, the trade laws that had followed, the slow squeeze that had turned the dark-born and then the gift-less into people who got the work nobody else wanted. And once, near the end of the second chapter, in a paragraph plainly included so it could be dismissed, she read a thing that stopped her pencil.
+She took notes: the years of the wars, the trade laws that had followed, the slow squeeze that had turned the dark-born and then the gift-less into people who got the work nobody else wanted. It was all written in the flat untroubled voice of a winner explaining why the winning had been only sensible, and Viridia found she could read the cruelty in the gaps between the dates as plainly as if it had been set down in full, the way she read the thing under a too-smooth face. The book did not lie. It simply declined to feel anything, and left the feeling to her. And once, near the end of the second chapter, in a paragraph plainly included so it could be dismissed, she read a thing that stopped her pencil.
 
 *Certain of the old texts make reference to creatures said to issue from beyond the veil, the so-called Horrors of antiquity, which drained the life from any they touched. No reliable account survives, and the modern scholar may safely regard these as the embroidery of a frightened age.*
 

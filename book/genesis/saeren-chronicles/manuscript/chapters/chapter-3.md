@@ -188,7 +188,7 @@ Her mouth thinned. "I've my own opinion as to why so many are born with no gift 
 
 Viridia did not move. "So it's a dark focus."
 
-"It's an *old* one. Older than the war, I'd guess, from the script and the metal. I've never seen the like of either. It may well have been made when whole was the ordinary thing and nobody thought it strange." She handed the cane back, and Viridia took it in both hands. "It's the strongest focus I've ever held. And it was made for someone with both sides of the gift."
+"It's an *old* one. Older than the war, I'd guess, from the script and the metal. Made, perhaps, when whole was the ordinary thing and nobody thought it strange." She handed the cane back, and Viridia took it in both hands. "It's the strongest focus I've ever held. And it was made for someone with both sides of the gift."
 
 The words sat between them. Mrs. Zoran did not ask the question. Viridia could see her decide, very deliberately, not to ask it.
 
@@ -212,10 +212,8 @@ She turned it slowly. The seam in the orb. The scroll she could not read. *Made 
 
 She turned the cane once more and watched the grey light slide down the white scroll. A focus that had been thirsty long enough to frighten Mrs. Zoran. A focus made for someone whole, in an age when whole had been ordinary, handed down a tree of names a thousand years deep to a girl in a corridor who could not read its writing. It ought to have been too large a thing to hold. It sat balanced and easy in her hand, the way the rod had sat in the loop of her skirt, the skirt sewn around it. As though, somewhere down all those branches, someone had measured her without ever having met her.
 
-She felt curious.
+She felt watched.
 
-Someone had wanted her to have this. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her to keep it always. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* All of it was a door, and behind the grief, very faint, she heard herself want, for the first time since the kitchen, to know what was on the other side of it.
-
-The wanting frightened her a little too. It felt like the first warm thing in a cold house. You did not trust the first warm thing. But you stood near it.
+Not in the room — the corridor was empty. Watched across time. Someone in a strange hand had known she would be here, and packed her a thing thirsty enough to frighten her teacher, and told her in advance what to say to a teacher she had not met. The note. The seam meant to come apart into halves. The name with no dates. Her mother's *circumstances.* It was not a door swung open in welcome. It was a door someone else had already walked through, ahead of her, leaving it on the latch. Behind the grief, very faint, she heard herself want to know who — not the warm wanting of a girl handed a destiny, but the cold steady wanting of one who has found a stranger's footprints in her own house and means to learn whose they are.
 
 Then footsteps somewhere, and a girl's laugh, and the school came back. Viridia slid the cane into the loop at her waist, where it now stuck out absurdly past her knee and there was nothing to be done about it, and went to find Alice on the bench by History, carrying her question quietly, the way she had just been told.

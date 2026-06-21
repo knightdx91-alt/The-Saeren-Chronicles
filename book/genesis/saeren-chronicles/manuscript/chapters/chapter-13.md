@@ -72,7 +72,7 @@ The third was a sick child and an unknown fever, and she chose the healing rod a
 
 Then Quina pushed the fifth button, and Viridia knew at once it was not like the others.
 
-It was older. She felt the age of it the way you feel cold come off stone. She was sitting at a polished marble table, and nine others sat around it, and the light through the high windows was the light of a century she had only read about, and the faces around the table were grave and tired and powerful, and she understood, with a lurch that was entirely her own and not the borrowed mind's, that this was the Great War. The real one. The severing. And the question on the table, the question the nine grave faces were turning over in their low certain voices, was whether to end the war by destroying the strongest dark families to the last child.
+It was older. She felt the age of it the way you feel cold come off stone. She was sitting at a polished marble table, and nine others sat around it. The light through the high windows was the light of a century she had only read about. The faces around the table were grave and tired and powerful, and she understood, with a lurch that was entirely her own and not the borrowed mind's, that this was the Great War. The real one. The severing. And the question on the table, the question the nine grave faces were turning over in their low certain voices, was whether to end the war by destroying the strongest dark families to the last child.
 
 The task was simple. Pick up the rod for *yes,* or the rod for *no.*
 

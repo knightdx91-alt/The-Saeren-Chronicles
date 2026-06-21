@@ -32,9 +32,9 @@ The town hall was a large old stone building near the center of the camp, its wi
 
 He glanced up as Viridia entered, nodded to her, and turned back to the three others in the room. They sat at a long table: a woman on the left in a pale blue dress, older, with silver-and-gold spectacles; a broad sunburned man in the middle, a few years older than Jazen and built like someone who worked outdoors; and on the right a stately older woman with silver hair pulled into a tight bun, a hooked nose, eyes the cold grey of her hair. The old man who had led Viridia in took the seat beside the stately woman, and the council was complete, and Viridia stood at the back by the wall and made herself small and watchful, the old habit, and listened.
 
-"We understand what you're saying, Jazen." The sunburned man's voice held a worn patience, the patience of an argument had many times. "It isn't that simple. We can't mobilize everyone at a moment's notice. We have people here who can't fight. Children. The old. Someone has to protect them."
+"We understand what you're saying, Jazen." The sunburned man's voice held the worn patience of an argument had many times. "It isn't that simple. We have people here who can't fight. Children. The old. Someone has to protect them."
 
-"Brutus is right." The woman in blue spoke gently, but firmly. "We're grieved about your mother. Truly. But grief isn't a strategy. And now that she's gone, we've lost our person inside the capital's reach. Our supply lines, the warnings she sent. Our position here is more precarious today than it was a week ago, not less."
+"Brutus is right." The woman in blue spoke gently, but firmly. "We're grieved about your mother. Truly. But grief isn't a strategy. And now that she's gone, we've lost our eyes inside the capital's reach. Our position here is more precarious today than it was a week ago, not less."
 
 "That is *exactly* my point." Jazen's voice cracked and steadied. "We've lost our inside eyes. We've lost the early warning that kept this place hidden. Hiding worked while we had her. It will not work now." He set both hands flat on the table. "By this time next week I mean to be on the road to the capital. And I'll be taking the only two others who can power these wards with me. So decide quickly which side of that road you mean to stand on."
 

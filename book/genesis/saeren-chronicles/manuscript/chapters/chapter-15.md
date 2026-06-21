@@ -98,7 +98,27 @@ The Chancellor left the next day, by portal, the way he had come, with his two g
 
 But the days that followed were ordinary, and ordinariness, she was learning, was its own kind of mercy. Her classes resumed, the ones she still attended; the night lessons went on in the scorched ring; Raizen came back from the hills, larger again, his speech surer, and slept curled in the rafters of her room or, when the night was warm, took her flying low over the black forest while the school slept. The Dangris came twice and took her apart and built her back. She learned her new core, the vast one, learned how little the old spells cost it now, learned to hold its hugeness down to a flicker by daylight as she had taught herself to hold the dark side closed. She was getting good at being less than she was. It was the most important skill she owned.
 
+Once, midway through those two weeks, a runner came in at dusk, mud to the knees, and was taken straight to Lightwell's office and not seen again that night, and the next morning Amber found Viridia at the spear-corner and said only, low, "They named another one. In the capital. A weaver, this time." And when Viridia asked, *signed?*, Amber said, "Not yet. Drawn up. Sitting on the desk for the second time this month," and went away again before the dread could find a face to wear. The deciding Viridia had felt in the Chancellor was not idle, then. Somewhere a pen was being held above a line, set down, picked up again. The greyness on the ridge and the decree on the desk were the same clock told two ways, and both hands were moving, and neither was moving back.
+
 And in the evenings there were the three of them, when the rotations allowed it, in the warm lamplit room: Alice with her jars and her ward stories, Amber drifting in to lounge and steal and deflect, Lor-ar holding court from the pillow on the worst and best subjects, Raizen offering dry commentary down the bond that Viridia relayed and that made Alice shriek with laughter and demand to know what the dragon had said about her hands. For a span of perhaps two weeks, the worst peace in the world held, and inside it, in a lamplit room in a doomed school, four people and a tiger and a dragon built a small ordinary happiness, the kind nobody writes down because nothing happens in it, the kind you only understand the value of when it is gone.
+
+One of those evenings, the rotations left just the two of them, Viridia and Alice, in the lamplit room, which had not happened in weeks and which Viridia noticed the way she noticed everything she had been quietly missing without letting herself say so.
+
+Alice was sorting her medical jars, holding each up to the lamp and squinting at the half-faded labels, and she said, without turning around, "We don't do this anymore. Did you notice? Just us."
+
+"I noticed."
+
+"I thought it was me being daft." Alice set a jar down a little too carefully. "You've got the tiger, and the night things you don't tell me about, which is fine, it's *fine,* I let people have their things, I'm good at it. And I've got the ward, and the night rotation now, and Amber's always about. So there's never just." She gestured at the small space between their two beds, the populated half and the once-bare one, both lived-in now. "Just the room. The way it was the first night, when neither of us knew anybody and we had to make do with each other." She tried to make it light and did not quite manage it. "I miss it. Is that allowed? You're my best friend and I see you least of anyone I love."
+
+It landed in Viridia the way the truest things did, under the ribs, where she kept the held weight. She thought of the well, and the thread, and the hearth wheeling vast and secret under her own breastbone, and the whole long list of things she carried that Alice would never feel the shape of, the lonely kindness she had chosen in this same room three weeks ago and chose again, silently, now. She could not give Alice the truth. But she could give her the thing under the truth, which was that the not-telling had never once been a not-loving.
+
+"It's not because I don't want to," Viridia said. It was as close to the whole of it as she could come. "Everything I keep from you, I keep *for* you. I need you to believe that, even when I can't show you why. You are not a thing I outgrew. You are the thing I'm trying to keep safe." She heard how much it gave away and did not take it back. "The first night was the best thing that happened to me here, and it happened before any of the rest of it. I haven't forgotten which order it went in."
+
+Alice's eyes went bright, and she let them, because Alice never hid anything. "Now look what you've done," she said thickly. "I was going to be cross with you and you've gone and said a thing." She crossed the small floor and sat down on the edge of Viridia's bed, where Lor-ar made a put-upon noise and resettled, and she leaned her head, briefly, on Viridia's shoulder, the wordless *I'm here* of the very first morning given back the other way around. "All right," she said. "I forgive you for being mysterious. But I want one of these. Just us. Once a week, no tigers, no Amber, no wards. You and me and a closed door and nobody being brave at each other." She lifted her head. "Promise."
+
+"I promise," Viridia said, and meant it with everything she had, and did not know, could not have known, that the week the promise was meant to be kept in would not come.
+
+* * *
 
 She talked about the threat with Raizen, in the night air, where it was safe to say true things. He had a way of cutting through her careful arithmetic to the bone of a thing that she had come to rely on, the way she relied on Lor-ar, only younger and fiercer and without the patience the centuries had taught the tiger.
 
@@ -117,8 +137,6 @@ He was right, and she hated that he was right, and she loved that he would tell 
 "Good," Raizen said, satisfied. "Now we are both standing in the truth. It is a colder place than the lie. But you can build on it, which you cannot build on the lie, and when it comes through the door we will not be the ones it surprises." He banked toward the school, the one lit window growing below. "And it will come through the door. Everything that matters does. You only get to choose whether you are standing ready behind it, or asleep with your back to it." He set down soft on the dark roof. "Tonight you may sleep with your back to it. You have earned one more night of that. Tomorrow we ready ourselves in earnest."
 
 She had meant to. In the days that followed she did begin, after a fashion, drilling harder in the scorched ring, learning her vast new core, making lists in her head of doors and escapes the way Lightwell had taught her to notice things. But readiness is a slow craft, and the worst peace held a little longer, and a little longer, and lulled her, the way a long calm lulls you into thinking the weather will never turn.
-
-She was not as ready as she thought. No one ever is.
 
 * * *
 

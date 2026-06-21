@@ -4,7 +4,7 @@
 
 Amber did not take her to the forest first. She took her into an empty classroom and shut the door.
 
-It was a teaching room that nobody had taught in for a while: chairs upturned on tables, a smell of chalk and disuse, a long board still ghosted with the half-erased diagram of something that might have been a spell or might have been a plumbing repair. Amber checked the corridor before she closed the door, which Viridia noticed, and pulled two chairs down off a table, which Viridia also noticed, and sat in one and gestured at the other, and for a moment said nothing at all, which Viridia noticed most of everything.
+It was a teaching room that nobody had taught in for a while: chairs upturned on tables, a smell of chalk and disuse, a long board still ghosted with the half-erased diagram of something that might have been a spell or might have been a plumbing repair. Amber checked the corridor before she closed the door. Viridia noticed. She pulled two chairs down off a table, which Viridia noticed too, sat in one, gestured at the other, and for a moment said nothing at all, which Viridia noticed most of all.
 
 "You asked me why," Amber said finally. "Out there. Why I'd spend it on you." She turned a chip of nail polish over with her thumbnail. "I gave you three answers and none of them were the one. You knew that."
 
@@ -167,5 +167,3 @@ There was no other word for it. He simply diminished, fur and horns and saber-fa
 Viridia got to her feet, swaying, and Amber got an arm under her, and the three of them started back out of the green underwater light toward the lawns and the grey stone school. And the whole way, Lor-ar, three hundred years old, extinct, a spirit walker by some title Viridia did not yet understand, possessed of magic that had made a teacher sweat just to wake its cousin, ran ahead of them through the long grass and then came tearing back, and ran ahead again, and circled, and pounced at nothing, exactly like an overgrown kitten let out for the first time, and Viridia watched him do it through the fog of her exhaustion and felt, rising up through the drain and the grief and the careful held weight of everything, something warm and entirely unguarded that she had not felt in so long she had half forgotten its name.
 
 It was not grief. That was the remarkable thing about it.
-
-It was not grief at all.
