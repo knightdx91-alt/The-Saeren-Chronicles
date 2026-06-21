@@ -1,0 +1,74 @@
+project:
+  title: "Rosalia"
+  genre: "Fantasy"
+  subgenre: "Epic / political fantasy with romance (dual-POV)"
+  language: "English"
+  word_count_target: 100000
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "In a world where vampires, shifters, and humans are bound by an uneasy treaty, the Queen's secret natural-born daughter and the chief's son who shifts into a long-extinct dragon are thrown together by a grief-driven schemer who exposes her at a banquet — tipping two peoples back into a war neither outsider has a place in."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# GENESIS-FROM-IDEA run — build a new book from the author's story bible.
+adaptation:
+  mode: "genesis-from-bible"
+  canon_sources:
+    story_bible: "research/story-bible.md"   # author canon (Google Drive "Rosalia"); wins over pipeline
+  chapter_1_locked: false
+  chapters_to_produce: []   # set after architect builds the outline
+
+word_floor:
+  manuscript_min_words: 95000
+  manuscript_target_words: 100000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "scaffolded — bible staged; awaiting author decisions, then architect (foundation + outline + voice-dna)"
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "Build to the story bible; honor the inciting-incident beat order and thematic principles. Do NOT contradict author canon below."
+  # --- Settled author canon (from the bible — never violate) ---
+  - "Spelling is 'magyk' (not magic) when naming the in-world power."
+  - "Vampires descend from Atlanteans (a failed disease-cure experiment). Vampire society runs a feudal 'protection' pact over humans; ruled by a Queen with blood magyk."
+  - "Shifters: human until the first full moon AFTER their 16th birthday; first shift assigns them to the clan of their animal; ancestral memory trickles in situationally, never as one info dump. Ruled by a single chief over all clans."
+  - "The Treaty: no NEW vampires may be made (vampires had encroached on shifter lands). It is silent on natural-born vampires because none were thought possible."
+  - "Amelia = Queen's daughter, first natural-born vampire in millennia, inherited blood magyk (which should not be heritable); hidden her whole life; want = to exist openly. No PROOF exists that she is born vs made."
+  - "Korvan = chief's son; UNSHIFTED at the banquet; first shift happens on the journey home (calendar coincidence, NOT magically triggered) and he becomes a DRAGON — a clan of one, no elders/traditions."
+  - "Loric = antagonist, shifter whose father the Queen killed in the last war; motive is emotional (wants the Queen to SUFFER), not strategic; cannot be bought/negotiated; exposes Amelia publicly so the chief loses either way."
+  - "Inciting incident is public exposure at the banquet -> chief forced to declare war -> Korvan goes home under public suspicion."
+
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "SCOPE: single ~100,000-word novel (target 100k, floor 95k). Architect proposes the climax/endpoint within a complete arc."
+  - "AMELIA THREAD: true parallel-POV timeline — cut between Korvan's journey home and Amelia's situation at court throughout."
+  - "LORE: dragon ancestral memory does NOT connect to Atlantis/vampires. Korvan & Amelia's bond is 'parallel outsiders', not shared bloodline."
+  - "QUEEN/LORIC: the Queen does NOT remember killing Loric's father — one wartime kill among many. His vendetta is beneath her notice (tragic irony)."
+
+open_author_decisions:
+  - "Is Korvan's mother alive / does he have siblings?"
+  - "Does the chief know Korvan's connection with Amelia was genuine (not the propaganda figure she'll be made into)?"
+  - "Does Korvan confide the garden meeting to anyone, or carry it alone?"
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/rosalia/."
+  - "Dual-POV (Amelia + Korvan) per the bible's 'dual protagonists' and 'parallel outsiders' theme."
+revision_cycles: 0
