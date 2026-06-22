@@ -83,6 +83,13 @@ ALLOWLIST = [
     "low the way she banked raizen",    # the banking-sight motif: she banks her mana-sight "low the way she banked Raizen"
     "a second half to burn",            # severing motif extension: cores burn on half their wick, not knowing there is a second half to burn
     "near the infirmary district",      # canon location of the healers' workhouse holding Alice (binding setting)
+    "the small doors first",            # Amber's charge / Viridia's vow refrain (Ch.5 -> Ch.6+): try the small doors first
+    "the last of his wick",             # Hiram refrain: a spent man "on the last of his wick" (Ch.4/5/6)
+    "last of his wick",                 # same refrain, shorter window
+    "who else knows",                   # the Conclave moderate's three-word reply (binding hook, Ch.5 -> Ch.6)
+    "the silver bun woman",             # recurring unnamed councillor (canon descriptor: cold arithmetic)
+    "woman with the silver bun",        # same councillor, alternate descriptor
+    "silver bun",                       # same councillor descriptor (short window)
 ]
 
 # n-gram repetition settings
