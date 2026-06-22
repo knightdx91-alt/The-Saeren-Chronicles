@@ -50,8 +50,8 @@ phase:
 
 chapters:
   total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
-  completed: []   # 2026-06-22: prior Ch.1-9 drafts CLEARED at author request; restarting the chapter loop with the book-writer/book-editor agent suite under the hard gate contract. (Old drafts recoverable in git history.)
-  next: 1   # Act One opens at the resistance camp immediately after Book One's ending
+  completed: [1, 2, 3, 4, 5]   # 2026-06-22: re-drafted via book-writer agent suite under the hard gate contract; full style_check clean (em-dash<=4, simile<=4/1k, no distinctive cross-chapter repeats); 24,715 words across Ch.1-5. (Prior Ch.1-9 drafts cleared & restarted; old drafts recoverable in git history.)
+  next: 6   # Act One close: patrol pressure / window narrows; commit remaining days to the peace roads
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
   - "Alice's fate resolved in the first three chapters."

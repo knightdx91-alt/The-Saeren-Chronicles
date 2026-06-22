@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 0   # chapter drafts cleared 2026-06-22; restarting the writer-agent loop from Ch.1. Body below is forward-plan/canon (binding).
+last_updated_chapter: 5   # Ch.1-5 re-drafted via agent suite, gate-clean (2026-06-22). Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
