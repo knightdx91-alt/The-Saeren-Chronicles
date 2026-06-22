@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 5   # Ch.1-5 re-drafted via agent suite, gate-clean (2026-06-22). Body below is forward-plan/canon (binding).
+last_updated_chapter: 6   # Ch.6 drafted via agent suite, gate-clean + evaluator/continuity PASS (2026-06-22). Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -18,7 +18,7 @@ characters:
     grief: "worn inward; NO ONE sees her cry — UNTIL the banked breakdown spends at Jazen's death (Ch.16) / the rebirth (Ch.18)"
     item: "dark-blue stone necklace (mother's); Heart of the Spear pendant beside it (Dangris, Kor-toh)"
     magic: "one whole merged core, post-well a 'furnace'; banks to a flicker by daylight; always-on mana sight; portal-capable; Moravian fluent; shadow-walking (can go anywhere shadow reaches that she has visited); knows the Death symbol once Drake teaches it (Ch.8); CAN mend the severing for all cores at once (the rebirth)"
-    weapons: "4 Damascus spears + quiver"
+    weapons: "4 Damascus spears + quiver (Ch.6: throws 3 in the ward skirmish, keeps the 4th; recovers the thrown 3 off-page after the field clears — inventory stays 4 entering Ch.7)"
     focus: "LOST — silver rod burned at Hazel (Bk1 Ch.16); she bypasses focus via Moravian"
     knows_at_book2_open: "she is whole, not broken; the severing was deliberate; the frayed dark-half thread might be mended; the well/source; the mother-thread she cannot follow; the abstract void-absence at the rim; Lightwell presumed dead; Jazen = Lightwell's son; Alice's fate unknown (resolved alive/captured Ch.3)"
     arc_book2: "the girl who chose who could see her -> the person who decides FOR everyone, once, and carries the unjustifiable"
@@ -68,6 +68,7 @@ named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
   mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "dies shielding the children when the camp is found (Ch.11)"}
   hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", fate: "wounded Ch.6; dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
   abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3", note: "texture; may survive"}
+  ferro: {from: "Ch.6", desc: "camp scout; whistle-signals from the east perimeter (two short + one long = 'seen and coming'); first eyes on the patrol that walks a straight heading at the camp", note: "texture; may recur as scout"}
   council_recur: "Coram (old, soft-voiced); MELLA = the woman-in-blue (pale blue dress, silver-and-gold spectacles, worn locket she clicks when afraid, two grandchildren in camp; named on-page Ch.3); the silver-bun woman (cold arithmetic, unnamed) — recur as texture"
 
 new_characters_book2:

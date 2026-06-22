@@ -1,9 +1,17 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 6 (Act One close)
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–5 RE-DRAFTED via
-the book-writer agent suite, committed to `main`, all gate-clean AND evaluated.** 24,715 words so
+## ▶ RESUME HERE: write Chapter 7 (Act Two opens — "What She Tries First")
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–6 DRAFTED via
+the book-writer agent suite, all gate-clean AND evaluated.** ~30,231 words so
 far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 (Ch.6 done):** Chapter 6 "The Window Narrows" closes Act One — gate-clean
+> (5,455 words; em-dash 4; style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.6;
+> continuity 0 critical / 0 warning / 3 minor, all addressed in ENTITY_STATE). Report:
+> `evaluations/eval-ch6.md`. ENTITY_STATE bumped to ch.6 (Ferro added; Hiram wounded; spear
+> inventory note). Hook into Act Two: Viridia asks Jazen to reach the capital's moderates in
+> person, by shadow, before the march. **Resume at Ch.7** (outline beat ~4,900: the embassy /
+> the dragons — Drake & Varissa consulted; peace attempt #1).
 
 > **2026-06-22 session note:** The author cleared the prior Ch.1–9 drafts and restarted the chapter
 > loop with the book-* agent suite (dispatched as `general-purpose` agents reading
