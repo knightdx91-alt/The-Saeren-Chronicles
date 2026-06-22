@@ -78,6 +78,11 @@ ALLOWLIST = [
     "came out level and stripped",      # the same restraint tell
     "the council that cut",             # "the council that cut us / the world" refrain
     "promised herself she would walk every road",  # the promise refrain (variant)
+    "city that wanted her dead",        # the capital refrain (Ch.8 close + Ch.9): the city that wanted her dead and held Alice
+    "every element in him held still",  # Raizen's banked prismatic core (Ch.8 send-off + Ch.9 capital): all elements held still to avoid throwing light
+    "low the way she banked raizen",    # the banking-sight motif: she banks her mana-sight "low the way she banked Raizen"
+    "a second half to burn",            # severing motif extension: cores burn on half their wick, not knowing there is a second half to burn
+    "near the infirmary district",      # canon location of the healers' workhouse holding Alice (binding setting)
 ]
 
 # n-gram repetition settings
