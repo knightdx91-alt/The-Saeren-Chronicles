@@ -63,6 +63,13 @@ ALLOWLIST = [
     "a name to go with the hands",      # the search refrain (Jazen/Viridia)
     "the people who burned",            # "the people who burned the school" refrain
     "away under the heading",           # "filed X away under the heading she kept for..." (filing motif)
+    "cold clear part",                  # Viridia's observer-self (Book One motif)
+    "on half its wick",                 # the severing: cores "burning on half its wick"
+    "six hundred years",                # the deliberate severing, six hundred years ago/gone
+    "the way hers was whole",           # wholeness refrain
+    "she would walk every other road to its end before the last",  # Viridia's promise refrain
+    "one circle one maybe",             # the Conclave moderate: "one circle, one maybe"
+    "would hear it if it came from the right mouth",   # Lightwell's note refrain
 ]
 
 # n-gram repetition settings
