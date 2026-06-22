@@ -50,8 +50,8 @@ phase:
 
 chapters:
   total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
-  completed: [1, 2, 3, 4, 5, 6]   # ~27,535 words; all gate-clean (em-dash<=4, simile<=4/1k, no distinctive repeats); Ch.1-5 reviewed (Genesis Floor 8.5 all)
-  next: 7   # Act Two: Viridia goes ahead as the "mouth" to the Conclave moderate; Drake & Varissa consulted
+  completed: [1, 2, 3, 4, 5, 6, 7, 8]   # ~37,100 words; all gate-clean (em-dash<=4, simile<=4/1k, no distinctive repeats); Ch.1-5 reviewed (Genesis Floor 8.5 all). Ch.7-8 drafted via book-writer agent under gate contract.
+  next: 9   # Act Two: the meeting with the open-circle man (the 'almost'); glimpse of Alice in the capital
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
   - "Alice's fate resolved in the first three chapters."
