@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 8   # Ch.8 drafted via agent suite, gate-clean + evaluator/continuity PASS (2026-06-22). Viridia now KNOWS the Death symbol (taught by Drake, Ch.8; not yet spent). Peace road #2 closed via capital forgery/broadsheet. Body below is forward-plan/canon (binding).
+last_updated_chapter: 9   # Ch.9 drafted via agent suite, gate-clean + evaluator/continuity PASS (2026-06-22). The moral challenge (Amber: right to remake every core without consent?) stated in full and LEFT UNRESOLVED. Jazen's mirror + backstory canonized. Third peace road (moderate councilor) sent on foot. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -39,7 +39,7 @@ characters:
   jazen:
     role: "resistance leader, most powerful dark mage alive, mid-20s; Lady Lightwell's son"
     physical: "lean/lanky, close-cropped dark hair, brown trousers, dark blue shirt, kerchief; lets his grief show (cries openly)"
-    wound: "sister Jan burned 2 yrs ago; once killed a town's worth of soldiers in grief; terrified of his own power; now his mother dead too"
+    wound: "sister Jan taken ~2 yrs ago by a column of ~80 soldiers marching through a town that had sheltered them; Jazen 'opened' and killed the whole column in grief but did not reach the cart in time (his own working implicated in Jan's death; canon cause 'burned' preserved as ambiguous — keep his guilt the point); terrified of his own power ever since; now his mother (Lightwell) dead too. (Ch.9 canonized the eighty-men / cart / sheltering-town specifics.)"
     arc_book2: "DEVELOP fully across >=4 chapters (1,2,3,4,9,13) — Viridia's mirror — THEN die with full weight"
     death: "BEHEADED by the High Chancellor before both armies (Ch.16) — the hinge of Act Three"
   lor_ar:
@@ -73,7 +73,7 @@ named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
 
 new_characters_book2:
   marick: {status: "NEW — final-beat seed only (Ch.20)", desc: "a man in a laboratory, holding the whole of a magic he never earned, about to make a very bad mistake", note: "DO NOT explain — Book-Three / Masters-of-the-Void thread"}
-  moderate_councilor: {status: "NEW (Ch.9/10)", role: "a capital moderate Viridia tries to reach for a peaceful solution; the 'almost' that fails"}
+  moderate_councilor: {status: "NEW (Ch.9/10)", role: "a capital moderate Viridia tries to reach for a peaceful solution; the 'almost' that fails", contact: "real councilor with a chamber seat (spoken against the war twice and lived); reached via Lightwell's old line, by a man sent ON FOOT (the wire is tapped — Jazen, Ch.9 morning); secret meeting set ~3 nights out = the third/last peace road before the wall (Ch.10)"}
 
 world_rules:
   setting: "trains and motorcars exist"

@@ -1,9 +1,21 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 9 ("The Right" — DIALOGUE-HEAVY; Amber's full moral challenge)
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–8 DRAFTED via
-the book-writer agent suite, all gate-clean AND evaluated.** ~41,082 words so
+## ▶ RESUME HERE: write Chapter 10 ("The Almost" — the third peace road / secret meeting fails)
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–9 DRAFTED via
+the book-writer agent suite, all gate-clean AND evaluated.** ~46,543 words so
 far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 (Ch.9 done):** Chapter 9 "The Right" — the DIALOGUE-HEAVY moral spine — gate-clean
+> (5,461 words; em-dash 3; style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.5, avg
+> ~9.0; continuity 0 critical / 0 warning / 4 minor enrichments). Report: `evaluations/eval-ch9.md`.
+> Amber's full consent challenge LANDS and Viridia honestly loses the argument without conceding the
+> action ("I can't claim I have the right" / "I can't promise you that either"); Amber puts herself
+> on the table (she'd have her self-shattered core healed against her will); Jazen's mirror (the
+> power he won't use; the eighty men / his sister Jan). Question LEFT UNRESOLVED per the beat. Hook:
+> the third/last peace road — a chamber-seat moderate councilor will meet in secret ~3 nights off,
+> reached via Lightwell's old line by a man sent ON FOOT (wire tapped). ENTITY_STATE bumped to ch.9
+> (Jazen wound + moderate_councilor enriched). **Resume at Ch.10** (outline ~4,900): "The Almost" —
+> the secret meeting; the peace that nearly works and fails; the war becomes unavoidable.
 
 > **2026-06-22 (Ch.8 done):** Chapter 8 "Dust to Dust" — gate-clean (5,131 words; em-dash 0;
 > style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.5, avg 8.79; continuity 0

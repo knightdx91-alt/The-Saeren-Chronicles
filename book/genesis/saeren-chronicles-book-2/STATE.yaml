@@ -51,8 +51,8 @@ phase:
 
 chapters:
   total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
-  completed: [1, 2, 3, 4, 5, 6, 7, 8]   # 2026-06-22: drafted via book-writer agent suite under the hard gate contract; full style_check clean. Ch.8 (5,131 words; evaluator Floor 8.5; continuity PASS 0 critical/0 warning): Death symbol taught; peace road #2 forged shut; Amber confronts. ~41,082 words across Ch.1-8.
-  next: 9   # "The Right" — DIALOGUE-HEAVY: Amber's full moral challenge (consent to remake every core)
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9]   # 2026-06-22: drafted via book-writer agent suite under the hard gate contract; full style_check clean. Ch.9 (5,461 words; evaluator Floor 8.5, avg ~9.0; continuity PASS 0 critical/0 warning): the moral spine — Amber's full consent challenge, left unresolved; Jazen's mirror. ~46,543 words across Ch.1-9.
+  next: 10   # "The Almost" — the third peace road (the secret meeting with the moderate councilor) fails
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
   - "Alice's fate resolved in the first three chapters."
