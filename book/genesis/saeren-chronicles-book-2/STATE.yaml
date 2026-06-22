@@ -32,9 +32,14 @@ adaptation:
 # and the 'KEY ADDITIONS NEEDED FOR BOOK TWO' list, then the chapter loop runs.
 
 word_floor:
-  manuscript_min_words: 90000   # Book Two target band is 90-100k
+  manuscript_hard_min_words: 85000   # AUTHOR HARD FLOOR (2026-06-22) — must not fall below
+  manuscript_min_words: 90000   # Book Two target band is 90-100k (aim for headroom)
   manuscript_target_words: 95000
   per_chapter_min_words: 4600
+
+style_constraints:   # AUTHOR (carried from Book One; 2026-06-22)
+  max_emdash_per_chapter: 4     # enforce: python3 tools/style_check.py --max-emdash 4
+  pacing_note: "Ch.1-5 must keep BRISK pacing — front-load active beats / forward motion; avoid Book One's slow introspective opening. Each early chapter ends on a concrete pull, not a reflection."
 
 phase:
   current: 3          # architect DONE (foundation.md + outline.md + ENTITY_STATE.yaml); ready for the chapter loop
