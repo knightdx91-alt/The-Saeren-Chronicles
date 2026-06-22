@@ -52,13 +52,13 @@ Inside, on a bed of black velvet, lay a slim silver rod with a rounded head at o
 
 That was all. No name. No *love.* No spirits-guide-you. Just an instruction, and the more she looked at it the less it read like a gift and the more it read like a hand on her shoulder she had not felt arrive. Someone had known she would be asked a specific question, in a class she had not yet attended, by a teacher she had not yet met, and had decided in advance what her answer would be. *Tell her no.* It was not phrased as advice. It was phrased the way you tell a thing to a person you are managing.
 
-She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it, the mark of something meant to come apart into two halves and then mended, or never quite finished. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone. She could no more read them than she could read the wind.
+She picked the rod up. It was lighter than it looked and colder than the room. The rounded head had a single line running through it, the mark of something meant to come apart into two halves and be mended. Down the body ran fine scrollwork and, in among it, words in the same not-quite-language as the carvings on her stone, and she could no more read them than she could read the wind.
 
 *Keep this with you always.*
 
 A grieving, guarded girl does not read that as destiny. She read it the way she read a too-smooth face across a table: not *who chose me* but *who has been arranging me, and for how long, and what for.*
 
-She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. The moment it settled against her hip the focus went briefly cold, then warm, a small private greeting, and somewhere at the very edge of her attention something else seemed to turn toward the warmth and take notice. Then it was only a metal rod against her leg, and the room was only a room. Then she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
+She slid the rod into the loop she found sewn at the waist of her skirt, where it sat as if the skirt had been made around it. The moment it settled against her hip the focus went briefly cold, then warm, a small private greeting, and somewhere at the very edge of her attention something else seemed to turn toward the warmth and take notice. Then it was only a metal rod against her leg, and the room was only a room, and she pushed all three suitcases under the bed, the books and the focus and the note and her folded ordinary clothes, the whole inheritance of her, out of sight.
 
 "You're quiet," Alice said, from her own bed.
 
@@ -184,7 +184,7 @@ She traced upward. The names meant nothing and everything, strangers who had her
 
 And then, near the middle, where the tree was perhaps four hundred years deep, one name with no dates beside it at all.
 
-Every other name had dates, born, and died, the small brackets of a life. This one had neither. Just the name, sitting on its branch with a line going down out of it into the rest of the tree, connected to everything, accounted for by nothing. She put her finger on it. She could not have said why it pulled at her. Only that her eye had gone to it the way it went to blue shoes, to chipped nails, to the one thing in a careful arrangement that did not match, and that her mother, who had drawn this page, had let it stand.
+Every other name had dates, born, and died, the small brackets of a life. This one had neither. Just the name, sitting on its branch with a line going down out of it into the rest of the tree, connected to everything, accounted for by nothing. The name itself meant nothing to her; she was nearly certain she had never heard it spoken, not in any story, not in any of the histories she'd been made to read. A stranger on her own branch. She put her finger on it. She could not have said why it pulled at her. Only that her eye had gone to it the way it went to blue shoes, to chipped nails, to the one thing in a careful arrangement that did not match, and that her mother, who had drawn this page, had let it stand.
 
 She would have looked longer. But the page after the tree was a letter, and she had not known there would be a letter, and once she had seen her own name in her mother's hand at the top of it she could not have stopped reading it to save her life.
 

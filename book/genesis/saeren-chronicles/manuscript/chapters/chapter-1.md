@@ -49,7 +49,7 @@ She had been excited, once. Three days ago, a lifetime ago, she had torn open th
 
 Now she stood at the gate and felt nothing she could name.
 
-Her hand found the stone at her throat without asking permission. Her mother's stone, the smooth dark-blue weight of it, the carved symbols that held a faint light even out here in plain sun. She closed her fist around it and the edges pressed into her palm, steadier than anything else she had. For a moment she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed, and under the warmth a thin taste of cold metal at the back of her tongue. She had felt it before and never told anyone. No one else, she was fairly sure, tasted the gate they walked through. Then it was cool glass again, the taste gone. The sun, she told herself.
+Her hand found the stone at her throat without asking permission. Her mother's stone, the smooth dark-blue weight of it, the carved symbols that held a faint light even out here in plain sun. She closed her fist around it and the edges pressed into her palm, steadier than anything else she had. For a moment she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed, and under the warmth a thin taste of cold metal at the back of her tongue. She had felt it before and never told anyone; it answered her own feeling, she thought, warming when her pulse climbed and cooling when she did, as though it ran on whatever she was holding down. No one else, she was fairly sure, tasted the gate they walked through. Then it was cool glass again, the taste gone. The sun, she told herself.
 
 She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all.
 
@@ -61,7 +61,7 @@ Beside her, Aleric Porter had not stopped talking since the motorcar.
 
 "Four years here, then on to a proper specialty school. Healing's the prestigious route, of course. But there's intelligence work, therapy, the building disciplines. A great many doors are about to open for you. That's the thing to hold on to."
 
-A great many doors. Viridia thought of one that had closed three days ago and would not open again no matter how she stood in front of it. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it.
+A great many doors. Viridia thought of two that had closed three days ago — her mother and father, three days dead — and would not open again no matter how she stood in front of them. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it.
 
 "I know it's a great deal of change," Aleric went on, and for one moment his voice dropped out of its bright register into something gentler, almost careful. He glanced down at her. "Especially with everything that's happened. But it really is for the best. You believe me, don't you?"
 
@@ -149,9 +149,9 @@ There was nothing for it. She went.
 
 The carpet gave under her feet and took her footsteps with it, so that she crossed the front of that bright room in a silence that felt, to her, enormous. A few of the girls glanced up as she passed, a flick of attention, a quick weighing, the brief curiosity reserved for a newcomer, and then went back to their conversations, because she did nothing to hold them. She did not smile too widely or speak too soon. She simply found one of the last empty chairs near the front, on the aisle, and sat, and set her hands in her lap, and let the noise close back over her like water over a dropped stone.
 
-At the desk, Lady Lightwell squared her stack of papers against the wood with two crisp taps, set them down, and at last lifted her head. The rose-tinted lenses swept once across the rows of waiting girls.
+At the desk, Lady Lightwell squared her stack of papers against the wood with two crisp taps, set them down, and at last lifted her head. The tinted lenses swept once across the rows of waiting girls.
 
-The stone at Viridia's throat went warm. Not the faint warmth of the gate this time. It pulsed once, hard, a heartbeat that was not hers, and the carved lines flared bright enough that she clapped her hand over it before she could think. When she looked up the rose-tinted lenses had stopped moving. They had stopped on her. For a half-second, no longer, Viridia had the distinct and uncomfortable sensation of having been seen. Not glanced at. Seen, the way her mother used to see her across the breakfast table, as though the surface were not the interesting part. Then the lenses moved on, and the stone went cool under her palm, and there was no telling whether the Headmistress had marked it or whether she had only wanted, badly, to be wrong.
+The stone at Viridia's throat went warm. Not the faint warmth of the gate this time. It pulsed once, hard, a heartbeat that was not hers, and the carved lines flared bright enough that she clapped her hand over it before she could think. When she looked up the lenses had stopped moving. They had stopped on her. For a half-second, no longer, Viridia had the distinct and uncomfortable sensation of having been seen. Not glanced at. Seen, the way her mother used to see her across the breakfast table, as though the surface were not the interesting part. Then the lenses moved on, and the stone went cool under her palm, and there was no telling whether the Headmistress had marked it or whether she had only wanted, badly, to be wrong.
 
 Then the moment let go. The Headmistress clasped her hands, and the bright chatter began, all on its own, to fall away.
 
@@ -181,7 +181,7 @@ Before either of them could mend it, a clear voice cut across the hall from the 
 
 "Good morning."
 
-Lady Lightwell had risen. She stood very straight behind the desk, hands resting lightly before her, and her rose-tinted gaze moved unhurried across the rows. She did not raise her voice. She did not have to; the room had already given itself over to her.
+Lady Lightwell had risen. She stood very straight behind the desk, hands resting lightly before her, and her gaze moved unhurried across the rows. She did not raise her voice. She did not have to; the room had already given itself over to her.
 
 "Welcome to Hazel. Some of you have waited a long time to sit in those chairs. Some of you have family who sat in them before you." A small pause, weightless and precise. "And one or two of you, perhaps, are still wondering whether you have made some kind of mistake in coming."
 
