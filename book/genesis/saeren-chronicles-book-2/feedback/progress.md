@@ -1,9 +1,28 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 7 (Act Two opens — "What She Tries First")
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–6 drafted via
-the book-writer agent suite, committed to `main`, all gate-clean.** ~30,200 words so
-far (toward the 85,000 hard floor / 90–100k target).
+## ▶ RESUME HERE: write Chapter 10 (Act Two — "the almost")
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–9 on `main`, all
+gate-clean.** ~46,300 words so far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 — Ch.6–9 ADOPTED from the `claude/epic-wozniak-c456df` branch (author decision).**
+> That branch held a more-complete prior run: its Ch.1–5 are byte-identical to main, and it also had
+> gate-clean drafts of Ch.6–9. The author chose the EPIC through-line over the freshly-written
+> no-deaths Ch.6. Key consequence: **Ch.6 is now the version where Viridia KILLS to keep the secret**
+> (two dead by her hand, the seer blinded; Hiram takes a blade holding the screen) — the blood-guilt
+> cost ("four men, four families not yet told") that Ch.7–9 build on. The earlier agent-written
+> no-deaths Ch.6 was discarded.
+> - **Canon scrub on adoption:** epic predated the 2026-06-22 age ruling and stated her age on-page
+>   ("five foot five and fourteen"; "the fourteen-year-old"; Varissa "you are fourteen"; Amber "a
+>   fourteen-year-old in a wood"). All FOUR age numbers removed (→ "child"/"slip of a girl"/dropped)
+>   to honor "no age number on-page until the turn-to-15 beat is placed." ("fourteen months" in Ch.9
+>   is a duration, kept.)
+> - **Gates (full book 1–9):** style_check --max-emdash 4 RESULT: clean (em-dash ≤4 every chapter; no
+>   distinctive cross-chapter repeats — fixed one I introduced, "resistance leader and the girl").
+>   rhythm_check: Ch.6–9 have ZERO flat reflective triplets (all flags are sanctioned action anaphora;
+>   Ch.7 has none at all). Book One rhythm lesson satisfied.
+> - **STILL PENDING (do before/with Ch.10):** a book-evaluator (Genesis Floor ≥ 8.5) + continuity pass
+>   on the adopted Ch.6–9, and an ENTITY_STATE refresh (new texture: the blinded capital seer w/
+>   true-glasses; Hiram now blade-wounded + cannot hold a ward; confirm Drake/Varissa beats in Ch.7).
 
 > **2026-06-22 — Ch.6 "The Window Narrows" DONE (closes Act One).** Drafted by the book-writer agent
 > under the hard gate contract WITH the Book One rhythm lesson added to the gate (tools/rhythm_check.py
