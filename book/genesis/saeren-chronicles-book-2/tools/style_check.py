@@ -72,6 +72,7 @@ ALLOWLIST = [
     "would hear it if it came from the right mouth",   # Lightwell's note refrain
     "the man with the open circle",     # the Conclave moderate refrain
     "leave the open circle",            # Lightwell's mark refrain
+    "burning on half its wick",         # the severing motif (cores burn on half their wick)
 ]
 
 # n-gram repetition settings
