@@ -90,6 +90,20 @@ book/genesis/saeren-chronicles/
    `book-disruptor` → `book-evaluator` → `book-editor`). If subagents can't be
    dispatched in your environment, run one `general-purpose` agent that performs
    each role itself by reading `~/.claude/agents/*.md`.
+
+   > **STANDING AUTHOR DECISION (2026-06-22): USE THE AGENTS for the book-writing
+   > suite.** The author has approved (and prefers) dispatching the book-* writer
+   > and reviewer agents for drafting and reviewing chapters — do NOT default to
+   > hand-writing chapters inline. Dispatch a writer agent per chapter under a HARD
+   > GATE CONTRACT: do not return until the chapter is (a) ≥ the per-chapter word
+   > floor (Book Two: ≥4,600–4,700; see STATE.yaml), (b) em-dash ≤ 4 (run
+   > `python3 tools/style_check.py --max-emdash 4`), (c) `RESULT: clean` on the
+   > whole style run, and (d) voice-matched to Book One. The agent self-runs the
+   > tool and iterates until it passes; the parent only reviews and commits. Run
+   > chapters SEQUENTIALLY (each needs the prior finalized chapter for voice +
+   > plot + ENTITY_STATE continuity). Use a reviewer agent (book-evaluator +
+   > continuity-guardian) on each batch. This avoids the under-length / repeated-
+   > phrase churn that comes from drafting by hand.
 4. For each chapter N: locate its material in `research/original-draft.txt` and
    REVISE/EXPAND to the roadmap beats — do NOT invent from scratch. Match the
    voice of `chapter-1.md`. Then run the gates (below). Commit per chapter:
