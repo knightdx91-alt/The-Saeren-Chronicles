@@ -1,0 +1,121 @@
+# Chapter 4: His Mother's Papers
+
+<!-- Book Two, Ch.4 | spiral (returns through Lightwell's cache) | em-dash <=4 | keep moving -->
+
+The papers were kept in an oilcloth roll inside a locked iron box inside a hollow under the floor of Jazen's house, which told Viridia, before she had read a word of them, that Lady Lightwell had expected the worst and planned around it, because a person who hides a thing in three nested skins is a person who has already imagined the hands that will come looking.
+
+Jazen lifted the box out and set it on the table between them in the morning light, and did not open it at once. He sat with his hands flat on the lid, and Viridia waited, because she had learned that a man approaching a dead parent's things needs the same room she needed, and that the kindest thing she could do was give it without naming that she was giving it.
+
+"She sent these out on the last supply run before the school burned," he said. "I didn't know that's what they were. The carter handed me a box and a word, and the word was, if I don't send for these myself within the month, they're yours, and you'll know what to do, which is a thing my mother said to me my whole life and which was never once true. I never knew what to do. I knew what she wanted, which is different." He turned the small key. "I've opened the box. I've held the roll. I have not unrolled it. I kept finding reasons. And then you walked into my camp with her last words in your mouth, and I ran out of reasons, because the only honest one left was that I'm afraid of it, and I've decided I'd rather be afraid of it with someone she'd have trusted than alone."
+
+"She might not have trusted me," Viridia said. "She knew me six weeks."
+
+"She didn't put your name in a letter," Jazen said. "I keep telling you that because I keep meaning it more. She put a hundred names in letters. She risked a line for a student she was proud of, a word for one she meant to pull out. You, she wouldn't risk so much as an initial. That's not how you treat a girl you've known six weeks and find promising. That's how you treat the one thing you've spent your whole life building toward and would burn the world before you'd let fall into the wrong ledger." He unrolled the oilcloth. "So. Let's find out what she was building."
+
+***
+
+The roll held more than Viridia had expected, and less than it should have, because Lightwell had written everything in a hand that assumed the wrong eyes, which was to say she had written almost nothing plainly. There were routes, drawn as though they were a child's map of an invented country, the river settlements given the names of flowers, the capital a place called Thorn. There were lists of names with no surnames, each tied to a flower-town, which Jazen read off slowly and translated as he went, this one a family they'd pulled out four years ago, this one a boy who hadn't made it, this one a woman who ran a safe house under a baker's sign. There were sums of money disguised as recipes. It was the work of a woman who had spent fifteen years certain that one day someone would read her papers who must not understand them, and Viridia, turning the pages, felt a strange grief for a person she had barely known, because she recognized the hand exactly. It was her own habit, grown old. It was a whole life lived in code so that the truth could not be taken out of you by anyone who took you.
+
+"She thought like me," Viridia said, before she could decide not to.
+
+"She thought like you," Jazen agreed, not looking up. "It's the thing I keep tripping over. I grew up inside this hand. I can read it the way you read a face. And every page of it sounds like you, and you never met her but for six weeks across a desk, and I can't make the arithmetic come out, unless." He stopped.
+
+"Unless she taught us both the same thing," Viridia said. "Separately. Without either of us knowing the other existed."
+
+"Unless that," Jazen said quietly, and turned the page, and there it was.
+
+It was a smaller sheet, folded once, tucked between two pages of flower-towns as though it had been put somewhere it could be found by the right reader and overlooked by the wrong one, and it was written in a different hand from all the rest, a plain hand, unguarded, the hand of a woman not writing in code, and Viridia knew it before Jazen had smoothed it flat, because she had seen it once before, folded around a silver focus, in the dark, three days after the world ended.
+
+*Keep this with you always,* the note said. *It was your mother's, and her mother's, and it knows the way even when you do not. You will not understand this yet. You were not meant to, yet. Be careful who you let see you do it. You were chosen, and not by me. — A friend.*
+
+Viridia sat very still.
+
+She had read those words once before, in the worst week of her life, packed around the silver focus that had burned at Hazel, in a hand she had not recognized and had spent six weeks half-wondering about and then lost the wondering under everything else. She had thought, when she thought of it at all, that it had come from her mother, written before, left behind. But her mother's hand she knew. This was not it. This was the hand on the page in front of her, the plain unguarded hand that broke, just once, out of fifteen years of code, to write eight words to a child it would not name even in its own secret papers.
+
+"That's her writing," Jazen said. He had gone very quiet. "The plain hand. She only wrote plain when it was for someone she loved and didn't expect to see again. I've three letters in that hand, all to me, all from years she thought she might die." He looked at the note, and then at Viridia, and she watched him arrive at it the same moment she did. "You've seen this before."
+
+"It came with my focus," Viridia said. The words came out level and stripped, which was the only way they could come out. "After my parents died. Folded around it, in the post, no return. I didn't know the hand. I thought it was my mother's, left behind. It wasn't. I knew it wasn't and I let myself believe it anyway, because believing it was a comfort and I had so few." She touched the edge of the sheet, not quite the words. "It was hers. Your mother sent me my own focus, with a note, before I ever arrived at her school. She knew me before I walked through her gate. She was waiting for me. The whole six weeks I thought I was hiding from her, she had already chosen me, and packed me a focus, and told me to be careful who I let see, and signed it *a friend* so that if it fell into the wrong hands it would mean nothing." She found she could not quite get the next part to her mouth on the first try, and got it on the second. "She was protecting me before she met me. And I never knew, and I can't thank her, and she's dead, presumed, in a hall I couldn't reach, the same as Alice, the same as everyone, and I am beginning to think the whole shape of my life was built by people who loved me from a distance and made sure I would never find out in time to tell them."
+
+Jazen did not say anything for a while. He had a sister he had not saved and a mother in the same column now, and he knew better than to reach for comfort, and he let the silence be the thing it was, which was two people sitting with the particular grief of being loved in secret by the dead.
+
+"*You were chosen, and not by me,*" he read at last, softly. "Not by me. Then by whom? She didn't choose you. She says so, in her own plain hand, to you, when she had no reason to lie. Someone chose you, and my mother knew it, and spent her life clearing your road, and she's telling you here that the choosing wasn't hers to take credit for." He looked up. "Do you know what that means?"
+
+"No," Viridia said, which was true, and was also the first thing she had said all morning that did not cost her anything, because the not-knowing was clean, at least. It was a mystery with no grief attached yet. "I don't. I touched something once that might have known. A thread, in a deep place, with my mother's name on it, running down past where I could follow. Maybe that. Maybe nothing. I don't know who chooses, or how, or whether *chosen* is a kindness or a sentence. I only know that two women I loved, my mother and yours, both seem to have spent their lives making sure I'd be ready for a thing neither of them lived to name." She folded the note, carefully, along its old crease. "May I keep this."
+
+"It's addressed to you," Jazen said. "It always was. Yes."
+
+***
+
+There was one more thing in the roll, and they almost missed it, because it was on the back of a page of flower-town accounts, where a person would not think to look, and it was not in either of the hands they had been reading. It was older. The ink had gone brown. It was a fragment of something larger, torn or cut along one edge, and it was a list of names arranged in the branching way that Viridia knew at once, because she had seen its like before, burned now, in the front of her mother's spellbook: a family tree.
+
+"That's not her hand either," Jazen said, frowning. "That's old. Why would my mother keep a scrap of someone's family tree in with the safe-house accounts."
+
+But Viridia had stopped listening, because she was reading the names, and the names were arranged in pairs going back, the way such trees were, a mother and a father joined by a line to the children below, generation on generation, and they were ordinary names, the names of ordinary people, and the tree was patient and complete and exactly what such a tree should be, except for one line, near the bottom, where a single name hung from no pair at all. It did not descend from a marriage. It did not branch from a parent. It simply was, written in beside the others as though it belonged, joined to the tree by a single thin line that ran not up, to a mother and father, but sideways, to nothing, to the torn edge of the page, to whatever had been cut away.
+
+She did not recognize the name. That was not the point. The point was the shape of it, the one name in a tree of pairs that had come from no pair, that fit the pattern of belonging and broke the pattern of begetting, the one line that did not descend but arrived.
+
+"Viridia," Jazen said. "You've gone the color of the page."
+
+"It's nothing," she said, which was a lie, and which she gave him because she did not yet have a true thing to give in its place, because she did not understand it, because the spellbook that had held the other half of this had burned in a corridor she had not been able to reach, and she had thought that seed lost, and here it was again, in a dead woman's papers, the same wrong shape, the one name that does not fit the pattern of the others, waiting for her a second time as though it did not intend to let itself be lost. "My mother had one too. In her book. The same kind of name. I thought it burned. I'd put it away." She looked at Jazen. "Your mother kept a piece of it. Why would your mother keep a piece of my family's tree."
+
+"I don't know," Jazen said, and she believed him, because his bafflement was the honest kind. "I don't know that it's yours. It could be anyone's. It could be a thing she was given to hold." He studied the brown ink. "But she kept it with the most protected papers she owned, on the back of a page, where only the right reader would turn it over. She hid it the way she hid you. That's not nothing, whatever you say." He rolled it carefully back into the oilcloth. "Keep this too. Both of them. She left them for the reader who'd understand, and I've spent twenty minutes watching you understand things I've held for a month and didn't, so I think the reader's you, and I think we both knew that before we opened the box."
+
+***
+
+She helped move the camp that afternoon, because the decision had been made and the doing of it had begun, and because her hands needed the work after the morning, and because the moving of the camp was the clock of the whole book ticking down where everyone could hear it.
+
+It was a quiet, terrible thing to watch a village take itself apart on purpose. Mella had the lists already, drawn from the council, and the first small group was to go that very night, six children and two grandmothers and a man with a bad chest, walked south to a flower-town by people who would come back for the next group, and Viridia carried bundles and rolled bedding and lifted what wanted lifting, and watched Mirelle at the long table teaching letters to children who would not be at the table tomorrow, because Mirelle had decided, Viridia learned, to keep the lessons going to the very last morning, on the grounds that a child walked out of its home in the dark is steadied by the ordinary thing it did the day before, and that there would be time enough for the world to be frightening and no need to start early.
+
+Viridia stopped, with a roll of bedding in her arms, and watched Mirelle wait, in her patient way, for a small girl to find a letter on her own, the baby on her hip turning its solemn face to the slate, and she thought: this is the thing. This is the thing under the argument I had on the rise. Not the cores, not the lattice, not the symmetry of the act. This. A woman teaching letters to children on the last morning of a home, so the leaving will be gentler. If the world woke tomorrow whole, every core mended, Mirelle would still be teaching letters, and the children would still be hers, and the only difference would be that no one would ever again be able to put her in a wagon for the half of her gift she was born with. That was what the act was for. Not power. This. And she filed it, not under a heading, but somewhere deeper, where she kept the few things she did not intend to let an argument talk her out of.
+
+"You're staring," Mirelle said, without looking up, in exactly the way Viridia's mother used to know things without looking up, and Viridia startled. "It's all right. Everyone stares at the last lessons. They think it's strange, that I keep on. Come here, if you're going to stand about. Hold the baby. He's heavier than he looks and my arm's gone to sleep."
+
+And Viridia, who did not know how to refuse a thing said that plainly, set down the bedding and took the baby, who was indeed heavier than he looked, and who studied her face with the frank attention of a creature not yet taught to hide what it felt, and she stood holding a warm solemn child at the edge of a long table on the last morning of a home, and did not try to be useful, and only held him, and Mirelle taught, and the children found their letters, and the camp came quietly apart all around them in the bright cold afternoon.
+
+***
+
+She came on Hiram by accident, late in the day, carrying a roll of canvas past the north anchor-post, and she nearly walked into him before she saw him, because he was sitting on the ground with his back against the post itself, which no one was supposed to do, the posts being sacred in the practical way of things a whole village depends on, and he was grey to the lips and his hands were shaking where they rested on his knees, and the thread that ran up out of him into the great curve of the screen was guttering so badly now that she could see the camp's invisible roof flinch with it, a stutter in the light at the edges of the world that no one else would feel until the day it stopped.
+
+"I'm only resting," he said, when he saw her seeing him. His voice had the careful evenness of a man who has worked out exactly how many words he can spend. "Don't fetch anyone. There's nothing to fetch them for. A man can sit down."
+
+"You can," Viridia agreed, and crouched a little distance off, not crowding him, with the canvas still on her shoulder, because a person too proud to be helped is helped only sideways or not at all. "I won't fetch anyone."
+
+He studied her with red-rimmed exhausted eyes. "You're the girl who sees the wards," he said. "Jazen told me. Said there was a first-year who clocked me failing in four days, from outside the work entirely, and that I wasn't to be offended, because she clocked everything." A ghost of something that wanted to be humor. "Well. You see it. There it is. Two of us left to do the work of three, once he marches, and one of the two is sitting on the ground at midday because he stood up too fast. I won't last the holding, and we both know it, and the one mercy in the whole business is that I'll last long enough to get the children out, and after that it doesn't much matter."
+
+And Viridia, crouched in the cold afternoon with a roll of canvas on her shoulder, felt the temptation come up in her clean and quiet and enormous. She could mend him. Not the world. Just him. She could reach the smallest thread of the fire she kept banked behind her ribs across the little distance between them and pour it into the failing root of his power and he would hold steady for a year, for two, and the children would have a roof and the camp would have a corner back and a tired good man would not have to spend the last of himself holding up a box of air. It would cost her almost nothing. It would cost him only the knowing, and she could do it so he never knew, in the dark, the way she did everything.
+
+And the moment she did it, she would have decided, for Hiram, without asking Hiram, that his core was hers to reach into and rearrange, however kindly, however quietly, because she had judged that she knew better than he did what should be done with the deepest part of him. It was the whole argument from the rise, shrunk down to one tired man against a post, and it was somehow worse small, because here she could see his face.
+
+"What's your name," she asked instead. "Your whole name. Not Hiram-the-ward. The rest of it."
+
+He blinked, thrown. "Hiram Vell," he said. "Why."
+
+"Because you said after the children it doesn't much matter," Viridia said, "and I wanted to say a thing to a person and not to a post. It matters, Hiram Vell. The holding matters and the man doing it matters and I see both, and I will not pretend I only see the one because the man would rather I did." She stood, and shifted the canvas. "Rest as long as you like against the post. I'll walk past again in an hour, loudly, so you've warning to be standing if you want to be. I won't fetch anyone. Nor will I do that other thing, the one you'd hate, though I could, and I want you to know that I could, and that the reason I won't is that it's yours and not mine, and I've decided that has to mean something even when it costs."
+
+She left him there, against the post, and did not look back, and did not lend him so much as a flicker, and it was one of the hardest small things she had ever done, and she did it on purpose, and she filed it somewhere very deep, because she suspected she was going to need to remember, later, that she had once been able to stand over a dying man she could save and not reach in without his leave. She suspected she was going to need the evidence.
+
+***
+
+It was Jazen who found the road, or the start of one, going back through the papers that evening by lamplight while Viridia sat across from him with the baby's weight still ghosting in her arms.
+
+"There's a name here that isn't a flower-town," he said slowly. "It's in the lists, but it's marked differently, with a small open circle instead of the closed one she used for our people. I always read the open circle as *not ours, but not against us.* A maybe. There's only one, and it's a man, and the note beside him says *speaks at the Conclave, would hear it if it came from the right mouth.*" He looked up. "The Conclave is the light mages' council. The ones who actually argue policy, under the Chancellor, the ones who voted the decree he signed. Most of them are true believers or cowards. But my mother thought one of them, just one, would *hear it,* if the right person said the right thing." He sat back. "She never used him. I don't know that she ever found the right mouth, or the right thing, or the right moment. But she marked him. She left him marked, in the most careful papers she owned, for the reader who'd come after."
+
+Viridia looked at the small open circle, the one maybe in a book of certainties, and felt the first of the other roads open in front of her, the roads she had promised herself she would try before she reached for the unforgivable one.
+
+"A man who'd hear it," she said, "if the right person said the right thing."
+
+"It's thin," Jazen said. "It's one circle and a dead woman's guess. And we march in four days, and a Conclave doesn't turn on one speech, and the Chancellor will have killed the man before he finishes it if he thinks it's working." He met her eyes. "But you asked me, on the rise, whether there were other roads before the war. I didn't know you'd asked it aloud, but I heard you ask it, the way you ask things, with your whole face shut. And here's one. One circle. One maybe. If you want it."
+
+"I want it," Viridia said, and she heard her own voice come out steady and certain, and she thought: there. That is the difference. I have a road that is not the dark one, and I am going to walk down it before I walk down the other, and I am going to walk down every road there is before I do the thing the frightened council did, because the walking is the difference, the walking is the whole difference, and I mean to keep it.
+
+She did not yet know how few the roads would be, or how fast they would close. She only knew that there was one, now, with a small open circle beside it, left for her by a woman who had loved her in code and signed it *a friend*, and that she was going to follow it as far as it went.
+
+***
+
+She told Lor-ar about the note that night, at the edge of the thinning camp, where the great tiger lay full-sized in the dark with his lightning-blue eyes half shut, because there were things she could say to three hundred years of patience that she could not say to anyone with a stake in the answer.
+
+"*You were chosen, and not by me,*" she repeated. "She knew. She knew there was a choosing, and that it wasn't hers, and she spent her life on it anyway. Lor-ar, who chooses. You've been alive three centuries. You summoned to my call before you knew my name. Did something choose me, or is *chosen* only a word the dead use to make a frightened child feel carried."
+
+Lor-ar was quiet for a while, in the way of a creature that did not feel the need to fill a silence it found comfortable. *I do not know who chooses,* he said at last. *I know that I came when you called, and that I have not regretted it, which at my age is rarer than you would think. I know that the source you touched is older than choosing, and that old things keep their reasons the way you keep yours, behind a face. And I know one thing more, which you will not want, so I will give it to you plainly, the way you like.* He lifted his great head. *It does not matter who chose you. It has never mattered. A thing chosen and a thing that chooses itself arrive at the same fork in the same road, and the road does not ask how they came. You stood over a dying man today and did not reach into him. No one chose that for you. You chose it. Whoever marked you, little one, you are the one holding the pen now, and the only question that has ever mattered is the one you keep asking yourself on rises and at seams when you think no one sees: not who chose you, but what you will choose.*
+
+It was the first time he had said *little one* since before the school burned, and she felt the weight of it land exactly where he had aimed it, and she did not answer, because there was no answer that would not cost her more than she could spend in the dark at the end of a long day. She put her hand into the cold thick fur at his shoulder and left it there, and the great tiger let her, and they sat together at the edge of a camp that was quietly walking itself south into the night, and she turned the two roads over, the open circle and the dark one, and made herself the same promise she had made on the rise, which was that she would walk every other road to its end before she walked the last one, because the walking was the difference, and the difference was the only thing she had that the frightened council had not.
