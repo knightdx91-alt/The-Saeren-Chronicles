@@ -26,10 +26,17 @@ coherence; Son of None revised last.
 
 ## PART 1 — SON OF NONE (already drafted; revise last)
 
-**Core story:** Ne'veran Kras, a young man with NO elemental sigil, chosen by a
-god called **Father** to repair a dimensional rift caused by High King Alten,
-who has opened a portal to another world and is importing a four-armed winged
-army, the **Gorlaks**.
+**Core story:** Ne'veran Kras, a **fatherless** boy, chosen by a god called
+**Father** to repair a dimensional rift caused by High King Alten, who has opened
+a portal to another world and is importing a four-armed winged army, the **Gorlaks**.
+
+> **CANON CORRECTION (2026-06-22, author):** The "Son of None" hook is **LINEAGE,
+> not a magic mark.** At the coming-of-age door each child is named by parentage
+> ("Enter Reagen Norheart, son of Vizer Norheart"); Ne'veran has no father to name
+> — "Ne'veran Kras, Son of None" — and Father claims/adopts him ("now Ne'veran son
+> of Father"). Drop the earlier "no elemental sigil" framing entirely (too close to
+> the author's separate *Sygl* book). The two red handprints at the door = the sign
+> of the **divine claim**, NOT a sigil/element mark.
 
 Key characters/concepts:
 - **Ne'veran Kras** — protagonist; marked by having NO sigil, yet chosen.
