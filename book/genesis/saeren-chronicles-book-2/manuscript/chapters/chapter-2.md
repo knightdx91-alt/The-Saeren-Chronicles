@@ -34,7 +34,7 @@ Alive. Alive was not safe. Alive was a wagon and a road and the capital at the e
 
 She had wanted, more than anything, to know. She had asked for it. And now she knew a little, and the little was a cruelty all of its own, because it was exactly enough to make her unable to stop.
 
-The trees stood dark and the seam in the ward shimmered faintly where the power thinned, and she set her hand against the cold curve of it and felt the three threads holding it up, Jazen's steady, Abe's steady, Hiram's guttering, and she thought, with the steady working voice that never rested in her: when this camp moves on the capitol, and it will, I am going too. Whatever I have to be to do it. I left her once in a burning corridor because I could not reach her and there were eight others I could. I will not leave her in the capital because I am afraid of being seen.
+The trees stood dark and the seam in the ward shimmered faintly where the power thinned, and she set her hand against the cold curve of it and felt the three threads holding it up, Jazen's steady, Abe's steady, Hiram's guttering, and she thought, with the steady working voice that never rested in her: when this camp moves against the capital, and it will, I am going too. Whatever I have to be to do it. I left her once in a burning corridor because I could not reach her and there were eight others I could. I will not leave her in the capital because I am afraid of being seen.
 
 It was the first time she had let herself decide it. She decided it standing at the seam with her hand against the chill of the screen, and she would not take it back.
 
@@ -80,7 +80,7 @@ Viridia stood with Raizen riding her shoulder and the oldest living thing she ha
 
 He went up into the dark, vast and silent, and was gone over the trees, and the night closed where he had been, and Viridia stood at the seam with Raizen warm and heavy on her shoulder and the camp settling behind her and the whole shape of the next thing arranging itself in her mind with a terrible clarity.
 
-Alice was alive, probably, in the capital, owned, while she was worth keeping. The resistance would move on the capitol within the week, because Jazen would not be stopped and the council had yielded. And she, Viridia, was going with them, into the one place in the world that wanted her dead, to pull one specific friend back out of it, and she had a tiger and a dragon and a dead language and a core like a banked furnace and the offer of a pact older than nations, and she had no idea yet whether any of it would be enough, and she found, standing there, that for the first time since the gates of Hazel she had no wish to be small.
+Alice was alive, probably, in the capital, owned, while she was worth keeping. The resistance would move against the capital within the week, because Jazen would not be stopped and the council had yielded. And she, Viridia, was going with them, into the one place in the world that wanted her dead, to pull one specific friend back out of it, and she had a tiger and a dragon and a dead language and a core like a banked furnace and the offer of a pact older than nations, and she had no idea yet whether any of it would be enough, and she found, standing there, that for the first time since the gates of Hazel she had no wish to be small.
 
 *You are less sad,* Raizen observed, pleased with himself, settling his tail more firmly round her arm. *I told you I would help. What is the capital? It sounds like a place with a great many deer.*
 

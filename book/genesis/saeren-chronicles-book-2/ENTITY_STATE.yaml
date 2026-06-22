@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 0   # set to N as each chapter is finalized
+last_updated_chapter: 5   # Ch.1-5 drafted, reviewed (Genesis Floor 8.5 all; continuity 0 critical)
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -65,10 +65,10 @@ characters:
 
 named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
   brutus: {from: "Bk1 council", desc: "broad, sunburned, built the camp with his hands; fears losing it", fate: "mortally hurt defending it (Ch.11), dies on the field (Ch.14) — pays off his Bk1 fear"}
-  mirelle: {status: "NEW", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother", fate: "dies shielding the children when the camp is found (Ch.11)"}
-  hiram: {from: "Bk1 (ward-mage, named)", desc: "one of the ~3 who power the camp's hiding ward; tired", fate: "wounded Ch.6; dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
-  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage", note: "texture; may survive"}
-  council_recur: "Coram (old, soft-voiced), woman-in-blue (locket, grandchildren), silver-bun woman (cold arithmetic) — recur as texture"
+  mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "dies shielding the children when the camp is found (Ch.11)"}
+  hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", fate: "wounded Ch.6; dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
+  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3", note: "texture; may survive"}
+  council_recur: "Coram (old, soft-voiced); MELLA = the woman-in-blue (pale blue dress, silver-and-gold spectacles, worn locket she clicks when afraid, two grandchildren in camp; named on-page Ch.3); the silver-bun woman (cold arithmetic, unnamed) — recur as texture"
 
 new_characters_book2:
   marick: {status: "NEW — final-beat seed only (Ch.20)", desc: "a man in a laboratory, holding the whole of a magic he never earned, about to make a very bad mistake", note: "DO NOT explain — Book-Three / Masters-of-the-Void thread"}
