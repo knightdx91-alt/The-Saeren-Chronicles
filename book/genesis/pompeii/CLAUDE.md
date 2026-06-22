@@ -82,7 +82,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - **Greece first:** a lone foreign woman in antiquity can't just travel — real obstacle, not hand-waved.
 - **Love interest:** disgraced **ex-gladiator** accused of an affair with the emperor's wife; they marry + have children over years.
 - **Climax:** family can't pass to the future; **stay vs. leave** as Vesuvius erupts.
-- **Romance heat:** EXPLICIT / spicy (on-page detailed intimacy).
+- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc (Ch.16/18/20 + a late payoff), none after the eruption begins. See STATE.yaml `resolved_author_decisions` for the exact wording.
 - **magic spelling:** n/a (this is historical, not invented-magic — the only "magic" is the time-door).
 
 ## Open author decisions (ask, don't invent)
@@ -91,5 +91,44 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - Treasure-hunter mystery payoff; final choice outcome (stay or go = the ending).
 
 ## Status (update as you go)
-- Scaffolded; bible staged as canon; core decisions resolved (Flavian era, Library map,
-  standalone, explicit heat). **Next: architect pass** (foundation + outline + voice-dna).
+
+> ### ▶ NEXT SESSION — START HERE: write Chapter 3 "Coordinates"
+> Blueprint COMPLETE (foundation.md + outline.md [45 ch, ~245k] + voice-dna.md), all author
+> decisions resolved (see STATE.yaml `resolved_author_decisions`). **Cadence: ONE chapter at a
+> time, then the author reviews** before the next.
+>
+> **Done & committed (both PASS, Genesis Floor 8.5, style gate clean):**
+> - Ch.1 "The Drawer" — 4,906w. Grief-low establishing beat; the stuck drawer, the glasses *click*,
+>   the obituary laugh, the dead bread-starter, the map arrives.
+> - Ch.2 "Too Accurate to Be Fake" — 5,076w. Antique shop, pragmatist shopkeeper, vanished
+>   August Fenn, anchor line "The map is honest. The door is not.", ends on Fenn "exactly my age".
+>
+> **Chapter loop per book (see Quality gates below):** book-writer → (self dialogue-polish/
+> hook-craft) → style_check.py → **independent book-evaluator (Genesis Floor ≥8.5 + PACING check)**
+> → fix if needed → commit per chapter. Eval reports in `evaluations/`, pacing one-liners in
+> `feedback/progress.md`.
+>
+> **STANDING NOTE for Ch.3 "Coordinates" (from the Ch.2 evaluator):** the outline's Ch.3 anchor
+> ("Fenn exactly her age") was spent as Ch.2's final line. **Re-anchor Ch.3 on the fieldwork
+> kit-ritual** (loading the 35mm film camera, the wristwatch, the father's dig slides — re-read
+> seed #4, load-bearing for the climax) and let the spent photo's dread COLOR the note-reading.
+> Ch.3 beats otherwise intact: decode Fenn's notes/coordinates → isolation/fieldwork → travel to
+> the site → the threshold. Target ~5,200w; match the Ch.1/Ch.2 voice exactly.
+>
+> **Resume:** `cd book/genesis/pompeii`; read STATE.yaml + feedback/progress.md + the Ch.2 eval;
+> reread chapter-1.md & chapter-2.md for voice; then write chapter-3.md.
+
+--- history ---
+- Scaffolded; bible staged as canon; all decisions resolved; architect built the 45-ch blueprint.
+- Ch.1 & Ch.2 finalized (see above).
+
+## Other active books in this repo (each on its own branch — for cross-project awareness)
+> This session set up several books, each as `book/genesis/<slug>/` on its own branch with the
+> same pipeline + pacing gate. Switch branches to work on another.
+- **rosalia** (branch `claude/elegant-wright-yyt925`) — vampire/shifter epic-romance; 29-ch ~150k blueprint done; chapter loop not started.
+- **pompeii** (branch `claude/pompeii-story`, THIS) — Outlander-style time-slip; Ch.1-2 written.
+- **finding-lady-death** (branch `claude/death-and-remembrance`) — paranormal romance; 20-ch ~96k blueprint done; loop not started.
+- **the-gift** (branch `claude/the-gift`) — sci-fi antihero thriller; 21-ch ~103k blueprint done; loop not started; pick a company name (Helix Vanguard rec.).
+- **son-of-none** (branch `claude/son-of-none`) — empty; awaiting the author's "Son of None" file/idea.
+- **the-long-goodnight** (branch `claude/the-long-goodnight`) — empty placeholder.
+- (saeren-chronicles is the original, on `main`.)
