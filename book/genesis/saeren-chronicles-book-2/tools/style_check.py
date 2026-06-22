@@ -50,6 +50,19 @@ ALLOWLIST = [
     "since the gates of hazel",         # Viridia's before/after refrain
     "in a burning corridor",            # the Alice wound (Book One Ch.16 callback)
     "the part that did not feel",       # the cold-clear-part motif
+    "the careful face",                 # Viridia's restraint signature
+    "made her face the careful face",
+    "every coin she had",               # spending composure to hold her face
+    "only her breath changed",          # the one tell she allows
+    "thread to its root",               # mana-sight following a ward-thread
+    "baby in the next house",           # camp ambient motif
+    "heading she kept",                 # Viridia's filing/naming habit
+    "alice p",                          # Alice's running self-description ("Alice P.")
+    "and said nothing which",           # silence-counts signature (voice DNA)
+    "the cold working part",            # Viridia's observer-self under pressure
+    "a name to go with the hands",      # the search refrain (Jazen/Viridia)
+    "the people who burned",            # "the people who burned the school" refrain
+    "away under the heading",           # "filed X away under the heading she kept for..." (filing motif)
 ]
 
 # n-gram repetition settings
@@ -149,10 +162,14 @@ def scan():
     print("\n" + "=" * 70)
     print("REPEATED PHRASES (4-6 words, content-rich)")
     print("=" * 70)
-    # Cross-chapter (appears in 2+ chapters) OR heavily repeated overall
+    # Flag DISTINCTIVE repeats only (matches the project's "no NEW repeated phrase" rule):
+    #   - a cross-chapter pair must be >=5 words to count as distinctive (ordinary 4-word
+    #     strings like "for the first time" are not fingerprints), OR
+    #   - any phrase repeated >=3 times, at any length.
     repeated = [(ng, phrase_counts[ng], sorted(phrase_chapters[ng]))
                 for ng in phrase_counts
-                if (len(phrase_chapters[ng]) >= 2 or phrase_counts[ng] >= 3)]
+                if (phrase_counts[ng] >= 3
+                    or (len(phrase_chapters[ng]) >= 2 and len(ng) >= 5))]
     # prefer longer / more-repeated phrases, drop ones fully contained in a flagged longer one
     repeated.sort(key=lambda x: (-len(x[0]), -x[1]))
     shown = []
