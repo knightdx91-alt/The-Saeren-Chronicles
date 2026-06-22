@@ -44,13 +44,24 @@ ALLOWLIST = [
     "dark blue stone", "dark-blue stone",
     "the source of all magic",
     "since the morning the world ended",   # recurring grief refrain (intentional)
+    # --- Book Two deliberate motifs (intentional callbacks; NOT accidental echoes) ---
+    "the one place in the world",       # the camp as the only place that would have them
+    "one place in the world that",
+    "since the gates of hazel",         # Viridia's before/after refrain
+    "in a burning corridor",            # the Alice wound (Book One Ch.16 callback)
+    "the part that did not feel",       # the cold-clear-part motif
 ]
 
 # n-gram repetition settings
 NGRAM_MIN, NGRAM_MAX = 4, 6
 # stopword-only n-grams are noise; require at least this many "content" words
 STOP = set("the a an and or but of to in on at for with as is was were be been "
-           "her his its their my your she he it they i you we him them me".split())
+           "her his its their my your she he it they i you we him them me "
+           # auxiliaries / common function words (connective n-grams are noise, not fingerprints)
+           "did not do does done had has have having that which who whom whose this these those "
+           "would could should will shall can may might must "
+           "by so than then there here what when where while because into from out up down off "
+           "no not all one once very just only also am are more most such own back".split())
 
 
 def words(text):
@@ -96,6 +107,7 @@ def scan():
     for f in files:
         n = int(re.search(r"chapter-(\d+)", f).group(1))
         text = open(f, encoding="utf-8").read()
+        text = re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)  # strip non-prose HTML comments
         toks = words(text)
         wc = len(toks) or 1
         per1k = lambda c: round(c / wc * 1000, 1)
