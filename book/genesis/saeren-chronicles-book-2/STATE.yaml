@@ -51,8 +51,8 @@ phase:
 
 chapters:
   total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
-  completed: [1, 2, 3, 4, 5, 6, 7]   # 2026-06-22: drafted via book-writer agent suite under the hard gate contract; full style_check clean. Ch.7 opens Act Two (5,720 words; evaluator Floor 8.5; continuity PASS 0 critical/0 warning). ~35,951 words across Ch.1-7.
-  next: 8   # "Dust to Dust" — Drake teaches the Death symbol; a road betrayed
+  completed: [1, 2, 3, 4, 5, 6, 7, 8]   # 2026-06-22: drafted via book-writer agent suite under the hard gate contract; full style_check clean. Ch.8 (5,131 words; evaluator Floor 8.5; continuity PASS 0 critical/0 warning): Death symbol taught; peace road #2 forged shut; Amber confronts. ~41,082 words across Ch.1-8.
+  next: 9   # "The Right" — DIALOGUE-HEAVY: Amber's full moral challenge (consent to remake every core)
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
   - "Alice's fate resolved in the first three chapters."

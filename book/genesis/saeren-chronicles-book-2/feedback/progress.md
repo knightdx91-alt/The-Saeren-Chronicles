@@ -1,9 +1,20 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 8 ("Dust to Dust" — Drake teaches the Death symbol; a road betrayed)
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–7 DRAFTED via
-the book-writer agent suite, all gate-clean AND evaluated.** ~35,951 words so
+## ▶ RESUME HERE: write Chapter 9 ("The Right" — DIALOGUE-HEAVY; Amber's full moral challenge)
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–8 DRAFTED via
+the book-writer agent suite, all gate-clean AND evaluated.** ~41,082 words so
 far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 (Ch.8 done):** Chapter 8 "Dust to Dust" — gate-clean (5,131 words; em-dash 0;
+> style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.5, avg 8.79; continuity 0
+> critical / 0 warning / 1 minor FIXED — a timeline-tense alignment). Report: `evaluations/eval-ch8.md`.
+> Drake teaches the Death symbol AS GRIEF (used once on the thing that killed his daughter); Viridia
+> frightened by how cost-free it feels (taught, NOT yet spent). Peace road #2 closes: the capital
+> tapped the first overture off the wire and forged it into a broadsheet ("A WARNING TO EVERY
+> MOTHER"). Hook: Amber — who ran the message line — confronts Viridia: "in to WHAT?" **Resume at
+> Ch.9** (outline ~5,000, DIALOGUE-HEAVY): Amber's full moral challenge — does Viridia have the
+> RIGHT to remake every core without consent? Spine of the book; left unresolved. End hook: a third
+> peace road (a moderate councilor will meet, in secret). ENTITY_STATE bumped to ch.8.
 
 > **2026-06-22 (Ch.7 done):** Chapter 7 "What She Tries First" opens Act Two — gate-clean
 > (5,720 words; em-dash 4; style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.5;

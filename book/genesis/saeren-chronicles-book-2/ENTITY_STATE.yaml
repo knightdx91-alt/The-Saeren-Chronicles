@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 7   # Ch.7 drafted via agent suite, gate-clean + evaluator/continuity PASS (2026-06-22). Body below is forward-plan/canon (binding).
+last_updated_chapter: 8   # Ch.8 drafted via agent suite, gate-clean + evaluator/continuity PASS (2026-06-22). Viridia now KNOWS the Death symbol (taught by Drake, Ch.8; not yet spent). Peace road #2 closed via capital forgery/broadsheet. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
