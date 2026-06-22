@@ -1,0 +1,99 @@
+# ENTITY_STATE — Book Two: The Resistance
+# Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
+last_updated_chapter: 0   # set to N as each chapter is finalized
+mode: UPDATE
+seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
+
+author_decisions_book2:
+  alice_fate: "ALIVE, CAPTURED — taken from Hazel to the capital; first-gen healers collected, not killed. Confirmed Ch.3. Rescue/reunion in war arc."
+  raizen_affinity: "ALL ELEMENTS (prismatic) — channels all; dragon-mirror of Viridia's whole core; carries into human form."
+  unsigned_note: "Sent by Lady Lightwell (PROPOSED, author to confirm) — surfaces via her papers/cache held by Jazen (Ch.4/10)."
+
+characters:
+  viridia_saeren:
+    age: "14 at open, turns 15 during Book Two"
+    hair: "silver-blonde, mid-back, worn loose"
+    eyes: "green"
+    build: "slight, fine-boned, 5'5\" (slight NOT short)"
+    grief: "worn inward; NO ONE sees her cry — UNTIL the banked breakdown spends at Jazen's death (Ch.16) / the rebirth (Ch.18)"
+    item: "dark-blue stone necklace (mother's); Heart of the Spear pendant beside it (Dangris, Kor-toh)"
+    magic: "one whole merged core, post-well a 'furnace'; banks to a flicker by daylight; always-on mana sight; portal-capable; Moravian fluent; shadow-walking (can go anywhere shadow reaches that she has visited); knows the Death symbol once Drake teaches it (Ch.8); CAN mend the severing for all cores at once (the rebirth)"
+    weapons: "4 Damascus spears + quiver"
+    focus: "LOST — silver rod burned at Hazel (Bk1 Ch.16); she bypasses focus via Moravian"
+    knows_at_book2_open: "she is whole, not broken; the severing was deliberate; the frayed dark-half thread might be mended; the well/source; the mother-thread she cannot follow; the abstract void-absence at the rim; Lightwell presumed dead; Jazen = Lightwell's son; Alice's fate unknown (resolved alive/captured Ch.3)"
+    arc_book2: "the girl who chose who could see her -> the person who decides FOR everyone, once, and carries the unjustifiable"
+  bella_saeren: {role: "mother, deceased", line: "be careful who you let see you do it", thread: "her name on a thread running into the source — Viridia can see, cannot yet follow (Bk3)"}
+  leon_saeren: {role: "father, deceased", smell: "soap and machine oil"}
+  alice_pembrook:
+    age: 14
+    hair: "long blond"; eyes: "green"; teeth: "wide smile, one tooth turned out of line"; build: "a bit heavier"
+    background: "first-generation mage; healer's hands ('calm hands' per Brun)"
+    status_book2: "ALIVE — captured at Hazel, held in the capital; freed/reunited in the war arc (Ch.15/19)"
+    knows_moravian: "taught by Viridia (per series bible)"
+  amber_summers:
+    age: "17-18"
+    hair: "long black, ponytail"; nails: "black, chipped"
+    backstory: "parents murdered at 8; shattered own light core to say goodbye; core sustained by Lightwell-linked necklace"
+    status_book2: "survived the escape; recovering from drain; armor returning over real damage"
+    role_book2: "THE MORAL CONSCIENCE — asks whether Viridia has the right to remake everyone's magic (Ch.9)"
+  jazen:
+    role: "resistance leader, most powerful dark mage alive, mid-20s; Lady Lightwell's son"
+    physical: "lean/lanky, close-cropped dark hair, brown trousers, dark blue shirt, kerchief; lets his grief show (cries openly)"
+    wound: "sister Jan burned 2 yrs ago; once killed a town's worth of soldiers in grief; terrified of his own power; now his mother dead too"
+    arc_book2: "DEVELOP fully across >=4 chapters (1,2,3,4,9,13) — Viridia's mirror — THEN die with full weight"
+    death: "BEHEADED by the High Chancellor before both armies (Ch.16) — the hinge of Act Three"
+  lor_ar:
+    species: "sylvan tiger, spirit walker"; age: 300
+    physical: "7ft; sky-blue/forest-green fur; bone-white horns; saber fangs; lightning-blue eyes; shrinks to house-cat"
+    verbal: "'little one' RATIONED hard"
+    bond: "summoned bond — RELEASED at the end (Ch.19); returns to the forest"
+  raizen:
+    species: "prismatic dragon"; affinity: "ALL ELEMENTS (author decision)"
+    status_book2: "returns to Viridia early (Ch.2) with Drake; speaks now; True-Bonded (life-tied)"
+    transformation: "becomes HUMAN form after the rebirth (Ch.19) — wonder + humor; parents say goodbye"
+  drake:
+    age: "~6000"; form: "pitch black; jet-black death flames"; affinity: "death"
+    role_book2: "consulted (Ch.7); teaches Viridia the DEATH SYMBOL (Ch.8); KILLS the High Chancellor with death-flames (Ch.17); says goodbye to Raizen"
+    manner: "gruff = grief; grieves loudly from a height; lost a child in the last war"
+  varissa:
+    age: "~5000"; form: "brilliant scarlet, breathes flame"
+    role_book2: "consulted (Ch.7); fierce re Raizen; grieves close to the ground (quiet); says goodbye to Raizen"
+  high_chancellor_meros:
+    name: "Erik Meros"; role: "antagonist"
+    physical: "short, bald, white robe, light-gold sash, silver-framed glasses of true seeing"
+    role_book2: "wages total war; parades captives incl. Alice; BEHEADS Jazen before both armies (Ch.16); KILLED by Drake's death-flames (Ch.17)"
+
+named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
+  brutus: {from: "Bk1 council", desc: "broad, sunburned, built the camp with his hands; fears losing it", fate: "mortally hurt defending it (Ch.11), dies on the field (Ch.14) — pays off his Bk1 fear"}
+  mirelle: {status: "NEW", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother", fate: "dies shielding the children when the camp is found (Ch.11)"}
+  hiram: {from: "Bk1 (ward-mage, named)", desc: "one of the ~3 who power the camp's hiding ward; tired", fate: "wounded Ch.6; dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
+  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage", note: "texture; may survive"}
+  council_recur: "Coram (old, soft-voiced), woman-in-blue (locket, grandchildren), silver-bun woman (cold arithmetic) — recur as texture"
+
+new_characters_book2:
+  marick: {status: "NEW — final-beat seed only (Ch.20)", desc: "a man in a laboratory, holding the whole of a magic he never earned, about to make a very bad mistake", note: "DO NOT explain — Book-Three / Masters-of-the-Void thread"}
+  moderate_councilor: {status: "NEW (Ch.9/10)", role: "a capital moderate Viridia tries to reach for a peaceful solution; the 'almost' that fails"}
+
+world_rules:
+  setting: "trains and motorcars exist"
+  magic: "energy via focus, OR Moravian writes intent directly (Viridia bypasses focus); both-sided gift severed long ago, deliberately; severing is mendable (the rebirth)"
+  source: "the well of all magic; Viridia connected to it; the rebirth = mending every core at once"
+  death_symbol: "ends any magic, closes any portal (Drake teaches, Ch.8)"
+  bonding: "summoned bond (Lor-ar) vs True Bond (Raizen, life-tied, dragons only)"
+  shadow_walking: "Viridia can travel anywhere shadow reaches that she has visited"
+  void: "abstract counterpart to the source; the rebirth widens the source/void pressure differential (Ch.20 seed). NO entity. NO void woman."
+  camp: "Jazen's hidden resistance village; invisible via a ward powered by ~3 mages (Jazen, Hiram, Abe); DESTROYED in the war (Ch.11+)"
+
+canon_guardrails:
+  - "Alice = PEMBROOK; Jazen (NOT Jasen); Lightwell rose-tinted spectacles"
+  - "Viridia silver-blonde/green/5'5'; grief inward (no one sees her cry) UNTIL the banked Ch.16/18 break"
+  - "Do NOT introduce Johnathan Masters or the void woman; void stays abstract"
+  - "If roadmap and draft conflict, follow roadmap; log deviation in evaluations/"
+
+open_contradictions: 0
+open_mysteries:
+  - "The thread in the well with Bella's name — touched again at the rebirth (Ch.18), still cannot follow (Bk3)"
+  - "The family-tree name that doesn't fit — re-seeded via Lightwell's papers (Ch.4/10); held for Bk3"
+  - "What the parents actually died from (authorial truth set; Viridia doesn't know)"
+  - "The void-absence at the rim — widened by the rebirth (Ch.20); Bk3 / Masters-of-the-Void thread"
+  - "Marick and the laboratory (Ch.20 seed)"

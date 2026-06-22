@@ -37,13 +37,14 @@ word_floor:
   per_chapter_min_words: 4600
 
 phase:
-  current: 2          # needs architect (foundation + outline) first; research/premise are fixed by canon
-  status: "scaffolded — awaiting architect (foundation + outline) then chapter loop"
+  current: 3          # architect DONE (foundation.md + outline.md + ENTITY_STATE.yaml); ready for the chapter loop
+  status: "architected — foundation + 20-chapter outline + seeded ENTITY_STATE complete; awaiting Ch.1 of the writer loop"
   history:
     - "Project scaffolded from Book One canon (entity state, voice DNA, foundation, final chapter) + Series Roadmap Book Two section."
+    - "2026-06-22: author decisions resolved (Alice ALIVE/captured; Raizen ALL-ELEMENTS; unsigned note resolved via Lightwell's papers). Architect built foundation.md, outline.md (20 ch), and seeded ENTITY_STATE.yaml from Book One end state. Next: writer loop Ch.1."
 
 chapters:
-  total_planned: 0   # set by architect from the Book Two outline
+  total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
   completed: []
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
