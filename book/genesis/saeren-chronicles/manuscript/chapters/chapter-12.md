@@ -10,7 +10,7 @@ She knew it the way she knew most things now, by the detail that did not fit. Mr
 
 The class bent over their slates. Viridia felt the attention slide toward her anyway, the way attention always found her now, a heat at the back of the neck. The girl beside her, a thin first-year named Petra who had never spoken to her, copied her symbol very carefully and did not look up, which was a way of looking too.
 
-She had come to Hazel to be the girl no one saw, and instead she had a tiger that slept on the dining-hall bench, a dragon everyone had heard of and not quite been allowed to see, and a teacher who pulled her aside after class. She did not like it. She was not sure when it had happened. She only knew that the room arranged itself around her now, and a girl built to disappear does not know what to do with a room that will not let her.
+She had come to Hazel to be the girl no one saw, and instead she had a tiger that slept on the dining-hall bench, a dragon everyone had heard of and not quite been allowed to see, and a teacher who pulled her aside after class. She did not like it, and could not have said when it happened. She only knew the room arranged itself around her now, and a girl built to disappear does not know what to do with a room that will not let her.
 
 When the bell rang and the others filed out, Mrs. Zoran came and sat on the edge of the desk in front of Viridia's, which put them nearly at eye level. Up close her glasses were smudged at one corner. She had a habit of cleaning them on her sleeve when she was nervous, and she did it now.
 

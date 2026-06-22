@@ -189,7 +189,7 @@ Beside her, Viridia felt Alice go very still.
 
 "You have not," Lady Lightwell said. "You were chosen. Every one of you. Remember that, in the months to come, on the days when it does not feel true."
 
-It was a kind thing to say. It was meant kindly; Viridia could hear that it was. And yet there was something underneath it she could not quite name, some second meaning tucked beneath the careful words the way her mother used to bury meanings in ordinary advice, be careful who you let see you do it, so that the surface was warm and the thing beneath it was watchful. You were chosen. Said one way it was reassurance. Said another way it meant you were selected, and assessed, and we know exactly why you are here.
+It was a kind thing to say, and meant kindly; Viridia could hear that much. And yet something sat underneath it she could not quite name. A second meaning, tucked beneath the careful words the way her mother used to bury meanings in ordinary advice, be careful who you let see you do it. The surface warm, the thing beneath it watchful. You were chosen. Said one way, it was reassurance. Said another way it meant you were selected, and assessed, and we know exactly why you are here.
 
 The Headmistress went on: the daily schedule, the rules of the grounds, the four years here before they moved on to schools of their specialty. It washed over Viridia in a low even tide. She caught pieces and let the rest go. She was tired in a way sleep did not touch, the bone-deep tiredness of holding a great deal of weight very still for days on end, and the bright hall and the level voice made it hard to keep her edges from blurring.
 
