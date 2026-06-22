@@ -1,9 +1,23 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 6 (Act One close)
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–5 RE-DRAFTED via
-the book-writer agent suite, committed to `main`, all gate-clean AND evaluated.** 24,715 words so
+## ▶ RESUME HERE: write Chapter 7 (Act Two opens — "What She Tries First")
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–6 drafted via
+the book-writer agent suite, committed to `main`, all gate-clean.** ~30,200 words so
 far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 — Ch.6 "The Window Narrows" DONE (closes Act One).** Drafted by the book-writer agent
+> under the hard gate contract WITH the Book One rhythm lesson added to the gate (tools/rhythm_check.py
+> ported from Book One; the writer ran it and confirmed no flat observation→reflection→expanded-reflection
+> triplets — its flags are sanctioned action/pressure anaphora). **5,496 words; style_check --max-emdash 4
+> RESULT: clean (em-dash 0, simile 1.7/1k, no distinctive cross-chapter repeats).** Canon held (no age
+> number; Jazen/Pembrook; grief held inward — she lets no one watch her work). Beats: the moderate's reply
+> ("Who else knows.") turned over a night and a day; dawn patrol breaks on the wards; **Hiram spent to ruin
+> holding the screen** (survives but can never hold a ward again — seeds the camp's exposure); Viridia fights
+> with her four spears and ruthless restraint (keeping the furnace banked costs lives — restraint has a body
+> count); council resolves to empty & march in three days; **END HOOK:** she asks Jazen for those three days
+> to reach the capital's moderates first — he grants it with Lightwell's counsel, "Don't lie to him."
+> Entities all consistent with ENTITY_STATE (Abe, Coram, Mella — Mella's locket callback honored).
+> A book-evaluator + continuity pass on Ch.6 is still pending (do before/with the next batch).
 
 > **2026-06-22 session note:** The author cleared the prior Ch.1–9 drafts and restarted the chapter
 > loop with the book-* agent suite (dispatched as `general-purpose` agents reading
