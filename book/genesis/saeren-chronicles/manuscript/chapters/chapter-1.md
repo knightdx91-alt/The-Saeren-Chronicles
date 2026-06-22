@@ -23,7 +23,7 @@ She had come down the stairs still half inside a dream, socks loose on her heels
 
 "Tell me what," her mother said.
 
-Bella was at the table with the newspaper creased into quarters and a cup of tea going cold beside her, and she had not looked up, and somehow she always knew. Viridia slid into her chair across from her. There was a way her mother held stillness, not the stillness of someone resting, but the stillness of deep water, of something with a great deal moving underneath a calm surface. Viridia had never had a word for it. She only knew that when her mother went quiet over the paper like that, it was not because there was nothing in her head. It was because there was too much.
+Bella was at the table with the newspaper creased into quarters and a cup of tea going cold beside her, and she had not looked up, and somehow she always knew. Viridia slid into her chair across from her. Her mother held a particular stillness — not the stillness of rest, but of deep water. Viridia had never had a word for it. She only knew it did not mean her mother's head was empty. It meant the opposite.
 
 "Leon has invented a new color," Bella said, turning a page. "I believe it is called toast."
 
@@ -61,7 +61,7 @@ Beside her, Aleric Porter had not stopped talking since the motorcar.
 
 "Four years here, then on to a proper specialty school. Healing's the prestigious route, of course. But there's intelligence work, therapy, the building disciplines. A great many doors are about to open for you. That's the thing to hold on to."
 
-A great many doors. Viridia thought of two that had closed three days ago — her mother and father, three days dead — and would not open again no matter how she stood in front of them. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it.
+A great many doors. Viridia thought of two that had closed three days ago, her mother and father, three days dead, and would not open again no matter how she stood in front of them. She did not say this. Grief made other people uncomfortable; the kind thing was to keep it where they could not see it.
 
 "I know it's a great deal of change," Aleric went on, and for one moment his voice dropped out of its bright register into something gentler, almost careful. He glanced down at her. "Especially with everything that's happened. But it really is for the best. You believe me, don't you?"
 
@@ -101,7 +101,7 @@ Amber noticed. Of course she did; Viridia would learn, in time, that Amber notic
 
 "That one's a Verrane," she said, nodding at a dim seascape where a single ship leaned against a wall of grey weather. "He taught here, supposedly, generations back. And that one there." She nodded at a tall portrait of a stern woman with a hawk on her wrist. "Nobody's quite sure who painted it, or who she even was. One of the early headmistresses, supposedly. The hawk's the giveaway, apparently. I never understood why." She said it lightly, walking backward now to keep facing them, easy and unhurried. "They like their history here. You'll get used to it. Half the building's a museum and the other half's a classroom and sometimes it's hard to tell which is which."
 
-Viridia looked at the woman with the hawk a moment longer. There was something about being told a thing's name that helped; the world seemed less likely to come apart if its pieces could be labelled. She filed Verrane and the hawk away without deciding to, and walked on.
+Viridia looked at the woman with the hawk a moment longer. Being told a thing's name helped. The world seemed less likely to come apart if its pieces could be labelled, and she filed Verrane and the hawk away without deciding to, and walked on.
 
 The hall ended at another door, this one already open onto a large bright room.
 
