@@ -1,9 +1,23 @@
 # Progress — Book Two: The Resistance
 
 ## ▶ RESUME HERE: write Chapter 6 (Act One close)
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–5 drafted,
-committed to `main`, all gate-clean.** ~22,885 words so far (toward the 85,000 hard floor /
-90–100k target).
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–5 RE-DRAFTED via
+the book-writer agent suite, committed to `main`, all gate-clean AND evaluated.** 24,715 words so
+far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 session note:** The author cleared the prior Ch.1–9 drafts and restarted the chapter
+> loop with the book-* agent suite (dispatched as `general-purpose` agents reading
+> `~/.claude/agents/*.md`, since named book-* subagents aren't dispatchable in this env). Book Two now
+> lives **directly on `main`** (no feature branch/PR), in `book/genesis/saeren-chronicles-book-2/`.
+> Ch.1–5 redrafted + style-gate-clean + evaluator/continuity pass done (see below). Resume at Ch.6.
+
+### Ch.1–5 quality pass (2026-06-22) — PASSED
+- **Genesis Floor ≥ 8.5 on all five** (averages 8.71–9.00). Report: `evaluations/eval-ch1-5.md`.
+- **Continuity: 0 critical / 3 warning / 5 minor**, all canon held. Report: `evaluations/continuity-ch1-5.md`.
+- **3 warnings RESOLVED:** age (author ruling: 14 at open, turns 15 on-page — Ch.4 fixed, premise + AGE
+  CANON note added, turn-to-15 still to be PLACED on-page, recommend around the march); war-clock (Ch.4
+  Jazen acknowledges the named week lapsed / march held deliberately); reply-speed (Ch.5 rail-wire relay).
+- 5 minor are watch-notes (e.g. add scout **Ferro** to ENTITY_STATE on next update; Mella named Ch.1 not Ch.3).
 
 ### Author constraints in force (2026-06-22)
 - **85,000-word hard floor** (`manuscript_hard_min_words` in STATE.yaml). Aim ~95k for headroom.
@@ -14,6 +28,7 @@ committed to `main`, all gate-clean.** ~22,885 words so far (toward the 85,000 h
 - Alice = **ALIVE, CAPTURED** in the capital (confirmed Ch.3).
 - Raizen = **ALL ELEMENTS / prismatic**.
 - Unsigned note = **Lightwell** (revealed Ch.4 via her papers; author may revise — only Ch.4/10 change).
+- **Viridia's age = 14 at open, turns 15 on-page** (2026-06-22 ruling; birthday beat not yet placed).
 
 ### Chapters 1–5 (each ≥4,360 words, gate clean)
 1. **The Box of Invisible Air** — the camp from inside; named villagers (Brutus, Mirelle, Hiram);

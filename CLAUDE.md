@@ -204,9 +204,17 @@ chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
   - Author decisions still open (see below) before Book Two.
   - Re-seed the "family-tree name that doesn't fit" — its Ch.2 vehicle (the
     spellbook) burned in Ch.16, so the plant needs a new home if kept.
-- **Books Two and Three are not started.** When ready, set them up as their own
-  pipeline projects (e.g. `book/genesis/saeren-chronicles-book-2/`) seeded from
-  the same Series Roadmap + the Book One ENTITY_STATE.yaml.
+- **Book Two ("The Resistance") IS IN PROGRESS** at `book/genesis/saeren-chronicles-book-2/`
+  (worked directly on `main`). As of 2026-06-22: the prior Ch.1–9 drafts were cleared and the
+  chapter loop restarted with the book-* agent suite (dispatched as `general-purpose` agents that
+  read `~/.claude/agents/*.md`, since the named book-* subagents aren't dispatchable in this env).
+  **Chapters 1–5 finalized** (24,715 words) — every chapter style-gate clean (em-dash ≤4, no
+  cross-chapter repeats) and **Genesis Floor ≥ 8.5** (evaluator + continuity pass done: 0 critical,
+  3 warnings resolved). **Resume at Chapter 6** — read
+  `book/genesis/saeren-chronicles-book-2/feedback/progress.md` first. New binding decision: **Viridia
+  is 14 at open, turns 15 on-page** (birthday beat not yet placed; recommend around the march).
+- **Book Three is not started.** When ready, set it up as its own pipeline project seeded from the
+  Series Roadmap + the Book Two ENTITY_STATE.yaml.
 
 ## Other books (folder-per-book in this repo)
 
