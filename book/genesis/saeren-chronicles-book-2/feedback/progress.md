@@ -1,9 +1,18 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 7 (Act Two opens — "What She Tries First")
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–6 DRAFTED via
-the book-writer agent suite, all gate-clean AND evaluated.** ~30,231 words so
+## ▶ RESUME HERE: write Chapter 8 ("Dust to Dust" — Drake teaches the Death symbol; a road betrayed)
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–7 DRAFTED via
+the book-writer agent suite, all gate-clean AND evaluated.** ~35,951 words so
 far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-22 (Ch.7 done):** Chapter 7 "What She Tries First" opens Act Two — gate-clean
+> (5,720 words; em-dash 4; style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.5;
+> continuity 0 critical / 0 warning / 2 minor confirmations). Report: `evaluations/eval-ch7.md`.
+> Parallel structure: the peace-message/embassy strand (answering "Who else knows" with the
+> costlier truth) braided with the dragon council (Drake + Varissa consulted; Varissa's fury
+> that Viridia left True-Bonded Raizen off her ledger; Drake's grief). Hook: Drake agrees to
+> teach the Death symbol tomorrow. **Resume at Ch.8** (outline ~4,800: Drake teaches the Death
+> symbol; destined for meaningful use; a peace road betrayed).
 
 > **2026-06-22 (Ch.6 done):** Chapter 6 "The Window Narrows" closes Act One — gate-clean
 > (5,455 words; em-dash 4; style_check RESULT: clean) and reviewer PASS (Genesis Floor 8.6;
