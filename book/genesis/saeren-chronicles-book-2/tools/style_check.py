@@ -70,6 +70,8 @@ ALLOWLIST = [
     "she would walk every other road to its end before the last",  # Viridia's promise refrain
     "one circle one maybe",             # the Conclave moderate: "one circle, one maybe"
     "would hear it if it came from the right mouth",   # Lightwell's note refrain
+    "the man with the open circle",     # the Conclave moderate refrain
+    "leave the open circle",            # Lightwell's mark refrain
 ]
 
 # n-gram repetition settings

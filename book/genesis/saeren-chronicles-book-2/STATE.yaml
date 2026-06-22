@@ -50,8 +50,8 @@ phase:
 
 chapters:
   total_planned: 20   # see outline.md (3 acts: camp 1-6, the question 7-13, the weight 14-20)
-  completed: [1, 2, 3, 4, 5]   # ~22,885 words; all gate-clean (em-dash<=4, simile<=4/1k, no distinctive repeats)
-  next: 6   # Act One close: war pressure / skirmish at the wards / Hiram; window narrows
+  completed: [1, 2, 3, 4, 5, 6]   # ~27,535 words; all gate-clean (em-dash<=4, simile<=4/1k, no distinctive repeats); Ch.1-5 reviewed (Genesis Floor 8.5 all)
+  next: 7   # Act Two: Viridia goes ahead as the "mouth" to the Conclave moderate; Drake & Varissa consulted
 
 binding_book_two_beats:   # from Series Roadmap — must be delivered
   - "Alice's fate resolved in the first three chapters."
