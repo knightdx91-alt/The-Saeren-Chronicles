@@ -9,7 +9,8 @@ project:
     - "Tamora Pierce — Tortall"
     - "Garth Nix — Old Kingdom"
   engagement_type: {primary: "emotional", secondary: "moral/intellectual", tertiary: "world-building"}
-  premise: "A fifteen-year-old refugee with world-altering knowledge must decide whether she has the right to remake everyone's magic without consent, while a war she cannot stop closes in and the leader who mirrors her grief marches toward his death."
+  premise: "A fourteen-year-old refugee (who turns fifteen during the book) with world-altering knowledge must decide whether she has the right to remake everyone's magic without consent, while a war she cannot stop closes in and the leader who mirrors her grief marches toward his death."
+  # AGE CANON (author ruling 2026-06-22): Viridia is 14 at open, TURNS 15 on-page during Book Two. The turn-to-15 is not yet placed in the outline — schedule a quiet beat (recommend around the march). Until then no chapter may state a third number.
   created: "2026-06-20"
   updated: "2026-06-20"
 

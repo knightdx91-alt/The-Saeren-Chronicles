@@ -162,7 +162,7 @@ She brought her core up to a coal and held, behind her eyes, the man Lightwell h
 
 *And only then the wall. And only if it's the wall or the bodies. And even then I will know, the whole time, exactly what it costs, and exactly that I will never be the one to pay it.*
 
-It was nearly full dark when the runner came down the lane to her door, out of breath, a boy of Brutus's making with a man's job in his hands. The line had answered already. Not the slow careful days they'd budgeted for. Hours. The man with the open circle had answered the same day, in his own hand, fast, the way a careful man answers only one kind of thing.
+It was nearly full dark when the runner came down the lane to her door, out of breath, a boy of Brutus's making with a man's job in his hands. The line had answered already. Not the slow careful days they'd budgeted for. Hours. Whoever carried it had not trusted the slow courier road at all; it had come up the rail-wire, relayed station to station the way only urgent capital traffic moved, which was its own kind of warning. The man with the open circle had answered the same day, in his own hand, fast, the way a careful man answers only one kind of thing.
 
 She unfolded it under the coal of her core, and read it once, and went very still.
 
