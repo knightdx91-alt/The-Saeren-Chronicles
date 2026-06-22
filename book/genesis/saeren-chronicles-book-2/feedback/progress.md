@@ -20,9 +20,14 @@ gate-clean.** ~46,300 words so far (toward the 85,000 hard floor / 90–100k tar
 >   distinctive cross-chapter repeats — fixed one I introduced, "resistance leader and the girl").
 >   rhythm_check: Ch.6–9 have ZERO flat reflective triplets (all flags are sanctioned action anaphora;
 >   Ch.7 has none at all). Book One rhythm lesson satisfied.
-> - **STILL PENDING (do before/with Ch.10):** a book-evaluator (Genesis Floor ≥ 8.5) + continuity pass
->   on the adopted Ch.6–9, and an ENTITY_STATE refresh (new texture: the blinded capital seer w/
->   true-glasses; Hiram now blade-wounded + cannot hold a ward; confirm Drake/Varissa beats in Ch.7).
+> - **EVALUATOR + CONTINUITY PASS DONE (2026-06-22).** Genesis Floor: Ch.6 **8.7** / Ch.7 **8.6** /
+>   Ch.8 **8.7** / Ch.9 **8.6** — ALL clear 8.5, no editor loop (reports: `evaluations/eval-ch6-9.md`).
+>   Continuity: **0 CRITICAL / 2 WARNING / 5 MINOR**, all hard canon held, the graft seam (Ch.5→6) clean,
+>   all binding beats delivered (`evaluations/continuity-ch6-9.md`). Both warnings + entity items RESOLVED
+>   in ENTITY_STATE: the two distinct moderates split (desk_moderate = the closed 'open-circle' road;
+>   chamber_councilor = the Ch.10 'almost'); capital_seer added (NOTE: 'blinded' = true-glasses crushed,
+>   he walks home SIGHTED — not eyeless); Hiram's Ch.6 blade-wound + 'can't hold a ward' logged; Ferro
+>   added; last_updated_chapter bumped 5→9. **Ch.6–9 are FINAL. Clean to proceed to Ch.10.**
 
 > **2026-06-22 — Ch.6 "The Window Narrows" DONE (closes Act One).** Drafted by the book-writer agent
 > under the hard gate contract WITH the Book One rhythm lesson added to the gate (tools/rhythm_check.py

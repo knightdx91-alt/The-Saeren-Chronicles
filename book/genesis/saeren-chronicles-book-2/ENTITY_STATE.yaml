@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 5   # Ch.1-5 re-drafted via agent suite, gate-clean (2026-06-22). Body below is forward-plan/canon (binding).
+last_updated_chapter: 9   # Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -66,13 +66,17 @@ characters:
 named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
   brutus: {from: "Bk1 council", desc: "broad, sunburned, built the camp with his hands; fears losing it", fate: "mortally hurt defending it (Ch.11), dies on the field (Ch.14) — pays off his Bk1 fear"}
   mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "dies shielding the children when the camp is found (Ch.11)"}
-  hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", fate: "wounded Ch.6; dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
-  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3", note: "texture; may survive"}
+  hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", status_ch9: "ACTUAL (Ch.6): took a blade under the collarbone holding the screen during the patrol skirmish; survived (healer drew/packed it); spent to the wick — CANNOT hold a ward again. Camp's pillars now 2 + Viridia.", fate: "dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
+  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3; took up the screen's weight when Hiram fell (Ch.6)", note: "texture; may survive"}
+  ferro: {status: "scout (confirm earliest on-page ref)", desc: "camp scout/runner on the supply line; the war-clock and outside news come through the scouts", note: "logged per Ch.1-5 watch-note; thin texture"}
   council_recur: "Coram (old, soft-voiced); MELLA = the woman-in-blue (pale blue dress, silver-and-gold spectacles, worn locket she clicks when afraid, two grandchildren in camp; named on-page Ch.3); the silver-bun woman (cold arithmetic, unnamed) — recur as texture"
 
 new_characters_book2:
   marick: {status: "NEW — final-beat seed only (Ch.20)", desc: "a man in a laboratory, holding the whole of a magic he never earned, about to make a very bad mistake", note: "DO NOT explain — Book-Three / Masters-of-the-Void thread"}
-  moderate_councilor: {status: "NEW (Ch.9/10)", role: "a capital moderate Viridia tries to reach for a peaceful solution; the 'almost' that fails"}
+  # NOTE: there are TWO distinct 'moderate' figures — keep them SEPARATE, do not conflate (continuity WARNING-1, Ch.6-9 audit):
+  desk_moderate: {status: "ACTUAL (Ch.5-8)", role: "the FIRST peace road — the careful Conclave desk-man who answered Viridia's open-circle letter, same-day up the rail-wire, three words: 'Who else knows.'", thread: "CLOSED — the overture is turned by the capital into the public broadsheet; this road fails", note: "marked by Lightwell's 'open/unjoined circle' sign"}
+  chamber_councilor: {status: "ACTUAL (Ch.8-9 -> Ch.10)", role: "the SECOND/last peace door — a chamber councilor who spoke against the war twice; reachable on foot; the secret meeting set ~three nights off = the Ch.10 'almost' that fails", note: "this is the former 'moderate_councilor' stub, now specified"}
+  capital_seer: {status: "NEW (Ch.6)", desc: "a capital true-seer carrying the Chancellor's true-glasses; sent to a rumor, read the camp's ward-sag before Viridia speared his shoulder; she crushed one lens and sent him home", fate: "ALIVE — walks home SIGHTED (his true-SIGHT 'blinded' = glasses destroyed, NOT eyeless; 'blinded' is figurative — do not render him eyeless later); discredited, but his story makes the capital believe in the camp + the girl"}
 
 world_rules:
   setting: "trains and motorcars exist"
