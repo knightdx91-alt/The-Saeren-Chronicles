@@ -73,6 +73,11 @@ ALLOWLIST = [
     "the man with the open circle",     # the Conclave moderate refrain
     "leave the open circle",            # Lightwell's mark refrain
     "burning on half its wick",         # the severing motif (cores burn on half their wick)
+    "the dark blue stone at her throat", # Viridia touching her mother's stone (restraint tell)
+    "voice did the flat thing",         # her voice flattening = the edge of breaking
+    "came out level and stripped",      # the same restraint tell
+    "the council that cut",             # "the council that cut us / the world" refrain
+    "promised herself she would walk every road",  # the promise refrain (variant)
 ]
 
 # n-gram repetition settings
