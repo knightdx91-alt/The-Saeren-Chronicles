@@ -1,14 +1,24 @@
 project:
   title: "Son of None"
-  genre: "<genre>"
+  genre: "Epic Fantasy"
   subgenre: "<subgenre>"
   language: "English"
   word_count_target: 90000
   comp_titles: []
   engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  premise: "Ne'veran Kras, a young man with no elemental sigil, is chosen by the grieving god Father to seal a dimensional rift that High King Alten has torn open to import the Gorlak army."
   created: "2026-06-22"
   updated: "2026-06-22"
+
+# Part of the Ne'veran universe (3-4 books). See research/series-bible.md.
+# Series order (author-confirmed 2026-06-22, see feedback/series-order-decision.md):
+#   Publication: Land of the Guardians -> The Dragon Isle -> Son of None -> The Origin
+#   Writing:     Son of None SPINE-LOCK now (Path B) -> Land of the Guardians ->
+#                Dragon Isle -> Son of None POLISH -> The Origin (last)
+series:
+  universe: "Ne'veran"
+  this_book_role: "chronological finale (final reckoning with Alten)"
+  current_pass: "spine-lock only — defer canon-dependent polish until Guardians locks canon"
 
 # ADAPTED RUN — revise/expand an existing draft, NOT genesis-from-idea.
 adaptation:
