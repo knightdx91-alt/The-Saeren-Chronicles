@@ -1,13 +1,13 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 9   # Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
+last_updated_chapter: 10   # Ch.10 finalized (gate-clean, 5,290w). Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
 author_decisions_book2:
   alice_fate: "ALIVE, CAPTURED — taken from Hazel to the capital; first-gen healers collected, not killed. Confirmed Ch.3. Rescue/reunion in war arc."
   raizen_affinity: "ALL ELEMENTS (prismatic) — channels all; dragon-mirror of Viridia's whole core; carries into human form."
-  unsigned_note: "Sent by Lady Lightwell (PROPOSED, author to confirm) — surfaces via her papers/cache held by Jazen (Ch.4/10)."
+  unsigned_note: "CONFIRMED (Ch.10) — Lady Lightwell's own hand; sent UNSIGNED on purpose so a frightened mother could refuse it without refusing her. Resolved from her papers in Ch.10."
 
 characters:
   viridia_saeren:
@@ -75,7 +75,8 @@ new_characters_book2:
   marick: {status: "NEW — final-beat seed only (Ch.20)", desc: "a man in a laboratory, holding the whole of a magic he never earned, about to make a very bad mistake", note: "DO NOT explain — Book-Three / Masters-of-the-Void thread"}
   # NOTE: there are TWO distinct 'moderate' figures — keep them SEPARATE, do not conflate (continuity WARNING-1, Ch.6-9 audit):
   desk_moderate: {status: "ACTUAL (Ch.5-8)", role: "the FIRST peace road — the careful Conclave desk-man who answered Viridia's open-circle letter, same-day up the rail-wire, three words: 'Who else knows.'", thread: "CLOSED — the overture is turned by the capital into the public broadsheet; this road fails", note: "marked by Lightwell's 'open/unjoined circle' sign"}
-  chamber_councilor: {status: "ACTUAL (Ch.8-9 -> Ch.10)", role: "the SECOND/last peace door — a chamber councilor who spoke against the war twice; reachable on foot; the secret meeting set ~three nights off = the Ch.10 'almost' that fails", note: "this is the former 'moderate_councilor' stub, now specified"}
+  chamber_councilor: {status: "CLOSED/DEAD (Ch.10)", role: "the SECOND/last peace door — a chamber councilor who voted the war down twice 'in the language of cost'; the secret meeting was the Ch.10 'almost' that genuinely moved him ('brave the expensive way')", fate: "meeting exposed via the true-glasses network; EXECUTED under emergency law before he could spend his courage. The last peace road is spent; ALL peace roads now closed BY THE ENEMY, not by Viridia's choice"}
+  # Ch.10 also: capital declared TOTAL WAR with a pre-cut woodcut block (the parade was always waiting); Alice + captives paraded in chains as 'proof of dark corruption' (alice still ALIVE/captured). NEW THREAT: a true-glass may backtrack a lit mage 'like a thread to its root' — camp possibly compromised (seeds Ch.11 'the camp is found').
   capital_seer: {status: "NEW (Ch.6)", desc: "a capital true-seer carrying the Chancellor's true-glasses; sent to a rumor, read the camp's ward-sag before Viridia speared his shoulder; she crushed one lens and sent him home", fate: "ALIVE — walks home SIGHTED (his true-SIGHT 'blinded' = glasses destroyed, NOT eyeless; 'blinded' is figurative — do not render him eyeless later); discredited, but his story makes the capital believe in the camp + the girl"}
 
 world_rules:
