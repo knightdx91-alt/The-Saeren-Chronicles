@@ -234,15 +234,11 @@ climax (Ch.16–18), sustained, not exceeded. Hold this line in every chapter:
   CONTRACT (≥4,600w; `style_check --max-emdash 4` → RESULT: clean; `rhythm_check` no flat triplets;
   voice-matched; canon held). Outline runs to **20 chapters**.
   > ### ▶ NEXT SESSION — Book Two: RESUME AT CHAPTER 18 ("The Rebirth")
-  > **Chapters 1–16 FINALIZED on `main`** (gate-clean). **Ch.17 ("The Decision") was being drafted
-  >   by an agent when usage ran out — VERIFY ITS STATE FIRST:** check `git log` and
-  >   `wc -w manuscript/chapters/chapter-17.md`; if chapter-17.md exists, re-run
-  >   `python3 tools/style_check.py --max-emdash 4` (must say RESULT: clean) + `rhythm_check.py`, confirm
-  >   **Meros (High Chancellor) ends DEAD by Drake's death-flames** and the well is only reached-for
-  >   (Ch.18 does the rebirth), then commit+push to `main` if not already committed. If chapter-17.md is
-  >   missing/incomplete, re-dispatch the Ch.17 writer task (beats: the choice to MEND THE SEVERING for
-  >   all without asking; Drake kills Meros; turn to the source; END HOOK = reaching for the well).
-  > - **Word count: ~81,315w through Ch.16** (Ch.17 should push past the **85,000 hard floor**; target band 90–100k).
+  > **Chapters 1–17 FINALIZED on `main`** (all gate-clean, RESULT: clean). Ch.17 ("The Decision") DONE:
+  >   Viridia chooses to mend-for-all unasked; **Drake kills Meros with death-flames (High Chancellor DEAD)**;
+  >   she reaches for the well (rebirth held for Ch.18; Bella's-name thread named, untouched).
+  > - **Word count: 86,375w through Ch.17 — past the 85,000 hard floor.** Target band 90–100k; 3 chapters
+  >   left (18, 19, 20) give ample room.
   > - **Ch.18 ("The Rebirth") is the next BINDING beat:** the mending of the 600-year severing for every
   >   living core at once, ≥3 full pages, fragmented→whole; she touches **Bella's-name thread** and again
   >   cannot follow it (Bk3 held); END HOOK = battlefield simply stops, every mage whole and not knowing why.
