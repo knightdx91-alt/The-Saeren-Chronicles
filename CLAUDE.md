@@ -7,8 +7,11 @@ Guidance for Claude Code working in this repository. Read this first.
 This is the working repo for **The Saeren Chronicles** (a YA epic/school fantasy
 trilogy by the author). Active work is on **Book One: The Hazel Years**.
 
-**We work only on `main`.** Do not create feature branches or PRs unless the
-author explicitly asks. Commit and push to `main`.
+**We work only on `main`. ALWAYS.** There must be NO other branch — regardless of
+which book we are working on. Everything gets committed and pushed straight to
+`main`. Do NOT create feature branches or PRs, ever (not even drafts). If a cloud
+session starts on some other branch (e.g. `claude/...`), push your work to `main`
+directly (fast-forward) so nothing splits off and everything stays in one place.
 
 Git identity for commits (so GitHub shows them verified):
 ```
