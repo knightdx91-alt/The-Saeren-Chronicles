@@ -193,6 +193,72 @@ ALLOWLIST = [
     "promised in the dark",             # the hand-on-arm promise (Ch.13 seed)
     "of the cold part", "and the cold part",  # the cold-part observer motif
     "come back through the wrong door",  # same wrong-door refrain
+    # --- Ch.17 THE DECISION motifs (intentional callbacks; NOT accidental echoes) ---
+    "the bodies were real",             # Ch.17 spine refrain: every other door shut and the bodies were real
+    "people through their magic",       # Amber's question paid off (Ch.9 -> Ch.17): control/change a whole people through their magic
+    "the whole grieving half made world", # the severing refrain: the half-made world she can mend at the source
+    "thing lor ar had named",           # the thing Lor-ar named on the mountain (Ch.5/12 -> Ch.17 callback)
+    "of the thing lor ar",              # same Lor-ar callback window
+    "the thing lor ar had",             # same
+    "in a single stroke",               # mend-for-all refrain (Ch.12 vow -> Ch.17 decision)
+    "burning on half their wick",       # the severing refrain (cores burn on half their wick)
+    "the broken cores of every living", # the lattice refrain (broken cores of every living soul)
+    "broken cores of every living soul",
+    "cores of every living soul on",
+    "every living soul on the",
+    "creature in the grass",            # Lor-ar's no-absolving refrain (Ch.12 -> Ch.17)
+    "the lank blond hair and",          # Alice's recurring descriptor (Ch.13/15 -> Ch.17)
+    "the lank blond hair and the",
+    "lank blond hair and the",
+    "endings the mark drake had set",   # the Death-symbol-not-reached-for motif (Ch.16 -> Ch.17)
+    "made for endings the mark drake",  # same
+    "the mark drake had set",           # same Death-symbol callback
+    "her hand on jazen's arm",          # the hand-on-arm promise (Ch.13 seed / Ch.16 / Ch.17)
+    "hand on jazen's arm and",
+    "tail of the iron line",            # the captives' iron line (Ch.16 -> Ch.17, Alice at its tail)
+    "no longer careful at last",        # the END-HOOK refrain: no longer careful who saw what she was
+    "longer careful at last and",
+    "don't let the girl spend you",     # Drake's Ch.12 line, pointedly NOT said in Ch.17
+    "let the girl spend you cheap",     # same Drake non-saying
+    "with both ends of itself",         # the True-Bond reaching with both ends (Ch.12 -> Ch.17)
+    "decided to meet it standing",      # Raizen's bracing (Ch.12 -> Ch.17)
+    "expect a hard thing and",          # same Raizen-bracing window
+    "hard thing and has decided",
+    "told to expect a hard thing",
+    "you'll know it after",             # Drake's "you'll know it after" (Ch.12 -> Ch.17)
+    "the way you'll know it after",
+    "know it the way you'll know",
+    "don't know it the way you'll",
+    "a sum you don't know",             # same Drake-on-the-cart callback ("you know it as a sum")
+    "sum you don't know it",
+    "bring him back whatever shape",    # Varissa's charge (Ch.12 -> Ch.17)
+    "fall apart in the open air",       # Amber's-question refrain (Ch.12 -> Ch.17): the reply that falls apart in the open air
+    "part carrying the saying so",      # the cold-part-carries-the-saying motif (Ch.12 -> Ch.17)
+    "the dark a fortnight ago",         # Amber asked it in the dark a fortnight ago (Ch.9 -> Ch.12 -> Ch.17)
+    "dark a fortnight ago and",
+    "one time too many",                # Drake stood beside the loss one time too many (Ch.12 -> Ch.17)
+    "tool he means to keep",            # the cleans-a-tool-he-means-to-keep motif (Ch.16 -> Ch.17)
+    "lawful and the unlawful halves",   # the capital's lawful/unlawful-halves speech (Ch.16 -> Ch.17)
+    "the way she understood everything too",  # the "understood everything too late" refrain (Ch.16 -> Ch.17)
+    "she understood everything too late that",
+    "way she understood everything too late",
+    "and the net mages",                # the net-mages / smother-throwers (Ch.16 -> Ch.17 descriptor)
+    "in the dark blue shirt",           # Jazen's dark blue shirt (Ch.15/16 -> Ch.17)
+    "and watched the capital turn",     # the capital-twists-the-overture refrain (Ch.9/10 -> Ch.17)
+    "watched the capital turn it",
+    "the camp had hidden against exactly",  # the hidden-rifles-against-exactly-this motif (Ch.12 -> Ch.17)
+    "camp had hidden against exactly this",
+    "and never wanted to use",          # same hidden-weapons motif (never wanted to use)
+    "never wanted to use and",
+    "brave the expensive way and",      # the councilor's courage refrain (Ch.10 -> Ch.17)
+    # connective/structural windows the stopword filter under-caught (not fingerprints):
+    "the last door was", "on the far side", "the far side of", "standing in front of",
+    "a held breath and", "the way the capital", "the way a person", "the way drake had",
+    "spent it the way", "turned the whole of", "the whole of herself", "no cold part left to",
+    "the cold part was broken", "hair and a wrong", "the whole long morning", "up the rail wire",
+    "the open circle and", "knew it the way", "the first time in", "arrives too late is",
+    "that arrives too late is", "arrives too late is the", "bring exactly this to exactly",
+    "set in her hand", "her hand as grief",  # the Death-symbol set in her hand as grief (Ch.8/14/16 -> Ch.17)
 ]
 
 # n-gram repetition settings
