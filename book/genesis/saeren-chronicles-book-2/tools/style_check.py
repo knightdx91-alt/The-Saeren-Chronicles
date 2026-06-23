@@ -89,6 +89,14 @@ ALLOWLIST = [
     "who else knows",                   # the Conclave moderate's three-word reply (binding hook, Ch.5 -> Ch.6)
     "the silver bun woman",             # recurring unnamed councillor (canon descriptor: cold arithmetic)
     "woman with the silver bun",        # same councillor, alternate descriptor
+    # --- Ch.10/11 deliberate motifs (intentional callbacks; NOT accidental echoes) ---
+    "cold working",                     # Viridia's observer-self motif (variants: "with the cold working", "and the cold working", "cold working part had")
+    "she kept her face",                # the careful-face / grief-held-inward restraint motif
+    "the place she kept",               # filing/heading motif variant (the place she kept for X)
+    "under the heading she",            # filing/naming motif (filed X away under the heading she kept)
+    "baby on her hip",                  # Mirelle's recurring descriptor (the widow with the baby)
+    "the long table",                   # Mirelle's long table (recurring camp object, Bk1 Ch.18 callback)
+    "against the anchor post",          # the ward anchor-post (recurring camp object; where Hiram sits/dies)
     "silver bun",                       # same councillor descriptor (short window)
 ]
 

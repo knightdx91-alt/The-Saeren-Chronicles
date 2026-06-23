@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 10   # Ch.10 finalized (gate-clean, 5,290w). Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
+last_updated_chapter: 11   # Ch.11 finalized (gate-clean, 4,600w) — camp found & destroyed; Mirelle+Hiram dead, Brutus mortally hurt; the march begins from the ash. Ch.10 finalized (gate-clean, 5,290w). Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -64,10 +64,10 @@ characters:
     role_book2: "wages total war; parades captives incl. Alice; BEHEADS Jazen before both armies (Ch.16); KILLED by Drake's death-flames (Ch.17)"
 
 named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
-  brutus: {from: "Bk1 council", desc: "broad, sunburned, built the camp with his hands; fears losing it", fate: "mortally hurt defending it (Ch.11), dies on the field (Ch.14) — pays off his Bk1 fear"}
-  mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "dies shielding the children when the camp is found (Ch.11)"}
-  hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", status_ch9: "ACTUAL (Ch.6): took a blade under the collarbone holding the screen during the patrol skirmish; survived (healer drew/packed it); spent to the wick — CANNOT hold a ward again. Camp's pillars now 2 + Viridia.", fate: "dies holding the ward so others flee (Ch.11) — drops the camp's invisibility"}
-  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3; took up the screen's weight when Hiram fell (Ch.6)", note: "texture; may survive"}
+  brutus: {from: "Bk1 council", desc: "broad, sunburned, built the camp with his hands; fears losing it", status_ch11: "MORTALLY HURT (Ch.11) — fire-wound under the ribs defending the cookhouse he laid stone by stone (swung a roof-beam at a fire-mage); on the last cart, healer can slow not close it. Extracted Viridia's promise: 'Don't let them have the field' (sets up Ch.14)", fate: "dies on the field (Ch.14) — pays off his Bk1 fear"}
+  mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "DEAD (Ch.11) — made her own back into a table over the children, counting them aloud; the children live, she does not. Baby survives, now with the healer's wife"}
+  hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", status_ch9: "ACTUAL (Ch.6): took a blade under the collarbone holding the screen during the patrol skirmish; survived (healer drew/packed it); spent to the wick — CANNOT hold a ward again. Camp's pillars now 2 + Viridia.", fate: "DEAD (Ch.11) — could not flee; chose to SET the ward down slow (not let it collapse), buying ~40 min to get every child out past the elms; died at the anchor-post, nothing left to put on a cart. His death drops the camp's invisibility (pays off the lost Lightwell warning)"}
+  abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3; took up the screen's weight when Hiram fell (Ch.6)", status_ch11: "SURVIVED (Ch.11) — carried the ward's half-weight at the end, now spent/shaking; on the road with the survivors", note: "texture; alive"}
   ferro: {status: "scout (confirm earliest on-page ref)", desc: "camp scout/runner on the supply line; the war-clock and outside news come through the scouts", note: "logged per Ch.1-5 watch-note; thin texture"}
   council_recur: "Coram (old, soft-voiced); MELLA = the woman-in-blue (pale blue dress, silver-and-gold spectacles, worn locket she clicks when afraid, two grandchildren in camp; named on-page Ch.3); the silver-bun woman (cold arithmetic, unnamed) — recur as texture"
 
@@ -87,7 +87,7 @@ world_rules:
   bonding: "summoned bond (Lor-ar) vs True Bond (Raizen, life-tied, dragons only)"
   shadow_walking: "Viridia can travel anywhere shadow reaches that she has visited"
   void: "abstract counterpart to the source; the rebirth widens the source/void pressure differential (Ch.20 seed). NO entity. NO void woman."
-  camp: "Jazen's hidden resistance village; invisible via a ward powered by ~3 mages (Jazen, Hiram, Abe); DESTROYED in the war (Ch.11+)"
+  camp: "Jazen's hidden resistance village; invisible via a ward powered by ~3 mages (Jazen, Hiram, Abe); DESTROYED (Ch.11) — ward fallen, village burned, ~2/3 of people saved & on the road; the one warded refuge is gone. END Ch.11: Jazen — 'There is nothing left to protect by waiting. We march now. From the ash.'"
 
 canon_guardrails:
   - "Alice = PEMBROOK; Jazen (NOT Jasen); Lightwell rose-tinted spectacles"
