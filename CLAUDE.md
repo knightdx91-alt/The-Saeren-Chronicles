@@ -131,6 +131,26 @@ chapters should run ~4,800-5,400 words. Verify total with:
 `wc -w manuscript/chapters/chapter-*.md`. If short at the end, expand the thinnest
 chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
+## YA tone continuity (applies to every book in the trilogy)
+
+The series is **upper/mature YA** — the same register as Book One's school-attack
+climax (Ch.16–18), sustained, not exceeded. Hold this line in every chapter:
+
+- **Violence is consequence, never spectacle.** Show death's weight and aftermath;
+  do NOT linger on viscera. At the worst acts (e.g. Jazen's execution), **cut the
+  camera on the act itself** — the horror lives in the silence after and in
+  Viridia's reaction, not in describing the blade's work.
+- **No content that pushes past YA:** no explicit sex, no graphic/lingered torture,
+  no adult-register profanity.
+- **Keep hope and connection LOAD-BEARING between the war beats.** Book Two lost
+  Book One's lighter school-story buffer, so the YA-ness now rests on the
+  Alice thread, the chosen-family bonds, and Viridia's agency. If those thin out and
+  it becomes wall-to-wall grief, the book drifts toward adult grimdark — that, not
+  any single image, is the real risk. Thread relief/connection through every dark
+  stretch.
+- The sanctioned exception to "grief held inward" is the **Book Two Ch.16 breakdown**
+  (banked since Book One); everywhere else, grief stays inward (see guardrail below).
+
 ## Canon guardrails (settled author decisions — never violate)
 
 - Alice's surname is **PEMBROOK**. Spelling is **JAZEN** (not Jasen).
