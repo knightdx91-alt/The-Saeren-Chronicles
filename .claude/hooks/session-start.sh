@@ -20,12 +20,20 @@ AGENTS_DIR="$HOME/.claude/agents"
 
 mkdir -p "$AGENTS_DIR"
 
-# Clone (or refresh) Best Seller Studio.
+# Clone (or refresh) Best Seller Studio. Retry the clone a few times so a flaky
+# network on container start does not leave the agents uninstalled.
 if [ -d "$BSS_DIR/.git" ]; then
   git -C "$BSS_DIR" pull --quiet --ff-only || true
 else
-  rm -rf "$BSS_DIR"
-  git clone --depth 1 --quiet "$BSS_REPO" "$BSS_DIR"
+  for attempt in 1 2 3; do
+    rm -rf "$BSS_DIR"
+    git clone --depth 1 --quiet "$BSS_REPO" "$BSS_DIR" && break
+    echo "warn: BSS clone attempt $attempt failed; retrying..." >&2
+    sleep $((attempt * 2))
+  done
+fi
+if [ ! -d "$BSS_DIR/.git" ]; then
+  echo "ERROR: could not clone Best Seller Studio ($BSS_REPO); book-* agents may be missing." >&2
 fi
 
 # 1) Copy the 8 core book-* agents as-is.
@@ -69,5 +77,22 @@ for f in "$AGENTS_DIR"/*.md; do
   fi
 done
 
+# 4) VERIFY the full expected agent set is installed. The pipeline depends on all
+#    of these being dispatchable from the first turn so we default to using them
+#    (not hand-writing chapters). Loudly flag any that are missing.
+EXPECTED=(book-orchestrator book-researcher book-architect book-writer \
+  book-evaluator book-editor book-disruptor book-packager \
+  entity-tracker continuity-guardian dialogue-polish hook-craft)
+missing=()
+for a in "${EXPECTED[@]}"; do
+  [ -f "$AGENTS_DIR/$a.md" ] || missing+=("$a")
+done
+
 echo "Installed book pipeline agents into $AGENTS_DIR (maxTurns normalized to 120):"
 ls "$AGENTS_DIR"
+if [ "${#missing[@]}" -eq 0 ]; then
+  echo "OK: all ${#EXPECTED[@]} expected sub-agents are installed and ready to dispatch."
+else
+  echo "ERROR: ${#missing[@]} expected sub-agent(s) MISSING: ${missing[*]}" >&2
+  echo "       Re-run this hook or re-clone $BSS_REPO; do not hand-write chapters until fixed." >&2
+fi
