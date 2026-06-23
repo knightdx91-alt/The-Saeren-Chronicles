@@ -42,7 +42,7 @@ make_agent () {
     printf 'description: %s\n' "$desc"
     printf 'tools: Read, Write, Edit, Grep, Glob, Bash\n'
     printf 'model: opus\n'
-    printf 'maxTurns: 40\n'
+    printf 'maxTurns: 120\n'
     printf -- '---\n\n'
     awk 'NR==1&&$0=="---"{f=1;next} f&&$0=="---"{f=0;next} !f{print}' "$src"
   } > "$AGENTS_DIR/$name.md"
@@ -57,5 +57,17 @@ make_agent dialogue-polish "$BSS_DIR/skills/deprecated/dialogue-polish/SKILL.md"
 make_agent hook-craft "$BSS_DIR/skills/deprecated/hook-craft/SKILL.md" \
   "Specializes in chapter openings (hooks) and endings (pulls). Every chapter must start with a reason to keep reading and end with a reason to turn the page. The role that prevents the reader from putting the book down."
 
-echo "Installed book pipeline agents into $AGENTS_DIR:"
+# 3) Normalize maxTurns across ALL installed agents. The upstream book-* agents
+#    ship with maxTurns: 40, which truncates a full chapter write-plus-gate-loop
+#    (read/edit/style_check/rhythm_check per iteration easily exceeds 40 turns) —
+#    the agent then stops mid-cleanup, ending its transcript on a tool result with
+#    no final message. Raise the ceiling so the gate loop can finish in one shot.
+#    (See book/genesis/tools/agent_stop_diag.sh for the diagnostic that found this.)
+for f in "$AGENTS_DIR"/*.md; do
+  if grep -qiE '^maxTurns:' "$f"; then
+    sed -i -E 's/^maxTurns: *[0-9]+/maxTurns: 120/I' "$f"
+  fi
+done
+
+echo "Installed book pipeline agents into $AGENTS_DIR (maxTurns normalized to 120):"
 ls "$AGENTS_DIR"
