@@ -126,6 +126,72 @@ ALLOWLIST = [
     "burning corridor and she knew",    # same burning-corridor refrain
     "half of the gift",                 # the dark-half / coarse-half-of-the-gift refrain
     "through the wrong door",            # Alice's refrain for Viridia: "she comes through the wrong door" (Ch.15)
+    # --- Ch.16 HINGE motifs (intentional callbacks; NOT accidental echoes) ---
+    "that is how held things end",      # Hiram's-ward / camp refrain: held things come down all at once (Ch.13 -> Ch.16 death)
+    "everything in this war coming",    # same "all at once" refrain ("everything in this war coming down all at once")
+    "the way hiram's ward had",         # same held-things-end callback (the ward, the camp, the rising)
+    "does not count heads",             # Jazen's salt-road confession refrain (Ch.13): the ungoverned gift "does not count heads"
+    "on the salt road",                 # Jazen's salt-road town refrain (Ch.13)
+    "a held burden runs through",       # the hand-on-arm seed (Ch.13): a hand on the one thing a held burden runs through
+    "the most powerful dark mage",      # Jazen's canon descriptor (most powerful dark mage living)
+    "the level terrible walk",          # Jazen's salt-road walk (Ch.14/15): the level terrible walk of a man past the leash
+    "glasses bright in the flat grey",  # the Chancellor's glasses motif (Ch.15 -> Ch.16): glasses bright in the flat grey light
+    "he's not going to make",           # Alice's Ch.15 line, echoed at the death (he's not going to make it, Vir)
+    "you've known it longer than",      # same Alice line continuation
+    "out of pure animal sense",         # the coarse-gift falling back from the dark gift (Ch.15 motif)
+    "the worst smell laid over all",    # the village's worst smell over the field (Ch.14 battle motif)
+    "a furnace banked a whole year",    # Viridia's banked-furnace refrain (Ch.14): a furnace banked a whole year
+    "held a furnace banked a whole",    # same banked-furnace refrain window
+    "be careful who you let see",       # Bella's warning paid off in Ch.16 (the END-HOOK payoff)
+    "who saw what she was",             # the END-HOOK refrain: she stops being careful who saw what she was
+    # deliberate Book-Two motif windows shared across the climax chapters (13-16):
+    "smell of soap and machine oil",    # the parents' refrain (Bk1 callback)
+    "the dark gift any soul living",    # Jazen = most of the dark gift any soul living carries
+    "dark gift any soul living carried",
+    "the glasses of true seeing",       # the Chancellor's true-seeing glasses (canon object)
+    "glasses of true seeing the",
+    "the silver framed",                # silver-framed glasses (canon object)
+    "and the silver framed",
+    "left lifting a fire off",          # the leash-was-elsewhere refrain (Ch.14->16)
+    "fire off a barefoot child",        # the barefoot-child motif (Ch.14)
+    "mark drake had set in",            # the Death-symbol Drake set in her hand (Ch.8 callback)
+    "the chained line",                 # the captives' chained line (canon object)
+    "chained line and the",
+    "the lean dark shape",              # Jazen's silhouette refrain (Ch.15->16)
+    "the road of shadow",               # shadow-walking road refrain
+    "road of shadow up",
+    "on the grey horse",                # the Chancellor's grey horse (canon object)
+    "in front of both armies",          # the public-execution refrain (the binding beat)
+    "the way a careful man",            # left as common connective (not a fingerprint)
+    "had crossed a field to keep",      # the crossed-a-field-for-them refrain (Ch.15->16)
+    # connective/structural windows the stopword filter under-caught (not fingerprints):
+    "for the first time", "there was nothing left", "was nothing left in",
+    "she put her hand", "was the thing about", "the only thing worse",
+    "only thing worse than", "thing worse than a run", "the thing the whole",
+    "the way the camp", "the way a man", "the way it always", "the air over the",
+    "the whole length of", "two armies and a", "of the coarse gift",
+    "thing she had ever", "had spent her whole life", "the whole world could see",
+    "whole world could see it", "on the cold stone", "the stone began to climb",
+    "stone began to climb and", "whole capital had been raised", "like water around a stone",
+    "a thin green eyed girl", "on the whole grey plain", "length of the grey field",
+    "the long way round", "last of the rise", "the small man was", "the small man had",
+    "and the small man", "the small bald shape", "on the stone before",
+    "thing on the stone", "the thing lor ar had", "part that had counted",
+    "never did a thing without", "a thing without an audience", "never showed a thing it",
+    "thing without an audience and never", "without an audience and never showed",
+    "audience and never showed a thing", "one thing a held burden runs",
+    "has held a furnace banked", "furnace banked a whole year and",
+    "worst smell laid over all of",
+    "bright in the flat grey light",    # the glasses-bright motif (Ch.15->16)
+    "going to make it vir",             # Alice's Ch.15 line echoed at the death
+    "working part of her",              # the cold-working-part observer motif
+    "angle of the light",               # the light-decides-for-her motif (Ch.15->16)
+    "door in the fire",                 # the wrong-door-in-the-fire motif (Ch.15->16)
+    "in the cold place",                # the cold-place-where-she-keeps-the-dead motif
+    "she kept the faces", "kept the faces of", "faces of her dead",  # the filing-the-dead motif
+    "soul on the plain",                # the indifferent-field refrain
+    "promised in the dark",             # the hand-on-arm promise (Ch.13 seed)
+    "of the cold part", "and the cold part",  # the cold-part observer motif
     "come back through the wrong door",  # same wrong-door refrain
 ]
 
