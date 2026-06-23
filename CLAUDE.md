@@ -228,14 +228,34 @@ climax (Ch.16–18), sustained, not exceeded. Hold this line in every chapter:
   - Re-seed the "family-tree name that doesn't fit" — its Ch.2 vehicle (the
     spellbook) burned in Ch.16, so the plant needs a new home if kept.
 - **Book Two ("The Resistance") IS IN PROGRESS** at `book/genesis/saeren-chronicles-book-2/`
-  (worked directly on `main`). As of 2026-06-22: the prior Ch.1–9 drafts were cleared and the
-  chapter loop restarted with the book-* agent suite (dispatched as `general-purpose` agents that
-  read `~/.claude/agents/*.md`, since the named book-* subagents aren't dispatchable in this env).
-  **Chapters 1–5 finalized** (24,715 words) — every chapter style-gate clean (em-dash ≤4, no
-  cross-chapter repeats) and **Genesis Floor ≥ 8.5** (evaluator + continuity pass done: 0 critical,
-  3 warnings resolved). **Resume at Chapter 6** — read
-  `book/genesis/saeren-chronicles-book-2/feedback/progress.md` first. New binding decision: **Viridia
-  is 14 at open, turns 15 on-page** (birthday beat not yet placed; recommend around the march).
+  (everything pushed straight to `main` — single-branch workflow, no other branch ever). Drafted via
+  the book-* agent suite (dispatched as `general-purpose` agents that read `~/.claude/agents/*.md`,
+  since the named book-* subagents aren't dispatchable in this env), each chapter under the HARD GATE
+  CONTRACT (≥4,600w; `style_check --max-emdash 4` → RESULT: clean; `rhythm_check` no flat triplets;
+  voice-matched; canon held). Outline runs to **20 chapters**.
+  > ### ▶ NEXT SESSION — Book Two: RESUME AT CHAPTER 18 ("The Rebirth")
+  > **Chapters 1–16 FINALIZED on `main`** (gate-clean). **Ch.17 ("The Decision") was being drafted
+  >   by an agent when usage ran out — VERIFY ITS STATE FIRST:** check `git log` and
+  >   `wc -w manuscript/chapters/chapter-17.md`; if chapter-17.md exists, re-run
+  >   `python3 tools/style_check.py --max-emdash 4` (must say RESULT: clean) + `rhythm_check.py`, confirm
+  >   **Meros (High Chancellor) ends DEAD by Drake's death-flames** and the well is only reached-for
+  >   (Ch.18 does the rebirth), then commit+push to `main` if not already committed. If chapter-17.md is
+  >   missing/incomplete, re-dispatch the Ch.17 writer task (beats: the choice to MEND THE SEVERING for
+  >   all without asking; Drake kills Meros; turn to the source; END HOOK = reaching for the well).
+  > - **Word count: ~81,315w through Ch.16** (Ch.17 should push past the **85,000 hard floor**; target band 90–100k).
+  > - **Ch.18 ("The Rebirth") is the next BINDING beat:** the mending of the 600-year severing for every
+  >   living core at once, ≥3 full pages, fragmented→whole; she touches **Bella's-name thread** and again
+  >   cannot follow it (Bk3 held); END HOOK = battlefield simply stops, every mage whole and not knowing why.
+  > - Then Ch.19 ("What Remains", quieter wonder+grief) and Ch.20 (close). See `outline.md`.
+  > - **YA tone guardrail now in force** (see "YA tone continuity" section above): violence=consequence,
+  >   cut the camera on the act, keep hope/connection load-bearing. The sanctioned grief-inward break was
+  >   Ch.16 ONLY; she is changed by it but grief goes back inward after.
+  >
+  > --- prior resume note (history) ---
+  > Chapters 1–5 finalized (24,715w); Ch.6–9 adopted from epic branch + age-scrubbed; Ch.10–13 (Act Two)
+  > and Ch.14–16 (Act Three through THE HINGE: Jazen beheaded before both armies, the breakdown breaks)
+  > all finalized gate-clean. Binding decision: **Viridia is 14 at open, turns 15 on-page** (turn-to-15
+  > beat PLACED in Ch.12, felt/private, no number on the page).
 - **Book Three is not started.** When ready, set it up as its own pipeline project seeded from the
   Series Roadmap + the Book Two ENTITY_STATE.yaml.
 
