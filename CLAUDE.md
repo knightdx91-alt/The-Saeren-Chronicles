@@ -151,6 +151,22 @@ climax (Ch.16–18), sustained, not exceeded. Hold this line in every chapter:
 - The sanctioned exception to "grief held inward" is the **Book Two Ch.16 breakdown**
   (banked since Book One); everywhere else, grief stays inward (see guardrail below).
 
+## Book One canon cross-check (catch continuity drift BEFORE drafting)
+
+ENTITY_STATE is a SUMMARY, not the source of truth for *how a returning element
+was actually rendered*. Whenever a later-book chapter reuses anything established
+in an earlier book — a **place** (the source/well CAVERN, the school, a room), a
+returning **character's** established traits/appearance, an **object**, or a rule —
+the writer MUST open the earlier book's actual prose (`../saeren-chronicles/manuscript/chapters/`)
+and match it, not just the one-line entity note. Drift example caught 2026-06-23:
+the Book Two rebirth was about to happen as a metaphysical reach from the battlefield,
+but Book One Ch.14 had already made the source a **physical cavern** (stone chamber,
+pedestal, pool) reached by portal — so the rebirth must portal back THERE.
+**Process:** (1) before drafting any Act-Three chapter that touches a Book One element,
+grep Book One's chapters for it and read the passage; (2) run a `continuity-guardian`
+pass against Book One canon (not just Book Two) before finalizing. Do not rely on the
+author to catch these.
+
 ## Canon guardrails (settled author decisions — never violate)
 
 - Alice's surname is **PEMBROOK**. Spelling is **JAZEN** (not Jasen).
