@@ -96,3 +96,17 @@ else
   echo "ERROR: ${#missing[@]} expected sub-agent(s) MISSING: ${missing[*]}" >&2
   echo "       Re-run this hook or re-clone $BSS_REPO; do not hand-write chapters until fixed." >&2
 fi
+
+# 5) Cross-model SECOND-OPINION tooling (Google Gemini), used by
+#    book/genesis/tools/gemini_review.sh and the /gemini-second-opinion command.
+#    Only sets up when a key is available. To PERSIST across ephemeral containers,
+#    set GEMINI_API_KEY as an environment secret in the Claude Code web environment
+#    settings (a hand-pasted ~/.gemini_env lives only for one container's lifetime).
+if [ -n "${GEMINI_API_KEY:-}" ] || [ -f "$HOME/.gemini_env" ]; then
+  if ! command -v gemini >/dev/null 2>&1; then
+    echo "Installing Gemini CLI for second-opinion reviews..."
+    npm install -g @google/gemini-cli >/dev/null 2>&1 \
+      && echo "Gemini CLI installed ($(gemini --version 2>/dev/null | head -1))." \
+      || echo "warn: Gemini CLI install failed; /gemini-second-opinion will be unavailable." >&2
+  fi
+fi

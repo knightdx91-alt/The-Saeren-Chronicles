@@ -1,0 +1,5 @@
+.gemini_env
+*.gemini_env
+.env
+*.key
+settings.local.json
