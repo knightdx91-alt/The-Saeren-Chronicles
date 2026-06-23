@@ -147,12 +147,17 @@ immediate threat gone, Viridia turns toward the source. Amber's question rides w
 chosen anyway. END HOOK: she reaches for the well of all magic.
 
 ### Ch.18 — The Rebirth  · *fragmented→whole* (overwhelm) · ~5,000
-**[BINDING: the magical rebirth scene expanded to ≥3 full pages.]** Viridia at the source, mending the
-six-hundred-year severing for every living core at once — written as overwhelm resolving into a single
-terrible clarity. She touches **the thread with Bella's name** again, and again cannot follow it (Book-Three
-thread held). She feels the world change. **[BINDING: everyone's magic made whole, and none of them know
-why.]** The cost to her is named, not narrated flat. END HOOK: she returns to a battlefield that has
-simply… stopped, every mage on both sides suddenly holding the whole of themselves and not understanding.
+**[BINDING: the magical rebirth scene expanded to ≥3 full pages.]** **[BINDING LOCATION (author, 2026-06-23):
+she PORTALS to the physical Book One cavern — the low rough stone chamber, the pedestal, the pool that is the
+source itself (Bk1 Ch.14) — and performs the rebirth THERE, at the actual well, with her hand in the pool, ALONE
+with the source (not from the battlefield rise; the Ch.17 "reached for the well" hook = her opening the seam back
+to the cavern).]** Viridia at the source, mending the six-hundred-year severing for every living core at once —
+written as overwhelm resolving into a single terrible clarity. She touches **the thread with Bella's name** again
+at the same pedestal, and again cannot follow it (Book-Three thread held). She feels the world change. **[BINDING:
+everyone's magic made whole, and none of them know why.]** The cost to her is named, not narrated flat. END HOOK:
+she returns through the portal to a battlefield that has simply… stopped — every mage on both sides suddenly
+holding the whole of themselves and not understanding (the stopping happened while she was away at the well; she
+steps back onto the rise into the aftermath of it).
 
 ### Ch.19 — What Remains  · *chronological, quieter* · ~4,900 · wonder + grief
 The war is over (no one can fight what no one understands; the Chancellor dead, his cause hollow).
