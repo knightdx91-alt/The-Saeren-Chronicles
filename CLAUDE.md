@@ -249,12 +249,25 @@ author to catch these.
   since the named book-* subagents aren't dispatchable in this env), each chapter under the HARD GATE
   CONTRACT (≥4,600w; `style_check --max-emdash 4` → RESULT: clean; `rhythm_check` no flat triplets;
   voice-matched; canon held). Outline runs to **20 chapters**.
-  > ### ▶ NEXT SESSION — Book Two: RESUME AT CHAPTER 18 ("The Rebirth")
-  > **Chapters 1–17 FINALIZED on `main`** (all gate-clean, RESULT: clean). Ch.17 ("The Decision") DONE:
-  >   Viridia chooses to mend-for-all unasked; **Drake kills Meros with death-flames (High Chancellor DEAD)**;
-  >   she reaches for the well (rebirth held for Ch.18; Bella's-name thread named, untouched).
-  > - **Word count: 86,375w through Ch.17 — past the 85,000 hard floor.** Target band 90–100k; 3 chapters
-  >   left (18, 19, 20) give ample room.
+  > ### ▶ BOOK TWO IS COMPLETE — all 20 chapters FINALIZED on `main`, 102,930 words (target band cleared).
+  > Every chapter gate-clean (style_check RESULT: clean, em-dash ≤4, rhythm only sanctioned anaphora),
+  > canon held, YA tone held. Act Three landed in full: Ch.14 battle opens / Brutus dies on the field;
+  > Ch.15 Alice freed-but-changed / too-late hook; Ch.16 THE HINGE (Jazen beheaded before both armies,
+  > the banked breakdown breaks, camera cut on the act); Ch.17 the decision + **Drake kills Meros
+  > (High Chancellor DEAD)**; Ch.18 THE REBIRTH (she PORTALS to the physical Bk1 cavern and mends the
+  > 600-year severing for all cores at once; **named cost = mana-sight spent, TEMPORARY, returns slowly =
+  > Bk3 thread**; Bella's-name thread touched-unfollowed); Ch.19 wonder+grief (Raizen human form;
+  > Lor-ar released; Drake/Varissa goodbye completed; Alice reunited); Ch.20 FINALE (cost counted,
+  > faces forward, "none of them know why," **Marick/the-lab seed planted**, void-rim a shade wider — no entity).
+  > - **Optional next (author's call):** evaluator/continuity full-book audit pass; `book-packager`
+  >   (logline/synopsis/query/cover) + production formatting; then **Book Three** (seed from Series Roadmap
+  >   + Book Two ENTITY_STATE; open Bk3 threads: Marick/the lab, the void-rim differential, Bella's-name
+  >   thread, Viridia's sight recovering over months).
+  >
+  > --- prior resume note (history) ---
+  > Ch.1–17 finalized; Ch.18 rebirth-location decided by author (portal to the physical Bk1 cavern, not
+  > a battlefield reach); Ch.18 cost decided TEMPORARY (sight spent, returns slowly). maxTurns on the
+  > book-* agents raised 40->120 (they were stalling mid-gate; see book/genesis/tools/agent_stop_diag.sh).
   > - **Ch.18 ("The Rebirth") is the next BINDING beat:** the mending of the 600-year severing for every
   >   living core at once, ≥3 full pages, fragmented→whole; she touches **Bella's-name thread** and again
   >   cannot follow it (Bk3 held); END HOOK = battlefield simply stops, every mage whole and not knowing why.
