@@ -249,9 +249,52 @@ author to catch these.
   since the named book-* subagents aren't dispatchable in this env), each chapter under the HARD GATE
   CONTRACT (≥4,600w; `style_check --max-emdash 4` → RESULT: clean; `rhythm_check` no flat triplets;
   voice-matched; canon held). Outline runs to **20 chapters**.
-  > ### ▶ BOOK TWO IS COMPLETE — all 20 chapters FINALIZED on `main`, 102,930 words (target band cleared).
+  > ### ▶ BOOK TWO IS COMPLETE + REVIEWED + POLISHED — all 20 chapters FINALIZED on `main`, 103,149 words.
   > Every chapter gate-clean (style_check RESULT: clean, em-dash ≤4, rhythm only sanctioned anaphora),
-  > canon held, YA tone held. Act Three landed in full: Ch.14 battle opens / Brutus dies on the field;
+  > canon held, YA tone held.
+  >
+  > **EXTERNAL REVIEW DONE (2026-06-23)** — two INDEPENDENT passes, artifacts in `feedback/`:
+  > - `feedback/beta-read-bookwide.md` — 3-reader beta panel (primary 9/10, hostile 6.5/10, casual 7.5/10).
+  > - `feedback/gemini/review-ch{1,14,16,17,18,20}.md` — Gemini cross-model second opinion (via the new
+  >   `tools/gemini_review.sh` / `/gemini-second-opinion` command).
+  > - `feedback/review-synthesis-2026-06-23.md` — consolidates both. STRONG CONVERGENCE on: (1) protagonist
+  >   PASSIVITY / agency-theft at the climax [still OPEN — see below], (2) voice monotony/tics [FIXED, see polish],
+  >   (3) the 'instant peace' ending plausibility [FIXED via B], (4) Ch.18 rebirth asserted-not-enacted [still open],
+  >   (5) YA buffer banked too late. NOTE: Gemini's push for a gorier on-page beheading was REJECTED (violates the
+  >   YA guardrail — the screened-off execution is the book's high-water mark per the beta panel).
+  >
+  > **POLISH ROUND DONE (2026-06-23), all committed gate-clean, no plot/canon change:**
+  > - **C (voice de-tic / rhythm):** Ch.1,3,5,7,8,10,12,18,20 — thinned the worst repeated constructions
+  >   ('filed it away', 'the cold working part', recursive 'whole of it') to one load-bearing instance per
+  >   scene, split the longest polysyndeton run-ons, added short plain sentences for contrast. Deliberately
+  >   LEFT the high-performing emotional chapters (9, 11, 16, 19) untouched.
+  > - **B (eerie-not-tidy ending friction):** Ch.18 & Ch.20 — wove FEAR into the stopped battlefield (a man
+  >   clawing his chest as if poisoned; a commander screaming at a line that won't re-form; a rifle raised
+  >   halfway and lowered; a thin 'witchcraft' no one answers 'because no one knew whether he was right').
+  >   Strengthens 'none of them know why' (now includes not knowing whether it was a gift or a violation) —
+  >   does NOT soften it. War still gutters out; thesis intact.
+  >
+  > **STILL OPEN (author's call — NOT done; the two structural items):**
+  > - **A — climax agency (the #1 review finding):** Viridia is reactive; at the end a dragon kills Meros
+  >   FOR her and the world-mending happens alone in a sealed cave off-stage — even the devoted reader feels
+  >   robbed (same root cause as Book One's round-6 passive-protagonist fix). Option: give her one decisive,
+  >   hands-on, costly, WITNESSED win (her choice/hand the proximate cause of Meros's defeat, or stage the
+  >   rebirth where the cost is seen). This is the biggest lever but a real change to the ending — get author
+  >   sign-off before touching it.
+  > - **#4 — enact the Ch.18 overwhelm** instead of narrating 'it was too much, it was meant to be too much'
+  >   (a larger rebirth-middle rewrite; optional).
+  >
+  > **NEW TOOLING (this session, committed):**
+  > - `tools/gemini_review.sh` + `/gemini-second-opinion <chapter>` — cross-model (Google Gemini) craft
+  >   critique tuned for PROSE. Needs `GEMINI_API_KEY` (read from env or out-of-repo `~/.gemini_env`, NEVER
+  >   committed; set it as an ENV SECRET in the web-environment config to persist — a pasted key is one
+  >   container only). `gemini-2.5-pro` is quota-blocked on the current key (free-tier 0 → needs billing);
+  >   runs on `gemini-2.5-flash`. SessionStart hook installs the Gemini CLI when a key is present.
+  > - `book/genesis/tools/agent_stop_diag.sh` — diagnoses why a sub-agent stopped (FINISHED vs CUT-OFF/maxTurns).
+  > - SessionStart hook hardened: clone-retry + verifies all 12 agents install each session + maxTurns→120.
+  >
+  > --- (history below) ---
+  > Act Three landed in full: Ch.14 battle opens / Brutus dies on the field;
   > Ch.15 Alice freed-but-changed / too-late hook; Ch.16 THE HINGE (Jazen beheaded before both armies,
   > the banked breakdown breaks, camera cut on the act); Ch.17 the decision + **Drake kills Meros
   > (High Chancellor DEAD)**; Ch.18 THE REBIRTH (she PORTALS to the physical Bk1 cavern and mends the
