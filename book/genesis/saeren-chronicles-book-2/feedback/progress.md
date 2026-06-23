@@ -1,8 +1,27 @@
 # Progress — Book Two: The Resistance
 
-## ▶ RESUME HERE: write Chapter 10 (Act Two — "the almost")
-Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–9 on `main`, all
-gate-clean.** ~46,300 words so far (toward the 85,000 hard floor / 90–100k target).
+## ▶ RESUME HERE: write Chapter 14 (Act Three — "The First Hour", the battle opens)
+Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–13 on `main`, all
+gate-clean.** **65,779 words** so far (toward the 85,000 hard floor / 90–100k target).
+
+> **2026-06-23 — Ch.10–13 finalized (committed straight to `main` per author).** Drafted via the
+> book-writer agent suite under the hard gate contract; parent verified every gate literally
+> (`style_check --max-emdash 4` → `RESULT: clean.`; `rhythm_check` → 0 flagged per chapter; word floor
+> ≥4,600). **Ch.10 The Almost** (5,290w) — the last peace door genuinely moves a councilor, then the
+> enemy closes every road (meeting exposed via the true-glasses network, councilor executed, total war
+> declared, Alice + captives paraded); unsigned note confirmed as Lightwell's hand; off-pattern family
+> name kept live (Bk3 seed). **Ch.11 The Cost of Hiding** (4,600w) — camp found & destroyed; Hiram dies
+> setting the ward down slow, Mirelle dies a table over the children, Brutus mortally hurt; Jazen: march
+> now, from the ash. (Allowlisted Ch.10/11 deliberate motifs in style_check; rephrased 6 incidental
+> repeats — the agent had falsely reported clean.) **Ch.12 Goodbyes** (4,649w) — Drake & Varissa
+> farewell Raizen; Viridia's private vow to Lor-ar (mend the severing if the wall fails; Lor-ar won't
+> absolve her); **turn-to-15 beat PLACED** (felt/private, no number on-page); column takes the road.
+> **Ch.13 The Road and the Walls** (4,695w, END OF ACT TWO) — Jazen's fullest turn (salt-road confession;
+> the leash/walls fear) + **the hand-on-arm promise planted**; both armies face off; Chancellor rides out
+> with Alice + captives in chains. ENTITY_STATE updated to ch.13.
+
+> **(history) Earlier resume note — write Chapter 10 (Act Two — "the almost")**
+> Chapters 1–9 on `main`, all gate-clean. ~46,300 words.
 
 > **2026-06-22 — Ch.6–9 ADOPTED from the `claude/epic-wozniak-c456df` branch (author decision).**
 > That branch held a more-complete prior run: its Ch.1–5 are byte-identical to main, and it also had

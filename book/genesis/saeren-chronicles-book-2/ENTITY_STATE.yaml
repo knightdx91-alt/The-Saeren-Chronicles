@@ -1,6 +1,6 @@
 # ENTITY_STATE — Book Two: The Resistance
 # Seeded from research/book1-entity-state.yaml (Book One end state). UPDATE as chapters are written.
-last_updated_chapter: 12   # Ch.12 finalized (gate-clean, 4,649w) — Goodbyes: Drake&Varissa farewell Raizen; Viridia's private vow to Lor-ar; turn-to-15 placed (no number); column takes the road. Ch.11 finalized (gate-clean, 4,600w) — camp found & destroyed; Mirelle+Hiram dead, Brutus mortally hurt; the march begins from the ash. Ch.10 finalized (gate-clean, 5,290w). Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
+last_updated_chapter: 13   # Ch.13 finalized (gate-clean, 4,695w) — END OF ACT TWO: the march & the walls; Jazen's fullest turn (salt-road confession, the leash/walls fear) + the hand-on-arm promise planted; both armies face off, Chancellor rides out with Alice + captives in chains. Ch.12 finalized (gate-clean, 4,649w) — Goodbyes: Drake&Varissa farewell Raizen; Viridia's private vow to Lor-ar; turn-to-15 placed (no number); column takes the road. Ch.11 finalized (gate-clean, 4,600w) — camp found & destroyed; Mirelle+Hiram dead, Brutus mortally hurt; the march begins from the ash. Ch.10 finalized (gate-clean, 5,290w). Ch.1-5 agent-drafted; Ch.6-9 ADOPTED from epic branch + age-scrubbed (2026-06-22), gate-clean, Genesis Floor >=8.6, continuity 0 critical. Body below is forward-plan/canon (binding).
 mode: UPDATE
 seeded_from: "research/book1-entity-state.yaml (Book One, last_updated_chapter 18)"
 
@@ -29,7 +29,7 @@ characters:
     age: 14
     hair: "long blond"; eyes: "green"; teeth: "wide smile, one tooth turned out of line"; build: "a bit heavier"
     background: "first-generation mage; healer's hands ('calm hands' per Brun)"
-    status_book2: "ALIVE — captured at Hazel, held in the capital; freed/reunited in the war arc (Ch.15/19)"
+    status_book2: "ALIVE — captured at Hazel, held in the capital; freed/reunited in the war arc (Ch.15/19). ON-PAGE Ch.13: paraded in chains before the capital wall with the other captives (recognized by the one crooked tooth, lank blond hair, calm hands) — sets up the Ch.15 rescue"
     knows_moravian: "taught by Viridia (per series bible)"
   amber_summers:
     age: "17-18"
@@ -41,7 +41,9 @@ characters:
     role: "resistance leader, most powerful dark mage alive, mid-20s; Lady Lightwell's son"
     physical: "lean/lanky, close-cropped dark hair, brown trousers, dark blue shirt, kerchief; lets his grief show (cries openly)"
     wound: "sister Jan burned 2 yrs ago; once killed a town's worth of soldiers in grief; terrified of his own power; now his mother dead too"
-    arc_book2: "DEVELOP fully across >=4 chapters (1,2,3,4,9,13) — Viridia's mirror — THEN die with full weight"
+    arc_book2: "DEVELOP fully across >=4 chapters (1,2,3,4,9,13) — Viridia's mirror — THEN die with full weight. SATISFIED at Ch.13 (his fullest turn)."
+    dev_ch13: "FOURTH+ full beat (Ch.13): alone in the dark he weeps openly (his register vs Viridia's banked one); confesses the SALT-ROAD TOWN — once killed a town's worth of people in ungoverned grief; fears losing control before the Chancellor; the leash/walls distinction (he has a furnace and no leash, only walls)"
+    hand_on_arm: "BINDING SEED PLANTED (Ch.13): Viridia vows to stand in reach of Jazen's arm the whole battle and be his leash — 'My hand on your arm. That is all of it.' Pays off at his Ch.16 death."
     death: "BEHEADED by the High Chancellor before both armies (Ch.16) — the hinge of Act Three"
   lor_ar:
     species: "sylvan tiger, spirit walker"; age: 300
