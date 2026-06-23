@@ -72,7 +72,7 @@ named_villagers:   # >=3 deaths that matter (introduce early, die in the war)
   mirelle: {status: "NEW (Ch.1/4)", desc: "the woman teaching children Moravian at the long table (seen Bk1 Ch.18); a mother with a baby on her hip; WIDOW — husband held a road in a raid two winters back, baby born four months after (additive backstory, Ch.1)", fate: "DEAD (Ch.11) — made her own back into a table over the children, counting them aloud; the children live, she does not. Baby survives, now with the healer's wife"}
   hiram: {from: "Bk1 (ward-mage, named)", full_name: "Hiram Vell (Ch.4)", desc: "one of the ~3 who power the camp's hiding ward; failing/spent (seen sitting against the anchor-post, grey, Ch.4)", status_ch9: "ACTUAL (Ch.6): took a blade under the collarbone holding the screen during the patrol skirmish; survived (healer drew/packed it); spent to the wick — CANNOT hold a ward again. Camp's pillars now 2 + Viridia.", fate: "DEAD (Ch.11) — could not flee; chose to SET the ward down slow (not let it collapse), buying ~40 min to get every child out past the elms; died at the anchor-post, nothing left to put on a cart. His death drops the camp's invisibility (pays off the lost Lightwell warning)"}
   abe: {from: "Bk1 (ward-mage, named)", desc: "third ward-mage; spare, grey, worn-thin; sits the council from Ch.3; took up the screen's weight when Hiram fell (Ch.6)", status_ch11: "SURVIVED (Ch.11) — carried the ward's half-weight at the end, now spent/shaking; on the road with the survivors", note: "texture; alive"}
-  ferro: {status: "scout (confirm earliest on-page ref)", desc: "camp scout/runner on the supply line; the war-clock and outside news come through the scouts", note: "logged per Ch.1-5 watch-note; thin texture"}
+  ferro: {status: "ACTUAL — scout/runner on the supply line; the war-clock and outside news come through the scouts; in Ch.10 his runner relays the true-glass backtracking warning that the camp may be compromised", note: "promoted from thin texture (continuity rec, Ch.10-13 audit)"}
   council_recur: "Coram (old, soft-voiced); MELLA = the woman-in-blue (pale blue dress, silver-and-gold spectacles, worn locket she clicks when afraid, two grandchildren in camp; named on-page Ch.3); the silver-bun woman (cold arithmetic, unnamed) — recur as texture"
 
 new_characters_book2:
@@ -102,7 +102,7 @@ canon_guardrails:
 open_contradictions: 0
 open_mysteries:
   - "The thread in the well with Bella's name — touched again at the rebirth (Ch.18), still cannot follow (Bk3)"
-  - "The family-tree name that doesn't fit — re-seeded via Lightwell's papers (Ch.4/10); held for Bk3"
+  - "The family-tree name that doesn't fit — re-seeded via Lightwell's papers (Ch.4/10); held for Bk3. PHYSICAL VEHICLE: Lightwell's scored-out half-page in Viridia's satchel (three words struck through near to tearing) — do NOT lose/destroy it before Bk3"
   - "What the parents actually died from (authorial truth set; Viridia doesn't know)"
   - "The void-absence at the rim — widened by the rebirth (Ch.20); Bk3 / Masters-of-the-Void thread"
   - "Marick and the laboratory (Ch.20 seed)"
