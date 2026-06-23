@@ -259,6 +259,28 @@ ALLOWLIST = [
     "the open circle and", "knew it the way", "the first time in", "arrives too late is",
     "that arrives too late is", "arrives too late is the", "bring exactly this to exactly",
     "set in her hand", "her hand as grief",  # the Death-symbol set in her hand as grief (Ch.8/14/16 -> Ch.17)
+    # --- Ch.18 THE REBIRTH motifs (intentional callbacks; NOT accidental echoes) ---
+    "well of all magic",                # THE central motif: she reaches for / enters the well of all magic
+    "would mend the severing",          # the rebirth spine: she would mend the severing for all (Ch.12 vow -> Ch.18)
+    "the dark half of",                 # the dark-half-of-the-gift refrain (the cut she mends)
+    "every living core on the",         # the lattice refrain: every living core on the plain/in the world
+    "core on the plain",                # same lattice refrain (cores on the plain)
+    "core in the world",                # same lattice refrain (every core in the world)
+    "on the warm stone",                # the furnace-warmed rise stone (Ch.16 -> Ch.17 -> Ch.18 recurring place)
+    "was no cold part",                 # the broken cold-part motif (no cold part left after Ch.16)
+    "she turned the whole",             # "turned the whole of it" — the furnace turned skyward / poured into the cut
+    "part of her left",                 # "no part of her left" — the spent/broken-observer motif
+    "the children under it",            # the last-roof refrain (Brutus's beam Ch.11/14 -> the children under it)
+    "and the children under",           # same last-roof refrain window
+    "children at the carts",            # the children at the carts (battle location refrain, Ch.14/16/17)
+    "the whole of himself",             # the wholeness refrain (everyone holding the whole of themselves, made whole)
+    "the way a held breath",            # the void-absence motif (Bk1 Ch.14: empty the way a held breath is empty)
+    "put a name to",                    # the name-search refrain (a name to go with the hands; Bella's name)
+    # connective/structural windows the stopword filter under-caught (not fingerprints):
+    "did not let herself think", "had not let herself", "how much of herself she",
+    "the far end of", "far end of it", "every soul on the", "at the other end",
+    "felt the whole of", "she let it go", "was the worst thing",
+    "empty hands and the", "length of a breath",
 ]
 
 # n-gram repetition settings
