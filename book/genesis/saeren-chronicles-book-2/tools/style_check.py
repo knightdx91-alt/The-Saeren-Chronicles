@@ -335,6 +335,69 @@ ALLOWLIST = [
     "the one true thing", "far side of the", "the thing viridia had", "walked the length of",
     "lor ar said you", "it lor ar said", "armor up over the", "where everyone could hear",
     "middle of the field", "length of the field", "the way the furnace", "whole of the difference",
+    # --- Ch.20 FINALE motifs (the closing chapter DELIBERATELY recapitulates the whole book:
+    #     the count of the dead, the cost/gain ledger, Amber's question verbatim, the stopped-army
+    #     refrain, six-hundred-years, and the title beat 'none of them know why'. NOT accidental.) ---
+    "answer that survived being said aloud",  # Amber's-question refrain (Ch.9 -> Ch.20): no answer that survived being said aloud
+    "no answer that survived being said",
+    "fought a government that controlled",    # Amber's question quoted in full (Ch.9/17 -> Ch.20 finale recap)
+    "a whole people through their",
+    "through their magic how are",
+    "magic how are you different if",         # the question, verbatim, carried to the end
+    "you different if you change every",
+    "different if you change every core",
+    "if you change every core alive",
+    "the largest thing in six hundred",       # the war = the largest thing in six hundred years (Ch.19 -> Ch.20)
+    "first time in six hundred",              # the wholeness refrain: full for the first time in six hundred years
+    "running full for the first",             # same wholeness refrain (cores running full for the first time)
+    "scorch on a fallen flag",                # the Chancellor refrain (Ch.19 -> Ch.20): a scorch on a fallen flag
+    "difference that no longer existed",      # the hollow-cause refrain (Ch.19 -> Ch.20)
+    "longer existed and the men",
+    "marched a week to put",                  # the stopped-army refrain (Ch.19 -> Ch.20): marched a week to put her in the ground
+    "soul on the whole bewildered field",     # the bewildered-field refrain (Ch.19 -> Ch.20)
+    "including the silver blonde girl who",    # the title beat: ...including the girl who did it (Ch.19 -> Ch.20)
+    "silver blonde girl who had",
+    "none of them knowing why",               # THE TITLE BEAT (Ch.18 -> Ch.20): none of them know why
+    "way everyone else in the world",         # the ordinary-living motif (Ch.19 -> Ch.20): walk by the front of the eyes the way everyone else does
+    "of her eyes like everyone",              # same spent-sight / ordinary-living motif
+    "hiram's anchor post standing over",      # the camp-ash refrain (Ch.19 -> Ch.20): the anchor-post standing over nothing
+    "anchor post standing over nothing",
+    "camp was ash the wall",                  # the camp-ash / no-roof refrain (Ch.19 END -> Ch.20)
+    "the bottom that move separately",        # Raizen's feet refrain (Ch.19 -> Ch.20): the ten at the bottom that move separately
+    "bottom that move separately and",
+    "sister burned two years gone",           # Jazen's filing (Ch.13/16 -> Ch.20 count): the sister burned two years gone
+    "over the children and counted",          # Mirelle's death refrain (Ch.11/17 -> Ch.20 count): made a table of her back and counted them aloud
+    "children and counted them aloud",
+    "with nothing left to put",               # Hiram's death refrain (Ch.11/17 -> Ch.20 count): nothing left to put on a cart
+    "nothing left to put on",
+    "every soul on both sides",               # the all-at-once wholeness refrain (Ch.14/18 -> Ch.20)
+    "a box of invisible air",                 # the camp/ward refrain (Ch.1 title -> Ch.20 count): a box of invisible air
+    "the dark side of",                       # the dark-half-of-the-gift refrain (Ch.18/19 -> Ch.20)
+    "in the dark house",                      # the bond-as-one-lit-window refrain (Ch.19 -> Ch.20): the dark house of her
+    "the dark house of",
+    "dark house of her",
+    "hand in the pool",                       # the rebirth refrain (Ch.18 -> Ch.20): her hand in the pool at the source
+    "grief had gone back inward",             # grief-inward refrain (Ch.19 -> Ch.20): the grief gone back inward where it lived
+    "long count of weeks and",                # the sight-recovery refrain (Ch.18/19 -> Ch.20): an ember at a time, a long count of weeks
+    "did not visit any oftener",              # the filing-the-dead refrain (Ch.19 -> Ch.20): the place she did not visit oftener than she had to
+    "not visit any oftener than",
+    "was a great deal emptier",               # the two-ledgers refrain (Ch.19 -> Ch.20): the place of good things, a great deal emptier
+    "the rim of everything",                  # the void-rim refrain (Ch.5 -> Ch.20 seed): the rim of everything / the differential
+    "rim of the world",                       # same void-rim motif (the always-on sight that reads the rim of the world)
+    "thing goes still that has",              # Alice-changed refrain (Ch.19 -> Ch.20): hands gone still the way a thing goes still that learned stillness
+    "way a thing goes still that",
+    "the one crooked tooth",                  # Alice's crooked-tooth refrain (Ch.11/19 -> Ch.20)
+    "amber had asked her",                    # Amber's-question attribution (Ch.10/12 -> Ch.20): Amber had asked her the question in the dark
+    # connective/structural windows the stopword filter under-caught (not fingerprints):
+    "had spent a year", "and she made herself", "made herself put", "spent forty years",
+    "the column the way", "down the column", "the whole shape of", "way she had known",
+    "way she had ever", "about who saw what", "the only honest thing", "the only honest way",
+    "the only true thing", "thing in her chest", "way she had always", "the other side of",
+    "look again at the", "she turned it over", "was nothing left to", "rest of the way",
+    "put on a cart", "the grey morning and", "a long way back", "the far side of all",
+    "a second time and",                      # the would-do-it-again anaphora (Ch.20): a second time / a second time / a second time
+    "halves of the gift",                     # the wholeness refrain: both halves of the gift running at once (Ch.18/19 -> Ch.20)
+    "both halves of the gift",
 ]
 
 # n-gram repetition settings
