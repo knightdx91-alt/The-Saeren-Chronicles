@@ -3,3 +3,5 @@
 .env
 *.key
 settings.local.json
+.grok_env
+*.grok_env
