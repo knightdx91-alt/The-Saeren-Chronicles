@@ -98,6 +98,35 @@ ALLOWLIST = [
     "the long table",                   # Mirelle's long table (recurring camp object, Bk1 Ch.18 callback)
     "against the anchor post",          # the ward anchor-post (recurring camp object; where Hiram sits/dies)
     "silver bun",                       # same councillor descriptor (short window)
+    # --- Ch.14/15 battle motifs (intentional callbacks; NOT accidental echoes) ---
+    "the cold part of",                 # Viridia's observer-self under battle (Bk1 cold-clear-part lineage)
+    "cold part of her",                 # same observer-self motif
+    "had crossed a year",               # the Alice refrain: she crossed a year to reach her
+    "friend she had crossed",           # same Alice-crossing refrain
+    "crossed a year to reach",          # same
+    "the road of shadow",               # Viridia's shadow-walking road to the captives (Ch.14 hook -> Ch.15)
+    "a road of shadow",                 # same shadow-road motif
+    "road of shadow to alice",          # same
+    "the dark gift lifting",            # the unleashed dark gift rising off Jazen (battle motif)
+    "dark gift lifting off",            # same
+    "of the dark gift",                 # the dark-half-of-the-gift refrain
+    "thing on the plain",               # the indifferent-field refrain (the wall/plain not knowing what it is for)
+    "and the worst smell",              # the village's worst smell, carried into the battle (Bk1 callback)
+    "worst smell in her teeth",         # same
+    "spear in her hand",                # Viridia at the wall, spear in hand (battle posture motif)
+    "the small bald man",               # the High Chancellor's recurring descriptor (Ch.13/14/15)
+    "small man on the rise",            # the Chancellor staged on the rise (Ch.14/15)
+    "the way drake's death flame",      # Jazen's rising compared to Drake's death-flame (canon comparison)
+    "place where she kept",             # the filing motif (where she keeps the faces of her dead)
+    "she knew it now",                  # the burning-corridor refrain tail (Bk1 callback)
+    "the chained line",                 # the captives' chained line (Ch.13/14/15 recurring object)
+    "hand on your arm",                 # the binding Ch.13 seed: "My hand on your arm. That is all of it."
+    "the silver framed glasses",        # the Chancellor's glasses of true-seeing (canon object, Ch.13/14/15)
+    "a burning corridor and",           # the Alice wound refrain (Bk1 Ch.16 callback)
+    "burning corridor and she knew",    # same burning-corridor refrain
+    "half of the gift",                 # the dark-half / coarse-half-of-the-gift refrain
+    "through the wrong door",            # Alice's refrain for Viridia: "she comes through the wrong door" (Ch.15)
+    "come back through the wrong door",  # same wrong-door refrain
 ]
 
 # n-gram repetition settings
