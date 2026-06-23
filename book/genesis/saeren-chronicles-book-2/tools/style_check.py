@@ -281,6 +281,60 @@ ALLOWLIST = [
     "the far end of", "far end of it", "every soul on the", "at the other end",
     "felt the whole of", "she let it go", "was the worst thing",
     "empty hands and the", "length of a breath",
+    # --- Ch.19 WHAT REMAINS motifs (intentional callbacks; NOT accidental echoes) ---
+    "front of her eyes",                # the spent-sight motif: she reads the world by the front of her eyes now (recurs through Ch.19)
+    "front of the eyes",                # same spent-sight motif (from the front of the eyes)
+    "the old sight gone and",           # Ch.18->19 callback: the always-on mana-sight spent
+    "old sight gone and only",          # same spent-sight callback window
+    "ordinary blinded back eyes",       # same: her ordinary blinded-back eyes (Ch.18->19)
+    "in a dark room",                   # Ch.18->19 callback: she bought it in a dark room a portal away
+    "the edge of the trees",            # Lor-ar's departure place (recurs through the release scene)
+    "edge of the trees",                # same departure-place motif
+    "stood in the grey morning",        # the stopped-army refrain (Ch.18 END -> Ch.19): standing still in the grey morning
+    "every core in the world",          # the lattice/wholeness refrain (every core in the world made whole)
+    "two in three of",                  # the survivors refrain (Ch.11/12 -> Ch.19): two in three of the camp left
+    "three hundred years and",          # Lor-ar's age refrain (Ch.5/12 -> Ch.19): three hundred years on the spirit road
+    "grieve close to the ground",       # Varissa's grief refrain (Ch.12 -> Ch.19): I grieve close to the ground
+    "came forward low the scarlet",     # Varissa's approach refrain (Ch.12 -> Ch.19)
+    "came forward low the scarlet head",
+    "a creature six thousand years old", # Drake/Raizen's age refrain (Ch.7 -> Ch.19)
+    "of a creature six thousand years",
+    "you've got hands",                 # Drake's goodbye-made-whole line (Ch.19 beat)
+    "said loud and ended fast",         # Drake's grieving-register motif (Ch.12 -> Ch.19)
+    "the careful flat thing",           # Viridia's voice-under-pressure tell (recurring restraint motif)
+    "where there was room",             # the dragons land where there is room (Ch.12 -> Ch.19)
+    "the way dragons leave",            # the dragons-leave refrain (Ch.12 -> Ch.19): all at once and upward
+    "all at once and upward",           # same dragons-leave refrain
+    "the one tooth turned out",         # Alice's crooked tooth (the one true thing the change couldn't reach)
+    "tooth turned out of line",         # same Alice crooked-tooth refrain
+    "the calm hands",                   # Alice-changed motif: her calm hands / calm new face (Ch.15/16 -> Ch.19)
+    "in the place she kept",            # the filing motif (the place she kept the good things)
+    "and more than most of",            # the "more than most of X got" refrain (Ch.12 -> Ch.19)
+    "more than most of the",            # same refrain window
+    "where do we go",                   # the END-HOOK refrain: where do the living go now
+    "a long count of",                  # the recovery-timeline motif: a long count of weeks (the sight returns slow)
+    "the way everyone else",            # the ordinary-living motif: she must live by the front of her eyes the way everyone else does
+    "a dark room a portal away",        # Ch.18->19 callback: she bought it in a dark room a portal away (the rebirth cost)
+    "the bone white horns the lightning", # Lor-ar's canon descriptor (horns + lightning eyes; Bk1/Ch.12 -> Ch.19)
+    "not visit beside the unfollowed thread", # the filing-the-worst-things motif (Ch.18 -> Ch.19): the place she does not visit
+    "visit beside the unfollowed thread and",
+    "close to the ground varissa",      # Varissa's grief-register refrain (Ch.12 -> Ch.19)
+    "said the hard thing first",        # Drake's grief-register refrain (Ch.12 -> Ch.19): he says the hard thing first
+    "came out level and stripped",      # already a motif; window variant (Viridia's voice tell)
+    "the word came out level",          # same voice-tell window (the word came out level and stripped)
+    "word came out level and",
+    "level and stripped the way",
+    "one tell she allowed herself",     # the one-tell restraint motif (her breath; Ch.16/12 -> Ch.19)
+    # connective/structural windows the stopword filter under-caught (not fingerprints):
+    "in the grey before dawn", "the grey before dawn the", "neither of them said anything",
+    "said the word came out", "viridia stood at the edge", "six thousand years old and",
+    "left over to spend on", "know viridia looked at the", "amber said her voice was",
+    "tooth the one tooth turned", "was no longer any reason", "looked at the great grey",
+    "the way a thing", "want you to know", "on the other side", "the first thing he",
+    "said it the way", "last of the light", "seven feet of him", "that's the whole of",
+    "the one true thing", "far side of the", "the thing viridia had", "walked the length of",
+    "lor ar said you", "it lor ar said", "armor up over the", "where everyone could hear",
+    "middle of the field", "length of the field", "the way the furnace", "whole of the difference",
 ]
 
 # n-gram repetition settings
