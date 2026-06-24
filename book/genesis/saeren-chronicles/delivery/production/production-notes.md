@@ -1,4 +1,4 @@
-# Production Notes — The Saeren Chronicles, Book One: The Hazel Years
+# Production Notes — The Saeren Chronicles, Book One: Hazel Academy
 
 ## Assembled file
 
@@ -12,7 +12,7 @@
 
 ## Assembly / formatting applied
 
-- Title page: "THE SAEREN CHRONICLES / Book One: The Hazel Years."
+- Title page: "THE SAEREN CHRONICLES / Book One: Hazel Academy."
 - Each chapter rendered with a clean two-line heading: `CHAPTER [WORD]` + the chapter title (titles taken from the chapter files / outline.md). Chapter 1's draft-era status preamble ("Working Manuscript… Status Note…") and the `[END OF CHAPTER ONE — Session 1]` marker were dropped; its prose begins at the true opening line.
 - Per-chapter markdown headers and HTML metadata comments stripped from the body.
 - Scene-break markers normalized: the chapters' in-text dash dividers (`———`) were converted to a consistent `* * *` scene break throughout. Inter-chapter dividers collapsed so the CHAPTER heading itself is the break (no stray `* * *` stacked against a chapter heading).

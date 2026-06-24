@@ -1,4 +1,4 @@
-# Voice DNA — The Hazel Years
+# Voice DNA — Hazel Academy
 
 > Derived from the LOCKED chapter-1.md (the benchmark) and the character bible. The narration is close third on Viridia, past tense.
 

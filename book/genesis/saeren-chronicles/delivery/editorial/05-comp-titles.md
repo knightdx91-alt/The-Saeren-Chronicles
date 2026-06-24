@@ -1,6 +1,6 @@
 # Comp Titles
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 
 These comps are chosen for the **quiet / upmarket / character-first / grief-driven** end of
 YA fantasy — not the loud commercial blockbusters. Each is recent (within ~7 years),

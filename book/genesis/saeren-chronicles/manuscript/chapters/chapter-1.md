@@ -1,6 +1,6 @@
 THE SAEREN CHRONICLES
 
-Book One: The Hazel Years
+Book One: Hazel Academy
 
 Working Manuscript. Updated 2026-05-29 (Session 1)
 

@@ -1,6 +1,6 @@
 # Metadata & Keywords
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 For self-pub / Amazon KDP listings, catalog metadata, and agent/editor targeting.
 
 ---
@@ -9,7 +9,7 @@ For self-pub / Amazon KDP listings, catalog metadata, and agent/editor targeting
 
 | Field | Value |
 |---|---|
-| Title | The Saeren Chronicles — Book One: The Hazel Years |
+| Title | The Saeren Chronicles — Book One: Hazel Academy |
 | Series | The Saeren Chronicles (Book 1 of a planned trilogy) |
 | Author | Post Peleos |
 | Category | Young Adult Fantasy (upmarket / character-driven) |

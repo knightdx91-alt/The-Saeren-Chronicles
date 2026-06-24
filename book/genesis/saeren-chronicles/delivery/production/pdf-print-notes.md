@@ -38,7 +38,7 @@
 ## Front matter (NEW — build r7)
 6 unnumbered pages, recto-correct:
 1. Half-title (recto) · 2. blank verso · 3. Title page (recto: title, "Book One:
-The Hazel Years", "Post Peleos") · 4. Copyright (verso: © 2026 Post Peleos, all
+Hazel Academy", "Post Peleos") · 4. Copyright (verso: © 2026 Post Peleos, all
 rights reserved, fiction disclaimer, `[ISBN]`, First Edition, `[IMPRINT]`) ·
 5. Dedication `[Dedication]` (recto) · 6. blank verso → Chapter One on recto.
 

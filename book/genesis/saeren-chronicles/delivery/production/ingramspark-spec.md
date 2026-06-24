@@ -1,4 +1,4 @@
-# IngramSpark Print-Production Spec — The Saeren Chronicles, Book One: The Hazel Years
+# IngramSpark Print-Production Spec — The Saeren Chronicles, Book One: Hazel Academy
 
 **Author/Imprint:** Post Peleos (imprint line placeholder `[IMPRINT]`)
 **Build:** r7 (~93,677 words)

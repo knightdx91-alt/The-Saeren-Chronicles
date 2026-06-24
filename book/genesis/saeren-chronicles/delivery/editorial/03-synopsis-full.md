@@ -1,6 +1,6 @@
 # Full Synopsis (complete — contains the ending)
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 ~1.5–2 pages · full spoilers, including the Chapter 16 climax and the Book-Two hook
 For agents and editors who request a full synopsis. Do not use as marketing copy.
 

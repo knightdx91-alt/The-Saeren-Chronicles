@@ -1,4 +1,4 @@
-# Outline — The Hazel Years (consolidated from chapter-roadmap.md)
+# Outline — Hazel Academy (consolidated from chapter-roadmap.md)
 
 > BINDING source is `research/chapter-roadmap.md`. This file restates it in pipeline format with per-chapter: function, structure, anchor, surprise, hook target. Ch.1 LOCKED. Targets 3,500–5,000 w each; book 85k–95k.
 

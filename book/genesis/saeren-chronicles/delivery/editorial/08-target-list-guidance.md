@@ -1,6 +1,6 @@
 # Target List Guidance
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 Who to query, and how to find them. This file deliberately gives you **profiles and search
 methods**, not invented names — query only agents/presses you have personally verified are
 open, reputable, and a genuine fit.

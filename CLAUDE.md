@@ -131,6 +131,31 @@ chapters should run ~4,800-5,400 words. Verify total with:
 `wc -w manuscript/chapters/chapter-*.md`. If short at the end, expand the thinnest
 chapters using their roadmap `[EXPAND]`/`[NEW]` beats.
 
+### Revision discipline (MANDATORY — never skip)
+**Every time the manuscript changes and the PDF is rebuilt, bump the revision
+FIRST.** The file `book/genesis/<book>/REVISION` (e.g. `r7`) is the single source
+of truth — `tools/build_pdf.py`, `tools/assemble_manuscript.py`, and
+`tools/make_pdfx.sh` all read it and stamp it into the deliverables. Process:
+1. Edit `REVISION` to the next tag (`r7` → `r8`) BEFORE running the build.
+2. Rebuild the manuscript + PDF (`python3 tools/assemble_manuscript.py`,
+   `python3 tools/build_pdf.py`).
+3. Keep the prior build (`...-r7.pdf`/`full-manuscript-r7.md`) as history; the new
+   build carries the new tag.
+4. Log what changed in `feedback/book1-r<N>-changes.md` (see below).
+No manuscript/PDF update ships without a revision bump — title changes count.
+
+### Book-Two cross-check log (Book One is upstream canon now)
+Book One is no longer standalone — Book Two depends on it. **Any change to Book One
+prose, names, places, or canon must be recorded** in `feedback/book1-r<N>-changes.md`
+(chapter · what changed · any Book-Two continuity touchpoint), and a
+`continuity-guardian` pass run against Book Two before the revision is finalized.
+
+### Current Book One title
+**"The Saeren Chronicles — Book One: Hazel Academy"** (changed 2026-06-24 from
+"The Hazel Years" — she is at Hazel for one school year, cut short by the attack, so
+the plural was inaccurate). Series name keeps the canonical single-n **Saeren**.
+Book Two remains **"The Resistance"**.
+
 ## YA tone continuity (applies to every book in the trilogy)
 
 The series is **upper/mature YA** — the same register as Book One's school-attack

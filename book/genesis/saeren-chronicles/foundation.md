@@ -1,4 +1,4 @@
-# Foundation — The Saeren Chronicles, Book One: The Hazel Years
+# Foundation — The Saeren Chronicles, Book One: Hazel Academy
 
 > ADAPTED RUN. Canon is fixed by `research/series-roadmap.md`, `research/character-bible.md`, `research/chapter-roadmap.md`. This document consolidates that canon into the pipeline's foundation format. Where this file and the canon disagree, the canon wins. Premise is fixed in STATE.yaml — premise forge SKIPPED.
 

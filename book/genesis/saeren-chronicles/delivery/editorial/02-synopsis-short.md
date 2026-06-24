@@ -1,6 +1,6 @@
 # Short Synopsis (jacket copy / blurb)
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 ~250 words · spoiler-light · for query bodies, catalog copy, and the back cover
 
 ---

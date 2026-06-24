@@ -1,4 +1,4 @@
-# Cover Brief: The Saeren Chronicles — Book One: The Hazel Years
+# Cover Brief: The Saeren Chronicles — Book One: Hazel Academy
 
 For a cover designer / illustrator. This is art direction, not a plot summary. The single
 job of this cover is to **promise the right book**: quiet, interior, literary-leaning,

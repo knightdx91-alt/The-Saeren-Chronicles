@@ -1,6 +1,6 @@
 # Query Letter
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 Ready to personalize. Replace the two bracketed placeholders before sending.
 
 ---

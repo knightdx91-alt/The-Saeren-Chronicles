@@ -1,6 +1,6 @@
 # Positioning & Honesty Note
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 Read this before you query anyone. Its purpose is to make sure you spend your queries on the
 *right* people — so the book's genuine strengths land instead of being judged against
 expectations it never set out to meet.

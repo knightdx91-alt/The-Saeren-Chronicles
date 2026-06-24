@@ -1,6 +1,6 @@
 # Logline & Elevator Pitch
 
-*The Saeren Chronicles — Book One: The Hazel Years*
+*The Saeren Chronicles — Book One: Hazel Academy*
 YA fantasy · ~94,000 words · Book One of a planned trilogy (standalone-with-series-potential)
 
 ---

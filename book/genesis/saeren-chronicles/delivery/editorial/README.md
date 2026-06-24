@@ -1,4 +1,4 @@
-# Editorial / Positioning Package — The Saeren Chronicles, Book One: The Hazel Years
+# Editorial / Positioning Package — The Saeren Chronicles, Book One: Hazel Academy
 
 Submission-ready editorial and positioning materials. **Current as of build r7
 (2026-06-21), ~94,000 words (93,677 exact), 18 chapters.** YA fantasy, Book One of a
