@@ -1,67 +1,156 @@
-# Continuity Audit — Book Three, Chapter 1 ("What the World Became")
+# Continuity Check: Book Three, Chapter 1 ("What the World Became")
 
-Audited by: continuity-guardian
-Date: 2026-06-24
-Audited against: Book One/Two prose + ENTITY_STATE, the reconciliation note, STATE.yaml binding beats/guardrails, Book Two Ch.18 (rebirth) and Ch.20 (finale).
+**Date:** 2026-06-24
+**Mode:** Single-chapter audit vs Books One & Two canon (pre-batch)
+**Chapter reviewed:** chapter-1.md
+**Canon sources read:** STATE.yaml, CLAUDE.md, foundation.md, roadmap-vs-books-reconciliation.md,
+book2-ENTITY_STATE.yaml, book2-chapter-18-rebirth.md, book2-final-chapter-20.md, plus actual prose:
+Book Two ch.1, ch.2, ch.19 (Raizen transformation), ch.20 (finale).
 
-## VERDICT: CLEAN — 0 critical / 0 warning / 3 minor (non-blocking)
-
-No canon contradictions found. The chapter honors every load-bearing carry-over and binding beat, and it does not over-explain the Ch.10 revelation. Findings below are observations/risk-flags only, not corrections.
-
----
-
-## Checklist results
-
-### 1. Names / spelling / dead-stay-dead — PASS
-- "Saeren" not used on-page this chapter (title only); no mis-spelling introduced.
-- Alice is "Alice" throughout; no surname stated, so no PEMBROOK error possible. Consistent.
-- No JAZEN / Lightwell reference (both correctly absent — they are dead; nothing resurrects them).
-- No dead character appears. Old Tem is a NEW valley villager (not a returning named dead) — clean to introduce.
-
-### 2. Viridia — PASS
-- Silver-blonde ("the silver-blonde girl... change it," L139): matches. Green eyes / 5'5' not contradicted (not re-described, which is fine).
-- Grief held inward: STRONGLY honored. "no one... needed to see what had just gone across her"; she tells Amber only "a piece of the truth"; she does NOT weep. The once-in-a-life break (Bk2 Ch.16) is treated as past. No one sees her cry. Consistent with the guardrail.
-- Age: stated plainly as "She was sixteen now" (L9) and "a sixteen-year-old girl" (L63, L125). This is now SANCTIONED (STATE.yaml resolved_decisions: age MAY be stated). The ~1-year time-skip is explicitly established ("a year on," "across the year," "The girl who had walked out of the burning school had been fourteen") — supports 16 (14 → ~1 year of war/Bk2 → ~1 year skip = 16). Internally consistent.
-
-### 3. Mana-sight "returning, not yet whole" — PASS (this is handled with real care)
-- The chapter is explicit and correct: "The rebirth had spent her to the wick. For weeks after the cavern she had been blind in the old way... Then, in the autumn, it had begun to return... Through the winter it had come back in pieces" (L53–55). Matches Bk2 Ch.18/Ch.20: burned to the wick, returns "an ember at a time," a long count of weeks/months.
-- At the END HOOK the sight is "her returning, not-yet-whole sight, blown all the way open by the shock" then "spent past what it could hold, guttered" (L119, L125). She explicitly frames the void-tear as "the kind of thing I couldn't have seen a year ago. My sight wasn't back far enough" (L131). This is exactly the reconciliation note's design: the recovering sight is the vehicle by which she first reads the widened rim. Excellent.
-- She works magic by intent elsewhere implied (no reading needed) — consistent (not tested on-page, no contradiction).
-
-### 4. World-state — PASS
-- Both halves of the gift now carried by everyone / severing mended: load-bearing in the Alice mill-yard scene ("You all carry both halves now. Every one of you. The bright and the dark," L75) and in Viridia's reflection ("she had mended it... given every living core in the world back the half it had been robbed of," L83). Matches Bk2 Ch.18.
-- The "dark half" being the newly-arrived, feared one ("most of you found out you had the dark half when something went wrong," L75) is consistent: the council severed the DARK half (Bk2 Ch.18), so the light-half-only populace would now experience the dark half as the strange new thing. Correct directionality.
-- Raizen is HUMAN, True-Bond, learning to be a person: fully honored ("He had been human for a year and he was not good at it yet," L19; dark hair, tall, the lightning-blue dragon eyes retained; the bond a warmth "that no longer had to stretch over miles," L21). Matches Bk2 Ch.19 (lean dark-haired young man; appalled by being a person; bond intact). The retained prismatic shimmer (L25) is consistent with "all elements/prismatic" affinity and Bk2 Ch.19's wonder beats. Clean.
-- Alice = changed/recovering healer: precisely matches Bk2 Ch.19/Ch.20 — "calm in a way that frightened everyone," warmth "banked not out," the one crooked tooth returning (L69–71). Correct.
-- Amber = the conscience: her question ("how you tell the difference, from the inside, between you and them," L87) is a faithful continuation of Amber's Bk2 Ch.9 question, carried unanswered exactly as in Bk2 Ch.20. Correct.
-- Trains + motorcars: "the slow southern line," "a man who had driven the slow line for twenty years" (L11, L73) — rail exists. Consistent.
-- Source = the physical Book One cavern: referenced as "the cavern" (L53, L55) where she "stood in the source"; not re-staged here, so no risk of mis-rendering the pedestal/pool. Clean.
-- Lor-ar released to the forest (Bk2 Ch.19): correctly ABSENT from the valley cast. Note: L33 references "the other had been a tiger" — a memory/comparison, not Lor-ar present. Consistent.
-
-### 5. Void / Horror logic + END HOOK — PASS
-- The void is ABSTRACT: "the abstract cold beyond it" (L123); the tear is "not a door... This had no edges... a place where the great seamless fabric... had begun... to part" — no entity, no figure, nothing personified beyond "something on the far side was leaning in" / "something that was not attacking and did not need to" (L123, L139). This matches the binding beat (pressure differential; pulled, not attacking) and the "abstract, no entity, no void woman" guardrail. No Johnathan Masters, no void woman anywhere.
-- The drained-death registers as a PULL, not an attack: "It had been drained... the warmth not ending but going somewhere... a place that had no business taking it" (L117). This seeds the "pulled toward the source" revelation without stating it.
-- Crucially, the chapter does NOT over-explain the Ch.10 binding revelation: Viridia privately intuits the direction ("the direction was toward the source, and she was the source," L135) but this is held INWARD, unproven, "she did not yet have the proof of it or the shape of it," and she does NOT voice it to Amber (she tells the last lie). The full revelation is correctly withheld. Consistent with binding-beat sequencing.
-- The widened-rim tie to Bk2 Ch.20 (the differential "a shade wider" as the weave runs full) is honored: the tear "leaned a fraction wider" (L139) and she frames it as newly visible because her sight has returned far enough. Correct.
-
-### 6. Invented canon check — PASS
-- New elements introduced: the valley "Wend"; villager "Old Tem"; the almond/apple orchard; ~200 survivors who walked from the east road. None contradict Books One/Two. The "east road" + survivors-with-no-home folds directly out of Bk2 Ch.20's ending (they walked EAST from the fork with no home at either branch). Strong continuity.
-- Marick / Fen / the lab are correctly NOT yet present (this is Ch.1; the lab thread arrives later). The northern drained-death is consistent with — but does not prematurely name — the Marick trigger.
+**Total issues found:** 5
+**Critical:** 0 | **Warning:** 2 | **Minor:** 3
 
 ---
 
-## MINOR findings (non-blocking; author's call)
+## CRITICAL ISSUES
 
-- **MINOR-1 (timeline arithmetic, verify downstream):** The chapter sets the skip at "a year" (rebirth → now). Bk2 itself spanned ~a year of war and Viridia was ~15 at its end, so 15 + ~1 year = 16 holds. This is consistent, but the trilogy's exact month-count is loose; keep the "a year on" framing stable across Book Three chapters so 16 stays unambiguous. No fix needed now.
-
-- **MINOR-2 (Old Tem death vs the source-pull logic):** Old Tem's death is rendered as a CLEAN/natural death ("his core... thin and gutter for a month like a lamp running dry," L61) — explicitly the normal "window closing," contrasted against the northern DRAINED death. This is correct and intentional (it establishes the baseline so the wrong-death reads wrong). Flagging only so a later chapter does not accidentally re-cast Tem's death as void-related; per Ch.1 it is ordinary. Keep it ordinary.
-
-- **MINOR-3 (Bella's-name thread not touched — fine, just noting):** The open thread (Bella's name in the source) is not referenced this chapter. STATE.yaml schedules the Bella-thread attempt ~Ch.13, so its absence here is correct, not an omission. No action.
+None. Every load-bearing canon element checks out (see verification ledger below). Names, spelling,
+Viridia's physical/grief canon, the spent-then-returning sight, everyone carrying both halves, the
+abstract void with no entity, the drained-death + tear-at-the-rim hook, and the non-over-explanation
+of the Ch.10 revelation are all consistent with Books One & Two.
 
 ---
 
-## Continuity-discipline note
-This is an Act-One chapter that does not re-stage the source-cavern or a returning Book-One physical location, so a Book-One prose dive was not load-bearing for Ch.1. When a later Book-Three chapter PORTALS back to the source, open Bk1 Ch.14 / Bk2 Ch.18 prose and match the pedestal/pool rendering (per the discipline rule) before finalizing.
+## WARNING ISSUES
 
-## Summary
-0 critical, 0 warning, 3 minor. The chapter is canon-clean against Books One and Two and against all Book-Three binding beats and guardrails. Safe to keep as the finalized Chapter 1.
+### [WARN-001] Raizen's human eyes contradict Book Two Ch.19 (rendered "ordinary" there)
+- **Audit:** 1b Physical Description Consistency
+- **Chapters:** Bk3 ch.1 (¶ at line 19) vs Bk2 ch.19 (line 37)
+- **Description:** Bk3 Ch.1 says the transformation "had given him dark hair and the height of a tall
+  young man, but the eyes had stayed exactly what they were, the lightning-blue of the prismatic
+  dragon looking out of a human face." Book Two Ch.19 — the chapter that actually staged the
+  transformation — rendered his new human eyes as **ordinary**: "the light went out of him by
+  degrees, dimming down into the ordinary, until what stood there was only a young man... blinking in
+  the grey afternoon as if the afternoon were the first thing he had ever seen, which, with these eyes,
+  it was." That passage deliberately makes his human seeing new and ordinary; nothing there says the
+  dragon eye-color was retained.
+- **Evidence:**
+  - Bk2 ch.19:37 "the light went out of him by degrees, dimming down into the ordinary, until what
+    stood there was only a young man, naked and new and blinking in the grey afternoon... which, with
+    these eyes, it was."
+  - Bk3 ch.1:19 "the eyes had stayed exactly what they were, the lightning-blue of the prismatic
+    dragon looking out of a human face."
+- **Suggested fix:** Either (a) drop the "eyes unchanged / lightning-blue" claim and let his human
+  eyes read as the Ch.19 "new and ordinary" pair, or (b) if the author WANTS the retained-dragon-eye
+  image (it is a strong one), treat it as a deliberate canon addition and log it — but it should not
+  be asserted as if Book Two established it, since Book Two established the opposite.
+- **Cascade risk:** Low. If kept, log it in the book-changes file as a retro-detail and keep it
+  consistent in every later Raizen description in Book Three.
+
+### [WARN-002] "Lightning-blue" + "kind and merciless / missed nothing" is Lor-ar's signature, reassigned to Raizen
+- **Audit:** 1b/1c Description & verbal-signature consistency
+- **Chapters:** Bk3 ch.1 (lines 19, 33) vs Bk2 ch.1 (line 65), ch.19 (line 145)
+- **Description:** "lightning-blue eyes" is, across Book Two, **Lor-ar's** established marker
+  (Bk2 ch.1:65 "He turned the lightning-blue eyes on her, kind and merciless at once"; ch.19:145 "the
+  lightning eyes... two points of cold blue"). Bk3 Ch.1 maps both that color AND the paired
+  "kind, and they missed nothing" register onto Raizen (ch.1:33), then the narration even gestures at
+  the overlap ("a combination she had only ever met in two creatures and the other had been a tiger").
+  This is arguably an intentional echo, but it currently reads as borrowing Lor-ar's signature wholesale
+  and compounds WARN-001.
+- **Evidence:**
+  - Bk2 ch.1:65 "He turned the lightning-blue eyes on her, kind and merciless at once." (Lor-ar)
+  - Bk3 ch.1:33 "He turned the blue eyes on her, and they were kind, and they missed nothing, which
+    was a combination she had only ever met in two creatures and the other had been a tiger."
+- **Suggested fix:** If WARN-001 is resolved toward "ordinary/new" eyes, this dissolves. If the author
+  keeps the lightning-blue, differentiate the register from Lor-ar's exact phrase so Raizen doesn't
+  read as a Lor-ar reskin. The explicit "the other had been a tiger" nod can stay as a deliberate
+  callback if the author wants it.
+
+---
+
+## MINOR ISSUES
+
+### [MINOR-001] Survivor headcount ("two hundred") — new number, not contradicted but unanchored
+- **Audit:** 4d/2 Quantitative consistency
+- **Location:** ch.1 lines 11, 107
+- **Description:** Book Two Ch.20 says "two hundred of them and more strung back along the road." Bk3
+  Ch.1 settles the valley at "perhaps two hundred of them folded into a place that had held forty."
+  Consistent with Bk2's "two hundred and more" (Bk2 implies the column was somewhat larger than 200).
+  Not a contradiction; flag only so the number stays stable across Book Three.
+- **Suggested fix:** None required. Keep "~two hundred" stable in later chapters.
+
+### [MINOR-002] Geography: "Wend," "a day and a half by the slow southern line," east/north — new, internally consistent
+- **Audit:** 4b Geography
+- **Location:** ch.1 lines 11, 111, 139
+- **Description:** Book Two ended walking EAST "into a country that did not know them." Book Three
+  places them in a valley settled after "the east road," with the threat coming from the NORTH. No
+  contradiction with Bk2. New place-name and rail detail ("slow southern line") are fresh canon,
+  consistent with the trains-and-motorcars rule.
+- **Suggested fix:** None. Lock "Wend" and "north = the rim/threat direction" for later chapters.
+
+### [MINOR-003] Old Tem / Mrs. Zoran / Marick / Fen not yet present — expected, no orphan
+- **Audit:** 5a Plot-thread inventory
+- **Location:** chapter-wide
+- **Description:** Old Tem is new texture (a valley death, fine). Mrs. Zoran, Marick, and Fen — all
+  required threads per STATE.yaml — do not appear in Ch.1; correct for an opening chapter, not an
+  orphan. The Marick/lab thread (Bk2 Ch.20) is correctly NOT pre-empted; Ch.1 introduces the drained
+  death + rim-tear as the reader-facing first symptom without naming the cause, matching the binding
+  "Horrors are pulled, not attacking — do not over-explain" instruction.
+- **Suggested fix:** None. Ensure Mrs. Zoran/Marick/Fen land on schedule in later chapters.
+
+---
+
+## VERIFICATION LEDGER (canon checks that PASS)
+
+- **Names/spelling:** "Saeren" (single-n) — correct. Alice present, surname not stated here (Pembrook
+  canon intact, not contradicted). Jazen not misspelled (referenced only in sources). Lightwell not
+  mentioned — correctly absent (dead).
+- **Viridia physical:** "silver-blonde girl" (39, 135) — correct; green eyes / 5'5' / slight not
+  re-stated, not contradicted. **Age:** "She was sixteen now" (9) — matches the resolved ~1-year skip;
+  STATE.yaml permits stating sixteen plainly in Book Three. The "fourteen... felt forty" retrospect
+  (9) matches Bk2's 14-at-open.
+- **Grief inward / no one sees her cry:** Held. "did not let the mill yard see her leave it unmade"
+  (89); "made her face come back to the careful surface" (129); she tells Amber "a piece of the truth"
+  but does NOT weep. The Bk2 Ch.16 break is correctly treated as past (matches Bk2 Ch.20: changed by
+  the breaking, not broken open). She no longer hides what she IS (consistent with Bk2 "that, now, was
+  not a rule she kept") but still does not cry. No violation.
+- **Mana-sight SPENT then RETURNING, not whole:** Strongly correct. Lines 53–55 narrate the blind
+  weeks after the cavern and the slow piecewise return across autumn/winter — matches Bk2 Ch.18/20
+  ("burned to the wick... an ember at a time, a long count of weeks and beyond"). The rim-tear is
+  readable now BECAUSE the sight returned far enough ("the kind of thing I couldn't have seen a year
+  ago," 131) — the intended re-acquisition vehicle from the reconciliation note.
+- **Everyone carries both halves:** Correct and central (Alice's lesson, 75–79: "You all carry both
+  halves now"). Matches Bk2 Ch.18.
+- **Raizen human + True-Bond:** Human, on two legs, new to it — matches Bk2 Ch.19. True-Bond as
+  warmth "no longer had to stretch over miles" (21) — consistent (life-tied). Prismatic shimmer off
+  his fingers (25) carries the all-element/prismatic affinity. (Eye detail flagged — WARN-001/002.)
+- **Alice changed/recovering healer:** Correct — calm, warmth "banked not out," the one crooked tooth
+  reappearing, healing and teaching again (67–79). Matches Bk2 Ch.19/20, incl. "crooked tooth the
+  change could not reach."
+- **Amber the conscience:** Correct. Her Bk2 question ("you decided for them... how do you tell the
+  difference between you and them," 87) carries from Bk2 Ch.9/18/20; she is the one who "sees the
+  carrying." Consistent.
+- **Lor-ar:** Absent — permitted (released to forest). Not contradicted.
+- **Void ABSTRACT (no entity / no void woman / no Masters):** Held. The rim is "the abstract cold," a
+  "tear in the weave," "something... leaned in" — a pressure/absence with no figure, no name, no
+  person. The final image ("something that was not attacking and did not need to be... leaned in toward
+  the warmth she had become," 139) dramatizes the "pulled toward the source, not attacking" key
+  revelation WITHOUT explaining it: Viridia only suspects the direction-toward-the-source (135) as
+  unproven intuition, not the Ch.10 reveal stated outright. Good.
+- **Drained-death hook:** Correct, well-matched to void rules — a core "drained," warmth "going
+  somewhere... into a place that had no business taking it" (117), distinct from the clean dark of
+  natural death. Consistent with the source/void differential.
+- **No invented canon contradicting Books One/Two:** None beyond the Raizen-eye detail (WARN-001).
+
+---
+
+## SUGGESTED YAML PATCHES
+
+```yaml
+suggested_patches:
+  - entity: "raizen.physical.human_eyes"
+    action: "resolve_conflict"
+    reason: "Bk2 ch.19 rendered his human eyes 'ordinary'; Bk3 ch.1 asserts retained 'lightning-blue
+      of the prismatic dragon.' Author must pick: revert to ordinary, OR adopt retained-dragon-eye as
+      deliberate new canon and log it. Note 'lightning-blue' is otherwise Lor-ar's marker."
+```
