@@ -328,8 +328,21 @@ author to catch these.
   > conditional mid-book 2–4% "brisk commercial pacing" trim (it trades against the book's literary-
   > voice positioning). r5 stands as the polished version (RGB + PDF/X-1a, 306pp, 103,244w; r4 history).
   >
+  > **r6 CUT (2026-06-24) — r5-review response.** CONTINUITY FIX (canon): Ch.4 "a fourteen-year-old"
+  > → "a half-grown girl" (violated the Book Two no-age-number-on-page guardrail before the Ch.12
+  > turn-to-15; survived the epic-branch scrub). Also fixed a bug in the earlier continuity grep that
+  > had falsely cleared it; re-verified names/spectacles/cry-guardrail correctly = clean. Ch.3 opening
+  > split for rhythm. r6 PDF cut (306pp, 103,245w; r5 history). Gates clean.
+  >
+  > ⚠ **PROCESS NOTE:** the r2→r6 external reads are now near-identical positive "fine-tuning" notes
+  > (split a couple sentences, light trim already declined, sharpen a side char). The book is at
+  > publish-ready polish. **Recommend stopping the per-round revision treadmill** and pivoting to launch
+  > prep: front/back matter ([ISBN]/[IMPRINT]/[Dedication]/[Acknowledgments]/bio), query+synopsis
+  > (book-packager), physical proof for widows/orphans, then Book Three seed. Further identical rounds
+  > risk over-polishing.
+  >
   > **TO DO NEXT (resume point) — Book Two is in strong shape; remaining items are author's-call only:**
-  > 1. Optional: a fresh external read of r5 to confirm the climax-agency + Ch.18-overwhelm + seam land.
+  > 1. Optional: a fresh external read of r6 to confirm the climax-agency + Ch.18-overwhelm + seam land.
   > 2. Fill print front/back matter placeholders ([ISBN]/[IMPRINT]/[Dedication]/[Acknowledgments]/bio)
   >    before any final print run.
   > 3. Tracks B(structural pacing)/C(side-char) were assessed NOT to need rewrites — the prose already
