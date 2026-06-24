@@ -44,3 +44,22 @@ protected emotional chapters (9, 11, 16, 19) left alone — their tics are load-
 
 Gates clean (style RESULT: clean; rhythm only pre-existing sanctioned anaphora). No
 plot/canon/dialogue-meaning change.
+
+## Track B+D — batch 2 (Ch.6) + continuity catch (Ch.1) 2026-06-24
+
+- **Ch.6:** varied a doubled "the part that did not fit" in the opening ("snagged / the snag").
+  (Ch.6 is a tight action chapter and otherwise strong — no pacing rework needed.)
+- **Ch.1 (continuity, Track E spot-catch):** the batch-1 rework had introduced "a whole
+  school year"; Book Two consistently establishes her Hazel time as **six weeks** (Ch.2;
+  Ch.1's march clock). Corrected to "her whole short stretch at Hazel."
+
+### Assessment after reading Ch.1–8 + climax (17–19)
+The mid-section is in better shape than the r1 note implied: **Ch.7 (Varissa confrontation)
+and Ch.8 (the broadsheet reversal) were de-ticked in the 2026-06-23 round and already deliver
+the friction / escalating-stakes the reviewer asked for**; Ch.6 is a strong action beat. The
+"creature-monologue" cadence (Ch.5/7) is plot-load-bearing and dramatized (not flat lecture),
+so a structural pacing rewrite there is HIGH-RISK for low gain and is NOT recommended as a tic
+pass. Remaining r2 work is therefore: (1) finish the light de-tic/de-dup sweep on the
+not-yet-reviewed chapters (9–16, 20 — minus the protected emotional chapters 9/11/16/19 and
+the climax 15–17, which keep load-bearing tics); (2) a full continuity-guardian pass vs Book-1
+canon + internal timeline (Track E); (3) cut the r2 PDF (bump REVISION r1→r2, rebuild).
