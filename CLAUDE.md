@@ -274,7 +274,38 @@ author to catch these.
   since the named book-* subagents aren't dispatchable in this env), each chapter under the HARD GATE
   CONTRACT (≥4,600w; `style_check --max-emdash 4` → RESULT: clean; `rhythm_check` no flat triplets;
   voice-matched; canon held). Outline runs to **20 chapters**.
-  > ### ▶ BOOK TWO IS COMPLETE + REVIEWED + POLISHED — all 20 chapters FINALIZED on `main`, 103,149 words.
+  > ### ▶ NEXT SESSION — START HERE (Book Two r2 revision round, in progress 2026-06-24)
+  > **An external r1 review came in (`feedback/r1-review-2026-06-24.md`)** with a sequenced r2 plan.
+  > Global priorities r1→r2+: (1) prose tightening / repetition, (2) **mid-section pacing (reviewer's
+  > top priority)**, (3) side-character distinction + exposition integration, (4) full continuity pass.
+  >
+  > **DONE this session:**
+  > - **Climax agency fix ("witnessed cost")** — Ch.17 reframed (Drake clears the last obstacle to an
+  >   act she's ALREADY begun, not a rescue); Ch.19 opens with **Amber witnessing the cost land**
+  >   (returns blind, wrung out). Preserves BINDING 'Drake kills Meros' + 'rebirth in cavern' + the
+  >   'none of them know why' capstone. See `feedback/climax-agency-witnessed-cost-2026-06-24.md`.
+  > - **Book Two now has its OWN PDF/production pipeline** mirroring Book One, in its own folder:
+  >   `REVISION` file + `tools/{assemble_manuscript,build_pdf,make_pdfx}.py/.sh` (+ PDFX_def.ps),
+  >   `delivery/production/`. SAME revision policy as Book One (bump `REVISION` BEFORE any rebuild;
+  >   keep prior builds as history). **V1 exported = r1**: RGB review PDF + PDF/X-1a, 306pp, ~102,961w.
+  > - **r2 Track A done** — Ch.1 opening re-hook (disorientation beat) + recap trim + de-dup of the
+  >   'wanted to be unseen→now seen' beat (was in both Ch.1 & Ch.2; Ch.2 now the load-bearing one).
+  >   Gates clean. Logged in `feedback/book2-r2-changes.md`.
+  >
+  > **TO DO NEXT (resume point):**
+  > 1. **Decide r2 scope**, then execute: **Track B (mid-section pacing, Ch.5–13 — TOP priority)**,
+  >    Track C (side-character distinctions + exposition→subtext), Track D (global prose tightening /
+  >    'watching'-monologue variation). Track E (continuity-guardian vs Book-1 canon + timeline) LAST.
+  > 2. **CUT THE r2 PDF** once the round's tracks are done: bump `REVISION` r1→r2, then
+  >    `assemble_manuscript.py` → `build_pdf.py` → `make_pdfx.sh`; keep r1 as history; log in
+  >    `feedback/book2-r2-changes.md`. (r2 NOT cut yet — only Track A prose is in so far.)
+  > 3. Still open (author's call): structural finding **#4 — enact the Ch.18 overwhelm** (asserted-not-
+  >    enacted); larger rebirth-middle rewrite.
+  > - ⚠ **Commits show 'Unverified'** (no GPG/SSH signing key in this env). Email is correct; this is an
+  >   environment-config fix (provision a signing key), NOT something to fix by rewriting history.
+  >
+  > --- (Book Two status / history below) ---
+  > ### BOOK TWO IS COMPLETE + REVIEWED + POLISHED — all 20 chapters FINALIZED on `main`, 103,149 words.
   > Every chapter gate-clean (style_check RESULT: clean, em-dash ≤4, rhythm only sanctioned anaphora),
   > canon held, YA tone held.
   >
