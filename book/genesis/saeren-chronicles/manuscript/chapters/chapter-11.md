@@ -76,7 +76,7 @@ She heard it connect. She saw a flicker of real pain cross Venquar's features, t
 
 For a frozen moment Viridia thought she had given grave offense.
 
-Then Venquar looked at the tooth in his hand, and looked at her, and made a sound that she realized after a startled instant was laughter. "Not bad," he said, around the new gap in his teeth, and there was nothing in it but pleasure. "Not bad at all, dragon-friend."
+Then Venquar looked at the tooth in his hand, and looked at her, and made a sound that, after a startled instant, turned out to be laughter. "Not bad," he said, around the new gap in his teeth, and there was nothing in it but pleasure. "Not bad at all, dragon-friend."
 
 "Enough," Nargash said, stepping forward, and there was satisfaction in it. "Now we know what to make of you. Now we begin properly. Guard stance, as Venquar showed you. We will go slowly. You will watch the body."
 

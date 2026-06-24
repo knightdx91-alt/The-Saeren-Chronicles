@@ -144,7 +144,7 @@ It took Amber a full minute to get her voice back.
 
 "That," she said, rising slowly from the bench, "is a horned sylvan tiger. Those are extinct. Everyone says those are extinct."
 
-Lor-ar turned his head to her, unhurried. *You have also bonded a creature of the forest,* he told her, and Viridia realized he was speaking into both their minds at once. *Treat him well, or send him home. Those are the only two honest things to do with a bond.*
+Lor-ar turned his head to her, unhurried. *You have also bonded a creature of the forest,* he told her, speaking into both their minds at once. *Treat him well, or send him home. Those are the only two honest things to do with a bond.*
 
 "I will," Amber said faintly. "May I have your name?"
 

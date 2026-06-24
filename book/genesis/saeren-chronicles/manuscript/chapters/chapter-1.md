@@ -69,7 +69,7 @@ He wanted her to. She could see that he wanted her to, the way a man wants reass
 
 So Viridia looked up at him and tried to smile.
 
-It did not work. Her face had forgotten the shape of it. What she produced was closer to a wince, a brief unconvincing twist of the mouth that fooled no one, but Aleric's expression eased anyway, because he wanted to be eased, and he set one large hand between her shoulder blades and steered her gently through the open gate and up the path toward the doors.
+It did not work. Her face had forgotten the shape of it. What she produced was closer to a wince, a brief unconvincing twist of the mouth that fooled no one. But Aleric's expression eased anyway, because he wanted to be eased, and he set one large hand between her shoulder blades and steered her gently through the open gate and up the path toward the doors.
 
 Behind them, the iron gate swung shut on its own weight, the sound of it a held note finally let go.
 
