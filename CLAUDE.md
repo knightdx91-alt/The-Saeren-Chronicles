@@ -322,8 +322,14 @@ author to catch these.
   > sentences are deliberate voice/dialogue/climax. r4 PDF cut (RGB + PDF/X-1a, 306pp, 103,247w); r3
   > kept as history. Gates clean.
   >
+  > **r5 CUT (2026-06-24) — r4-review response (review strongly positive, "mostly refinement"):**
+  > Ch.2 opening-scene sentence splits for rhythm; Book-One continuity re-verified clean; side-char
+  > tics confirmed already distinct. **AUTHOR DECISION 2026-06-24: PRESERVE TEXTURE** — declined the
+  > conditional mid-book 2–4% "brisk commercial pacing" trim (it trades against the book's literary-
+  > voice positioning). r5 stands as the polished version (RGB + PDF/X-1a, 306pp, 103,244w; r4 history).
+  >
   > **TO DO NEXT (resume point) — Book Two is in strong shape; remaining items are author's-call only:**
-  > 1. Optional: a fresh external read of r4 to confirm the climax-agency + Ch.18-overwhelm + seam land.
+  > 1. Optional: a fresh external read of r5 to confirm the climax-agency + Ch.18-overwhelm + seam land.
   > 2. Fill print front/back matter placeholders ([ISBN]/[IMPRINT]/[Dedication]/[Acknowledgments]/bio)
   >    before any final print run.
   > 3. Tracks B(structural pacing)/C(side-char) were assessed NOT to need rewrites — the prose already
