@@ -63,3 +63,20 @@ pass. Remaining r2 work is therefore: (1) finish the light de-tic/de-dup sweep o
 not-yet-reviewed chapters (9–16, 20 — minus the protected emotional chapters 9/11/16/19 and
 the climax 15–17, which keep load-bearing tics); (2) a full continuity-guardian pass vs Book-1
 canon + internal timeline (Track E); (3) cut the r2 PDF (bump REVISION r1→r2, rebuild).
+
+## Track D — de-tic sweep finished (Ch.10, 13, 14) 2026-06-24
+
+Completed the light sweep on the remaining non-protected chapters. Thinned only where NOT
+load-bearing; left the deliberate thematic motifs intact.
+- **Ch.14:** thinned the "filed" death-motif from 6→4 (varied the two weakest: Abe / "every
+  other thing she filed"); kept the load-bearing ones (the thesis, Brutus, the unnamed boy).
+- **Ch.13:** varied a doubled "filed it"→"kept it" and a doubled "detail out of place"
+  (kept the load-bearing Alice-reveal instance).
+- **Ch.10:** varied "filed it under the heading she kept for" (same cross-chapter tic fixed
+  in Ch.4) → "set it with the other things…".
+- **Ch.12 & Ch.20 LEFT INTACT** on purpose: their count/ledger/margin/filing-vs-feeling
+  repetitions are the chapters' deliberate thematic engine (Ch.12 the dead-count + hidden
+  birthday; Ch.20 the finale ledger). Ch.20 also keeps the "There is [X]" bookend to Ch.5.
+
+Gates clean (style RESULT: clean; rhythm flags pre-existing sanctioned anaphora). The de-tic
+sweep (Track D) is now COMPLETE across the book.
