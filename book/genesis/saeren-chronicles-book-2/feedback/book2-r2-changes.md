@@ -173,3 +173,26 @@ The r4 review is strongly positive ("mostly refinement now"). Acted on the concr
 
 ## r5 PDF cut 2026-06-24
 Bumped REVISION r4→r5; rebuilt RGB + PDF/X-1a. r4 kept as history.
+
+# === r6 round (responding to the r5 review, 2026-06-24) ===
+- **CONTINUITY FIX (canon) — important:** Ch.4 said "I see a **fourteen-year-old** who holds her
+  face like a woman three times her age" → "a **half-grown girl**…". This violated the Book Two
+  age guardrail (NO age number on-page before the turn-to-15 in Ch.12). It survived the 2026-06-22
+  epic-branch age scrub. **It also exposed a bug in the r3 continuity grep** (the filter
+  `grep -v "chapter"` excluded every line, since each output line contains the filename
+  "chapter-N.md" → false "clean"). Re-ran the age check correctly: only Viridia instance was Ch.4
+  (now fixed); "six-year-olds" = camp children (fine); Ch.18 "fourteen years living beside …" is a
+  poetic DURATION implying ~15 post-turn (consistent, kept). Names (Pembrook/Jazen), rose-tinted
+  spectacles, and the cry-guardrail (Viridia weeps only Ch.16) re-verified clean with correct greps.
+- **Opening-scene split (explicit ask):** Ch.3 — split the "busy hands through the three days"
+  sentence for rhythm ("…to a coal at night. And she did not ask Jazen…").
+- **Side characters / mid-book trim:** no manufactured tics (already distinct); mid-book texture
+  preserved per the author's r5 decision (declined the conditional commercial-pacing trim).
+
+## r6 PDF cut 2026-06-24
+Bumped REVISION r5→r6; rebuilt RGB + PDF/X-1a. r5 kept as history.
+
+NOTE (process): the r2→r6 external reviews are now near-identical positive "fine-tuning" notes;
+the manuscript is at publish-ready polish. Recommend treating r6 as the final fine-tuning round and
+pivoting to launch prep (front/back matter, query/synopsis, Book-Three seed) rather than further
+identical rounds — see resume note in root CLAUDE.md.
