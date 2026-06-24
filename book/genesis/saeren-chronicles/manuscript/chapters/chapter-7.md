@@ -50,7 +50,7 @@ She wanted to argue. She could feel the shape of the argument in her, all the cl
 
 *It is.* He did not soften it. *I find your people fascinating and exhausting in roughly equal measure, and this is chiefly why. You have been hollowed and told it was always so, and you build whole lives in the hollow, and call the building a nation, and go to war over which of you may keep the smaller half.* A pause. *I do not say it to be cruel. A thing can be broken and beloved. I am very fond of a three-legged thing I knew once. But I will not call a missing leg a fourth kind of walking, and I will not call your wound your nature, because you, of all of them, deserve to be told the truth about the shape of yourself.*
 
-*You, of all of them.* She caught it, the way she caught the one detail in a room that did not belong, and filed it, and did not yet let herself look directly at it.
+*You, of all of them.* She caught it, the way she caught the one detail in a room that did not belong, and set it aside, and did not yet let herself look directly at it.
 
 "How can you possibly know," she said instead. "About thousands of years ago. You said yourself you're only three hundred."
 
