@@ -99,6 +99,9 @@ fm_half = ParagraphStyle("fm_half", fontName="PlexSerif-It", fontSize=16,
 # Mutable holders so build() can report the front-matter offset / total pages.
 BODY_OFFSET = [0]
 PAGE_COUNT = [0]
+# Records (physical_page, running-head text) for each chapter title and back-matter
+# heading, captured during a build pass so the final pass can draw running heads.
+CHAP_STARTS = []
 
 
 def md_inline(t):
@@ -156,9 +159,10 @@ def paras_from(text):
     return out
 
 
-def build(pad_to_even=False):
+def build(pad_to_even=False, head_map=None):
     chapters = parse(SRC)
     story = []
+    CHAP_STARTS.clear()
 
     # Track the running page index so we can drop blank versos to force the
     # next major element onto a recto (odd page). The whole front matter runs
@@ -261,12 +265,39 @@ def build(pad_to_even=False):
     story.append(Paragraph("[Acknowledgments]", fm_body))
     story.append(PageBreak())
 
-    story.append(Paragraph("Book Two", fm_head))
+    # --- Book Two teaser (real excerpt + series note) ---
+    teaser_it = ParagraphStyle("teaser_it", parent=fm_center, fontName="PlexSerif-It")
+    story.append(Paragraph("The story continues in", fm_center))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph("THE SAEREN CHRONICLES", fm_head))
+    story.append(Paragraph("Book Two: The Resistance", teaser_it))
+    story.append(Spacer(1, 0.35*inch))
+    b2 = [
+        "On the fourth morning the camp put her to work, which was the kindest "
+        "thing it could have done.",
+        "It was Brutus who did it, the broad sunburned man from the council, who "
+        "found her standing at the edge of the lanes with nothing in her hands and "
+        "the look on her face of a person who has run out of things to be useful "
+        "for. He did not ask her how she was, which she was grateful for, because "
+        "she had heard the question a dozen times since the burning school and had "
+        "not yet found a true answer that did not cost more than it was worth to "
+        "give. He simply looked her up and down, the way he looked at a length of "
+        "timber, and grunted, and said, “You. You’ve got two arms. Come hold this.”",
+        "And running under all of it, under the washing and the games and the "
+        "smell of bread, a thing she could feel the way you feel a clock in a quiet "
+        "house: the count. <i>A week,</i> Jazen had said. <i>By this time next week "
+        "I mean to be on the road to the capital.</i> Four days of it were already "
+        "gone.",
+    ]
+    first_b2 = True
+    for para in b2:
+        story.append(Paragraph(para, body_first if first_b2 else body))
+        first_b2 = False
+    story.append(Spacer(1, 0.30*inch))
     story.append(Paragraph(
-        "Viridia’s story continues in Book Two of The Saeren Chronicles.",
-        ParagraphStyle("teaser", parent=fm_center, fontName="PlexSerif-It")))
-    story.append(Spacer(1, 0.15*inch))
-    story.append(Paragraph("Coming soon.", fm_center))
+        "Viridia’s war is only beginning. <i>The Resistance</i> follows her from "
+        "the hidden camp to the gates of the capital — and to the choice the whole "
+        "of the first book has been quietly preparing her to make.", teaser_it))
 
     # IngramSpark requires an EVEN physical page count for perfect binding.
     # A first pass measures the count; if odd, we re-run with one trailing blank.
@@ -286,10 +317,28 @@ def build(pad_to_even=False):
         if n >= 1:
             canvas.setFillColor(K_BLACK)
             canvas.drawCentredString(TRIM_W/2, 0.45*inch, str(n))
+            # Running head: chapter title, centered in the top margin. Suppressed
+            # on a chapter's opening page and on back matter (head_map omits those).
+            if head_map is not None:
+                title = head_map.get(doc.page)
+                if title:
+                    canvas.setFont("PlexSerif-It", 9)
+                    canvas.drawCentredString(TRIM_W/2, TRIM_H - 0.5*inch, title)
         canvas.restoreState()
 
+    # Capture each chapter title (and back-matter heading) with the page it lands
+    # on, so a measurement pass can build the page->running-head map.
+    class BookDoc(BaseDocTemplate):
+        def afterFlowable(self, flowable):
+            style = getattr(flowable, "style", None)
+            name = getattr(style, "name", "")
+            if name == "ch_title":
+                CHAP_STARTS.append((self.page, flowable.getPlainText()))
+            elif name == "fm_head":
+                CHAP_STARTS.append((self.page, ""))  # back matter: no running head
+
     frame = Frame(M_SIDE, M_BOT, TRIM_W - 2*M_SIDE, TRIM_H - M_TOP - M_BOT, id="text")
-    doc = BaseDocTemplate(OUT, pagesize=(TRIM_W, TRIM_H),
+    doc = BookDoc(OUT, pagesize=(TRIM_W, TRIM_H),
                           title="The Saeren Chronicles - Book One: Hazel Academy",
                           author="Post Peleos", leftMargin=M_SIDE, rightMargin=M_SIDE,
                           topMargin=M_TOP, bottomMargin=M_BOT)
@@ -302,11 +351,26 @@ def build(pad_to_even=False):
     return OUT
 
 
+def _head_map_from_starts():
+    # A chapter's title appears on every body page AFTER its opening page, up to
+    # the next chapter (or back-matter heading, recorded with an empty title).
+    starts = sorted(CHAP_STARTS)
+    hm = {}
+    for i, (pg, title) in enumerate(starts):
+        end = starts[i + 1][0] if i + 1 < len(starts) else PAGE_COUNT[0] + 1
+        if title:
+            for p in range(pg + 1, end):  # skip the opener page itself
+                hm[p] = title
+    return hm
+
+
 if __name__ == "__main__":
+    # Pass 1 (measurement): learn each chapter's opening page + total pages.
     out = build()
-    if PAGE_COUNT[0] % 2 == 1:
-        # odd count -> add one trailing blank page so binding gets an even count
-        out = build(pad_to_even=True)
+    pad = PAGE_COUNT[0] % 2 == 1  # odd -> add one trailing blank for even binding
+    head_map = _head_map_from_starts()
+    # Pass 2 (final): draw the chapter-title running heads (and pad if needed).
+    out = build(pad_to_even=pad, head_map=head_map)
     print("wrote", out)
     print(f"front-matter pages (unnumbered): {BODY_OFFSET[0]}")
     print(f"TOTAL PHYSICAL PAGE COUNT (even for binding): {PAGE_COUNT[0]}")
