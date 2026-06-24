@@ -23,3 +23,24 @@ Each entry: chapter · what changed · why. Gates kept clean per chapter
   as the single load-bearing version. (Review: "trim recaps; trust readers' Book-1 memory.")
 
 Net: Ch.1 5,002w (em-dash 2), gates clean; no plot/canon change.
+
+## Track B+D — mid-section pacing + tic-thinning (in progress) — batch 1 (Ch.3–5) 2026-06-24
+
+Data-driven targets from a book-wide tic scan (worst: "banked" 64×, "the cold/cold
+working part" 47×, "the count" 27×, "the way you/a" template, "the one thing that did
+not fit", chapter-ending "filed/practice" refrains). Climax chapters (15–17) and the
+protected emotional chapters (9, 11, 16, 19) left alone — their tics are load-bearing.
+
+- **Ch.3:** varied the chapter-ending refrain that duplicated Ch.1's exact closer
+  ("the practice was the only thing she trusted not to leave").
+- **Ch.4:** de-duplicated the "filed … under the heading … people she could not lose"
+  construction (it appeared twice in the chapter; reworked the first, kept the load-bearing
+  closer); varied one of two "by the one thing that did not fit" instances.
+- **Ch.5:** dropped the "There is a [X]" essay-opening template (reviewer flagged the
+  Ch.5/Ch.20 sameness) — now "The lie people tell about hard things is that they are hard.";
+  Ch.20 keeps the template as the deliberate bookend. Varied a doubled "one thing that did
+  not fit". (Lor-ar "creature-monologue" left intact this pass — a deeper cut risks the
+  chapter's thesis build; flagged for a later structural look.)
+
+Gates clean (style RESULT: clean; rhythm only pre-existing sanctioned anaphora). No
+plot/canon/dialogue-meaning change.

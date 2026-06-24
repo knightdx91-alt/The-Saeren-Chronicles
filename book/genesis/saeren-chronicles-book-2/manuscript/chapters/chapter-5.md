@@ -2,7 +2,7 @@
 
 <!-- Word count: ~5,430 | Structure: essayistic→scene | Voice de-tic/rhythm pass 2026-06-23 | Anchor: the rowan tree comes back whole and easy, and far out at the rim of everything something leans a hair toward full — the cost of the cure is not to her, it is to the world, and no one will ever feel it but her. Residue: she will spend the daylight on the open door before she reaches for the thing that has no door in it. -->
 
-There is a lie people tell about hard things, and the lie is that they are hard.
+The lie people tell about hard things is that they are hard.
 
 Viridia had believed the lie most of her life, the way you believe a thing nobody troubles to disprove. The hard things were supposed to feel hard. You were supposed to strain at them, to come away wrung out and changed, to know by what a thing took out of you that you had done something that mattered. That was the bargain the world advertised. Effort in, weight out. She had carried boards for Brutus on the strength of it and learned her letters on the strength of it and held her own face still through a year that had taken everything on the strength of it, and the bargain had mostly held.
 
@@ -78,7 +78,7 @@ She turned the sight out, past the camp, past the lattice she could hold in her 
 
 And the line had moved.
 
-She could not have proven it. She had no measure for it, no mark she'd left to check it against, nothing but the memory of having looked once and the looking now. But she had spent her whole life reading rooms by the one thing that did not fit, and the one thing that did not fit, here, at the rim of all seeing, was that the *not* had drawn back. A hair. A breath. The fullness of the world had leaned toward the rim by exactly as much, she understood, the figure arriving unbidden and unwanted, as one rowan tree. The cost of the tree had not vanished. It had simply gone where her own account would never be touched, out past the edge, into the ledger, and the ledger had paid it the way a tide pays, by drawing back a fraction somewhere no one would ever stand to watch the water go.
+She could not have proven it. She had no measure for it, no mark she'd left to check it against, nothing but the memory of having looked once and the looking now. But she had spent her whole life reading rooms by the one thing that did not fit, and what did not belong, here, at the rim of all seeing, was that the *not* had drawn back. A hair. A breath. The fullness of the world had leaned toward the rim by exactly as much, she understood, the figure arriving unbidden and unwanted, as one rowan tree. The cost of the tree had not vanished. It had simply gone where her own account would never be touched, out past the edge, into the ledger, and the ledger had paid it the way a tide pays, by drawing back a fraction somewhere no one would ever stand to watch the water go.
 
 "There," said Lor-ar, who could not see it, who was watching her face. "You found it."
 
