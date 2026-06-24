@@ -313,8 +313,17 @@ author to catch these.
   >   dissolving-of-self; Raizen's bond the concrete anchor held hand-over-hand). All binding beats kept.
   > - **r3 PDF cut** (REVISION r2→r3; RGB + PDF/X-1a, 306pp, 103,222w; r2 kept as history). Gates clean.
   >
+  > **r4 CUT (2026-06-24) — r3-review response:** (a) **Book One↔Two seam** verified factually
+  > consistent (Alice ask, war-clock, spears, rescued children, burned school) and STRENGTHENED —
+  > Ch.1 opening now anchors in Book One's closing images (corridor/wood/rescued children/school to
+  > smoke), shown not recapped. (b) **All 20 chapters reviewed** vs the r3 feedback; applied
+  > clarity-splits to the two genuinely-excessive narration run-ons (Ch.10 224w, Ch.15 292w). Filtering
+  > is mostly sight-justified (don't blanket-remove); side-char tics already distinct; other long
+  > sentences are deliberate voice/dialogue/climax. r4 PDF cut (RGB + PDF/X-1a, 306pp, 103,247w); r3
+  > kept as history. Gates clean.
+  >
   > **TO DO NEXT (resume point) — Book Two is in strong shape; remaining items are author's-call only:**
-  > 1. Optional: a fresh external read of r3 to confirm the climax-agency + Ch.18-overwhelm fixes land.
+  > 1. Optional: a fresh external read of r4 to confirm the climax-agency + Ch.18-overwhelm + seam land.
   > 2. Fill print front/back matter placeholders ([ISBN]/[IMPRINT]/[Dedication]/[Acknowledgments]/bio)
   >    before any final print run.
   > 3. Tracks B(structural pacing)/C(side-char) were assessed NOT to need rewrites — the prose already
