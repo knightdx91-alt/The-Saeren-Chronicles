@@ -1,0 +1,100 @@
+project:
+  title: "Finding Lady Death"
+  genre: "Paranormal romance"
+  subgenre: "Urban/contemporary fantasy romance (mythic — Death & reincarnation)"
+  language: "English"
+  word_count_target: 95000
+  comp_titles: []
+  engagement_type: {primary: "empathy (55%)", secondary: "fascination (30%)", tertiary: "self-insertion (15%)"}
+  premise: "A medical resident who has seen Death since she was nine learns she is the reincarnated wife of Acheron — the man who became Death — and must decide whether to take up the mantle of Lady Death, just as the deposed Old Gods (and the mysterious powers that stripped them) move to reclaim their abandoned domains."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# Hybrid run: author supplied an OPENING SCENE (voice benchmark) but no plot roadmap.
+# Architect builds foundation + outline + voice-dna FROM that opening; Ch.1 is benchmark prose.
+adaptation:
+  mode: "genesis-from-opening"
+  canon_sources:
+    original_draft:  "research/original-draft.txt"   # author's opening scene = voice benchmark + seed canon
+  chapter_1_locked: false        # opening is the VOICE BENCHMARK; may be polished but preserve its voice
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # 20-chapter standalone, ~96k projected
+
+word_floor:
+  manuscript_min_words: 90000
+  manuscript_target_words: 95000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "architecture complete — ready for chapter loop"
+  history:
+    - "2026-06-21: architect built foundation.md, outline.md, voice-dna.md (20 ch, ~96k); proposals logged for author confirmation"
+    - "2026-06-21: RECONCILIATION pass — author confirmed open decisions; 3 differed from architect proposals and were reconciled across foundation.md/outline.md/voice-dna.md. (1) ANTAGONIST recast from single 'First Death' to an OLD GODS COALITION: Mór (deposed Death) leads/face; Saira(harvest)/Bréon(storm)/Helia(sun) escalate one per act; 'sense of more'; climax splits the coalition via Helia-vs-Mór rivalry, not brute force. (2) MANTLE COST changed to mortal-life + human-future, MEMORY KEPT (no amnesia); Ch15/18/20 + foundation §6c/§1 updated. (3) PRIOR-LOSS thread removed — Ch.1 is the FIRST find since reincarnation; Acheron's urgency recast as first-find + started-clock (foundation Acheron Wound, Ch12). total_planned UNCHANGED at 20, ~96k, turning points unchanged (PT1 Ch5/MID Ch10/PT2 Ch15/CLIMAX Ch18-19); braided romance beats and 2 open-door scenes (Ch8/Ch13) intact."
+
+chapters:
+  total_planned: 20
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Preserve the OPENING SCENE's voice (research/original-draft.txt) as the book's benchmark; expand to the outline, do not contradict the seed."
+  # --- Settled author canon (from the opening scene) ---
+  - "PROTAGONIST: Alice Haywood. Has seen Death since age 9; medical resident at Brookwood Medical Center; top of her class, Youngstown University; long black hair. Wears a scythe-charm bracelet (made only for her & Acheron) constantly; it means she will not die. Sole survivor of a car accident; drawn to the dying/suffering."
+  - "LOVE INTEREST: Acheron ('very Greek' parents), now DEATH. Was once a mortal obsessed with death; took up Death's mantle during the Gods' War. Long black hair, clear blue eyes, hawk-sharp nose; black tee with a white scythe; can be seen only by the near-death or by Alice; carries a black-handled scythe (lantern-and-boatman image on the blade) summoned from his shirt. Calls Alice 'little one'."
+  - "THE BARGAIN: when chosen as Death, Acheron's reluctance to leave his wife won a deal — they live a full mortal life together, then on passing he becomes Death and must FIND her once she reincarnates; when found, she becomes LADY DEATH. He has searched 'thousands of years.'"
+  - "MYTHOS: long ago the Ancient/Old Gods fought a centuries-long War and abandoned their domains (crops withered, storms raged, the sun didn't rise). Mysterious powerful BEINGS (identity unknown even to Acheron) decreed NEW gods be chosen, stripping the old ones of power. Acheron was one such replacement (Death)."
+  - "TONE/SCOPE: paranormal romance; STANDALONE ~95k (floor 90k); romance heat = OPEN DOOR, MODERATE (sensual on-page, not graphic)."
+
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "COSMIC ENGINE: accepted — the BEINGS are the DEADLINE, the OLD GODS are the CONSEQUENCE; Acheron finding Alice ends the grace period and starts the clock. Beings stay unknowable (phenomena)."
+  - "ANTAGONIST: the OLD GODS WORKING TOGETHER — a COALITION of deposed Old Gods reclaiming their abandoned domains (NOT just the deposed god of Death). They exploit the incomplete Death office as the seam. (Overrides architect's single 'First Death' antagonist — the deposed Death may still be a leading face/ringleader within the coalition, but it is an ensemble threat.)"
+  - "MANTLE COST: Alice KEEPS her memories of this life (and the people in it); she loses her mortal life/mortality but NOT her memory. Rationale: Acheron remembers her, so she should too. Warmer, more triumphant ending. (Overrides architect's memory-erasure proposal.)"
+  - "MANTLE TIMING: accepted — taken at the CLIMAX (Ch.18), so the whole book is the weighing."
+  - "PAST-LIFE RECALL: accepted — partial/emotional recall, surfacing midpoint, blooming ~Ch.12; her choice stays hers. Same soul, so 'jealousy of the wife' is dramatic irony, never a triangle."
+  - "ACHERON PRIOR LOSS: NO — this is the FIRST time he has found her since she reincarnated. (Drop the optional 'lost her before' thread.)"
+  - "POV/TENSE: accepted — close third on Alice, past tense throughout (standardize the opening's present-tense dialogue tags to past in Ch.1 polish)."
+  - "SETTING: accepted — contemporary Ohio (Youngstown / Brookwood)."
+  - "VOCABULARY: accepted — brand 'Lady Death' / 'the grace period' as deliberate motifs (in style-gate ALLOWLIST)."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/finding-lady-death/."
+  - "Single-POV Alice (close third or first — architect to confirm to match the opening's voice)."
+revision_cycles: 0
+
+# --- Architect proposals (2026-06-21) — AUTHOR MUST CONFIRM before/at chapter loop ---
+# Each is a PROPOSAL, not locked. Detail/rationale in foundation.md & outline.md.
+architect_proposals:
+  cosmic_engine:
+    recommendation: "BOTH threads braided: the BEINGS are the DEADLINE, the OLD GODS are the CONSEQUENCE."
+    detail: "Finding Alice ENDS the Beings' grace period (their reunion is the inciting catastrophe). Rule: complete the office (install Lady Death) or it reverts to its previous holder — the deposed Old God of Death. The Old Gods press the seam of an incomplete Death to reclaim domains. The Beings stay UNKNOWABLE (phenomena, not characters), per canon ('Beats me')."
+  antagonist_face:
+    proposal: "THE FIRST DEATH — the deposed Old God of Death; courtly, reasonable, partly RIGHT (a Death that plays favorites IS dangerous). Wants his office back; works to make Alice REFUSE / run out the clock; weaponizes her medical vocation against her. NAME and GENDER open."
+  mantle_timing:
+    proposal: "Alice takes the Lady Death mantle at the CLIMAX (Ch.18), not the midpoint — so the whole book is the WEIGHING. Midpoint instead delivers the antagonist + first past-life memory."
+  mantle_cost:
+    proposal: "Becoming Lady Death severs her mortal life AND her memory of THIS life (keeps soul-memory across all lives, loses Alice-of-Brookwood / Reyes / Jonah / patients). Bittersweet-but-affirming ending; she becomes the mercy at others' bedsides. SOFTER cost is available if author prefers (e.g., mortality only, memory kept)."
+  past_life_recall:
+    proposal: "PARTIAL/emotional recall, not a full download — surfaces midpoint (Ch.10 fragment) and blooms Ch.12 — so present-Alice's CHOICE stays hers, not the late wife's. Confirms canon: same soul, so 'jealousy of the wife' is dramatic irony, never a triangle."
+  acheron_prior_loss:
+    proposal: "[optional] Alice is NOT the first reincarnation Acheron found — he found her once before and LOST her (she died before she could choose). Explains his terror of the clock and his over-protective withholding. Author may drop this if simpler is preferred."
+  pov_tense:
+    recommendation: "Close THIRD on Alice, PAST tense throughout (incl. dialogue tags). The opening mixes past narration with present-tense tags — standardize to PAST in Ch.1 polish; preserve all other opening voice + canon lines verbatim."
+  setting:
+    proposal: "Contemporary Ohio, real-feeling: Youngstown / Brookwood Medical Center, Ohio winter texture."
+  cultural_vocabulary:
+    proposal: "Brand 'Lady Death' as 'the mercy in the office of Death'; secondary phrase 'the grace period' (double meaning). Add to style-gate ALLOWLIST as deliberate motifs."
+  structure:
+    fact: "20 chapters x ~4,800-5,000w = ~96,000w (clears 90k floor). Turning points: PT1 Ch.5 (25%), MIDPOINT Ch.10 (50%), PT2/Dark Night Ch.15 (75%), CLIMAX Ch.18-19 (90%). Heat: open-door moderate, Ch.8 & Ch.13."
