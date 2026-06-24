@@ -39,12 +39,14 @@ word_floor:
   per_chapter_min_words: 4600    # match Book Two's per-chapter floor
 
 phase:
-  current: 1
-  status: "scaffolded + seeded — NEXT: architect pass (foundation.md + outline.md) from the roadmap"
-  history: []
+  current: 2
+  status: "ARCHITECT PASS DONE (foundation.md + outline.md, 22 ch). NEXT: author confirms §6 open items + ALLOWLIST, then draft Ch.1."
+  history:
+    - "2026-06-24: scaffolded + seeded; roadmap reconciled vs finished Books 1/2."
+    - "2026-06-24: architect pass — foundation.md + outline.md (22 chapters, 3 acts; balance-not-victory)."
 
 chapters:
-  total_planned: 0               # decide in the architect pass (~20–23 at ~4.8k each)
+  total_planned: 22              # 3 acts: Unsettled World (1–7) / The Pull (8–15) / Balance (16–22)
   completed: []
   scores: {}
 

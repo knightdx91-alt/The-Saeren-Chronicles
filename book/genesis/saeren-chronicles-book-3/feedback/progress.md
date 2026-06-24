@@ -2,9 +2,13 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: architect pass
-Everything is staged. The next step is the **architect pass** — build `foundation.md` +
-`outline.md` from the Series Roadmap's Book Three section, then run the chapter loop.
+## ▶ RESUME HERE: author-confirm the open items, then draft Ch.1
+**Architect pass DONE** — `foundation.md` + `outline.md` (22 chapters, 3 acts: Unsettled World 1–7 /
+The Pull 8–15 / Balance 16–22). Resolution = BALANCE not victory; the gut-punch (Horrors pulled
+toward the source = she made them) lands Ch.10; the binding final image (Fen runs / Viridia feels the
+void) closes Ch.22. Before drafting Ch.1, get author sign-off on the §6 open items in `foundation.md`
+(time-skip ≈1 year; Mrs. Zoran in/out; Bella-thread attempt or hold; pact/Dangris; chapter count 22),
+then edit `tools/style_check.py` ALLOWLIST with Book-Three motifs.
 
 ### Done
 - Folder scaffolded in its own project: `book/genesis/saeren-chronicles-book-3/`.
