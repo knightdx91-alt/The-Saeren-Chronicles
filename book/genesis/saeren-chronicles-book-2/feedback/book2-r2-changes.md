@@ -113,3 +113,42 @@ rim-absence; battlefield stops; "none know why"). Ch.18 now 5,733w, em-dash 2, g
 
 ## r3 PDF cut 2026-06-24
 Bumped REVISION r2→r3; rebuilt RGB + PDF/X-1a. r2 kept as history.
+
+# === r4 round (responding to the r3 review, 2026-06-24) ===
+
+## Book One ↔ Book Two seam — verified + strengthened
+Read Book One's final chapter (`saeren-chronicles/manuscript/chapters/chapter-18.md`) against
+Book Two Ch.1. The seam is factually consistent: Book One ends with Viridia freshly arrived at
+the camp having just asked Jazen to put the word out about Alice (blond hair, crooked tooth,
+healer's helper); Book Two Ch.1 (day 4) treats that ask as past and gives the update, the
+war-clock matches ("a week" / "four days already gone"), and the spears, rescued children,
+burned school, and "be careful who you let see you" theme all carry over. **Strengthened the
+emotional bridge:** Ch.1's opening now anchors the disorientation in Book One's closing images
+(the burned corridor, the dark wood, the rescued children of Hazel, the school gone to smoke) —
+shown through sensation, not recap.
+
+## Chapter-by-chapter refinement pass (all 20 reviewed)
+Reviewed every chapter against the r3 feedback's section targets (sharpen opening / trim recap;
+mid-book trim + sentence variety; climax choreography clarity; essayistic-wrap-up check).
+Findings + edits:
+- **Residual filtering:** mostly NOT applicable here — Viridia's always-on mana-sight makes
+  "she saw/felt the lattice/wound/bond" *literal perception*, not distancing filter. Removing
+  it would damage the book. The genuinely-distancing filters are few and already light.
+- **Sentence variety / run-ons:** surveyed the longest sentence in every chapter. Most extreme
+  cases are dialogue (Ch.13 Jazen's confession), deliberate parallel accumulation (Ch.5/Ch.8),
+  or load-bearing emotional/climax prose (Ch.11/12/16/18/19) — left intact (this is the praised
+  voice). Applied clarity-splits only to the two genuinely-excessive *narration* run-ons that
+  hurt readability: **Ch.10** (224w → split at the councilor's-death seam) and **Ch.15** (292w
+  battle-choreography → split at the action→reflection seam; exactly the "tighten high-tension
+  choreography for clearer visuals" note).
+- **Side-character sharpness:** already met — recurring figures carry distinct tics (Mella's
+  locket-click, Brutus counting winters, Amber's finger-ticking + black nails, Coram soft-spoken,
+  the silver-bun woman's cold arithmetic, Jazen's open grief). No manufactured changes.
+- **Continuity:** the Track-E pass (above) stands; the seam check adds Book-One alignment = clean.
+
+Net: forced edits into already-polished chapters would be churn that degrades praised prose, so
+edits were applied only where they genuinely improve (seam + 2 clarity splits). Deeper per-chapter
+line-edits available on request for any specific chapters.
+
+## r4 PDF cut 2026-06-24
+Bumped REVISION r3→r4; rebuilt RGB + PDF/X-1a. r3 kept as history.

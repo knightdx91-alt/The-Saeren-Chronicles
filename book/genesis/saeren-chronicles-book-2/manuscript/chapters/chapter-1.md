@@ -2,7 +2,7 @@
 
 <!-- Word count: ~4,910 | Structure: chronological | Anchor: Viridia learning to be useful inside the camp; the war-clock running. Residue: hope and dread arriving together. -->
 
-For three mornings she had woken already braced — for smoke, for the bell, for the particular weight of a building deciding to come down on the people inside it. For three mornings there had been only the quiet of a place that had not yet been frightened. The bracing did not believe the quiet. It met her at the surface of every waking and held her there a moment, hunting a fire that was not there, before it let her remember where she was, and that the thing she kept waking to put out had already finished burning without her.
+For three mornings she had woken already braced — for smoke, for the bell, for the particular weight of a building deciding to come down on the people inside it. For three mornings there had been only the quiet of a place that had not yet been frightened. The bracing did not believe the quiet. It met her at the surface of every waking and held her there a moment, hunting a fire that was not there, before it let her remember where she was: a hidden camp on the far side of a burned corridor and a dark wood, the rescued children of Hazel asleep in borrowed beds nearby, and the school she kept waking to drag them out of already gone to smoke without her.
 
 On the fourth morning the camp put her to work, which was the kindest thing it could have done.
 
