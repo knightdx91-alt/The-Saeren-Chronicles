@@ -118,7 +118,7 @@ They were on Alice's bed with the lamp turned low, Alice in the middle of a grea
 
 "They don't say that."
 
-"They absolutely say that. Della heard Regina say it in the washroom. Regina! Who hates everyone!" Alice's eyes were shining, with no edge in it, no envy, only the uncomplicated pleasure she took in good things happening to people she loved. It undid Viridia a little, every time. She had not known, before Alice, that a person could simply be glad for you, with nothing held back and nothing wanted in return. "You're going to do something with the Chancellor watching that no one's done in fifteen years. Aren't you even a little bit excited?"
+"They absolutely say that. Della heard Regina say it in the washroom, and told me you didn't hear it from her, which from Della means the whole school's already heard it. Regina! Who hates everyone!" Alice's eyes were shining, with no edge in it, no envy, only the uncomplicated pleasure she took in good things happening to people she loved. It undid Viridia a little, every time. She had not known, before Alice, that a person could simply be glad for you, with nothing held back and nothing wanted in return. "You're going to do something with the Chancellor watching that no one's done in fifteen years. Aren't you even a little bit excited?"
 
 "I'm a little bit something," Viridia said.
 
