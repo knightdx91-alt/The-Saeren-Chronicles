@@ -1,0 +1,8 @@
+BISAC subject codes for IngramSpark (enter all 3):
+
+1. YAF019030  Young Adult Fiction / Fantasy / Epic
+2. YAF019050  Young Adult Fiction / Fantasy / Wizards & Witches
+3. YAF018070  Young Adult Fiction / Family / Death, Grief, Bereavement
+
+Alternates: YAF058180 (Self-Esteem & Self-Reliance); YAF051170 (Boarding School & Prep School); YAF008000 (Coming of Age); YAF002000 (Action & Adventure).
+Adult-shelf crossover: FIC009020 (Fantasy / Coming of Age); FIC009100 (Fantasy / Dark Fantasy).
