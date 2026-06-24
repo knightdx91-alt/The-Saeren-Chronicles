@@ -427,8 +427,15 @@ author to catch these.
   > and Ch.14–16 (Act Three through THE HINGE: Jazen beheaded before both armies, the breakdown breaks)
   > all finalized gate-clean. Binding decision: **Viridia is 14 at open, turns 15 on-page** (turn-to-15
   > beat PLACED in Ch.12, felt/private, no number on the page).
-- **Book Three is not started.** When ready, set it up as its own pipeline project seeded from the
-  Series Roadmap + the Book Two ENTITY_STATE.yaml.
+- **Book Three ("The Weight of the Source") IS SCAFFOLDED + SEEDED** at `book/genesis/saeren-chronicles-book-3/`
+  (2026-06-24, its own folder/pipeline; single-branch → main). **Genesis-from-roadmap** (no prior author
+  draft). Research staged (Book Three roadmap section + magic bible, Book Two ENTITY_STATE, Book Two
+  Ch.20 & Ch.18); STATE.yaml filled (premise, canon, **binding beats**, open threads, 95k floor); own
+  PDF pipeline mirrored from Book Two. **NEXT: architect pass** (foundation.md + outline.md, ~20–23 ch)
+  after resolving open decisions — esp. **Marick (Bk2 Ch.20 seed) vs Fen (roadmap ending)** and the
+  **age-on-page** convention (roadmap says she's 16). Binding finale image (do NOT explain): the lab,
+  a severed tentacle, Fen runs, Viridia feels the void → the thread to Masters of the Void. See the
+  book's own `CLAUDE.md`, `STATE.yaml`, and `feedback/progress.md`.
 
 ## Other books (folder-per-book in this repo)
 

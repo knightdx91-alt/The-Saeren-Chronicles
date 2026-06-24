@@ -1,0 +1,24 @@
+%!
+% PDF/X-1a:2001 definition file for Ghostscript pdfwrite.
+% Adds the required OutputIntent (CMYK) so the converted PDF is PDF/X-1a compliant.
+% The ICC path below is Ghostscript's bundled CMYK profile; swap for a press
+% profile (e.g. a GRACoL/FOGRA .icc) if your printer specifies one.
+
+/ICCProfile (/usr/share/color/icc/ghostscript/default_cmyk.icc) def
+
+[ /Title (The Saeren Chronicles - Book One: Hazel Academy) /DOCINFO pdfmark
+
+[ /_objdef {icc_PDFX} /type /stream /OBJ pdfmark
+[ {icc_PDFX} << /N 4 >> /PUT pdfmark
+[ {icc_PDFX} ICCProfile (r) file /PUT pdfmark
+
+[ /_objdef {OutputIntent_PDFX} /type /dict /OBJ pdfmark
+[ {OutputIntent_PDFX} <<
+    /Type /OutputIntent
+    /S /GTS_PDFX
+    /OutputCondition (Commercial CMYK offset/POD)
+    /OutputConditionIdentifier (Custom)
+    /Info (default_cmyk.icc - replace with printer profile if specified)
+    /DestOutputProfile {icc_PDFX}
+  >> /PUT pdfmark
+[ {Catalog} << /OutputIntents [ {OutputIntent_PDFX} ] >> /PUT pdfmark

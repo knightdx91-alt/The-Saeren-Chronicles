@@ -1,0 +1,92 @@
+project:
+  title: "The Saeren Chronicles — Book Three: The Weight of the Source"
+  genre: "YA fantasy"
+  subgenre: "upper/mature YA epic fantasy (post-war 'consequences' story)"
+  language: "English"
+  word_count_target: 100000
+  comp_titles: []   # carry Book Two's literary/quiet positioning; fill via book-packager
+  engagement_type: {primary: "epic/consequences fantasy", secondary: "found-family", tertiary: "cosmic-horror undertone (the Horrors/void)"}
+  premise: >
+    Months after the magical rebirth, Viridia — now the living vessel of the source, able to
+    feel every core in the world — must hold together a world she fundamentally altered: the
+    old light-supremacist order has collapsed into chaos, everyone suddenly carries both halves
+    of the gift, and unstable portals are leaking Horrors that drain life. The gut-punch: the
+    Horrors are not attacking — they are being pulled toward the source she became. In saving
+    the world she created its next threat, and the book is about what she does with that power
+    without becoming the thing she fought.
+  created: "2026-06-24"
+  updated: "2026-06-24"
+
+# GENESIS-FROM-ROADMAP — there is NO prior author draft for Book Three (unlike Books One/Two).
+# Build foundation.md + outline.md from the Series Roadmap's Book Three section + Book Two's
+# ENTITY_STATE, then run the chapter loop. Do NOT invent canon that contradicts Books One/Two.
+adaptation:
+  mode: "genesis-from-roadmap"
+  canon_sources:
+    series_roadmap:   "research/series-roadmap-book3.md"      # BINDING: premise, 3 conflict levels, key revelation, resolution, ending image, magic bible
+    book2_entity_state:"research/book2-ENTITY_STATE.yaml"     # continuity anchor — entities/threads as of end of Book Two
+    book2_final_chapter:"research/book2-final-chapter-20.md"  # Book Three opens months after this; the Marick/lab + void-rim seeds live here
+    book2_rebirth:    "research/book2-chapter-18-rebirth.md"  # the rebirth + its named cost (sight spent, returns slowly); the physical source-cavern
+    book1_canon:      "../saeren-chronicles/manuscript/chapters/"  # open Book One prose when reusing any Book One element
+    book2_canon:      "../saeren-chronicles-book-2/manuscript/chapters/"
+  chapter_1_locked: false        # Book One Ch.1 / Book Two Ch.1 are the voice benchmark; match them
+  chapters_to_produce: []        # set after the architect builds outline.md
+
+word_floor:
+  manuscript_min_words: 95000    # HARD FLOOR (roadmap target 95,000–110,000)
+  manuscript_target_words: 100000
+  per_chapter_min_words: 4600    # match Book Two's per-chapter floor
+
+phase:
+  current: 1
+  status: "scaffolded + seeded — NEXT: architect pass (foundation.md + outline.md) from the roadmap"
+  history: []
+
+chapters:
+  total_planned: 0               # decide in the architect pass (~20–23 at ~4.8k each)
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean. rhythm_check: no flat reflective triplets (sanctioned anaphora only). em-dash <=4 per chapter (Book Two standard). Add Book-Three deliberate motifs to the ALLOWLIST."
+  - "Word floor >= 95,000; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "VOICE: match Book One/Two — Viridia's quiet, observant, inward register; grief held inward (NO ONE sees her cry except the once-in-a-life sanctioned break — Book Two Ch.16 was that; Book Three keeps grief inward)."
+  - "YA TONE (series-wide): violence = consequence, never spectacle; cut the camera on the worst acts; no explicit sex / graphic torture / adult profanity; keep hope/connection load-bearing (Raizen, Alice, chosen family) between the dark beats."
+  - "SERIES CANON (never violate): series name single-n **Saeren**; Alice **PEMBROOK**; spelling **JAZEN**; Lady Lightwell wore ROSE-TINTED spectacles (now dead); Viridia silver-blonde hair, green eyes, slight 5'5'; trains + motorcars exist."
+  - "DO NOT introduce Johnathan Masters or the void woman in this trilogy (Masters of the Void is a separate series). The ONLY connection is the final image (below) — do not explain it."
+  - "CONTINUITY DISCIPLINE: before reusing any Book One/Two element (the physical source-cavern, the death-symbol, a returning character, a rule), open the earlier book's actual prose and match it — ENTITY_STATE is a summary, not the source of truth for how a thing was rendered. Run continuity-guardian vs Book One AND Book Two before finalizing each Act-Three chapter."
+
+binding_beats:
+  - "KEY REVELATION: the Horrors are not attacking — they are pulled toward the source the way absence is drawn to presence; the rebirth created a pressure differential between this world and the void. Viridia, saving the world, created its next threat. (The moral gut-punch.)"
+  - "RESOLUTION: not a defeat of the Horrors but an establishment of BALANCE — source contained, void acknowledged, world made sustainable. The void is the necessary counterpart to the source (neither good nor evil)."
+  - "ENDING: balance established; world changed, not fixed. Raizen + Viridia take the long view (their True-Bond means they outlive almost everyone — heavy, carried together)."
+  - "FINAL IMAGE (binding, do NOT explain): in a lab, a tentacle snaps back through a portal, severed; a young man named **Fen** runs; and Viridia, far away, feels a VOID for the first time — a place where a core should be and is not. This is the thread to Masters of the Void. Let it sit."
+
+open_threads_from_book_two:   # seeds planted in Book Two to pay off here
+  - "Marick / the lab — Book Two Ch.20 ends with a man named **Marick**, handed a whole core in the rebirth, picking up the chalk to attempt an old severed-half working he should not, ignoring a worn warning. (The Horror/portal trigger.)"
+  - "The void-rim differential — Book Two Ch.20: the absence at the rim of everything widened 'a shade' as the world ran full; Viridia's sight (when it returns) will read it wider than she remembers."
+  - "Viridia's mana-sight — spent to the wick in the rebirth (Book Two Ch.18); returns slowly over a long count of weeks/months. Book Three opens 'months later' as it comes back."
+  - "Bella's-name thread — the warm unfollowable thread with her mother's name at the bottom of the source (touched, unfollowed, in Book Two Ch.18). The off-pattern family-tree name (Book One/Two seed)."
+  - "Raizen human — walking on two legs, learning to be human; the True-Bond and its long-life weight."
+  - "Alice — freed, changed (calm, stilled), recovering her warmth slowly."
+
+open_author_decisions:
+  - "RECONCILE Marick vs Fen: Book Two Ch.20 planted **Marick** (the lab/the bad working); the roadmap's Book Three ENDING names **Fen** (the young man who runs). Are they the same person (Marick = the one who opens it; Fen = an assistant/apprentice who survives/runs), or two threads? Decide before drafting Act One and the finale."
+  - "AGE on-page: roadmap states Viridia is **sixteen** in Book Three. Book Two used a strict NO-age-number-on-page rule. Decide whether Book Three may state '16' on the page or keeps the no-number convention."
+  - "Raizen's elemental affinity (still open from Book One)."
+  - "The pact + the Dangris: does the ancient human–beast pact apply to the Dangris after the rebirth? (roadmap open question)."
+  - "Mrs. Zoran's status/role (knows Moravian; taught by Viridia per the bible) — present in Book Three?"
+
+decisions:
+  - "Folder-per-book genesis project at book/genesis/saeren-chronicles-book-3/ (single-branch: everything to main)."
+  - "Own PDF/production pipeline mirrored from Book Two (REVISION + tools/{assemble_manuscript,build_pdf,make_pdfx} + PDFX_def.ps + rhythm_check). Same revision policy: bump REVISION BEFORE any rebuild; keep prior builds as history."
+revision_cycles: 0
