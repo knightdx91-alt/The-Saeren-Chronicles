@@ -290,17 +290,29 @@ author to catch these.
   >   keep prior builds as history). **V1 exported = r1**: RGB review PDF + PDF/X-1a, 306pp, ~102,961w.
   > - **r2 Track A done** — Ch.1 opening re-hook (disorientation beat) + recap trim + de-dup of the
   >   'wanted to be unseen→now seen' beat (was in both Ch.1 & Ch.2; Ch.2 now the load-bearing one).
-  >   Gates clean. Logged in `feedback/book2-r2-changes.md`.
+  > - **r2 Track B+D (de-tic/de-dup) batches done** — Ch.3 (vary ch-end refrain dup of Ch.1),
+  >   Ch.4 (de-dup 'filed under the heading…' + vary 'one thing that did not fit'), Ch.5 (drop the
+  >   'There is a [X]' essay template — Ch.20 keeps it as bookend), Ch.6 (vary doubled tic), plus a
+  >   Ch.1 timeline fix ('a whole school year'→'short stretch at Hazel'; Book Two = six weeks).
+  > - **r2 PDF CUT** — bumped REVISION r1→r2, rebuilt RGB + PDF/X-1a (306pp, 103,042w); r1 kept as
+  >   history. All gates clean throughout. Logged in `feedback/book2-r2-changes.md`.
+  > - **KEY FINDING:** the book is in better shape than the r1 note implied. Ch.7 (Varissa
+  >   confrontation) & Ch.8 (broadsheet reversal) were de-ticked 2026-06-23 and ALREADY deliver the
+  >   friction/escalating-stakes the reviewer wanted; Ch.6 is a strong action beat. The
+  >   'creature-monologue' cadence (Ch.5/7) is PLOT-LOAD-BEARING and dramatized — a structural pacing
+  >   rewrite there is HIGH-RISK/low-gain and is NOT recommended.
   >
-  > **TO DO NEXT (resume point):**
-  > 1. **Decide r2 scope**, then execute: **Track B (mid-section pacing, Ch.5–13 — TOP priority)**,
-  >    Track C (side-character distinctions + exposition→subtext), Track D (global prose tightening /
-  >    'watching'-monologue variation). Track E (continuity-guardian vs Book-1 canon + timeline) LAST.
-  > 2. **CUT THE r2 PDF** once the round's tracks are done: bump `REVISION` r1→r2, then
-  >    `assemble_manuscript.py` → `build_pdf.py` → `make_pdfx.sh`; keep r1 as history; log in
-  >    `feedback/book2-r2-changes.md`. (r2 NOT cut yet — only Track A prose is in so far.)
+  > **TO DO NEXT (resume point) — remaining r2+ work is optional polish:**
+  > 1. Finish the light de-tic/de-dup sweep on the not-yet-reviewed chapters **9–16, 20** — but EXCLUDE
+  >    the protected emotional chapters (9, 11, 16, 19) and the climax (15–17): their tics are
+  >    load-bearing (worst offenders book-wide: 'banked' 64×, 'the cold/cold working part' 47×, 'the
+  >    count' 27× — see the tic-scan approach in `feedback/book2-r2-changes.md`). Thin only where NOT
+  >    load-bearing. If done, cut r3.
+  > 2. Optional: full continuity-guardian pass vs Book-1 canon + internal timeline (Track E). One
+  >    timeline slip already caught & fixed this session (Hazel = six weeks).
   > 3. Still open (author's call): structural finding **#4 — enact the Ch.18 overwhelm** (asserted-not-
-  >    enacted); larger rebirth-middle rewrite.
+  >    enacted); larger rebirth-middle rewrite. Tracks B(structural)/C(side-char) NOT recommended as
+  >    rewrites — the prose already carries them.
   > - ⚠ **Commits show 'Unverified'** (no GPG/SSH signing key in this env). Email is correct; this is an
   >   environment-config fix (provision a signing key), NOT something to fix by rewriting history.
   >
