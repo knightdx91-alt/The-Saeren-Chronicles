@@ -22,9 +22,19 @@ Everything is staged. The next step is the **architect pass** — build `foundat
   + `PDFX_def.ps` + `rhythm_check.py` + `style_check.py`. (No `REVISION` file yet — create it = `r1`
   only when the first build is cut, per the bump-before-rebuild policy.)
 
+### Resolved (author, 2026-06-24)
+- **Marick vs Fen:** Marick OPENS the portal (Bk2 Ch.20 seed); **Fen is his assistant who RUNS** at
+  the end. Two people; Fen is new to Book Three.
+- **Age on-page:** Book Three MAY state she is sixteen plainly (Book Two's no-number rule was for the
+  private 14→15 turn; verified Book Two has no Viridia age-number after the r6 fix).
+- **Roadmap reconciled against finished Books 1 & 2** → `research/roadmap-vs-books-reconciliation.md`.
+  Biggest override: her mana-SIGHT is SPENT at open and returns slowly (NOT "feels every core at all
+  times"); Alice taught Viridia Moravian (bible was reversed); Death symbol closes portals (the spine);
+  Raizen is human; void-rim abstract; source = the physical Book One cavern. Finished books win.
+
 ### Next steps (in order)
-1. **Resolve the open author decisions** (see STATE.yaml `open_author_decisions`) — especially
-   **Marick vs Fen** and the **age-on-page** convention — before drafting.
+1. **Resolve the remaining open decisions** (Mrs. Zoran's status; time-skip length for age 16;
+   Raizen's affinity; pact-and-Dangris) — ideally with the author before/at the architect pass.
 2. **Architect pass:** `foundation.md` (premise/voice-DNA carried from Books One/Two, themes, magic
    rules as they now stand post-rebirth, the void/Horror logic) + `outline.md` (~20–23 chapters across
    three acts: the unsettled new world → the Horrors / the discovery that she is the cause → balance).

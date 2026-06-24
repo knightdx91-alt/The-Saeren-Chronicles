@@ -85,12 +85,23 @@ Match the Book One / Book Two Ch.1 voice.
   death-symbol, a returning character/rule), open that book's prose and match it; run
   continuity-guardian vs BOTH earlier books before finalizing each Act-Three chapter.
 
-## Open author decisions (ask, don't invent — see STATE.yaml `open_author_decisions`)
-- **Reconcile Marick (planted in Book Two Ch.20) vs Fen (roadmap's Book Three ending)** — same person
-  or two threads? Decide before Act One + the finale.
-- **Age on-page:** roadmap says Viridia is **sixteen**; Book Two used a strict no-age-number rule —
-  decide whether to state 16 or keep the convention.
-- Raizen's elemental affinity; whether the human–beast pact applies to the Dangris; Mrs. Zoran's role.
+## Roadmap is PRE-FINAL — read the reconciliation note
+The Series Roadmap was written before Books One/Two were finished. **`research/roadmap-vs-books-reconciliation.md`
+is the override layer** — where the finished books diverge from the roadmap, the books win. Key overrides:
+Viridia's mana-SIGHT is SPENT at Book-Three open and returns slowly (not "feels every core at all times");
+Alice **taught Viridia** Moravian (bible had it reversed); Alice is **changed/recovering**; the Death symbol
+**closes portals** (the tactical spine, since Horrors come through portals); Raizen is **human**; the void-rim
+is **abstract, no entity**; the source = the **physical Book One cavern**.
+
+## Resolved author decisions (2026-06-24)
+- **Marick vs Fen — RESOLVED:** Marick OPENS the bad working/portal (Bk2 Ch.20 seed); **Fen is his
+  assistant who RUNS** at the very end (roadmap's final image). Two people, one thread; Fen is new here.
+- **Age on-page — RESOLVED:** Book Three MAY state her age (sixteen) plainly. (Book Two's no-number rule
+  was for the private 14→15 turn-beat; verified Book Two has no Viridia age-number on-page after the r6 fix.)
+
+## Still-open author decisions (ask, don't invent — see STATE.yaml)
+- Raizen's elemental affinity; pact-and-Dangris; **Mrs. Zoran's status** (survival after Hazel unconfirmed);
+  the **time-skip length** (needs ~a year, not a few months, for her to be 16).
 
 ## Status (update as you go)
 - **Scaffolded + seeded (2026-06-24).** Research staged (`research/`): Book Three roadmap section
