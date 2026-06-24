@@ -302,17 +302,24 @@ author to catch these.
   >   'creature-monologue' cadence (Ch.5/7) is PLOT-LOAD-BEARING and dramatized — a structural pacing
   >   rewrite there is HIGH-RISK/low-gain and is NOT recommended.
   >
-  > **TO DO NEXT (resume point) — remaining r2+ work is optional polish:**
-  > 1. Finish the light de-tic/de-dup sweep on the not-yet-reviewed chapters **9–16, 20** — but EXCLUDE
-  >    the protected emotional chapters (9, 11, 16, 19) and the climax (15–17): their tics are
-  >    load-bearing (worst offenders book-wide: 'banked' 64×, 'the cold/cold working part' 47×, 'the
-  >    count' 27× — see the tic-scan approach in `feedback/book2-r2-changes.md`). Thin only where NOT
-  >    load-bearing. If done, cut r3.
-  > 2. Optional: full continuity-guardian pass vs Book-1 canon + internal timeline (Track E). One
-  >    timeline slip already caught & fixed this session (Hazel = six weeks).
-  > 3. Still open (author's call): structural finding **#4 — enact the Ch.18 overwhelm** (asserted-not-
-  >    enacted); larger rebirth-middle rewrite. Tracks B(structural)/C(side-char) NOT recommended as
-  >    rewrites — the prose already carries them.
+  > **r2 ROUND COMPLETE → r3 CUT (2026-06-24, second session).** All remaining tracks done:
+  > - **Track D de-tic sweep FINISHED** across the book (Ch.10/13/14 thinned where NOT load-bearing;
+  >   Ch.12/Ch.20 left intact as deliberate count/ledger motifs; climax 15–17 + protected 9/11/16/19
+  >   untouched).
+  > - **Track E continuity pass = CLEAN** (0 errors): age (no on-page number), Pembrook/rose-tinted/
+  >   appearance, the six-weeks-Hazel timeline, the 'no one sees her cry' guardrail (only Ch.16),
+  >   Ch.18 cavern matches Book-One Ch.14, no Masters/void-woman. See `feedback/book2-r2-changes.md`.
+  > - **Finding #4 DONE** — Ch.18 rebirth overwhelm rewritten from asserted → ENACTED (flood as
+  >   dissolving-of-self; Raizen's bond the concrete anchor held hand-over-hand). All binding beats kept.
+  > - **r3 PDF cut** (REVISION r2→r3; RGB + PDF/X-1a, 306pp, 103,222w; r2 kept as history). Gates clean.
+  >
+  > **TO DO NEXT (resume point) — Book Two is in strong shape; remaining items are author's-call only:**
+  > 1. Optional: a fresh external read of r3 to confirm the climax-agency + Ch.18-overwhelm fixes land.
+  > 2. Fill print front/back matter placeholders ([ISBN]/[IMPRINT]/[Dedication]/[Acknowledgments]/bio)
+  >    before any final print run.
+  > 3. Tracks B(structural pacing)/C(side-char) were assessed NOT to need rewrites — the prose already
+  >    carries them (Ch.7/8 deliver friction + escalating stakes; creature-monologue is plot-load-bearing).
+  > 4. Book Three not started (seed from Series Roadmap + Book Two ENTITY_STATE when ready).
   > - ⚠ **Commits show 'Unverified'** (no GPG/SSH signing key in this env). Email is correct; this is an
   >   environment-config fix (provision a signing key), NOT something to fix by rewriting history.
   >
