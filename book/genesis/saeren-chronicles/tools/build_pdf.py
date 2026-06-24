@@ -188,7 +188,7 @@ def build(pad_to_even=False):
     story.append(Spacer(1, 1.8*inch))
     story.append(Paragraph("THE SAEREN CHRONICLES", title_main))
     story.append(Spacer(1, 0.30*inch))
-    story.append(Paragraph("Book One: The Hazel Years", title_sub))
+    story.append(Paragraph("Book One: Hazel Academy", title_sub))
     story.append(Spacer(1, 1.6*inch))
     story.append(Paragraph("Post Peleos", fm_center))
     end_page()
@@ -290,7 +290,7 @@ def build(pad_to_even=False):
 
     frame = Frame(M_SIDE, M_BOT, TRIM_W - 2*M_SIDE, TRIM_H - M_TOP - M_BOT, id="text")
     doc = BaseDocTemplate(OUT, pagesize=(TRIM_W, TRIM_H),
-                          title="The Saeren Chronicles - Book One: The Hazel Years",
+                          title="The Saeren Chronicles - Book One: Hazel Academy",
                           author="Post Peleos", leftMargin=M_SIDE, rightMargin=M_SIDE,
                           topMargin=M_TOP, bottomMargin=M_BOT)
     front = PageTemplate(id="front", frames=[frame], onPage=front_page)

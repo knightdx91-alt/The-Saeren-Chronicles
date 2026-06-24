@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Reassemble manuscript/full-manuscript.md from manuscript/chapters/chapter-*.md.
 
-- Title page (THE SAEREN CHRONICLES / Book One: The Hazel Years).
+- Title page (THE SAEREN CHRONICLES / Book One: Hazel Academy).
 - Each chapter rendered as:  CHAPTER <WORD>\n\n<Title>\n\n<prose>
 - Scene breaks (— runs / *** variants) normalized to "* * *".
 - Strips markdown headers (#), HTML comments, and chapter-1's legacy status block.
@@ -81,7 +81,7 @@ def parse_chapter(path, num):
 def main():
     files = sorted(glob.glob(os.path.join(CH_DIR, "chapter-*.md")),
                    key=lambda p: int(re.search(r"chapter-(\d+)", p).group(1)))
-    parts = ["THE SAEREN CHRONICLES", "", "Book One: The Hazel Years", "", ""]
+    parts = ["THE SAEREN CHRONICLES", "", "Book One: Hazel Academy", "", ""]
     for f in files:
         num = int(re.search(r"chapter-(\d+)", f).group(1))
         title, text = parse_chapter(f, num)
