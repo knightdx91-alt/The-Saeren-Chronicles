@@ -2,6 +2,16 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
+## ▶ RESUME HERE: draft Ch.2 ("The First Door That Should Not Be")
+**Ch.1 DONE (2026-06-24)** — `manuscript/chapters/chapter-1.md`, "What the World Became",
+4,974 words. Gates clean: style_check RESULT: clean (em-dash 0, simile 1.6/1k), rhythm exit 0,
+voice matched to Books One/Two, canon held (she's 16 stated plainly; sight returning not whole;
+source = the new source-sense). Source-sense introduced; END HOOK = a drained death + a tear in
+the rim her returning sight catches. ALLOWLIST seeded with Book-Three motifs. Committed to `main`.
+**NEXT: Ch.2** (reach the wrongness; first Horror through an unstable portal; sight reads it as a
+*tear* not a made door; END HOOK other tears opening). Sequential; same hard gate contract.
+
+--- (history) ---
 ## ▶ RESUME HERE: edit the style ALLOWLIST, then draft Ch.1
 **Architect pass DONE + all major decisions LOCKED (2026-06-24).** `foundation.md` + `outline.md`
 (22 chapters, 3 acts: Unsettled World 1–7 / The Pull 8–15 / Balance 16–22). Resolution = BALANCE not
