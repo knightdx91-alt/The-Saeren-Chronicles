@@ -1,3 +1,6 @@
+> **SUPERSEDED by `revision-plan-round9.md`** (r8 was consumed by the title
+> refresh; the prose polish now builds to r9). Kept for history.
+
 # Revision Plan — Round 8 (Hazel Academy): r7 beta polish
 
 Source: external chapter-by-chapter beta read of the r7 manuscript (2026-06-24).
