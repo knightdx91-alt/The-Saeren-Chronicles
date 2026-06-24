@@ -152,3 +152,24 @@ line-edits available on request for any specific chapters.
 
 ## r4 PDF cut 2026-06-24
 Bumped REVISION r3→r4; rebuilt RGB + PDF/X-1a. r3 kept as history.
+
+# === r5 round (responding to the r4 review, 2026-06-24) ===
+The r4 review is strongly positive ("mostly refinement now"). Acted on the concrete asks:
+- **Opening-scene sentence splits (explicit ask):** Ch.2 — split two long descriptive run-ons
+  for sharper rhythm (the bond-waking sentence → "She did not move."; the rim-of-camp sentence
+  → "she stopped and waited. The observer in her…"). Adds short-sentence contrast in the
+  re-establishing scene.
+- **Continuity with Book One (priority 4):** re-verified — Alice's description, the calm-hands
+  callback (Brun's Hazel memory), the war-clock, the spears, and the burned-school/rescued-children
+  bridge all consistent with Book One. Clean.
+- **Side-character sharpness:** recurring figures already carry distinct tics (Mella's locket,
+  Brutus's winters, Amber's nails/finger-ticking, Abe's shaking spent hands, the silver-bun woman's
+  cold arithmetic) — no manufactured changes.
+- **Mid-book 2-4% trim — FLAGGED AS AUTHOR DECISION, not done.** The review frames it conditionally
+  ("if aiming for brisk commercial pacing"). This book's positioning is the literary/quiet voice AS
+  the feature (see `feedback/revision-plan-round6.md` lineage / delivery notes). Trimming texture for
+  commercial briskness trades against that identity, so it needs an explicit author call before cutting
+  genuinely-good prose. Awaiting decision.
+
+## r5 PDF cut 2026-06-24
+Bumped REVISION r4→r5; rebuilt RGB + PDF/X-1a. r4 kept as history.
