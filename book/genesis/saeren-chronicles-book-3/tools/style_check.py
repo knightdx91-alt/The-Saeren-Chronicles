@@ -37,7 +37,15 @@ WORD = re.compile(r"[a-z']+", re.I)
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
-    # Add THIS book's deliberate recurring motifs / canon terms here.
+    # Book Three deliberate recurring motifs / canon terms.
+    "the weight of the source",
+    "every birth and every death",
+    "a place where a core should be",
+    "both halves of the gift",
+    "absence drawn to presence",
+    "the cold working part",
+    "she filed it",
+    "the rest of both your lives",
 ]
 
 # n-gram repetition settings
