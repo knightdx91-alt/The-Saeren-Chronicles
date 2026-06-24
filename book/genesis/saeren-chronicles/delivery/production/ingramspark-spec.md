@@ -1,8 +1,8 @@
 # IngramSpark Print-Production Spec — The Saeren Chronicles, Book One: Hazel Academy
 
 **Author/Imprint:** Post Peleos (imprint line placeholder `[IMPRINT]`)
-**Build:** r7 (~93,677 words)
-**Interior file:** `delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r7.pdf`
+**Build:** r13 (93,728 words)
+**Interior file:** `delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r13-PDFX1a.pdf`
 **Built by:** `tools/build_pdf.py` (reportlab) → regenerate after any manuscript change.
 
 ---
@@ -10,7 +10,7 @@
 ## 1. Trim & page count
 
 - **Trim size:** 6" × 9" (US trade paperback; standard for YA/epic fantasy).
-- **FINAL PAGE COUNT: 293 pages** (physical pages, including front + back matter).
+- **FINAL PAGE COUNT: 294 pages (even; build pads automatically)** (physical pages, including front + back matter).
   - Front matter (6 pp, unnumbered): half-title, blank, title, copyright,
     dedication, blank.
   - Body: Chapter One begins on a recto (physical p7), page number "1".
@@ -113,7 +113,7 @@ gs -dPDFX -dBATCH -dNOPAUSE -dNOOUTERSAVE \
    -sColorConversionStrategy=CMYK \
    -sOutputICCProfile=USWebCoatedSWOP.icc \
    -sOutputFile=Saeren-interior-X1a.pdf \
-   PDFX_def.ps Saeren-Chronicles-Book-One-6x9-interior-r7.pdf
+   PDFX_def.ps Saeren-Chronicles-Book-One-6x9-interior-r13-PDFX1a.pdf
 ```
 
 Because all text is already K-only black, this conversion should keep text as

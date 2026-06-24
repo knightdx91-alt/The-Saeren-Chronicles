@@ -18,8 +18,8 @@ the one friend who ever saw her.
 
 Fourteen-year-old Viridia Saeren is the only person alive born with both halves of
 a magic her world deliberately tore in two, and she has just learned that the
-prestigious school meant to nurture her gift was built to bury it. *The Hazel
-Years* is a quiet, interior, grief-driven fantasy about a girl who only wants to
+prestigious school meant to nurture her gift was built to bury it. *Hazel
+Academy* is a quiet, interior, grief-driven fantasy about a girl who only wants to
 disappear — and the slow, costly discovery that being seen by the right people is
 worth more than being safe from everyone. It is a school story on the surface and,
 underneath, a story about grief, identity, and what it takes to refuse to be made
