@@ -1,0 +1,93 @@
+project:
+  title: "Rosalia"
+  genre: "Fantasy"
+  subgenre: "Epic / political fantasy with romance (dual-POV)"
+  language: "English"
+  word_count_target: 150000   # ~500+ printed pages at ~250-300 words/page
+  comp_titles: []
+  engagement_type: {primary: "empathy (50%)", secondary: "fascination (35%)", tertiary: "intellectual (15%)"}
+  premise: "In a world where vampires, shifters, and humans are bound by an uneasy treaty, the Queen's secret natural-born daughter and the chief's son who shifts into a long-extinct dragon are thrown together by a grief-driven schemer who exposes her at a banquet — tipping two peoples back into a war neither outsider has a place in."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# GENESIS-FROM-IDEA run — build a new book from the author's story bible.
+adaptation:
+  mode: "genesis-from-bible"
+  canon_sources:
+    story_bible: "research/story-bible.md"   # author canon (Google Drive "Rosalia"); wins over pipeline
+  chapter_1_locked: false
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
+
+word_floor:
+  manuscript_min_words: 140000   # ~500 printed pages hard floor
+  manuscript_target_words: 150000
+  per_chapter_min_words: 5000
+
+phase:
+  current: 1
+  status: "architecture complete (SCOPE EXPANDED to ~150k / 29 ch) — ready for chapter loop"
+  history:
+    - "2026-06-21: architect built foundation.md + outline.md + voice-dna.md (20-ch dual-parallel-POV plan)."
+    - "2026-06-21: SCOPE RAISED to ~150k (target 150k / floor 140k, ~500+ pp). Outline expanded 20 -> 29 ch at ~5,100-5,400 each (projected ~151k). Depth not padding: more journey-home stages (4,10,12,16,21), deeper court/Maren thread (2,18,20), stepped war escalation (12,18,20,27-28), situational dragon-memory reveals (12,15,16,21,22), earned convergence with yearning + open-door payoff (25,26), two-beat climax (27-28). Canon beat order, dual-parallel POV, and all resolved decisions preserved. TPs: Ch.7 / Ch.15 / Ch.22-24 / climax Ch.27-28."
+
+chapters:
+  total_planned: 29
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST. Log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Build to the story bible; honor the inciting-incident beat order and thematic principles. Do NOT contradict author canon below."
+  # --- Settled author canon (from the bible — never violate) ---
+  - "Spelling is 'magyk' (not magic) when naming the in-world power."
+  - "Vampires descend from Atlanteans (a failed disease-cure experiment). Vampire society runs a feudal 'protection' pact over humans; ruled by a Queen with blood magyk."
+  - "Shifters: human until the first full moon AFTER their 16th birthday; first shift assigns them to the clan of their animal; ancestral memory trickles in situationally, never as one info dump. Ruled by a single chief over all clans."
+  - "The Treaty: no NEW vampires may be made (vampires had encroached on shifter lands). It is silent on natural-born vampires because none were thought possible."
+  - "Amelia = Queen's daughter, first natural-born vampire in millennia, inherited blood magyk (which should not be heritable); hidden her whole life; want = to exist openly. No PROOF exists that she is born vs made."
+  - "Korvan = chief's son; UNSHIFTED at the banquet; first shift happens on the journey home (calendar coincidence, NOT magically triggered) and he becomes a DRAGON — a clan of one, no elders/traditions."
+  - "Loric = antagonist, shifter whose father the Queen killed in the last war; motive is emotional (wants the Queen to SUFFER), not strategic; cannot be bought/negotiated; exposes Amelia publicly so the chief loses either way."
+  - "Inciting incident is public exposure at the banquet -> chief forced to declare war -> Korvan goes home under public suspicion."
+  - "ROMANCE: strong B-plot, slow burn; heat = open-door/MODERATE (sensual, not graphic). Built on 'parallel outsiders' recognition, not insta-love."
+
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "SCOPE: single large novel of ~150,000 words (target 150k, floor 140k) to land ~500+ printed pages. Architect proposes the climax/endpoint within a complete arc."
+  - "AMELIA THREAD: true parallel-POV timeline — cut between Korvan's journey home and Amelia's situation at court throughout."
+  - "LORE: dragon ancestral memory does NOT connect to Atlantis/vampires. Korvan & Amelia's bond is 'parallel outsiders', not shared bloodline."
+  - "QUEEN/LORIC: the Queen does NOT remember killing Loric's father — one wartime kill among many. His vendetta is beneath her notice (tragic irony)."
+
+# --- RESOLVED round 2 by author 2026-06-21 ---
+resolved_author_decisions_r2:
+  - "KORVAN FAMILY: only child; mother DEAD (no siblings). Maximum isolation; no 'normal shifter' sibling."
+  - "CHIEF KNOWS: yes, privately — the bond was genuine; he allows the propaganda anyway (tragic, not oblivious)."
+  - "THE SECRET: Korvan carries the garden meeting ENTIRELY ALONE — no confidant. Reader is the only one who knows. (Overrides architect's 'confide to Selwyn' proposal.)"
+  - "MAREN: CONFIRMED — add as Amelia's keeper/handmaid, the one human the Queen won't feed on (court-thread relationship + human stake)."
+  - "ENDPOINT: accepted as architect proposed — Loric outlasted/contained at heavy cost (not negotiated); reader-only reveal the Queen never knew his name; bittersweet partial peace, sequel-optional."
+  - "STYLE MOTIFS: accepted — add to ALLOWLIST: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'."
+  - "ROMANCE WEIGHT: strong B-plot. Politics/war is the spine; the Amelia/Korvan romance is a powerful, ever-present secondary thread (slow burn, 'parallel outsiders deeper than romance')."
+  - "ROMANCE HEAT: open-door, MODERATE. On-page intimacy written sensually but not graphically; no explicit/graphic content. Tension and yearning carry most of the arc; the open-door beat(s) land where the two reconverge (Ch.18+)."
+
+# --- Architect PROPOSALS (2026-06-21) — flagged, NOT locked; confirm with author ---
+architect_proposals:
+  - "Korvan's mother: DECEASED years ago (a clan-death the chief 'survived to fight later' — seeds his pragmatism creed). One YOUNGER sibling who shifts normally/on-time, sharpening Korvan's outsider ache."
+  - "Chief knows the bond was genuine: YES, privately — and still lets Korvan be made into propaganda because protecting the truth would cost more than he can pay (makes the chief tragic, not oblivious; sharpens the father-son dilemma in Ch.10/16)."
+  - "Korvan confides the garden meeting: ONLY to Selwyn, late and partial (Ch.14) — gives the secret a witness + a betrayal risk, and a cause for the Ch.10 snap."
+  - "ENDPOINT: single complete arc; Loric is OUTLASTED/contained at unrecoverable cost, NOT defeated by argument (canon: he can't be negotiated). Reveal-to-reader-only: the Queen never knew his name. Amelia chooses to be seen on her terms; Korvan authors the dragon as his own place. Bittersweet partial peace; sequel-optional. (Ch.19-20)"
+  - "Maren: NEW supporting character (Amelia's keeper/handmaid, the human the Queen won't feed on) invented to give Amelia's court thread a relationship + human stake. Confirm or cut."
+  - "Style gate: ADD these deliberate motifs to tools/style_check.py ALLOWLIST before the chapter loop: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'/'later' (Chief's creed)."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/rosalia/."
+  - "Dual-POV (Amelia + Korvan) per the bible's 'dual protagonists' and 'parallel outsiders' theme."
+revision_cycles: 0
