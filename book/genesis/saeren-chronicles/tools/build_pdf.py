@@ -213,11 +213,11 @@ def build(pad_to_even=False, head_map=None):
         "retrieval systems, without written permission from the author, except "
         "for the use of brief quotations in a book review.",
         "",
-        "ISBN [ISBN]",
+        "ISBN 979-8-2409-9043-4",
         "",
         "First Edition",
         "",
-        "[IMPRINT]",
+        "Post Peleos",
     ]
     story.append(Spacer(1, 3.0*inch))
     for line in cp:
@@ -226,8 +226,9 @@ def build(pad_to_even=False, head_map=None):
 
     # --- recto: dedication ---
     story.append(Spacer(1, 3.6*inch))
-    story.append(Paragraph("[Dedication]", ParagraphStyle(
-        "ded", parent=fm_center, fontName="PlexSerif-It")))
+    story.append(Paragraph(
+        "For my daughter Raelynn —<br/>may she have all the happiness she deserves.",
+        ParagraphStyle("ded", parent=fm_center, fontName="PlexSerif-It")))
     end_page()
     blank_verso_if_needed()  # blank verso so Chapter One starts on a recto
 
@@ -255,14 +256,15 @@ def build(pad_to_even=False, head_map=None):
     # --- Back matter (still numbered; runs on the body template) ---
     story.append(Paragraph("About the Author", fm_head))
     story.append(Paragraph(
-        "Post Peleos is a writer of fantasy. <i>The Saeren Chronicles</i> is "
-        "their debut novel.", fm_body))
-    story.append(Spacer(1, 0.2*inch))
-    story.append(Paragraph("[EXPANDED BIO OPTIONAL]", fm_small))
+        "Post Peleos writes character-driven fantasy about quiet people in loud "
+        "worlds — stories that love to tease as much as they wound, and never "
+        "quite stop wondering what waits out beyond the stars. <i>The Saeren "
+        "Chronicles</i> is their debut series.", fm_body))
     story.append(PageBreak())
 
     story.append(Paragraph("Acknowledgments", fm_head))
-    story.append(Paragraph("[Acknowledgments]", fm_body))
+    story.append(Paragraph(
+        "To my parents, for always believing in me.", fm_body))
     story.append(PageBreak())
 
     # --- Book Two teaser (real excerpt + series note) ---
