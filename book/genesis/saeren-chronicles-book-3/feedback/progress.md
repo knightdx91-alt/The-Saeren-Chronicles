@@ -2,13 +2,20 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: author-confirm the open items, then draft Ch.1
-**Architect pass DONE** — `foundation.md` + `outline.md` (22 chapters, 3 acts: Unsettled World 1–7 /
-The Pull 8–15 / Balance 16–22). Resolution = BALANCE not victory; the gut-punch (Horrors pulled
-toward the source = she made them) lands Ch.10; the binding final image (Fen runs / Viridia feels the
-void) closes Ch.22. Before drafting Ch.1, get author sign-off on the §6 open items in `foundation.md`
-(time-skip ≈1 year; Mrs. Zoran in/out; Bella-thread attempt or hold; pact/Dangris; chapter count 22),
-then edit `tools/style_check.py` ALLOWLIST with Book-Three motifs.
+## ▶ RESUME HERE: edit the style ALLOWLIST, then draft Ch.1
+**Architect pass DONE + all major decisions LOCKED (2026-06-24).** `foundation.md` + `outline.md`
+(22 chapters, 3 acts: Unsettled World 1–7 / The Pull 8–15 / Balance 16–22). Resolution = BALANCE not
+victory; gut-punch (Horrors pulled toward the source = she made them) Ch.10; final image (Fen runs /
+Viridia feels the void) Ch.22.
+
+**Locked:** ~1-yr time-skip (she's 16); Mrs. Zoran returns (escaped Hazel; teaches the newly-whole;
+counterweight to Marick); Viridia attempts the Bella-thread at a cost (~Ch.13); pact/Dangris resolved
+lightly in the finale; Raizen all-elements; **22 chapters**.
+
+**NEXT:** (1) add Book-Three deliberate motifs to `tools/style_check.py` ALLOWLIST; (2) draft **Ch.1**
+under the hard gate contract (≥4,600w; style_check --max-emdash 4 → clean; rhythm no flat triplets;
+voice-matched to Bks 1/2; canon held vs the reconciliation note). Sequential thereafter. Cut PDFs
+(create REVISION=r1) once chapters exist.
 
 ### Done
 - Folder scaffolded in its own project: `book/genesis/saeren-chronicles-book-3/`.

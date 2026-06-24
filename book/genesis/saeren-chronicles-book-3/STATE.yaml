@@ -86,11 +86,17 @@ resolved_decisions:   # author rulings 2026-06-24
   - "MARICK vs FEN — RESOLVED: **Marick is the one who OPENS the portal** (the forty-year candle handed the whole dark half in the rebirth; picks up the chalk — Book Two Ch.20 seed). **Fen is his ASSISTANT, who RUNS** at the very end (the roadmap's final-image character). Two distinct people, one thread: Marick opens it / Fen survives + runs. Fen is NEW to Book Three; introduce him as Marick's assistant in the lab."
   - "AGE on-page — RESOLVED: Book Three MAY state Viridia's age (she is sixteen) normally. The Book-Two no-age-number rule was a device for the private 14→15 turn-beat during the war; Book Three has no such turn, so plain reference is fine and consistent (Book One stated 'Fourteen' plainly). Verified: Book Two has NO Viridia age-number on-page (the Ch.4 'fourteen-year-old' was fixed in r6; 'Fifteen feet' = distance, 'sixteen' in Ch.3 = Jan). NOTE TIMELINE below."
 
-open_author_decisions:
-  - "Raizen's elemental affinity (still open from Book One)."
-  - "The pact + the Dangris: does the ancient human–beast pact apply to the Dangris after the rebirth? (roadmap open question)."
-  - "Mrs. Zoran's status/role — present in Book Three? (See reconciliation note: the bible says she knows Moravian 'taught by Viridia,' but her survival/whereabouts after Hazel burned are unconfirmed in Books One/Two.)"
-  - "TIMELINE/age: roadmap says 'months since the rebirth' AND that she is sixteen. Book Two ended with her ~15 (turned 15 in Ch.12). For 16, the Book-Three time-skip likely needs to run closer to ~a year, not a few months — confirm the skip length when the architect sets Act One."
+  - "TIME-SKIP ≈ 1 YEAR (CONFIRMED 2026-06-24) — and it's a feature; she is 16. Sight has been returning across the year."
+  - "MRS. ZORAN RETURNS (2026-06-24) — Bk1 Hazel growth-magic teacher Viridia taught Moravian; escaped the attack; spent the year teaching newly-whole mages to handle the dark half + preserving Moravian = responsible counterweight to Marick."
+  - "BELLA'S-NAME THREAD: Viridia ATTEMPTS to follow it (2026-06-24), at a cost (~Ch.13 personal climax)."
+  - "PACT + DANGRIS: resolved on-page lightly (2026-06-24), folded into the balance finale."
+  - "RAIZEN AFFINITY: all elements/prismatic (Bk2 ruling), unusual range in human form."
+  - "CHAPTER COUNT: 22 (2026-06-24) — completes 18→20→22."
+
+open_author_decisions:   # remaining, minor — decide in-flight
+  - "Exact Mrs. Zoran escape beat (how she got out of Hazel)."
+  - "Precise cost of the Bella-thread attempt (~Ch.13)."
+  - "Whether Lor-ar returns for the balance finale."
 
 decisions:
   - "Folder-per-book genesis project at book/genesis/saeren-chronicles-book-3/ (single-branch: everything to main)."

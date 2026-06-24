@@ -15,15 +15,23 @@
 - **Age:** Book Three MAY state Viridia is **sixteen** plainly (the Book-Two no-number rule was
   for the private 14→15 turn-beat only).
 
-**Architect proposals (author to confirm — see §6):**
-- **Time-skip ≈ one year** since the rebirth (so she is genuinely 16; "months" in the roadmap is
-  loosened to ~a year). The sight has been returning across that year — present but not yet whole.
-- **Mrs. Zoran:** propose she SURVIVED Hazel and is a minor ally (knows Moravian) — but only if the
-  author wants her; otherwise cut. Not load-bearing.
-- **Raizen's affinity:** carry the Bk2 ruling — **all elements (prismatic)**; in human form it reads
-  as unusual range, not a single element.
-- **Pact + Dangris:** propose the pact's post-rebirth reach becomes a live Act-Two question (the
-  Dangris answer matters to the finale's "balance"), resolved on-page.
+**Also resolved (author, 2026-06-24):**
+- **Time-skip ≈ one year** since the rebirth (CONFIRMED — and it's a feature: the world needs elapsed
+  time to turn strange; she is genuinely 16). The sight has been returning across the year — present
+  but not yet whole at open.
+- **Mrs. Zoran RETURNS.** Canon-grounded (Bk1: Hazel growth-magic teacher; Viridia DID teach her
+  Moravian; she "risked herself to read a dark mage's inscription aloud" — brave, dark-sympathetic).
+  Book-Three role: she **escaped Hazel's attack** (Moravian + growth magic = the means) and spent the
+  skip-year **teaching newly-whole mages to handle their dark half safely + preserving Moravian** — the
+  responsible counterweight to **Marick** (the reckless self-taught whole-mage who tears the veil). Ties
+  her straight into the "everyone is whole but untrained" engine. (Exact escape beat: confirmable, usable.)
+- **Bella's-name thread:** Viridia **DOES attempt to follow it** in Book Three, at a cost (Act-Two
+  personal climax, ~Ch.13). It is the personal temptation that mirrors the political one (reach for the
+  thing you want / reach for control).
+- **Pact + Dangris:** RESOLVED ON-PAGE, lightly — the pact's post-rebirth reach (and whether the Dangris
+  answer it) folds into the finale's "balance" (humans + beasts + source/void as one whole). Not a blocker.
+- **Raizen's affinity:** carry the Bk2 ruling — **all elements (prismatic)**; in human form, unusual range.
+- **Chapter count: 22** (completes the 18→20→22 progression; ~4,800/ch → ~105k, inside 95–110k).
 
 ## 1. PREMISE (structural)
 
@@ -117,10 +125,12 @@ of the True-Bond are the load-bearing warmth between the cosmic-dread beats.
   **leaderless capital / the chaotic new political order** (to be cast in the architect detail).
 - **Do NOT** reintroduce: Jazen, Erik Meros, Lady Lightwell (all dead). No Johnathan Masters / void woman.
 
-## 6. OPEN ITEMS FOR AUTHOR (before/at drafting)
-1. Confirm the **~1-year time-skip** (vs roadmap "months") so age 16 holds.
-2. **Mrs. Zoran** in or out.
-3. **Bella's-name thread** — does Viridia attempt to follow it in Book Three (and at what cost), or is
-   it held for beyond? (Affects the personal climax.)
-4. **The pact + the Dangris** — resolve on-page in Act Two/Three? (Affects how "balance" is achieved.)
-5. Chapter count (proposing **22**; ~4,800/ch → ~105k, inside the 95–110k target).
+## 6. OPEN ITEMS — ALL RESOLVED (author, 2026-06-24)
+1. ~~Time-skip~~ → **~1 year, confirmed** (she is 16).
+2. ~~Mrs. Zoran~~ → **returns** (escaped Hazel; teaching the newly-whole; counterweight to Marick).
+3. ~~Bella's-name thread~~ → **she attempts to follow it**, at a cost (~Ch.13).
+4. ~~Pact + Dangris~~ → **resolved on-page, lightly**, folded into the balance finale.
+5. ~~Chapter count~~ → **22** (completes 18→20→22).
+
+Remaining truly-open (minor, decide in-flight): the exact Mrs. Zoran escape beat; the precise cost of
+the Bella-thread attempt; whether Lor-ar returns for the balance.
