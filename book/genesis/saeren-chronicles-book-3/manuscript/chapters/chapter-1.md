@@ -86,7 +86,7 @@ And it was. She still believed it was. She watched the miller's wife hold a stil
 
 But Amber's question came up in her anyway, the way it always did now, the question Amber had asked her once at a cold fire and asked her again, sharper, the first month in the valley, the question that had grown teeth across the year. *You couldn't ask them, so you decided for them. That was the whole crime of the people who cut the world, that they decided for everyone. I'm not saying you were wrong. I'm asking how you tell the difference, from the inside, between you and them. Because from where I sit you can't, and that's the thing that should scare you, and I notice it doesn't.*
 
-It did scare her. She had never told Amber it scared her. She filed it, the way she filed everything, and kept watching Alice's bowl, and did not let the mill yard see her thinking it.
+It did scare her. She had never told Amber it scared her. She watched the miller's wife hold a stillness over a bowl and not flinch from it, and let the answer go unmade for one more day, and did not let the mill yard see her leave it unmade.
 
 * * *
 
@@ -104,7 +104,7 @@ Amber found her at midday, because Amber always found her, and dropped onto the 
 
 Viridia handed her the bowl. It was easier, she had found, than inventing a reason not to.
 
-They sat on the warm wall in the noon light, and below them Wend did the thousand small things a place does to stay alive, the mill turning, the smoke going up, the children at the older rounder letters that were no longer dead, the grown people learning their own dark hands over bowls of water, and under all of it the orchard hummed and the stream ran and the great soft arithmetic of the living world breathed its slow breath under Viridia's skin, born and gone, born and gone, the tide with no faces, and for a little while in the sun she let it be only a tide, and was almost at peace, and that was when it happened.
+They sat on the warm wall in the noon light, and below them Wend did the thousand small things a place does to stay alive, the mill turning, the smoke going up, the children at the older rounder letters that were no longer dead, the grown people learning their own dark hands over bowls of water, and under all of it the orchard hummed and the stream ran and the living world breathed its slow breath under Viridia's skin, born and gone, born and gone, and for a little while in the sun she let it be only weather, the kind you live inside and do not watch, and was almost at peace, and that was when it happened.
 
 * * *
 

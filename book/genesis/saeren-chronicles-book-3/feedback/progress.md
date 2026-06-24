@@ -3,11 +3,20 @@
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
 ## ▶ RESUME HERE: draft Ch.2 ("The First Door That Should Not Be")
-**Ch.1 DONE (2026-06-24)** — `manuscript/chapters/chapter-1.md`, "What the World Became",
-4,974 words. Gates clean: style_check RESULT: clean (em-dash 0, simile 1.6/1k), rhythm exit 0,
-voice matched to Books One/Two, canon held (she's 16 stated plainly; sight returning not whole;
-source = the new source-sense). Source-sense introduced; END HOOK = a drained death + a tear in
-the rim her returning sight catches. ALLOWLIST seeded with Book-Three motifs. Committed to `main`.
+**Ch.1 DONE + AGENT-REVIEWED (2026-06-24)** — `manuscript/chapters/chapter-1.md`, "What the World
+Became", 4,986 words. ALL FOUR GATES MET:
+- style_check RESULT: clean (em-dash 0, simile 1.6/1k); rhythm_check exit 0.
+- **book-evaluator: Genesis Floor 8.5 / avg 8.93 → PASS** (lowest dim = Pacing 8.5; report at
+  `evaluations/chapter-1-eval.md`). Applied its 3 risk-free pacing tweaks (trim twin tide/arithmetic
+  echo; vary the two "filing a thought" scene-closes; politics-clock surfaced). No plot/canon change.
+- **continuity-guardian vs Books One & Two: CLEAN** — 0 critical / 0 warning / 3 minor non-blocking
+  (`evaluations/chapter-1-continuity.md`). Forward note: when a later ch portals to the source, match
+  the Bk1 Ch.14 / Bk2 Ch.18 pedestal/pool prose before finalizing.
+NOTE on pipeline: the named book-* subagents could not be installed (BSS repo blocked by this env's
+network policy / 403). Used the documented fallback — general-purpose agents carrying each role's
+rubric. The book-writer/dialogue-polish/hook-craft/disruptor roles were done inline; evaluator +
+continuity-guardian run as agents. Source-sense introduced; END HOOK = drained death + a tear in the
+rim her returning sight catches. ALLOWLIST seeded with Book-Three motifs. Committed to `main`.
 **NEXT: Ch.2** (reach the wrongness; first Horror through an unstable portal; sight reads it as a
 *tear* not a made door; END HOOK other tears opening). Sequential; same hard gate contract.
 

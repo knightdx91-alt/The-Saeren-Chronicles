@@ -47,15 +47,15 @@ phase:
 
 chapters:
   total_planned: 22              # 3 acts: Unsettled World (1–7) / The Pull (8–15) / Balance (16–22)
-  completed: [1]                 # Ch.1 "What the World Became" — 4,974w, gates clean, on main
-  scores: {}
+  completed: [1]                 # Ch.1 "What the World Became" — 4,986w, gates clean, on main
+  scores: {1: {floor: 8.5, average: 8.93, verdict: PASS, continuity: "0 critical/0 warning/3 minor"}}
 
 genesis_score:
-  current_floor: 0.0
-  current_average: 0.0
+  current_floor: 8.5
+  current_average: 8.93
 
 quality_gate:
-  chapters_passed: []
+  chapters_passed: [1]
   chapters_escalated: []
 
 guardrails:
