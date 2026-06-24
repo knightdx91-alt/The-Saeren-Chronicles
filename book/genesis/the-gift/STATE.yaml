@@ -1,0 +1,130 @@
+project:
+  title: "The Gift"
+  genre: "Science fiction thriller"
+  subgenre: "Near-future biopunk / superhuman-origin thriller with romance (multi-POV)"
+  language: "English"
+  word_count_target: 100000
+  comp_titles: []
+  engagement_type: {primary: "fascination (45%)", secondary: "empathy (35%)", tertiary: "intellectual (20%)"}
+  premise: "A genetics prodigy who cracks the 'mutant gene' and gives himself and his two closest people superhuman powers builds a biotech empire whose real, hidden purpose is to seed humanity on another world — at any cost — until a grieving government investigator and the price of their own ambition close in."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# Hybrid run: author supplied a finished Chapter 1 (AO3) + detailed continuation notes.
+# Architect builds foundation + outline + voice-dna FROM those; Ch.1 prose is the voice benchmark.
+adaptation:
+  mode: "genesis-from-opening+notes"
+  canon_sources:
+    original_draft: "research/original-draft.txt"               # AO3 Ch.1 = voice benchmark + seed canon
+    continuation_notes: "research/author-continuation-notes.md" # author's plan for Ch.2 onward (canon intent)
+  chapter_1_locked: false   # Ch.1 is the VOICE BENCHMARK; may be polished, preserve its voice
+  chapters_to_produce: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]  # Ch.1 exists (polish only)
+
+word_floor:
+  manuscript_min_words: 95000
+  manuscript_target_words: 100000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 1
+  status: "architecture complete — ready for chapter loop"
+  history: ["scaffolded", "architecture complete (foundation+outline+voice-dna) 2026-06-21", "RECONCILED to author's binding corrections 2026-06-21: (1) TRIO UNITY — rewrote Raven & Knight as committed co-architects, deleted all doubter/betrayal/sabotage/schism/lovers-split framing across foundation+outline+voice-dna (Ch.4,10,14,17,19,20,21 reworked; Raven/Knight character blocks + voice cards rewritten); (2) LAUNCH ENDPOINT — rebuilt Ch.19-21 so the children+settlers go THROUGH and all three MCs STAY Earth-side together, cliffhanger = unified trio facing Vance's raid having sent the kids on, colony unseen (Book Two); (3) rejected Raven 'final act' options A/B/C/D. Added company-name shortlist to architect_proposals."]
+
+chapters:
+  total_planned: 21
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share, the emotional-arc slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Build to research/author-continuation-notes.md (author intent wins); preserve the Ch.1 VOICE benchmark; do not contradict the seed prose."
+  # --- IP guardrail (critical) ---
+  - "ORIGINAL IP ONLY. X-Men is Troy's in-world FANDOM/inspiration only. The actual story's powers, characters, teams, and terminology must be ORIGINAL — NO Marvel names/trademarks (no 'Kitty Pryde', 'mutant gene' as Marvel term is fine as in-world placeholder X-17 m25, no X-Men team names) in the story world. Powers may be archetypes (phasing, bio-electricity) described originally."
+  # --- Settled author canon ---
+  - "MCs (three): TROY — genetics prodigy, 17 at start, 6'11\", pale blond, X-Men-obsessed; cracks the 'mutant gene' (X-17 m25) via CRISPR and experiments on himself first. RAVEN — Troy's girlfriend; power = phasing (walk through walls/solid matter). KNIGHT — Raven's brother; serum turns his blood to bio-electricity, eyes glow electric blue."
+  - "TROY'S FAMILY: Mom = guardian ad litem; Dad = motorcycle-riding mechanic with his own shop; Sister = brilliant, courted by big tech (Intel-like) + possible future govt contracts. Recurring family dinners at the diner."
+  - "ORIGIN: run-down warehouse by the water. Troy serums Raven then Knight (both unconscious during transformation). Raven wakes first, reaches to comfort Knight, he shocks her, she phases through the wall. Ends on a group photo: 'this is the start of the rest of our lives.'"
+  - "TIME JUMP: the three run a biotech company. Public face = gene editing / designer babies / removing genetic disease. HIDDEN purpose = fund seeding human life on another (Goldilocks-zone) planet; settlers must be modified to survive. Public slogan 'A New World'; full hidden slogan 'A New World At Any Cost.'"
+  - "ASSISTANTS: each MC hires a personal assistant; at a joint conference they reveal the real purpose and offer a CHOICE — take the serum (not knowing its effect) or leave. Those who accept go to sub-level 3, separate rooms, to await unknown transformations."
+  - "THE CHILDREN (dark engine): MCs buy orphanages, selecting kids of resilient ages as the BASE for the work — trained, eventually serumed, meant to be the planet's settlers. A wilderness training 'camp' (can be deadly)."
+  - "ANTAGONIST CLOCK: a govt task force investigates unethical genetic experiments. Its lead was told to leave the company alone, but his DAUGHTER died from ANOTHER company's experiments; he holds the MCs guilty by association and goes after Troy. Race against the clock."
+  - "ENDGAME TECH: a one-way teleporter / portable wormhole. MIT researchers Troy once helped were lured (with others) to the company to build it."
+  - "FRAMING: the three MCs are SYMPATHETIC ANTIHEROES (we root for them despite the darkness). MULTI-POV (Troy + Raven/Knight and/or the investigator). SERIES — Book One ~100k, ending on the launch/escape (the new planet itself is later books). Romance (Troy/Raven) is a STRONG thread; heat = OPEN DOOR, MODERATE."
+
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "TRIO UNITY (CRITICAL): Troy, Raven, and Knight are ALL IN THIS TOGETHER — a unified team committed to the plan. NO betrayal subplot, NO lovers-split, NO Raven-opposes-the-mission arc. Reject architect's Raven 'final act' options A/B/C/D entirely. Their conflicts are about HOW/cost, never whether — and they stay loyal to each other. Raven & Knight are co-architects of 'any cost', not reluctant brakes."
+  - "LAUNCH ENDPOINT: at the Book One launch, the CHILDREN + chosen settlers go THROUGH the one-way wormhole; Troy, Raven, AND Knight ALL STAY behind (Earth-side) together. The new planet/colony is NOT shown (Book Two). The cliffhanger is the trio together facing the aftermath/raid, having sent the kids on — not a split between them."
+  - "POV: keep first-person PRESENT-tense for TROY (Ch.1 benchmark voice; narrates horror in the same delighted voice as wonder); close-third past for Raven/Knight/Vance with labeled POV headers."
+  - "ACCEPTED defaults: investigator Marcus Vance (daughter Ellie, 9; reaches one degree from Troy by Ch.16, raids at launch, survives knowing, Troy/Vance face-off saved for Book Two); 'children lines not to cross' as architect specified; one fatal sub-level-3 transformation (Ch.11) to indict the 'honest' choice; names (Devon Marsh, Priya Sahota who LEAVES, Theo 'Bull' Bullard; kids Ezra/Wren/Sol; sister Dr. Cora Woods); Boston/Cambridge + remote wilderness camp."
+
+open_author_decisions:
+  - "Company name (architect to propose a shortlist)."
+  - "Mom & Dad first names; exact city for the camp (PNW vs northern New England)."
+  - "Flavor of the 'hands-off' order on Vance (banal/economic vs quiet govt IP interest)."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/the-gift/."
+  - "Multi-POV; Ch.1 first-person Troy voice is the benchmark — architect to confirm how multi-POV coexists with the first-person opening."
+revision_cycles: 0
+
+# ============================================================================
+# ARCHITECT PROPOSALS — author must CONFIRM/ADJUST before the chapter loop.
+# None of these are locked; defaults shown are the architect's recommendation.
+# ============================================================================
+architect_proposals:
+  pov_structure:
+    recommendation: "First-person PRESENT-tense for TROY (preserves Ch.1 benchmark); close-THIRD past for RAVEN/KNIGHT/VANCE with labeled POV headers ([TROY]/[RAVEN]/[KNIGHT]/[VANCE]). Form encodes theme: present-1st = inside the man who can't see his own wrong; past-3rd = distance to judge."
+    shares: "Troy ~50% (10ch), Raven ~20% (4ch), Knight ~15% (3ch), Vance ~15% (4ch)."
+  structure:
+    total_chapters: 21
+    projected_words: ~103300
+    turning_points: {TP1: "Ch.5 The Choice (~24%)", TP2: "Ch.10 The First Van (~50%)", TP3: "Ch.16 One Degree (~76%)", climax: "Ch.20 The Door (~95%)"}
+    act_break_epigraphs: "4 institutional documents (brochure / memo / camp-eval / manifest). Architect note: first epigraph placed at Ch.6 (founding), not Ch.3."
+  book_one_endpoint:
+    RESOLVED: "BINDING (author 2026-06-21). End on the one-way launch under Vance's raid (Ch.20), residue coda Ch.21. The new planet/colony is NOT shown (Book Two)."
+    who_goes_through: "CHILDREN + chosen settlers go THROUGH (Sol/Ezra/Wren make it). Troy, Raven, AND Knight ALL STAY Earth-side, TOGETHER — by their own prior agreement (Ch.17). The colony is unreachable (one-way door) in Book Two."
+    cliffhanger: "The UNIFIED trio, having sent the children on, caught in the wreckage as Vance's raid reaches them. NO split among the three. The drama is the shared, total cost — not a last-second choice between mission and person."
+    raven_final_act: "RESOLVED — options A/B/C/D REJECTED by author. Raven is a committed co-architect: she helps send the kids through and stays with Troy and Knight. No sacrifice-split, no go-through, no door-for-Vance, no refusal-ambiguity."
+    troy_fate: "RESOLVED — Troy STAYS Earth-side with Raven and Knight (keeps all three + Vance for Book Two)."
+  children_lines_not_to_cross:
+    recommendation: "Moral weight, never gratuity. Hold these lines on-page:"
+    lines:
+      - "NO on-page killing of a named young child."
+      - "Severe harm/death (if any) is an UNNAMED older child and OFF-PAGE; rendered through aftermath/restraint, not spectacle."
+      - "Children always retain interiority, names, jokes, agency — never props."
+      - "The horror comes from how GOOD the program looks (fed, safe, chosen), not from on-page cruelty."
+      - "Ch.13 camp ceiling: a named child may be gravely ENDANGERED (near-loss), rescued; the proof-of-concept (Sol's power) and the catastrophe are the same event."
+  investigator:
+    name_recommended: "Marcus Vance"
+    name_alts: ["Daniel Okonkwo", "Ray Calloway"]
+    daughter: "Ellie Vance, age 9, died in ANOTHER company's trial."
+    closeness_by_book_one_end: "PROPOSE: reaches Cora's lab/family (Ch.16, one degree from Troy), assembles the orphanage truth via a leak (Ch.15), raids the facility during launch (Ch.19). Direct MC contact = Raven or Knight, NOT Troy — Troy/Vance face-off reserved for Book Two. Vance survives, now knows, can no longer be told to stand down."
+    OPEN_hands_off_reason: "PROPOSE the order to leave the company alone is BANAL not conspiratorial — company too economically/strategically vital, or quiet govt interest in the gene-edit IP (ties to Cora's contracts). Confirm flavor."
+  names:
+    assistants: {troy: "Devon Marsh (takes serum)", raven: "Priya Sahota (LEAVES — the real choice; later the leak)", knight: "Bull / Theo Bullard (takes serum, camp staff)"}
+    children: {leader: "Ezra (~11)", smallest: "Wren (~9)", first_to_manifest: "Sol (~13)"}
+    family: {sister: "Dr. Cora Woods", mom: "guardian ad litem (name TBD)", dad: "biker mechanic (name TBD)"}
+    company_name: "TBD — author to PICK from shortlist below. Public slogan 'A New World' / hidden 'A New World At Any Cost' already canon."
+    company_name_shortlist:
+      - "HELIX VANGUARD — clean biotech-corporate sound; 'helix' (the gene work) + 'vanguard' (first to the new world); the double meaning of 'vanguard' = the advance party sent ahead / sacrificed first. Recommended."
+      - "ASTERHELM Genomics — 'aster' (star) + 'helm' (to steer/shelter); reads as benevolent gene-medicine, secretly = steering humanity to another star. Warm public face, cold hidden aim."
+      - "VERDANT BIOSCIENCES — 'verdant' = green, living, the promise of a fertile new world; ironic against the children/camp; the kind of name that wins humanitarian awards. Strong for the 'how GOOD it looks' theme."
+      - "THRESHOLD Biotic — ties directly to the door/wormhole and sub-level motifs; 'crossing the threshold' as both cure and exodus; sleek, slightly clinical."
+      - "ARKWRIGHT Genetics — 'ark' (the saved remnant / the one-way vessel) + the surname-feel of a legacy founder; subtle Noah's-ark resonance for shipping a chosen few while the world drowns."
+  setting:
+    recommendation: "Boston/Cambridge anchor (MIT canon from Ch.1); camp in remote wilderness (PROPOSE Pacific Northwest or northern New England); facility = repurposed industrial waterfront (echoes the warehouse). Confirm city."
+  assistant_transformation_open: "PROPOSE one sub-level-3 outcome is fatal/wrong (Ch.11) to prove the serum is a lottery and indict the 'honest' choice. Confirm whether an assistant dies."
+  ip_originality_note: "X-Men is Troy's in-world FANDOM only. All powers/characters/teams ORIGINAL. Phasing rendered as 'going thin'/'unstitching' — NO Marvel names. X-17 m25 retained (author's placeholder gene designation). ENFORCED in voice-dna anti-pattern budget (0 trademark terms)."
+  voice_preservation_note: "Ch.1 (research/original-draft.txt) is the locked VOICE BENCHMARK. Troy = first-person present, run-on wonder, comics asides, 'Today's the day' / 'I'll be damned'. Polish grammar lightly; do NOT sterilize. The book's signature is Troy narrating horror in the SAME delighted voice he narrates discovery."
