@@ -46,7 +46,7 @@ Then she stopped, because *No* was not an answer, it was a cliff-edge, and she m
 
 She read it back.
 
-Her hand wanted to change it. She felt the want quite distinctly, the small animal urge to scratch it out and write the safe sentence, the one that cost nothing, the one nobody could come for her about. *Be careful who you let see you do it.* Her mother had not been talking about quizzes. But the voice fit anyway, and for a moment Viridia held the pencil and hated, with a clean cold fourteen-year-old's hatred, that she had to think about it at all, that a true thing should have to be weighed against the danger of being seen to think it.
+Her hand wanted to change it. The want came quite distinctly, the small animal urge to scratch it out and write the safe sentence, the one that cost nothing, the one nobody could come for her about. *Be careful who you let see you do it.* Her mother had not been talking about quizzes. But the voice fit anyway, and for a moment Viridia held the pencil and hated, with a clean cold fourteen-year-old's hatred, that she had to think about it at all, that a true thing should have to be weighed against the danger of being seen to think it.
 
 She got up before she could lose her nerve and laid the paper face-down on Mr. Cote's desk, and he took it without looking, and she went out into the corridor with her heart going harder than a quiz had any right to make it go.
 
@@ -58,7 +58,7 @@ The dining hall at the wrong hour was a sleepy, half-lit place, the long tables 
 
 Only the fourth-years were in, scattered down the left in loose ones and twos with the boneless ease of people who had nowhere they urgently had to be. Heads turned when the door opened, the brief reflexive weighing of a room checking who'd come in, and then went back to their business when they saw it was only a first-year.
 
-Only Amber didn't go back. She was lounging sideways across a bench with her boots up on the next one, and she lifted a hand. "She's with me," she called down the table, to no one who'd asked, and unfolded herself and came over. Today her black hair was tied back and there was fresh polish on her nails, very black, already chipped at one thumb where she'd evidently been at it. There was an ink smudge on the side of her hand, the writer's smudge, the kind you got from dragging your fist across a wet line, and Viridia filed it: so Amber, for all her lounging, had been writing something, somewhere, before this.
+Only Amber didn't go back. She was lounging sideways across a bench with her boots up on the next one, and she lifted a hand. "She's with me," she called down the table, to no one who'd asked, and unfolded herself and came over. Today her black hair was tied back and there was fresh polish on her nails, very black, already chipped at one thumb where she'd evidently been at it. There was an ink smudge on the side of her hand, the writer's smudge, the kind you got from dragging your fist across a wet line, and Viridia marked it: so Amber, for all her lounging, had been writing something, somewhere, before this.
 
 "You're early," Amber said, dropping onto the bench beside her. "Cote let you out already? He must like you. He kept me the full hour every time, the old toad. What'd he set you?"
 
@@ -126,7 +126,7 @@ For a moment Lady Lightwell said nothing, and the nothing was worse than shoutin
 
 "Do you have any idea," she said, very softly, "how careful a person has to be, to keep a place like this open? How small a reason it would take to close it?" She turned. Behind the rose lenses her eyes were hard to read, but her hands had folded together in front of her, very still, the stillness of someone holding something down. "And you ask me to put a three-day first-year into the one course in this school I would least like to explain. You think you know what you're asking. You don't. The answer is no, Miss Summers. I'll allow the substitution and not the rest. Take your win and be glad of it."
 
-It was meant to be the end. Viridia felt the door swinging shut, felt Amber's favor sliding back unspent into a future that would never come round again, and she did the thing she had been told not to do.
+It was meant to be the end. The door was swinging shut, Amber's favor sliding back unspent into a future that would never come round again, and she did the thing she had been told not to do.
 
 "You said it would cost her," Viridia said.
 
@@ -170,7 +170,7 @@ It was a deflection and they both knew it was a deflection, and Viridia let it g
 
 She was thinking, too, about what she herself had just done. She had come to Hazel meaning to go unseen, and in two rooms in one day she had stood up and let herself be looked at — first the focus, waked and examined in the open instead of pocketed quiet as the note had wanted, and now the office, where she had stepped out from behind Amber and put the truest, least safe thing she owned on a Headmistress's desk. Amber had spent a favor she could not get back. Viridia had spent something too, and she had spent it knowingly: the anonymity she had walked in craving, the small grey safety of being no one anybody remembered. Lady Lightwell remembered her now. *The most dangerous thing about you.* She had handed the woman the dangerous thing herself, with both hands, and she could not pretend it had been done to her. She took the question, and the pale face, and the way Amber's eyes had gone to her stone at the door three days back, and she folded them down small and put them away with the note in the strange hand and the name with no dates and the violet pressed flat in a green book.
 
-She was beginning, she realized, to have rather a lot of things put away.
+She was beginning to have rather a lot of things put away.
 
 * * *
 

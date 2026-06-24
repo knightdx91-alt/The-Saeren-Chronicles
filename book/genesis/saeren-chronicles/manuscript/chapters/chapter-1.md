@@ -49,7 +49,7 @@ She had been excited, once. Three days ago, a lifetime ago, she had torn open th
 
 Now she stood at the gate and felt nothing she could name.
 
-Her hand found the stone at her throat without asking permission. Her mother's stone, the smooth dark-blue weight of it, the carved symbols that held a faint light even out here in plain sun. She closed her fist around it and the edges pressed into her palm, steadier than anything else she had. For a moment she felt it warm under her fingers, the carved lines glowing a shade brighter as her pulse climbed, and under the warmth a thin taste of cold metal at the back of her tongue. She had felt it before and never told anyone; it answered her own feeling, she thought, warming when her pulse climbed and cooling when she did, as though it ran on whatever she was holding down. No one else, she was fairly sure, tasted the gate they walked through. Then it was cool glass again, the taste gone. The sun, she told herself.
+Her hand found the stone at her throat without asking permission. Her mother's stone, the smooth dark-blue weight of it, the carved symbols that held a faint light even out here in plain sun. She closed her fist around it and the edges pressed into her palm, steadier than anything else she had. For a moment it warmed under her fingers. The carved lines glowed a shade brighter as her pulse climbed, and under the warmth came a thin taste of cold metal at the back of her tongue. She had known it before and never told anyone. It answered her own feeling, she thought, warming when her pulse climbed and cooling when she did, as though it ran on whatever she was holding down. No one else, she was fairly sure, tasted the gate they walked through. Then it was cool glass again, the taste gone. The sun, she told herself.
 
 She had let her silver-blonde hair hang loose this morning; braiding it had felt like more than she could manage. She was slight and fine-boned, the sort of girl grown-ups wanted to feed, and she stood with her shoulders curved inward, not slouching so much as drawn in, making herself a smaller target. Her green eyes had fixed on nothing at all.
 
@@ -101,7 +101,7 @@ Amber noticed. Of course she did; Viridia would learn, in time, that Amber notic
 
 "That one's a Verrane," she said, nodding at a dim seascape where a single ship leaned against a wall of grey weather. "He taught here, supposedly, generations back. And that one there." She nodded at a tall portrait of a stern woman with a hawk on her wrist. "Nobody's quite sure who painted it, or who she even was. One of the early headmistresses, supposedly. The hawk's the giveaway, apparently. I never understood why." She said it lightly, walking backward now to keep facing them, easy and unhurried. "They like their history here. You'll get used to it. Half the building's a museum and the other half's a classroom and sometimes it's hard to tell which is which."
 
-Viridia looked at the woman with the hawk a moment longer. Being told a thing's name helped. The world seemed less likely to come apart if its pieces could be labelled, and she filed Verrane and the hawk away without deciding to, and walked on.
+Viridia looked at the woman with the hawk a moment longer. Being told a thing's name helped. The world seemed less likely to come apart if its pieces could be labelled. Verrane, and the hawk. She took the names with her and walked on.
 
 The hall ended at another door, this one already open onto a large bright room.
 
@@ -139,7 +139,7 @@ Her shoes were blue. Bright, plain, slightly scuffed blue, the blue of a thing c
 
 Beside her, Amber leaned in, her voice dropped low. "That's Lady Lightwell. The Headmistress. She takes orientation herself every year. Likes to see the new ones with her own eyes." There was something under the words Viridia couldn't read, some private weather, and then it passed. Amber tipped her head toward the front rows. "Take a seat up there. She has it set up so all the new arrivals are sure to hear everything."
 
-Viridia looked at the bright crowded rows and felt her stomach tighten. "Where will you be?"
+Viridia looked at the bright crowded rows. Her stomach tightened. "Where will you be?"
 
 "Don't worry." Amber's smile came easier this time, almost gentle. "I won't be far. Fourth-years sit in the back." She nodded toward the rear of the hall, where a thinner scatter of older students lounged with the boredom of people who had done this three times already. "I'll come find you the second it's over. You won't even have to look for me."
 
@@ -185,7 +185,7 @@ Lady Lightwell had risen. She stood very straight behind the desk, hands resting
 
 "Welcome to Hazel. Some of you have waited a long time to sit in those chairs. Some of you have family who sat in them before you." A small pause, weightless and precise. "And one or two of you, perhaps, are still wondering whether you have made some kind of mistake in coming."
 
-Beside her, Viridia felt Alice go very still.
+Beside her, Alice went very still.
 
 "You have not," Lady Lightwell said. "You were chosen. Every one of you. Remember that, in the months to come, on the days when it does not feel true."
 
