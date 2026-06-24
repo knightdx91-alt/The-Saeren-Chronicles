@@ -104,10 +104,18 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
   the **time-skip length** (needs ~a year, not a few months, for her to be 16).
 
 ## Status (update as you go)
-- **Scaffolded + seeded (2026-06-24).** Research staged (`research/`): Book Three roadmap section
-  (premise/3-conflict-levels/key-revelation/resolution/ending/magic-bible), Book Two ENTITY_STATE,
-  Book Two final chapter (Ch.20 — the Marick/lab + void-rim seeds) and the rebirth chapter (Ch.18).
-  STATE.yaml filled (premise, canon, binding beats, open threads, word floor 95k). Own PDF/production
-  pipeline mirrored from Book Two (REVISION policy: bump before rebuild; keep prior builds).
-- **NEXT: architect pass** — build `foundation.md` + `outline.md` (≈20–23 chapters) from the roadmap,
-  resolve the open author decisions with the author, then run the chapter loop in order. No prose yet.
+- Scaffolded + seeded + architect pass done (foundation.md + outline.md, 22 ch). Author decisions locked.
+- **DRAFTING IN PROGRESS — Ch.1 & Ch.2 FINALIZED on `main` (2026-06-24)** via the authentic agent
+  pipeline. Both gate-clean, evaluator Floor 8.5 PASS, continuity clean. **READ `feedback/progress.md`
+  for the full resume note** — it has (a) how to install the agents (curl-tarball, since `git clone` is
+  403-blocked by the git rewrite and BSS's default branch is `master`), (b) the per-chapter pipeline
+  that worked, and (c) the next-chapter beats.
+- **NEXT: Ch.3 "A City With No Head"** (political chapter — temptation to rule named; END HOOK in the
+  HUMAN/political register, not another source-sense close). Then Ch.4 "The Easy Mark" (FIRST Death-symbol
+  portal-close + its eerie easiness — reserved here, deliberately NOT used in Ch.2) and Ch.5.
+- **TWO CONTINUITY RULES LOCKED THIS SESSION (do not re-break):**
+  1. **Raizen's HUMAN eyes are dark/ordinary brown** (Bk2 Ch.19 dimmed them down from lightning at the
+     change). Lightning-blue = his DRAGON form AND Lor-ar's signature marker — never the human form.
+  2. **The Death symbol is reserved for Ch.4** (its first portal-close + 'easy/asks nothing/Drake's
+     daughter' theme). Ch.2 closes its tear the COSTLY way (Viridia spends her own source-warmth) to set
+     up that contrast. Don't let an earlier chapter poach the Death symbol.
