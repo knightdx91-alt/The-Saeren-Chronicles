@@ -20,6 +20,24 @@ AGENTS_DIR="$HOME/.claude/agents"
 
 mkdir -p "$AGENTS_DIR"
 
+# 0) Manuscript-build toolchain. The PDF pipeline needs these in every fresh,
+#    ephemeral container or `tools/build_pdf.py` / `tools/make_pdfx.sh` fail:
+#      - reportlab + pillow (Python): build the RGB interior PDF.
+#      - ghostscript (gs): PDF/X-1a:2001 CMYK conversion (make_pdfx.sh).
+#    Idempotent and non-fatal — only installs what is missing.
+if ! python3 -c 'import reportlab' >/dev/null 2>&1; then
+  echo "Installing Python build deps (reportlab, pillow)..."
+  pip install --quiet reportlab pillow >/dev/null 2>&1 \
+    && echo "reportlab/pillow installed." \
+    || echo "warn: pip install reportlab/pillow failed; build_pdf.py may not run." >&2
+fi
+if ! command -v gs >/dev/null 2>&1; then
+  echo "Installing ghostscript (for PDF/X-1a CMYK conversion)..."
+  { apt-get install -y ghostscript >/dev/null 2>&1 || sudo apt-get install -y ghostscript >/dev/null 2>&1; } \
+    && echo "ghostscript installed ($(gs --version 2>/dev/null))." \
+    || echo "warn: ghostscript install failed; make_pdfx.sh (PDF/X-1a) will be unavailable." >&2
+fi
+
 # Clone (or refresh) Best Seller Studio. Retry the clone a few times so a flaky
 # network on container start does not leave the agents uninstalled.
 if [ -d "$BSS_DIR/.git" ]; then
