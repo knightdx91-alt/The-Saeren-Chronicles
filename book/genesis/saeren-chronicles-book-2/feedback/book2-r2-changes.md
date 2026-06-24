@@ -80,3 +80,36 @@ load-bearing; left the deliberate thematic motifs intact.
 
 Gates clean (style RESULT: clean; rhythm flags pre-existing sanctioned anaphora). The de-tic
 sweep (Track D) is now COMPLETE across the book.
+
+## Track E — full continuity pass 2026-06-24 → CLEAN
+
+Audited Book Two against Book-One canon + internal timeline. Verified consistent:
+- **Age:** no age number on-page anywhere (the 2026-06-22 scrub held; turn-to-15 placed in
+  Ch.12 with no digit). "fourteen months" = duration, fine.
+- **Names/canon:** Alice **Pembrook** (no 'Pembrooke'/'Jasen'); Lady Lightwell's **rose-tinted
+  spectacles** (Ch.4); Chancellor's **glasses of true seeing** consistent.
+- **Appearance:** silver-blonde hair, green eyes, five-foot-five, slight/fine-boned — all consistent.
+- **Guardrail "NO ONE sees her cry":** only the sanctioned Ch.16 hinge break; grief inward
+  everywhere else (incl. the new Ch.19 Amber-witness beat — she is seen *paying*, not weeping).
+- **Source cavern:** Ch.18 matches Book-One Ch.14 (stone pedestal, pool, unworked stone,
+  "clever tired first-year banking her core to an ember") — physical-cavern canon held.
+- **"banked a whole year" / turn-to-15:** internally consistent (Book Two spans ~a year of camp
+  season + march since the well; the birthday marks the turn). No on-page number. Not an error.
+- **No Johnathan Masters / void woman:** the Ch.20 rim "absence" is explicitly NOT a person/entity.
+- One slip already fixed this round: Ch.1 "a whole school year" → six weeks.
+Result: 0 continuity errors outstanding.
+
+## Finding #4 — enact the Ch.18 overwhelm (the rebirth "cave drag") 2026-06-24
+
+Reviewers (beta + Gemini): the overwhelm was ASSERTED ("it was too much, it was meant to be
+too much") not dramatized, with no active counter-force. Rewrote the core paragraph into an
+ENACTED struggle: the flood arrives as the dissolving of self (the edges of "Viridia" washing
+out into the world's grief, the seduction of simply letting go), and **Raizen's bond becomes
+the concrete anchor** — the one thread that is hers, which she holds "hand over hand … the way
+a swimmer caught in a current sets against a rope" while the world pours through her. This gives
+the long-promised payoff a felt, moment-to-moment counter-force instead of an abstraction.
+Preserves every binding beat (mend happens; sight is the cost; Bella-thread touched/unfollowed;
+rim-absence; battlefield stops; "none know why"). Ch.18 now 5,733w, em-dash 2, gates clean.
+
+## r3 PDF cut 2026-06-24
+Bumped REVISION r2→r3; rebuilt RGB + PDF/X-1a. r2 kept as history.
