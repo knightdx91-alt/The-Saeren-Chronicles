@@ -1,0 +1,94 @@
+project:
+  title: "Pompeii (working title)"
+  genre: "Historical romance / time-slip fantasy"
+  subgenre: "Time-travel romance (Outlander-style), ancient Rome"
+  language: "English"
+  word_count_target: 260000   # long single volume, Outlander-scale
+  comp_titles: ["Outlander (Diana Gabaldon)"]
+  engagement_type: {primary: "empathy (55%)", secondary: "fascination (30%)", tertiary: "self-insertion (15%)"}
+  premise: "A modern woman who inherited her late father's love of the ancient world buys an antique map said to lead to the Library of Alexandria, follows its coordinates, and opens a door into 1st-century Rome — where the Oracle of Delphi tells her where (but not when) the door home will reopen, she falls in love with a disgraced ex-gladiator, builds a family, and must choose between them and her own survival as Vesuvius erupts over Pompeii."
+  created: "2026-06-21"
+  updated: "2026-06-21"
+
+# GENESIS-FROM-IDEA run — build a new book from the author's story bible.
+adaptation:
+  mode: "genesis-from-bible"
+  canon_sources:
+    story_bible: "research/story-bible.md"   # author canon (spoken idea); wins over pipeline
+  chapter_1_locked: false
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45]   # 45 chapters, ~5.2-5.8k each, ~245k projected (was 48; modern coda removed, book ends in 79 AD)
+
+word_floor:
+  manuscript_min_words: 220000   # long single volume (Outlander-scale)
+  manuscript_target_words: 260000
+  per_chapter_min_words: 5000
+
+phase:
+  current: 1
+  status: "architecture complete — ready for chapter loop"
+  history:
+    - "2026-06-21: architect built foundation.md + outline.md (48 ch) + voice-dna.md; STATE updated."
+    - "2026-06-21: RECONCILED to author's final decisions. Two changed: (1) modern frame -> LATE 1990s (dead-phone relic replaced by film camera/undeveloped roll, father's dig slides, Discman, paper notebooks, wristwatch; updated foundation §CALIBRATION/§3/§4f/§5, outline Ch.3/6/32/41, voice-dna §0/Mara card); (2) NO modern coda -> book now ENDS IN 79 AD. Removed former modern Ch.44 (excavation), Ch.45 (frame reveal), Ch.47 (modern museum); folded their non-modern payoffs (Theano prophecy, motif convergence, 'function unknown', handed-over question) into new past-set Ch.43-45. Chapter count 48 -> 45. Retrospective narrator reframed as Mara telling it from inside her last hours (no future survivor). Ending confirmed STAY & DIE rendered as ACTIVE agency. Heat unchanged (Ch.16/18/20 + late payoff). Projected ~245k (floor 220k cleared)."
+
+chapters:
+  total_planned: 45
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=4 per chapter ABSOLUTE, no NEW cross-chapter repeated phrase, tics under ceiling). Add motifs to ALLOWLIST; log frequent flags in feedback/style-flags.md."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "PACING CHECK after EVERY chapter (required gate): assess scene/summary balance, dialogue share (~30-45%), the emotional-W slot vs neighbors, hook/pull, and length vs adjacent chapters; log a one-line verdict in evaluations/ + feedback/progress.md; fix before finalizing. See CLAUDE.md Quality gates."
+  - "Build to the story bible; honor the beat order; historically accurate 'to a certain point' (Outlander standard) — real period detail + real political backdrop, fictional leads."
+  # --- Settled author canon ---
+  - "TONE/SCOPE: Outlander-style sweeping time-slip historical romance. ONE long standalone (~260k target, 220k floor) running all the way through the eruption and her final choice."
+  - "HISTORY: Flavian era. She arrives ~70 AD (Vespasian, r.69-79); romance + family span ~9 years; Vesuvius erupts 79 AD under Titus. NOT Nero (died 68). Keep the political backdrop accurate."
+  - "MAP: purports to lead to the lost LIBRARY OF ALEXANDRIA; the real secret beneath the legend is a door through time. Bought at an estate sale of a self-proclaimed treasure hunter who vanished (left notes + coordinates); shopkeeper bought it only because it was accurate for its period."
+  - "MECHANISM: following the coordinates opens a time-door. She lands first in GREECE (Delphi). The ORACLE OF DELPHI tells her WHERE the door home is (Pompeii) but NOT WHEN it opens; she learns the 'when' later by other means."
+  - "GREECE FIRST: a lone foreign woman in antiquity cannot simply travel — she must establish footing/protection in Greece before the long journey to Pompeii. Use this constraint as real obstacle, not hand-waved."
+  - "LOVE INTEREST: a disgraced EX-GLADIATOR accused of an affair with the emperor's wife (the accusation ruined/exiled him). They marry and have children over years in the past."
+  - "CLIMAX: when she tries to leave, her family cannot pass through to the future. Choice = stay in the past with them or leave to save herself, AS Vesuvius erupts. The eruption is the literal + emotional ticking clock."
+  - "ROMANCE HEAT: explicit when it occurs (on-page, detailed, sensual) BUT NOT a smut/erotica book. Intimacy is OCCASIONAL and earned — driven by story/emotional beats, not a quota. NOT a sex scene every ~10 pages. The romance and history carry the book; explicit scenes are punctuation, not the substance. Frequency: a handful of meaningful on-page scenes across the ~260k arc (e.g. first union, key relationship turns), with tension/yearning doing most of the work."
+
+# --- RESOLVED by author 2026-06-21 ---
+resolved_author_decisions:
+  - "PROTAGONIST: Mara Reyes. Modern frame set in the LATE 1990s (sidesteps phone/GPS questions). Her FATHER (deceased) was the archaeologist whose passion she inherited."
+  - "LOVE INTEREST: Valens (former arena name 'Lupus'); scandal = framed over a PROVINCIAL LEGATE's wife (he was her sworn bodyguard, framed politically — Greece-plausible, deniable). Children: Lucius & Aelia."
+  - "HOW SHE LEARNS THE WHEN: August Fenn (the vanished treasure hunter, alive & old, marooned in the past) has tracked the doors' rhythm; the Pompeii door's date is late summer 79 AD. Mara refuses the arithmetic until late (dramatic-irony clock)."
+  - "TREASURE-HUNTER PAYOFF: Fenn went through young, could not return, lives marooned & old in the past — the cautionary mirror; he reveals the WHEN."
+  - "ENDING: she STAYS. She lets the door close on the family's side and dies with them in the ash — an ACTIVE choice (hers, not the volcano's). The woman who kept returning to the past finally chooses the present she built."
+  - "POV/TENSE: FIRST PERSON, PAST, RETROSPECTIVE (older Mara looking back; Outlander register, dread bleeds backward)."
+  - "NO MODERN CODA: the book ENDS IN THE PAST (79 AD) with the eruption and her choice. Do NOT add a present-day excavation frame/ending."
+
+decisions:
+  - "Folder-per-book genesis project under book/genesis/pompeii/."
+  - "Single-POV (protagonist) likely, Outlander-style first-person feel — architect to confirm POV/tense."
+revision_cycles: 0
+
+# Architect's recommendations for every still-open author decision. PROPOSALS ONLY —
+# NOT locked. Author must confirm before/early in the chapter loop. See foundation.md/outline.md.
+architect_proposals:
+  protagonist:
+    name: "Mara Reyes (provisional)"
+    modern_era: "PRESENT DAY (2020s) — recommended; dead phone becomes a recurring grief/relic object. Alt: late-1990s to sidestep 'why not phone' beats."
+  archaeologist_relative: "FATHER (recommended) over grandfather — tighter, more recent grief drives the leap."
+  love_interest:
+    name: "Valens, former arena name 'Lupus' (provisional)"
+    scandal: "Accused of an affair with the wife of a PROVINCIAL LEGATE / governor of Achaea (recommended) — keeps it Greece-plausible and historically deniable; he was her sworn BODYGUARD, not lover, framed politically. Alt: wife of a Flavian client-king."
+  how_she_learns_the_when: "August Fenn (the vanished hunter, alive & old in the past) has tracked the doors' rhythm against a celestial/temple cycle; the Pompeii door's date lands in late summer 79 AD. Mara refuses to finish the arithmetic until Ch.32 (dramatic-irony clock)."
+  treasure_hunter_payoff: "RECOMMENDED: Fenn went through young, could not return, and lives marooned & old in the past — the cautionary mirror of Mara's lie; he tells her the WHEN. Alts: (A) never appears, notes only; (B) antagonist hoarding doors (NOT recommended)."
+  final_choice_outcome: "RECOMMENDED: she STAYS — lets the door close with her on the family's side, drops the future-relics, lifts her daughter; dies with them in the ash. The irony engine demands the woman who couldn't stop returning to the past finally choose the present she built. HARD REQUIREMENT either ending: the choice is HERS and ACTIVE, not the volcano's. Alt (flagged, NOT recommended — breaks the established 'only the one it brought' law): she sends the children through."
+  pov_tense: "RECOMMENDED: first-person, PAST, RETROSPECTIVE (older Mara). Outlander register + dread-bleeds-backward suspense + honest time-door rules. One sanctioned exception: Act V modern-frame coda (Ch.43-45) IF author approves the modern excavation ending."
+  modern_coda: "PROPOSAL: Ch.44-45 present-day excavation frame closes the loop (the carbonized loaf with Mara's scoring; the mislabeled leather knot). If author prefers, fold these back into the past and end fully in 79 AD."
+  map_destination: "Per canon: purports to lead to the lost LIBRARY OF ALEXANDRIA (legend/MacGuffin); real function is the time-door. (Confirmed by bible — no change.)"
+  children_names: "Lucius (b. ~yr3) and Aelia (b. ~yr6) — provisional."
+  cultural_phrase: "'The one it brought' — the law of the door; proposed branded phrase."
