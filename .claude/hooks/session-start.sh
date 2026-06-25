@@ -128,3 +128,27 @@ if [ -n "${GEMINI_API_KEY:-}" ] || [ -f "$HOME/.gemini_env" ]; then
       || echo "warn: Gemini CLI install failed; /gemini-second-opinion will be unavailable." >&2
   fi
 fi
+
+# 6) OpenMontage (https://github.com/calesthio/OpenMontage) — evaluation track.
+#    AGPL-3.0 agentic video-production system; intended for FREE book-trailer
+#    creation (Piper TTS narration + open-footage archives + Remotion/FFmpeg).
+#    Best-effort clone to /tmp/openmontage (OUTSIDE this repo, so AGPL copyleft
+#    never touches the Saeren codebase — never copy its source in).
+#    NOTE (2026-06-25): the first attempt to clone this in the web environment
+#    returned a 403 from the egress proxy — github.com/calesthio/OpenMontage is
+#    NOT on this session's network allowlist. If the clone still 403s, the fix is
+#    to add the host to the environment's network policy (see
+#    https://code.claude.com/docs/en/claude-code-on-the-web) or install locally.
+#    Non-fatal: a failure here must never block the book pipeline.
+OM_REPO="https://github.com/calesthio/OpenMontage"
+OM_DIR="/tmp/openmontage"
+if [ ! -d "$OM_DIR/.git" ]; then
+  echo "Attempting OpenMontage clone (book-trailer evaluation track)..."
+  if git clone --depth 1 --quiet "$OM_REPO" "$OM_DIR" 2>/dev/null; then
+    echo "OpenMontage cloned to $OM_DIR (external to repo; AGPL boundary intact)."
+  else
+    rm -rf "$OM_DIR" 2>/dev/null || true
+    echo "warn: OpenMontage clone failed (likely the egress-policy 403 noted above)." >&2
+    echo "      Allowlist github.com/calesthio/OpenMontage in the env network policy, or install locally." >&2
+  fi
+fi
