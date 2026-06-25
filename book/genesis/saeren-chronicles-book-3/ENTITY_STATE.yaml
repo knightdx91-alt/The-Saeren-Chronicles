@@ -11,7 +11,26 @@ meta:
   last_updated_by: "entity-tracker"
   mode: UPDATE
   chapters_tracked_note: >
-    DETAILED THROUGH Ch.8 (ACT TWO OPENER). Ch.5: Amber's evolved moral question recorded; the BINDING
+    DETAILED THROUGH Ch.10 (MIDPOINT). Ch.9 (ACT TWO consultation): DRAKE + VARISSA brought ON-PAGE in
+    Book Three for the first time (were off-page-but-remembered through Ch.8) — Viridia + Raizen climb the
+    mountain to 'the ones old enough to know.' Drake NAMES the cosmology (void = the counterpart, not evil;
+    warmth/cold = the two halves of one breath; balance, not victory) and the load-bearing limit: the Death
+    mark closes a DOOR but there is no mark for a PRESSURE; the rebirth ran the lung full and the rim-leaning
+    is the cold finding the new fullness — it cannot be closed/won, only HELD/balanced forever. His
+    daughter/standing-void-door backstory reaffirmed (Bk2 Ch.8) and EXTENDED ('I ended a door, not the thing
+    that wanted the door'). Varissa independently corroborates the rebirth-caused unevenness ('It went uneven
+    a year ago... We did not think it was a mending'). NOT a fresh axis reveal — confirmation-from-the-old of
+    what Viridia inferred Ch.5/measured Ch.7. Ch.10 (MIDPOINT GUT-PUNCH): with sight come WHOLE at the
+    source-cavern she does the complete accounting — every drained life (Sela, the eleven, the rim dead)
+    traces a line to her cure; 'the thing eating the world is the exact shape and size of the mercy she did.'
+    The cost LANDS felt (not newly learned). THE SANCTIONED SECOND BREAK realized on-page: Viridia's
+    second-ever break (the FIRST she CHOOSES), restrained (a crack/an inch, no wail, no spill), in the empty
+    cavern, given DOWN THE TRUE-BOND to RAIZEN ALONE — the deliberate private mirror to the public/involuntary
+    Bk2 Ch.16 break. The room still only ever gets the flat face + white knuckle; no third break. Bella's-name
+    thread touched-again-not-followed at the pedestal (held for the ~Ch.13 door). Hamlet count read WHOLE =
+    eleven (exact). chapters_tracked extended 1-10.
+  prior_note_through_ch8: >
+    DETAILED THROUGH Ch.8 (ACT TWO OPENER) [superseded by the Ch.10 note above]. Ch.5: Amber's evolved moral question recorded; the BINDING
     pull-reveal ARRIVED on-page (Horrors pulled toward the source = Viridia; she caused the tears);
     western-trail KNOWLEDGE + a direction in the pull; intent to portal to the source-cavern. Ch.6:
     Sela (formerly-unnamed miller's wife) NAMED + DEAD (drained when half-sight read the rim a beat too
@@ -28,7 +47,7 @@ meta:
     nothing) — but the GUT lands on-page: closing it did NOT slow the pull (symptom-not-cause; the door is
     markable, the differential = pressure = Viridia is not). Marick LEFT ALIVE with a new dangerous
     curiosity (live thread, not closed). Elapsed: ~2 years since Book One / ~1 year since the rebirth.
-  chapters_tracked: [1, 2, 3, 4, 5, 6, 7, 8]
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   chapters_planned_total: 22
   seeded_from: "research/book2-ENTITY_STATE.yaml (Book Two end state, last_updated_chapter 20)"
   override_layer: "research/roadmap-vs-books-reconciliation.md (finished books win over the pre-final roadmap)"
@@ -52,7 +71,7 @@ characters:
       build: { value: "slight, fine-boned, 5'5\" (slight, NOT short)", source: "foundation" }
       age: { value: 16, at_chapter: 1, source: "ch-01:p9", note: "stated plainly on-page ('She was sixteen now', ch-01:p9). Book Three MAY state her age — the Book-Two no-number rule was only for the private 14->15 turn-beat. Was 14 leaving the burning school, turned 15 in Bk2 (no number)." }
     traits:
-      - { trait: "grief held inward — NO ONE sees her cry IN PUBLIC", source: "foundation", mutable: false, note: "TWO sanctioned breaks only: Bk2 Ch.16 (public, Jazen); Bk3 Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). Everyone else still never sees." }
+      - { trait: "grief held inward — NO ONE sees her cry IN PUBLIC", source: "foundation", mutable: false, note: "TWO sanctioned breaks only: Bk2 Ch.16 (public, Jazen); Bk3 Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). REALIZED ON-PAGE ch-10:p83: her SECOND-ever break and the FIRST she CHOOSES — restrained (a crack/an inch, no wail, no spill), in the EMPTY source-cavern (no one in the room to see), given DOWN THE TRUE-BOND to Raizen alone; the deliberate private mirror to the public/involuntary Bk2 Ch.16 ('torn out of her, in front of two armies, with no choosing in it'; this she chose, and did not snatch it back). The ROOM still only ever gets the flat face + white knuckle ('the wall in front of it held against the room'). Everyone else still never sees; no third break." }
       - { trait: "the 'cold working part' — does the arithmetic so the rest of her can survive the choosing; files things she is not ready to know", source: "ch-01:p57", mutable: false }
       - { trait: "the 'careful surface' / flat hard certainty — the voice/face that holds when nothing else does", source: "ch-01:p129", mutable: true }
       - { trait: "cannot turn away from a true thing", source: "ch-03:p57", mutable: true }
@@ -82,6 +101,8 @@ characters:
       - { fact: "the tears form a WESTERN TRAIL marching east toward the warmth; the pull runs west/down to the source; therefore she resolves to PORTAL to the source-cavern to read the rim from its centre", learned: "ch-05:p103-159", method: "inferred" }
       - { fact: "read the rim WHOLE from the fount (Ch.7): the differential is NOT 'a shade' but VASTLY wider (the WHOLE rim even-leaning toward the source — 'the sea is past a glass of water') AND ACCELERATING (rate steepening season over season); the counted tears were ~1/100th of it. Found a single NON-even fast-worn place — a 'cut' with a leading edge — far to the GREY WEST: a MADE cause (no entity/name; the Marick/Fen hand stays off-page). Resolves Act One: scale confirmed + a direction (west).", learned: "ch-07", method: "witnessed (whole sight at the fount)" }
       - { fact: "there is a widened void-rim / cold edge of the world only she can read; tears wear open along it, escalating in number", learned: "ch-01:p123 (first), ch-02:p121, ch-04:p129", method: "witnessed" }
+      - { fact: "THE COSMOLOGY, named by Drake (Ch.9): warmth/cold = the two halves of one breath (presence + absence; the void is the COUNTERPART, not evil; not a war); the rebirth ran the lung FULL after 600 years half-full, and the cold now finds the new fullness — the rim-leaning is a PRESSURE, not a making. There is no mark for a pressure (the mark closes a DOOR only). It cannot be closed or won, only HELD/BALANCED forever ('balance is a thing you tend forever, not a thing you do once and set down'; do NOT un-mend the world to ease the lean). NOT a fresh reveal — confirmation-from-the-old of what she inferred ch-05/measured ch-07; 'the wrong thing at the edge of the world is the shape of what you did to save it. It has your name on it.'", learned: "ch-09:p59-129", method: "told_by:drake" }
+      - { fact: "THE COST LANDS FELT (Ch.10, midpoint): with sight come WHOLE at the source-cavern she does the complete accounting — every drained life (Sela, the eleven, the rim dead) traces an unbroken line to her cure; 'the thing eating the world is the exact shape and size of the mercy she did.' NOT a new fact (arrived ch-05, measured ch-07, named ch-09) — the knowing now felt ALL THE WAY DOWN, past the bins, not merely held at arm's length. She would choose the rebirth again knowing everything. There is no west to ride to, no mark, no closing — only the holding.", learned: "ch-10 (felt; previously known)", method: "witnessed (whole sight at the fount)" }
       - { fact: "the capital is leaderless; factions; the 'stronger hand' argument (take the dark half from those who can't be trusted) — correct AND monstrous", learned: "ch-03 (stale broadsheets)", method: "discovered" }
     arc_book3: >
       The girl who refused to decide for everyone (the source's making) must now refuse a SECOND easy power:
@@ -123,7 +144,17 @@ characters:
       - { trait: "cannot stop being what he is — a faint prismatic shimmer runs off his fingers; in a fight he lets 'the light of it' off his hands (not the full dragon)", source: "ch-01:p25, ch-02:p79", mutable: false }
       - { trait: "patient, in no hurry; unhurried stride; always knows where Viridia is (the bond)", source: "ch-01:p21", mutable: false }
       - { trait: "speaks plainly, misses nothing; will not let Viridia keep saying 'I' as if alone", source: "ch-02:p21", mutable: false }
-    bond: { type: "TRUE BOND with Viridia (life-tied; dragons only); the anchor at the far end of the rebirth", source: "Bk2", current_status: "intact; warmth no longer has to stretch over miles" }
+    bond:
+      type: "TRUE BOND with Viridia (life-tied; dragons only); the anchor at the far end of the rebirth"
+      source: "Bk2"
+      current_status: "intact; warmth no longer has to stretch over miles"
+      deepened_ch10: >
+        Ch.10: the bond carried the FIRST break Viridia ever let anyone see. From three valleys + a portal
+        away (up at the high house) he felt the cost LAND in her; she did NOT thin the wire down to a fact (her
+        lifelong habit at distance) — she let it stay wide and 'did not snatch it back,' so he got the whole
+        size of it raw and unbinned. He 'took it... only as a thing to hold,' did not flinch, did not try to
+        make it smaller, said nothing (knew there were no words). 'For the first time the holding was not only
+        hers.' The single thread she does not wall off (ch-10:p39, p83).
     relationships:
       viridia-saeren: { type: "True-Bonded; the one she does not lie to (except small mercies he lets her keep)", established: "Bk1", current_status: "central; they live in the shape of the word 'forever' (long-life weight)" }
       drake: { type: "father", current_status: "Drake went to the mountain (Bk2 Ch.19); expects Raizen to visit" }
@@ -131,7 +162,16 @@ characters:
     knowledge:
       - { fact: "a Horror is the absence of body — not fought with steel/the body; it eats warmth; he draws its 'eye' by pouring out the brightest warmth in the field", learned: "ch-02:p67", method: "inferred" }
       - { fact: "the Death symbol his father taught Viridia closes a tear and asks nothing — and the FREE GOOD thing is how you lose yourself", learned: "ch-04:p79", method: "inferred" }
-    arc_book3: "the load-bearing relief/connection beat AND the moral mirror — names the danger of the free good thing (ch-04)."
+      - { fact: "the wrongness at the rim is the rebirth itself / the pull = the cure (he says it back to Viridia plainly after Drake names it): 'Not Marick. Not a fool with a door. The pull is the cure. You've known it since the fount.' And Drake/he/the source cannot fix it.", learned: "ch-09:p119-125", method: "told_by:drake (+ his own inference)" }
+    status_ch9: >
+      Returns to his father's mountain in HUMAN form for the first time since the change (Bk2 Ch.19) — 'born on
+      this rock and learned to be a dragon on it,' now standing on it as a man, attending his feet. Greeted by
+      Drake ('the rabbit', 'on two legs, walking') and Varissa ('you smell like a person'). Sits close to
+      Viridia at the end, not holding her (she dislikes being held while the cold working part does its sums),
+      and lets the bond carry the grief her face won't (ch-09:p117). Physical markers HOLD: dark-haired,
+      ordinary BROWN eyes, faint prismatic shimmer off the fingers when the cold makes him forget to bank it,
+      the prismatic thing showing only as 'the attention behind the eyes.' No physical change.
+    arc_book3: "the load-bearing relief/connection beat AND the moral mirror — names the danger of the free good thing (ch-04); the one thread Viridia lets see her break (ch-10)."
 
   drake:
     canonical_name: "Drake"
@@ -149,16 +189,48 @@ characters:
         stroke, one breath'). Warned: 'you will hate how easy it is' — a working that ends the worst making
         and takes nothing you can feel has taken the cost somewhere you cannot watch it go. (See objects/the-death-symbol.)
       killed_meros: "Bk2 Ch.17 — killed High Chancellor Erik Meros with a single aimed jet of death-flame (spent his worst gift on a human life to clear the rifleman from his son's bond)."
-    status_book3: "GONE to the mountain (Bk2 Ch.19) with Varissa. Off-page in Bk3 Ch.1-4 but vividly remembered (ch-04:p31-41 — the mountain lesson). NOT dead."
+      provenance_EXTENDED_ch9: >
+        Ch.9 EXTENDS the Bk2 Ch.8 lesson (does NOT contradict it — rendered from the source prose): the
+        daughter flew at a great STANDING door (not a portal) the severing-hands tore 'into a place that is
+        not a place'; an absence wearing the shape of an opening (you cannot push an absence closed, only
+        unsay it); she was made into nothing, nothing to carry home. Drake CLOSED that door with the mark —
+        'one stroke, one breath' — and thought he had won, then understood since: 'I had ended a door, child.
+        I had not ended the thing that wanted the door.' (The lesson behind the lesson, withheld in Bk2
+        because she was 'a child with a war on your back'; given now because she is 'a child with a world on
+        your back.')
+    status_book3: >
+      ON-PAGE in Bk3 for the FIRST TIME in Ch.9 (was off-page-but-vividly-remembered Ch.1-8; ch-04:p31-41 the
+      remembered mountain lesson). Viridia + Raizen climb his mountain ('the ones old enough to know') after
+      Ch.8's gut (closing Marick's door changed nothing). Drake NAMES the cosmology (void = counterpart not
+      evil; warmth/cold = two halves of one breath; balance not victory) + the limit (the mark closes a DOOR,
+      there is no mark for a PRESSURE; the rebirth ran the lung full; cannot be closed/won, only HELD forever)
+      + the truth she circled ('the wrong thing... is the shape of what you did to save it. It has your name
+      on it'). Rendered from Bk2 Ch.8 prose: pitch-black, single banked coal-eye, jet-black death-flame,
+      ~6000 winters, grieves loudly/from a height, does not lie, voice 'down the slope like the scree.' Sets
+      his great head flat on the stone 'the way a thing lies down that has been standing six hundred years.'
+      Status: alive, on the mountain with Varissa. NOT dead.
     open_threads: ["Whether Drake/Varissa return for the balance finale (open author decision, STATE.yaml)."]
 
   varissa:
     canonical_name: "Varissa"
-    importance: minor
+    importance: supporting    # bumped minor->supporting (Ch.9 scene weight)
     species_origin: "dragon, ~5000 winters; brilliant scarlet; breathes flame"
+    physical:
+      eyes: { value: "gold-white centre of a flame; 'nothing old in them the way there was in Drake's, only the fierce now of her'", source: "Bk2 Ch.7 / ch-09:p27" }
     traits:
       - { trait: "grieves close to the ground, quiet (the inverse of Drake's loud register)", source: "Bk2", mutable: false }
-    status_book3: "GONE to the mountain with Drake (Bk2 Ch.19). Off-page in Bk3 Ch.1-4."
+      - { trait: "says her truths ONCE and means them (the flat appalled register; 'I am not Drake and I do not weep my truths out over three days')", source: "ch-09:p29", mutable: false }
+    relationships:
+      raizen: { type: "mother", current_status: "ch-09: breathed him in in his new human shape ('You smell like a person'); folded back down beside him and did not move him away when he leaned against her flank." }
+      viridia-saeren: { type: "daughter-in-law (resented->wary acceptance)", current_status: "ch-09: 'I hated you for a year for being a thing that ends, that he tied himself to. And then you did not end... I do not know what to do with a daughter-in-law I cannot kill in my heart anymore. It is very inconvenient.' Continuation of Bk2 Ch.7/19, NOT a new personality." }
+    knowledge:
+      - { fact: "independently corroborates the rebirth-caused unevenness — every old thing on every mountain FELT the breath shift the morning of the rebirth ('It went uneven a year ago... We thought, a fool with a door, the usual small wrongness. We did not think it was a MENDING.')", learned: "felt it ~1 year ago; named it ch-09:p73", method: "witnessed (felt from the mountain)" }
+    status_book3: >
+      ON-PAGE in Bk3 for the FIRST TIME in Ch.9 (was off-page Ch.1-8). Present on the mountain with Drake;
+      delivers the hate-turned-acceptance beat + the independent corroboration of the rebirth's effect. Alive,
+      on the mountain. Rendered from Bk2 Ch.7/19 prose (scarlet, gold-white eyes, flame guttering down to
+      nothing at the jaw when she stands down). NOTE: the 'five thousand winters' figure at ch-09:p77/p83
+      attaches to VARISSA (~5000), distinct from Drake (~6000) — see conflicts log (non-bug).
 
   lor-ar:
     canonical_name: "Lor-ar"
@@ -342,7 +414,7 @@ named_villagers:
     canonical_name: "the hamlet (unnamed dead)"
     importance: minor
     location: "a hamlet north of Wend, past Hallow"
-    status: "EMPTIED, not killed (ch-02) — a dozen cores DRAINED through the first tear; Viridia felt them gone before arrival, did not feel them go. A child's wooden horse on its side in the lane (the kept image)."
+    status: "EMPTIED, not killed (ch-02) — ELEVEN cores DRAINED through the first tear (soft 'a dozen' in the ch-02 prose; read EXACT as ELEVEN by the whole sight at ch-10:p31 — 'an old man and a child and a woman who had been quick with a second child'); Viridia felt them gone before arrival, did not feel them go. A child's wooden horse on its side in the lane (the kept image)."
 
 # --- the dead/gone, do not resurrect (carried canon) ---
 deceased_or_gone:
@@ -397,7 +469,7 @@ locations:
   the-emptied-hamlet:
     canonical_name: "the emptied hamlet (unnamed)"
     facts:
-      - { fact: "a hamlet smaller than Wend, ~3 days north past Hallow — a dozen houses along a beck, a chapel with a fallen roof, a green with geese. EMPTIED of all cores (drained, not killed) through the FIRST tear/Horror (ch-02). Washing on a line, a pot gone to white ash, a child's wooden horse on its side.", source: "ch-02:p51-63" }
+      - { fact: "a hamlet smaller than Wend, ~3 days north past Hallow — a dozen houses along a beck, a chapel with a fallen roof, a green with geese. EMPTIED of all cores (drained, not killed) through the FIRST tear/Horror (ch-02); ELEVEN dead (exact whole-sight read, ch-10:p31). Washing on a line, a pot gone to white ash, a child's wooden horse on its side.", source: "ch-02:p51-63 / ch-10:p31" }
 
   the-leaderless-capital:
     canonical_name: "the capital (leaderless)"
