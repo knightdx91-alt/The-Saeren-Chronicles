@@ -10,8 +10,8 @@ meta:
   last_updated: "2026-06-25"
   last_updated_by: "entity-tracker"
   mode: BUILD
-  chapters_tracked_note: "through Ch.5 (pull-reveal ARRIVED on-page Ch.5; western-trail known; elapsed since Book One ~2 years / since rebirth ~1 year)"
-  chapters_tracked: [1, 2, 3, 4]
+  chapters_tracked_note: "through Ch.6 (Sela/miller's-wife drained Ch.6; resolve to portal to source-cavern); was through Ch.5 (pull-reveal ARRIVED on-page Ch.5; western-trail known; elapsed since Book One ~2 years / since rebirth ~1 year)"
+  chapters_tracked: [1, 2, 3, 4, 5, 6]
   chapters_planned_total: 22
   seeded_from: "research/book2-ENTITY_STATE.yaml (Book Two end state, last_updated_chapter 20)"
   override_layer: "research/roadmap-vs-books-reconciliation.md (finished books win over the pre-final roadmap)"

@@ -2,7 +2,14 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.6 ("The Cost of Half-Sight") — Ch.1–5 DONE
+## ▶ RESUME HERE: draft Ch.7 ("The Rim, Read Whole") — END OF ACT ONE — Ch.1–6 DONE
+> Ch.6 "The Cost of Half-Sight" FINALIZED (5,417w) — book-evaluator PASS (Floor 8.5/avg 8.86, Casual 8->8.5);
+> continuity CLEAN (0 crit/0 warn/2 minor). Sela (the miller's wife, Alice's student) drained when half-sight
+> read the rim a beat too late; camera-cut; grief inward. Resolve: GO to the source cavern.
+> ⚠ Ch.7 RE-TASK (locked): the binding "pull points at her" reveal ALREADY LANDED in Ch.5 — so Ch.7 is NOT a
+> reveal. Ch.7 = she PORTALS to the physical Book One source-cavern and READS THE RIM WHOLE / MEASURES the pull
+> from its centre (essayistic->scene, END OF ACT ONE). Find where the tearing begins (sets up Act Two: the trail
+> west). Do NOT stack a third deliberate-anaphora beat (evaluator caution; hold to <=2).
 > Ch.5 "What She Will Not Do" FINALIZED (5,230w) — book-evaluator PASS (Floor 8.5/avg 8.84, Casual 8/10 holds);
 > continuity-guardian CLEAN (primary-source mode vs the new ENTITY_STATE; 0 crit/0 warn/1 minor).
 > ⚠ STRUCTURAL RE-TASK (evaluator note): Ch.5 pulled the BINDING "the pull points at the source = at HER" reveal

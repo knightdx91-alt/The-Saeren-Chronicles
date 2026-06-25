@@ -54,6 +54,14 @@ ALLOWLIST = [
     "to hold both halves",
     "cold edge of the world",
     "the deaths with no wound",
+    # Ch.5 deliberate recurring refrains (intentional, load-bearing):
+    "the warmth thinned toward and did not reach",   # the Ch.1 re-read-reward callback, reprised at the climax
+    "tell the difference from the inside between you", # Amber's signature evolving moral question (the book's spine)
+    "toward the warmth she had become",               # the binding pull-mechanic phrase (Horrors pulled to the source)
+    "place the warmth thinned toward and",            # leading fragment of the same Ch.1 callback refrain
+    "you tell the difference from",                   # leading fragment of Amber's signature question refrain
+    # Ch.6 deliberate bookend refrain (the chapter's resolve, stated twice on purpose):
+    "would go to the source",                         # "She would go to the source." — the Ch.6 END-hook refrain
 ]
 
 # n-gram repetition settings

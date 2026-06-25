@@ -47,20 +47,21 @@ phase:
 
 chapters:
   total_planned: 22              # 3 acts: Unsettled World (1–7) / The Pull (8–15) / Balance (16–22)
-  completed: [1, 2, 3, 4, 5]     # Ch.1-5 finalized, gates clean, on main
+  completed: [1, 2, 3, 4, 5, 6]  # Ch.1-6 finalized, gates clean, on main
   scores:
     1: {floor: 8.5, average: 8.9, verdict: PASS, continuity: "0 critical (Raizen-eyes WARN fixed vs Bk2 Ch.19)"}
     2: {floor: 8.5, average: 8.79, verdict: PASS, continuity: "0 critical/1 optional (softened); Death symbol correctly absent"}
     3: {floor: 8.5, average: 8.84, verdict: PASS, continuity: "0 critical/0 warning/2 minor; temptation named; Death symbol correctly reserved for Ch.4"}
     4: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "CRIT-001 (Death symbol taught by Raizen) FIXED -> reframed to first USE, Drake taught it Bk2 Ch.8; re-verified clean. Casual momentum 7->8"}
     5: {floor: 8.5, average: 8.84, verdict: PASS, continuity: "0 critical/0 warning/1 minor (primary-source mode vs ENTITY_STATE). BINDING pull-reveal (Horrors pulled to the source=her) LANDED here, pulled fwd from outline Ch.7"}
+    6: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/2 minor. Sela (miller's wife) drained; half-sight cost paid; Casual 8->8.5; resolve to go to the source cavern"}
 
 genesis_score:
   current_floor: 8.5
   current_average: 8.85
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5]
+  chapters_passed: [1, 2, 3, 4, 5, 6]
   chapters_escalated: []
 
 guardrails:
