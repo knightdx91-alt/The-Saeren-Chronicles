@@ -2,7 +2,14 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.5 ("What She Will Not Do") — Ch.1–4 DONE
+## ▶ RESUME HERE: draft Ch.6 ("The Cost of Half-Sight") — Ch.1–5 DONE
+> Ch.5 "What She Will Not Do" FINALIZED (5,230w) — book-evaluator PASS (Floor 8.5/avg 8.84, Casual 8/10 holds);
+> continuity-guardian CLEAN (primary-source mode vs the new ENTITY_STATE; 0 crit/0 warn/1 minor).
+> ⚠ STRUCTURAL RE-TASK (evaluator note): Ch.5 pulled the BINDING "the pull points at the source = at HER" reveal
+> FORWARD from outline.md's Ch.7 (end-of-Act-One) slot, and confirmed it fully. **Ch.7 must be re-tasked from
+> *reveal* to *go-to-the-source-and-MEASURE / stand at the centre of the pull* so Act One's back third does not
+> re-reveal what the reader already has.** Ch.6 = "The Cost of Half-Sight" (chronological/ACTION ~4,800) is next.
+> CAUTION (evaluator): do not stack a third deliberate-anaphora beat per chapter in Ch.6-7.
 > Ch.4 "The Easy Mark" FINALIZED (5,095w) — book-evaluator PASS (Floor 8.5/avg 8.86); event-momentum
 > RESTORED (Casual 7->8). continuity-guardian caught CRIT-001 (Death symbol wrongly taught by Raizen as
 > new) -> book-editor REFRAMED to first USE of a symbol Drake taught her (Bk2 Ch.8); re-verified clean.
