@@ -47,7 +47,7 @@ phase:
 
 chapters:
   total_planned: 22              # 3 acts: Unsettled World (1–7) / The Pull (8–15) / Balance (16–22)
-  completed: [1, 2, 3, 4, 5, 6, 7, 8]   # Ch.1-8 finalized, gates clean, on main (Act Two open)
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9]  # Ch.1-9 finalized, gates clean, on main
   scores:
     1: {floor: 8.5, average: 8.9, verdict: PASS, continuity: "0 critical (Raizen-eyes WARN fixed vs Bk2 Ch.19)"}
     2: {floor: 8.5, average: 8.79, verdict: PASS, continuity: "0 critical/1 optional (softened); Death symbol correctly absent"}
@@ -57,13 +57,14 @@ chapters:
     6: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/2 minor. Sela (miller's wife) drained; half-sight cost paid; Casual 8->8.5; resolve to go to the source cavern"}
     7: {floor: 8.5, average: 8.87, verdict: PASS, continuity: "0 critical/0 warning/2 minor. END OF ACT ONE. Cavern matched Bk1 verbatim; differential measured vastly wider+ACCELERATING; re-task OK (no axis re-reveal); turn WEST. Act One coheres."}
     8: {floor: 8.5, average: 8.89, verdict: PASS, continuity: "0 critical/0 warning/2 minor. ACT TWO opens. Marick+Fen on-page (match Bk2 Ch.20 seed; Marick OPENER alive w/ new curiosity; Fen planted); void abstract; symptom-not-cause nailed (closing portal does NOT slow pull). Characters 9.0; Casual 8.5"}
+    9: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/1 minor. Drake+Varissa on-page (verified vs Bk2 Ch.7/8/19); cosmology=BALANCE named (no mark for a pressure; held not won); no axis re-reveal. Characters 9.0 (Varissa); Casual 7.5 intentional valley before Ch.10 gut-punch"}
 
 genesis_score:
   current_floor: 8.5
   current_average: 8.85
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8]
+  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9]
   chapters_escalated: []
 
 guardrails:

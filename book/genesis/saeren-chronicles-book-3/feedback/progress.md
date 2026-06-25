@@ -2,7 +2,15 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.9 ("Drake's Daughter, Again") — Ch.1–8 DONE
+## ▶ RESUME HERE: draft Ch.10 ("Absence Drawn to Presence") — THE GUT-PUNCH (~50%) — Ch.1–9 DONE
+> Ch.9 "Drake's Daughter, Again" FINALIZED (5,487w) — evaluator PASS (Floor 8.5/avg 8.86, Characters 9.0=Varissa);
+> continuity CLEAN (Drake/Varissa verified vs Bk2 Ch.7/8/19). Cosmology=BALANCE named (void=counterpart; mark
+> closes a door not a pressure; can't be closed/won, only HELD; "it has your name on it"). No axis re-reveal.
+> NOTE: ENTITY_STATE detailed through Ch.8; Ch.9+10 to be folded in TOGETHER after Ch.10 (batched). Drake+Varissa
+> now ON-PAGE in Bk3 (add at next tracker pass).
+> Ch.10 = "Absence Drawn to Presence" (fragmented->clear, ~5,000) THE GUT-PUNCH (~50%): the full first-person
+> working-out of what she did — the rebirth IS the wound; balance-not-victory crystallizes as personal cost.
+> Keep anaphora <=2; ground texture (#18 watch); cut camera on any horror.
 > Ch.8 "The Man Who Picked Up the Chalk" FINALIZED (5,854w) — evaluator PASS (Floor 8.5/avg 8.89, Characters 9.0,
 > Casual 8.5); continuity CLEAN (Marick matches Bk2 Ch.20 seed; Fen planted; void abstract; symptom-not-cause spine correct).
 > Marick FOUND, portal closed, left ALIVE with a new dangerous curiosity ("the first one who'll work out what I am") = live thread.

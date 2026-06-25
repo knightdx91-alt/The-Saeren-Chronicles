@@ -73,6 +73,14 @@ ALLOWLIST = [
     "cold working part of her",                        # canon: "the cold working part" — Viridia's arithmetic-self (foundation trait; Ch.1/8)
     "against the warmth she had",                      # binding pull-mechanic: the cold leaning against the warmth she became (Ch.7/8)
     "whole edge of the world",                         # binding scale-refrain: the WHOLE rim leaning in (the Ch.7 measurement; Ch.7/8)
+    # Ch.9 (Drake's cosmology) deliberate spine refrains (BINDING: balance not victory; no mark for a pressure):
+    "you do not draw a symbol",                        # the central limit: the mark closes a DOOR, not a pressure (Ch.5/7/8/9)
+    "do not draw a symbol against",                    # same spine fragment
+    "draw a symbol against the",                       # same spine fragment
+    "there is no mark for",                            # the chapter's load-bearing answer: a pressure has no closing mark (Ch.7/9)
+    "past a glass of water",                           # the Ch.7 whole-sight scale measurement refrain (the sea past a glass; Ch.7/8/9)
+    "every living core there is",                      # canon phrase for the rebirth's reach (Ch.5/9)
+    "the cold past the rim",                           # canon term for the abstract void/counterpart (Ch.8/9)
 ]
 
 # n-gram repetition settings
