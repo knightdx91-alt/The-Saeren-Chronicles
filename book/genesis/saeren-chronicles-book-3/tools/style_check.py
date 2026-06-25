@@ -46,6 +46,14 @@ ALLOWLIST = [
     "the cold working part",
     "she filed it",
     "the rest of both your lives",
+    # established cross-chapter voice motifs (Ch.1/2/3) and Ch.3 deliberate motifs
+    "survive the choosing",
+    "arithmetic so the rest",
+    "rest of her could survive",
+    "long table behind",
+    "to hold both halves",
+    "cold edge of the world",
+    "the deaths with no wound",
 ]
 
 # n-gram repetition settings
