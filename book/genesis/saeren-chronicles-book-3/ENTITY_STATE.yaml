@@ -525,7 +525,7 @@ open_threads:
   - { thread: "the void-rim differential", state: "widened 'a shade' (Bk2 Ch.20); read wider than remembered as Viridia's sight returns. Abstract only — no entity." }
   - { thread: "Bella's-name thread", state: "warm, unfollowable, runs down into the source; Viridia ATTEMPTS to follow it at a cost (~Ch.13 personal climax — STATE.yaml). Tied to the off-pattern family-tree name." }
   - { thread: "the family-tree name that doesn't fit", state: "Lightwell's scored-out three words; unreadable; held for Bk3 (and the wider trilogy/void thread)." }
-  - { thread: "Raizen's elemental affinity", state: "all elements/prismatic (Bk2 ruling) — listed as still-open in CLAUDE.md; unusual range in human form. FLAG: STATE.yaml resolves it prismatic; CLAUDE.md still lists it open — reconcile if it becomes load-bearing." }
+  - { thread: "Raizen's elemental affinity", state: "RESOLVED 2026-06-25: prismatic / all elements (author ruling). STATE.yaml + CLAUDE.md + ENTITY_STATE now agree." }
   - { thread: "Mrs. Zoran's status", state: "RETURNS per author (responsible counterweight to Marick) but exact escape-from-Hazel beat OPEN; not yet on-page. needs_review entity." }
   - { thread: "the time-skip length", state: "CONFIRMED ~1 YEAR (so she is 16; sight returned across the year)." }
   - { thread: "Pact + Dangris (Heart of the Spear)", state: "resolved lightly on-page / folded into the balance finale (author 2026-06-24)." }
@@ -536,7 +536,7 @@ open_threads:
 # CONFLICTS DETECTED (flag only — do not resolve)
 # ============================================================================
 conflicts: []   # No on-page contradictions in Bk3 Ch.1-4 against inherited canon.
-# Note (not a prose conflict): STATE.yaml lists Raizen's affinity RESOLVED (prismatic) while
+# Raizen's affinity: RESOLVED prismatic/all-elements (2026-06-25) — docs reconciled.
 # CLAUDE.md lists it still-open. Surfaced under open_threads for a human to reconcile.
 
 knowledge_gaps: []   # No information-flow violations found in Ch.1-4.

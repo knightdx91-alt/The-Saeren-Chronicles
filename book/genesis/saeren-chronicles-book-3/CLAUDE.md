@@ -100,8 +100,8 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
   was for the private 14→15 turn-beat; verified Book Two has no Viridia age-number on-page after the r6 fix.)
 
 ## Still-open author decisions (ask, don't invent — see STATE.yaml)
-- Raizen's elemental affinity; pact-and-Dangris; **Mrs. Zoran's status** (survival after Hazel unconfirmed);
-  the **time-skip length** (needs ~a year, not a few months, for her to be 16).
+- pact-and-Dangris; **Mrs. Zoran's status** (survival after Hazel unconfirmed); the **time-skip length**
+  (needs ~a year, not a few months, for her to be 16). (**Raizen's affinity RESOLVED 2026-06-25: prismatic / all-elements.**)
 
 ## Status (update as you go)
 - Scaffolded + seeded + architect pass done (foundation.md + outline.md, 22 ch). Author decisions locked.
