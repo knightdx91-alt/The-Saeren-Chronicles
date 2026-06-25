@@ -2,7 +2,13 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.3 ("A City With No Head") — Ch.1 & Ch.2 DONE
+## ▶ RESUME HERE: draft Ch.4 ("The Easy Mark") — Ch.1–3 DONE
+> Ch.3 "A City With No Head" FINALIZED (5,123w) — book-evaluator PASS (Floor 8.5/avg 8.84),
+> continuity CLEAN (0 crit/0 warn). Temptation named; end hook = she feels how easy it would be.
+> ⚠ EVALUATOR ACT-WATCH: Ch.3 was the 2nd consecutive interior/low-event chapter (Casual 7/10).
+> **Ch.4 MUST restore event-momentum** — it is the Death-symbol's FIRST portal-close (the eerie
+> 'easy/asks nothing' close that contrasts Ch.2's costly close). Make it land as event, not essay.
+
 **Ch.1 + Ch.2 FINALIZED via the AUTHENTIC agent pipeline + committed/pushed to `main` (2026-06-24).**
 Both gate-clean (style_check RESULT: clean, em-dash 0, rhythm exit 0, ≥4,600w), evaluator Floor 8.5
 PASS each, continuity-guardian clean. Current build floor 8.5 / avg ~8.85.
