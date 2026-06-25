@@ -11,7 +11,7 @@ meta:
   last_updated_by: "entity-tracker"
   mode: UPDATE
   chapters_tracked_note: >
-    DETAILED THROUGH Ch.7 (END OF ACT ONE). Ch.5: Amber's evolved moral question recorded; the BINDING
+    DETAILED THROUGH Ch.8 (ACT TWO OPENER). Ch.5: Amber's evolved moral question recorded; the BINDING
     pull-reveal ARRIVED on-page (Horrors pulled toward the source = Viridia; she caused the tears);
     western-trail KNOWLEDGE + a direction in the pull; intent to portal to the source-cavern. Ch.6:
     Sela (formerly-unnamed miller's wife) NAMED + DEAD (drained when half-sight read the rim a beat too
@@ -20,8 +20,15 @@ meta:
     source-cavern + read the rim WHOLE for the hour; void/source differential measured VASTLY WIDER than
     the Bk2 Ch.20 'shade' and ACCELERATING; located a MADE cut with a leading edge out in the WEST
     (abstract — no entity/name; Marick/Fen hand stays off-page); sight returns to whole ONLY at the fount.
-    Elapsed: ~2 years since Book One / ~1 year since the rebirth.
-  chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
+    Ch.8 (ACT TWO opens): journey into the let-go GREY WEST to the made cut; MARICK flipped from off-page
+    to ON-PAGE — the OPENER FOUND at a squat stone lab (the-lab), a sympathetic-and-culpable ~40-yr 'candle'
+    handed the whole dark half in the rebirth, who read the worn warning ('the door, once opened, does not
+    close') and opened the fourteenth severed-half working anyway; FEN introduced ON-PAGE (his ~17-yr
+    assistant, planted-not-telegraphed). Viridia CLOSED Marick's made door with the Death symbol (cost
+    nothing) — but the GUT lands on-page: closing it did NOT slow the pull (symptom-not-cause; the door is
+    markable, the differential = pressure = Viridia is not). Marick LEFT ALIVE with a new dangerous
+    curiosity (live thread, not closed). Elapsed: ~2 years since Book One / ~1 year since the rebirth.
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7, 8]
   chapters_planned_total: 22
   seeded_from: "research/book2-ENTITY_STATE.yaml (Book Two end state, last_updated_chapter 20)"
   override_layer: "research/roadmap-vs-books-reconciliation.md (finished books win over the pre-final roadmap)"
@@ -216,31 +223,67 @@ characters:
     aliases: []
     importance: supporting
     needs_review: false
-    introduced: "Bk2 Ch.20 (final beat seed); pays off in Book Three (NOT YET on-page in Bk3 Ch.1-4)"
+    introduced: "Bk2 Ch.20 (final beat seed); FIRST ON-PAGE Bk3 Ch.8"
+    physical:
+      age: { value: "~40", at_chapter: 8, source: "ch-08:p57" }
+      build: { value: "small, narrow in the chest", source: "ch-08:p55-57" }
+      hair: { value: "balding at the front, grown long at the back", source: "ch-08:p57" }
+      distinguishing:
+        - { value: "spectacles (pushed up onto the forehead and forgotten, then down the nose)", source: "ch-08:p57-59" }
+        - { value: "lifelong book-stoop (bent over books held too close to a lamp)", source: "ch-08:p57" }
+        - { value: "chalk worn into the creases of his knuckles (a thousand slates' worth); ink-stained hands", source: "ch-08:p57" }
+      eyes: { value: "tired, clever, faintly/permanently aggrieved", source: "ch-08:p59" }
     description: >
       A forty-year 'candle' (thin true-light gift) in a low stone laboratory far to the WEST; resented his
-      small gift; hoarded bound volumes of deep severed-half mathematics. In the rebirth's grey morning he
-      was handed the WHOLE DARK HALF of the gift unearned (Viridia made every living core whole, his too)
-      and does not know why.
+      small gift his whole life; hoarded bound volumes of deep severed-half mathematics. In the rebirth's
+      grey morning (a fortnight before Ch.8) he was handed the WHOLE DARK HALF of the gift unearned
+      (Viridia made every living core whole, his too) and does not know why.
+    knowledge:
+      - { fact: "opened 'the fourteenth' severed-half working from the old volumes (unclosable for 600 years because it needs BOTH halves held at once, which no one held until the rebirth)", learned: "ch-08:p85 (account)", method: "discovered" }
+      - { fact: "read a WARNING under the oldest symbol, worn near to nothing; could make out perhaps half: 'The door, once opened, does not close.' Decided it didn't matter ('I would not take my caution from the hand that cut you') and PICKED UP THE CHALK a fortnight ago", learned: "ch-08:p95-103", method: "discovered" }
+      - { fact: "has been trying and FAILING to close his own door for the fortnight since ('that much of the warning was true')", learned: "ch-08:p103", method: "discovered" }
+      - { fact: "by chapter's end: SENSES Viridia is reading 'something larger' than his door (felt 'something not change' when his door went); newly fixated — 'What are you listening to?'", learned: "ch-08:p145", method: "inferred" }
+    relationships:
+      fen: { type: "his assistant", established: "ch-08:p49-51", current_status: "Fen came down 'fractionally on the side of the strangers'" }
     role_book3: >
-      RESOLVED (author 2026-06-24): MARICK is the one who OPENS the bad working/portal — finds the old
-      severed-half workings now open to him, reads a near-worn-away WARNING under an old symbol, decides
-      it doesn't matter, and PICKS UP THE CHALK. He is the Horror/portal TRIGGER. Distinct from Fen.
-    status: "off-page so far in Bk3 (the tears in Ch.1-4 are the consequence of his working); the bad mistake itself is UNEXPLAINED on purpose."
+      RESOLVED (author 2026-06-24): MARICK is the one who OPENS the bad working/portal — the OPENER /
+      proximate spark, NOT a pre-existing villain. Rendered ON-PAGE (Ch.8) as sympathetic-AND-culpable:
+      a tired clever man who reasoned exactly as Viridia reasons ('you do not take your caution from the
+      hand that cut you'), picked up the chalk over the half-read warning. Distinct from Fen.
+    status: >
+      ON-PAGE as of Ch.8 — FOUND and confronted at the-lab in the grey west. His made door CLOSED by
+      Viridia with the Death symbol (cost her nothing). LEFT ALIVE, not subdued, ending the chapter with
+      a NEW dangerous curiosity lit ('the first one who'll work out what I am' — Viridia, ch-08:p153).
+      A LIVE thread, NOT closed: the proximate cause is shut and irrelevant, the man is not neutralized.
 
   fen:
     canonical_name: "Fen"
     aliases: []
     importance: supporting
     needs_review: false
-    introduced: "NEW to Book Three (not yet on-page in Ch.1-4)"
-    description: "Marick's ASSISTANT in the lab."
+    introduced: "NEW to Book Three; FIRST ON-PAGE Bk3 Ch.8"
+    physical:
+      age: { value: "~17 (young enough the eye reaches for 'girl' first, then corrects)", at_chapter: 8, source: "ch-08:p41" }
+      build: { value: "slight", source: "ch-08:p41" }
+      distinguishing:
+        - { value: "ink on the side of the writing hand (writes left to right); a smear of pale dust across one cheek", source: "ch-08:p41" }
+    description: >
+      Marick's ASSISTANT in the lab (the-lab). An ordinary 'candle'-worth true gift plus the new dark half
+      everyone now carries, untouched/unlit. Door-wary, then oddly relieved that bad news had finally come.
+    traits:
+      - { trait: "ashamed of checking a hand (the old cruel reflex he is ashamed to have) — 'the most hopeful thing she had seen in three days'", source: "ch-08:p47", mutable: true }
+    relationships:
+      marick: { type: "Marick's assistant", established: "ch-08:p49-51", current_status: "present in the lab; weighed the strangers against Marick and came down 'fractionally on the side of the strangers' (ch-08:p51, p149)" }
     role_book3: >
       RESOLVED (author 2026-06-24): FEN is the assistant who RUNS at the very end — the roadmap's
       final-image character. In the binding final image: a tentacle snaps back through a portal, severed;
       Fen runs; and Viridia, far away, feels a VOID for the first time. (Do NOT explain — the thread to
       Masters of the Void.) Two distinct people, one thread: Marick OPENS it / Fen SURVIVES + runs.
-    status: "not yet on-page; introduce as Marick's lab assistant."
+    status: >
+      ON-PAGE as of Ch.8 — introduced as Marick's lab assistant. PLANTED ONLY: two forward-looking seeds
+      laid by tone, NOT cashed ('which she would, much later, on a worse day, be glad past saying that she
+      had seen,' p51; 'filed it away in whatever low place a boy keeps the things he is not ready to know,'
+      p149). His FATE IS A SEED — NOT resolved/known; keep the binding-final-image note un-cashed to the finale.
 
   mrs-zoran:
     canonical_name: "Mrs. Zoran"
@@ -364,6 +407,18 @@ locations:
       - { fact: "FACTIONS, all 'the same faction in different coats': (1) restore the old order; (2) want NO order; (3) the WORST — a 'stronger hand than the old one' to hold both halves for everyone (= the council's argument again).", source: "ch-03:p33" }
       - { fact: "new kind of killing: 'deaths with no wound' (a hand reaching into a thing's warmth and taking). The river district has started CHECKING people's hands at bridges (the sorting growing back).", source: "ch-03:p31, ch-03:p63" }
       - { fact: "news reaches Wend a WEEK STALE via two kinds of broadsheet (old grey 'Standard'/'Crown Register' vs. mismatched-type faction sheets).", source: "ch-03:p7" }
+
+  the-lab:
+    canonical_name: "the lab (Marick's laboratory)"
+    aliases: ["the low stone building", "the working room"]
+    introduced: "ch-08"
+    facts:
+      - { fact: "a LOW, SQUAT, SQUARE stone building with a slate roof, at the bottom of a 'long bald valley the colour of a slate roof' in the let-go GREY WEST (past where the slow line stops). Once a granary / pumping-house / county records office before the county let go of itself. Chimney smoking, shutters drawn, a foot-path worn to it across the bald grass.", source: "ch-08:p23" }
+      - { fact: "NOT hidden — sits in plain afternoon light, no ward, no road (the 'first wrong thing': a thing that tears the world ought to hide). Thematically deliberate.", source: "ch-08:p21-23" }
+      - { fact: "interior = a long-used working room: slates leaned/stacked/hung, every face crammed with cramped mathematics; too many bound volumes for a candle's wage (ranked, re-ranked, broken-spined); a central bench under a hung lamp holding the 'master slate' the others all feed toward.", source: "ch-08:p75-77" }
+      - { fact: "Marick's MADE tear stood against the back wall: a vertical man-high seam, no frame, no edge, world frayed toward it, lamp-light going in and not coming back — the smallest tear yet and the WORST (drawn, not worn). CLOSED by Viridia with the Death mark — now 'a wall that had never had a door in it and did not remember one.'", source: "ch-08:p79-81, p115" }
+    distances:
+      - { to: "wend", value: "~3 days' travel west of the line's end; reached on foot + the few miles of the slow line that still ran", source: "ch-08:p7, p47" }
 
 # ============================================================================
 # OBJECTS / WORKINGS / RULES

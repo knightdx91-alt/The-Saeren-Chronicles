@@ -65,6 +65,14 @@ ALLOWLIST = [
     # Series-spine refrains carried Ch.5-7 (intentional, load-bearing):
     "and she did not weep",                           # the grief-held-inward guardrail refrain (no one sees Viridia cry)
     "to make the world whole",                        # the thematic-spine refrain (she wanted only to make the world whole)
+    # Ch.8 (Act Two open) deliberate character/voice motifs (load-bearing, recurring by design):
+    "he could not stop being",                        # Raizen's CANON trait (the light of what he is runs off him; Ch.1/2/8)
+    "and the bond carried what",                      # the True-Bond motif: the bond carries what her face/words will not (Ch.2/7/8)
+    "plainly and in few words",                       # Viridia's signature register for telling hard truths (Ch.6/7/8)
+    "she heard her own voice",                        # the "flat hard certainty over the part that doesn't believe it" tell (Ch.3/5/8)
+    "cold working part of her",                        # canon: "the cold working part" — Viridia's arithmetic-self (foundation trait; Ch.1/8)
+    "against the warmth she had",                      # binding pull-mechanic: the cold leaning against the warmth she became (Ch.7/8)
+    "whole edge of the world",                         # binding scale-refrain: the WHOLE rim leaning in (the Ch.7 measurement; Ch.7/8)
 ]
 
 # n-gram repetition settings
