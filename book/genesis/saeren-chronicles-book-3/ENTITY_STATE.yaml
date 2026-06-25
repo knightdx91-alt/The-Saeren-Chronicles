@@ -9,9 +9,19 @@ meta:
   book: "Book Three: The Weight of the Source"
   last_updated: "2026-06-25"
   last_updated_by: "entity-tracker"
-  mode: BUILD
-  chapters_tracked_note: "through Ch.6 (Sela/miller's-wife drained Ch.6; resolve to portal to source-cavern); was through Ch.5 (pull-reveal ARRIVED on-page Ch.5; western-trail known; elapsed since Book One ~2 years / since rebirth ~1 year)"
-  chapters_tracked: [1, 2, 3, 4, 5, 6]
+  mode: UPDATE
+  chapters_tracked_note: >
+    DETAILED THROUGH Ch.7 (END OF ACT ONE). Ch.5: Amber's evolved moral question recorded; the BINDING
+    pull-reveal ARRIVED on-page (Horrors pulled toward the source = Viridia; she caused the tears);
+    western-trail KNOWLEDGE + a direction in the pull; intent to portal to the source-cavern. Ch.6:
+    Sela (formerly-unnamed miller's wife) NAMED + DEAD (drained when half-sight read the rim a beat too
+    late); two children orphaned; half-sight cost made concrete (sight trained on the far rim, misses
+    the near doorstep); resolve hardened to go to the source. Ch.7: portaled to the physical Book One
+    source-cavern + read the rim WHOLE for the hour; void/source differential measured VASTLY WIDER than
+    the Bk2 Ch.20 'shade' and ACCELERATING; located a MADE cut with a leading edge out in the WEST
+    (abstract — no entity/name; Marick/Fen hand stays off-page); sight returns to whole ONLY at the fount.
+    Elapsed: ~2 years since Book One / ~1 year since the rebirth.
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
   chapters_planned_total: 22
   seeded_from: "research/book2-ENTITY_STATE.yaml (Book Two end state, last_updated_chapter 20)"
   override_layer: "research/roadmap-vs-books-reconciliation.md (finished books win over the pre-final roadmap)"
@@ -61,7 +71,9 @@ characters:
     knowledge:
       - { fact: "she is whole, not broken; the severing was deliberate; she mended it for every living core at once (the rebirth)", learned: "Bk1/Bk2", method: "discovered" }
       - { fact: "knows + has USED the Death symbol (see objects/the-death-symbol) — does NOT learn it fresh in Bk3", learned: "Bk2 ch-08 (Drake taught); first used Bk2 ch-10", method: "told_by:drake" }
-      - { fact: "the Horrors are PULLED toward the source she became (not attacking) — the half-finished thought she keeps filing and refusing to let arrive", learned: "ch-01 onward, refuses to fully think it", method: "inferred" }
+      - { fact: "the Horrors are PULLED toward the source she became (not attacking) — ARRIVED on-page ch-05:p143-145 ('I made this. The pull is the rebirth.'); she lets the year-filed thought finish. The filing/refusal is no longer her posture from Ch.5 forward.", learned: "ch-01 onward (refused to think it), FULLY REALIZED ch-05", method: "inferred + now fully realized (ch-05)" }
+      - { fact: "the tears form a WESTERN TRAIL marching east toward the warmth; the pull runs west/down to the source; therefore she resolves to PORTAL to the source-cavern to read the rim from its centre", learned: "ch-05:p103-159", method: "inferred" }
+      - { fact: "read the rim WHOLE from the fount (Ch.7): the differential is NOT 'a shade' but VASTLY wider (the WHOLE rim even-leaning toward the source — 'the sea is past a glass of water') AND ACCELERATING (rate steepening season over season); the counted tears were ~1/100th of it. Found a single NON-even fast-worn place — a 'cut' with a leading edge — far to the GREY WEST: a MADE cause (no entity/name; the Marick/Fen hand stays off-page). Resolves Act One: scale confirmed + a direction (west).", learned: "ch-07", method: "witnessed (whole sight at the fount)" }
       - { fact: "there is a widened void-rim / cold edge of the world only she can read; tears wear open along it, escalating in number", learned: "ch-01:p123 (first), ch-02:p121, ch-04:p129", method: "witnessed" }
       - { fact: "the capital is leaderless; factions; the 'stronger hand' argument (take the dark half from those who can't be trusted) — correct AND monstrous", learned: "ch-03 (stale broadsheets)", method: "discovered" }
     arc_book3: >
@@ -69,9 +81,18 @@ characters:
       Vale's plea to remake the city's cores (monstrous-easy, ch-03) AND the Death symbol (good-easy, ch-04).
       Central tension: a free GOOD thing is how you lose yourself, not the obvious monstrous one. Balance,
       not victory, is the destination (binding).
+    status_ch7: >
+      END OF ACT ONE. Ch.5 RESOLVES (intellectual) to portal to the source-cavern; Ch.6 HARDENS it
+      (Sela's death turns worked-out resolve into grief-driven commitment — 'She would go to the source');
+      Ch.7 she PORTALS there, reads the rim whole for the hour (sight returns to whole ONLY at the fount,
+      guttering back to half on return), confirms the scale + ACCELERATION, and locates a MADE cut to the
+      WEST. Act Two intent: GO WEST, into the chaos, toward the made-worse. She did NOT put her hand in
+      the pool (distinguished from the rebirth; promised Raizen she would come up and not stay down 'to be
+      sure'). Carries one new name (Sela) in the low place.
     open_threads:
+      - "GOING WEST (Act Two): toward the made cut / the hand at the rim out in the grey west (Marick, off-page)."
       - "ATTEMPTS to follow Bella's-name thread, at a cost (~Ch.13 personal climax — STATE.yaml)."
-      - "Sight still recovering across the book."
+      - "Sight still recovering across the book (whole ONLY at the fount; half elsewhere; the near doorstep dim)."
 
   raizen:
     canonical_name: "Raizen"
@@ -182,6 +203,7 @@ characters:
     traits:
       - { trait: "DEFLECTS the true thing in jokes/crossness (dresses the true thing in the small cross thing — beans, etc.)", source: "ch-01:p103, ch-02:p103", mutable: false }
       - { trait: "THE MORAL CONSCIENCE — 'how do you tell the difference, from the inside, between you and them?' (the question with teeth)", source: "ch-01:p87", mutable: false }
+      - { trait: "her questions GROW — she asks, then carries it through the ordinary days until it grows teeth, then asks again bigger. EVOLVED FORM (ch-05:p65): the old answer ('because you don't decide for people') broke at the rebirth, so 'now that you can FEEL every living core there is, what actually STOPS you from running them all? Not should — what STOPS you, from the inside?' Viridia has no answer; the not-having is the whole of it.", source: "ch-05:p51-69", mutable: true }
       - { trait: "goes quiet/useful the instant it counts; useful at exactly the cost of herself and no less", source: "ch-02:p77", mutable: false }
       - { trait: "the keeper of the carrying — 'I see you carrying it'; demands the true thing 'at the start, not at noon'", source: "ch-01:p103, ch-04:p87", mutable: false }
     backstory: "parents murdered at 8; shattered own light core to say goodbye; core sustained by a Lightwell-linked necklace"
@@ -241,10 +263,21 @@ named_villagers:
     location: "third house up the lane, Wend"
     status: "DEAD (ch-01) — failing all winter, core thinned and guttered like a lamp running dry; a NATURAL/clean death (a window closing), NOT a drained death. Viridia felt him go before the knock; Alice went to him."
     note: "his clean death is the on-page CONTRAST against the WRONG (drained) death that opens the tear-arc."
-  the-millers-wife:
-    canonical_name: "the miller's wife (unnamed)"
+  sela-the-millers-wife:
+    canonical_name: "Sela (the miller's wife)"
+    aliases: ["the miller's wife"]
     importance: minor
-    status: "ALIVE — one of Alice's four bowl-of-water students; 'my mother would have called the dark half a sin' (ch-01:p77)."
+    status: >
+      DEAD (ch-06) — DRAINED death. A small tear opened at the MILL in daylight (the smallest yet, no
+      taller than a sitting child, by the grain bins); Viridia's HALF-SIGHT read it a beat too late
+      (her sense went north to the rim first, found it quiet, and that quiet cost the beat). NAMED on-page
+      at last — 'Sela' — by her husband (the miller) at the long table; Viridia made herself ask + take +
+      hold the name (mirrors the dells-boy name-taking, Ch.4). Camera CUT on the act per YA tone ('Viridia
+      did not look at the worst of it'); the horror lives in the aftermath (the empty hand, the flour, the
+      children, the husband saying the name twice). With WHOLE sight Viridia would have caught the seam a
+      day/hour before.
+    backstory: "one of Alice's four bowl-of-water students; came to the long table four afternoons in five; 'the dark half is a sin my mother wouldn't have held with,' said with her short laugh, every time (ch-01:p77 / ch-06:p25)."
+    leaves_behind: "two children orphaned (a girl ~6 and a smaller boy who offered Amber his bread); taken in by the woman three houses up (ch-06). The husband = the miller (raw torn grief; grief is not a tear, no mark for it)."
   dells-boy:
     canonical_name: "Dell's boy (unnamed child)"
     importance: minor
@@ -309,6 +342,8 @@ locations:
       - { fact: "the place at the edge of everything where the world's warmth thins to nothing and the abstract cold (the void) begins. Only Viridia can read it, and only with returning sight. NOT a place you travel to — a quality at the edge of the source-sense.", source: "ch-01:p123" }
       - { fact: "the void-rim DIFFERENTIAL widened 'a shade' as the weave ran full after the rebirth (Bk2 Ch.20 seed); the basis for the 'pressure differential' that PULLS the Horrors. ABSTRACT ONLY — no entity, no void woman.", source: "Bk2 Ch.20 / binding_beats" }
       - { fact: "TEARS wear open along the rim — worn-open places, NOT made doors. Count is ESCALATING (3-4 felt at ch-02; ~6-7+ and rising at ch-04). The rim is WEARING; the whole edge is leaned on at once.", source: "ch-02:p123, ch-04:p129" }
+      - { fact: "WESTERN TRAIL (ch-05): laid on one map by time-of-opening, the tears are not a scatter but a TRAIL — earliest furthest west, newest nearest — a thing that began far in the grey west and is working EAST toward the warmth (hamlet + Hallow bridge + Wend = stops on its road). The PULL itself also has a direction: west/down to the source = to Viridia.", source: "ch-05:p103-135" }
+      - { fact: "WHOLE-SIGHT READING from the fount (ch-07): the rim differential is NOT 'a shade' (Bk2 Ch.20) but VASTLY wider — the WHOLE edge of the world leaning in at once toward the source ('the sea is past a glass of water') AND ACCELERATING (a steepening curve, faster each season — a thing that feeds on its own growing). The counted tears were ~1/100th of it. The leaning itself is WEIGHT (no one's hand; the bill of the rebirth) and has NO mark for it. BUT one place is non-even: a fast-worn CUT with a clean leading edge (the shape of a thing being MADE, not worn) far to the GREY WEST. Sight reads whole ONLY here at the fount; guttering back to half on return.", source: "ch-07:p69-99" }
 
   the-hallow-bridge:
     canonical_name: "the Hallow bridge"
@@ -366,13 +401,15 @@ objects:
         - "Bk2 Ch.17: NOT spent — she took her hand off Jazen's arm and turned to the source instead."
         - "Bk3 Ch.2 (FIRST hamlet tear): NOT used — she closed that tear the COSTLY way (see the-two-tear-close-methods); she had carried the mark a year and refused to draw it."
         - "Bk3 Ch.4 (Hallow bridge, SECOND tear): FIRST USE TO CLOSE A TEAR — drew the mark, the tear ceased to be a tear, cost her NOTHING, every ounce of warmth still whole. This is the eerie 'asks-nothing' close, contrasted against the costly close. Raizen: 'do not enjoy how little it costs.' Her reaction: RELIEF, then 'That was easy. I could do that all day' — and 'I already want to do it again.'"
+        - "Bk3 Ch.6 (the MILL tear): USED to close the smallest tear yet; her hand drew it 'already in it' from muscle memory ('her hand knew the mark now... had not forgotten the mark since the bridge'). Cost nothing, took a breath — 'a breath too long' (too late to save Sela). Free-method close is now the established REFLEX; she even drew it once in the dark, unbidden, on her own blanket (ch-06:p133). No re-learning; Drake NOT re-named."
+        - "Bk3 Ch.7: referenced as a possessed/habitual working ('the mark she did now without choosing it,' p87); LIMIT restated — 'you do not draw a symbol against yourself': the mark ends a DOOR, but the pull/leaning is a pressure (= her), not a door, and the even rim-differential has no mark for it."
       CRITICAL_CORRECTION: >
         Viridia KNOWS and has USED the Death symbol coming INTO Book Three. She does NOT learn it fresh in
         Bk3, and it was NOT taught by Raizen. (A continuity error 'Death symbol taught by Raizen' was caught
         as CRIT-001 on Ch.4 and reframed to FIRST USE; Drake taught it, Bk2 Ch.8 — STATE.yaml scores.4.)
         In Bk3 Ch.4 Raizen only REMINDS/URGES her to draw the mark his father set in her hand.
-    danger: "It asks NOTHING. 'No one alive can make you afraid of a thing that does not hurt.' The FREE GOOD thing is how you lose yourself (Raizen, ch-04:p79) — you do not weigh what does not hurt. The Bk3 spine: she must BE the wall and 'count what it costs even when it costs nothing' (Alice, ch-04:p117)."
-    last_mentioned: "ch-04:p143"
+    danger: "It asks NOTHING. 'No one alive can make you afraid of a thing that does not hurt.' The FREE GOOD thing is how you lose yourself (Raizen, ch-04:p79) — you do not weigh what does not hurt. The Bk3 spine: she must BE the wall and 'count what it costs even when it costs nothing' (Alice, ch-04:p117). Ch.5 generalizes the lesson: 'there was never a wall on a thing that did not hurt' (ch-05:p81)."
+    last_mentioned: "ch-07:p87"
     resolution: null
 
   the-two-tear-close-methods:
@@ -391,8 +428,8 @@ objects:
         description: >
           The DEATH MARK. Asks NOTHING — the tear simply ceases to be a tear; full warmth retained. 'The
           mending asks everything... this asks nothing, and the gladness is the danger.' THAT is its danger.
-        used: ["Bk3 Ch.4 (the Hallow bridge tear)"]
-        source: "ch-04:p41, ch-04:p55-63"
+        used: ["Bk3 Ch.4 (the Hallow bridge tear)", "Bk3 Ch.6 (the mill tear — closed in a breath, 'a breath too late' for Sela)"]
+        source: "ch-04:p41, ch-04:p55-63, ch-06:p33"
     note: "The COSTLY vs FREE contrast is the moral engine of Bk3 Act One. Mending is the harder/safer thing because it hurts and thus gets weighed; the mark gets used 'all day' because it doesn't."
 
   the-horrors:
@@ -406,12 +443,15 @@ objects:
       'cold working part' that files everything finds no word for it (its own terror).
     KEY_FACTS:
       - { fact: "NOT attacking, NOT made doors — the tears are WORN-OPEN places (the weave leaned on from the far side until it parts). The Horror is the water; the tear is the drain.", source: "ch-02:p83" }
-      - { fact: "PULLED toward the source Viridia became — a PRESSURE DIFFERENTIAL vs the void (water finds a low place because the low place pulls; the direction is TOWARD the source = toward Viridia). This is the moral gut-punch: saving the world created its next threat. She keeps FILING this thought and refusing to let it arrive.", source: "ch-01:p135, ch-02:p85, binding_beats" }
+      - { fact: "PULLED toward the source Viridia became — a PRESSURE DIFFERENTIAL vs the void (water finds a low place because the low place pulls; the direction is TOWARD the source = toward Viridia). This is the moral gut-punch: saving the world created its next threat. ARRIVED on-page ch-05 (she finally lets the year-filed thought finish: 'I made this. The pull is the rebirth.'). Ch.7 (whole sight at the fount): the differential is the WHOLE rim leaning in at once — the counted tears are only the places the cloth ALREADY failed ('the wrecks the tide left'), ~1/100th of the even drawing-in; and it is ACCELERATING (rate steepening season over season).", source: "ch-01:p135, ch-02:p85, ch-05:p137-145, ch-07:p75-79, binding_beats" }
       - { fact: "not fought with the body/steel (it is the absence of body). Raizen draws its 'eye' by pouring out the brightest warmth in the field; once the tear is closed and it is cut off from the far side, it comes apart (silently).", source: "ch-02:p67, ch-02:p87" }
     tear_count:
       - { at: "ch-02", value: "3-4 faint along the rim (one further along, a current beginning)" }
       - { at: "ch-04", value: "~6-7 and rising, plus a fainter one beyond and another breath beyond that — opening FASTER than she can close them" }
-    last_mentioned: "ch-04:p143"
+      - { at: "ch-05", value: "~6-7 carried forward (no new count); REFRAMED from 'scatter/weather' to a WEST->EAST TRAIL with a directional PULL to the source (the earliest tears furthest west, the newest nearest; the thing is walking TOWARD Wend)." }
+      - { at: "ch-06", value: "six or seven + fainter ones beyond; now opening 'faster than her eye could find them' (the failure mode crossed from her HAND to her EYE). The MILL tear was the closest + smallest yet — the road reached the door (Sela)." }
+      - { at: "ch-07", value: "whole-sight reframe: the counted ~6-7 tears are 'perhaps a hundredth' of the WHOLE even-leaning rim; the tears are only the places already failed, not the threat itself. PLUS one NON-even fast-worn 'cut' with a leading edge far to the GREY WEST (a MADE cause)." }
+    last_mentioned: "ch-07:p99"
     resolution: null
 
   bellas-name-thread:
@@ -472,6 +512,22 @@ timeline:
     time: "still a half-day short of home (returning from the hamlet expedition)"
     season: "spring"
     note: "The SECOND tear/Horror at the Hallow bridge; FIRST use of the Death symbol to close a tear. END (that night, from the high garden wall): the tears have multiplied to ~6-7+ and are opening faster than she can close them."
+  - chapter: 5
+    time: "the SECOND MORNING after Vale's arrival (he leaves down the slow line); then that afternoon (the high wall, Amber's question); then after dark (the rim-reading, the pull-reveal)"
+    season: "spring"
+    note: "The BINDING pull-reveal ARRIVES on-page after dark ('I made this. The pull is the rebirth.'). The tears read as a WESTERN TRAIL. She resolves to portal to the source-cavern. No one told until morning."
+  - chapter: 6
+    time: "the morning after Ch.5 (tells them at the long table) — 'a Tuesday, or near enough'; the MILL tear opens before noon; that night, the high wall again"
+    season: "spring"
+    note: "Sela (the miller's wife) DRAINED at the mill — half-sight read it a beat too late. Resolve to go to the source HARDENS from worked-out to grief-driven. END: 'She would go to the source.'"
+  - chapter: 7
+    time: "the morning after (tells them; argues only the shape of the going); portal drawn at NOON from the high wall; returns 'late flat light of an afternoon' — the chamber-hour passes as a breath"
+    season: "spring"
+    note: >
+      END OF ACT ONE. Portals to the physical source-cavern, reads the rim WHOLE for the hour; confirms
+      the scale (whole rim leaning, vastly past the 'shade') + ACCELERATION + a WEST direction (a made cut).
+      END HOOK: go west, into the chaos, toward the made-worse. Series clock: ~2 years elapsed since Book One
+      / ~1 year since the rebirth (the almond tree has flowered twice; sight returning across the year).
 
 # ============================================================================
 # ORGANIZATIONS
@@ -521,9 +577,9 @@ locked_guardrails:
 # OPEN THREADS / MYSTERIES
 # ============================================================================
 open_threads:
-  - { thread: "Marick / the lab", state: "off-page; the Horror/portal TRIGGER (Bk2 Ch.20 seed — picked up the chalk over a worn warning). RESOLVED role: Marick OPENS the portal. The bad mistake itself UNEXPLAINED on purpose." }
+  - { thread: "Marick / the lab", state: "off-page; the Horror/portal TRIGGER (Bk2 Ch.20 seed — picked up the chalk over a worn warning). RESOLVED role: Marick OPENS the portal. The bad mistake itself UNEXPLAINED on purpose. Ch.5-7 establish its CONSEQUENCE on the rim: a made CUT with a leading edge in the grey WEST (ch-07) — but the hand/name stays OFF-page (Viridia explicitly refuses to invent a face: 'a hand she could not see and would not invent,' ch-07:p99). The west is now Act Two's destination." }
   - { thread: "Fen", state: "NEW to Bk3; Marick's assistant who RUNS in the binding final image. Not yet on-page." }
-  - { thread: "the void-rim differential", state: "widened 'a shade' (Bk2 Ch.20); read wider than remembered as Viridia's sight returns. Abstract only — no entity." }
+  - { thread: "the void-rim differential", state: "Bk2 Ch.20 = 'a shade'; ch-05 the pull-to-source REVELATION lands on-page (Viridia knows she is the cause); ch-07 (whole sight at the fount) MEASURES it VASTLY wider than the shade and ACCELERATING (whole rim even-leaning; ~100x the counted tears). Still ABSTRACT — no entity." }
   - { thread: "Bella's-name thread", state: "warm, unfollowable, runs down into the source; Viridia ATTEMPTS to follow it at a cost (~Ch.13 personal climax — STATE.yaml). Tied to the off-pattern family-tree name." }
   - { thread: "the family-tree name that doesn't fit", state: "Lightwell's scored-out three words; unreadable; held for Bk3 (and the wider trilogy/void thread)." }
   - { thread: "Raizen's elemental affinity", state: "RESOLVED 2026-06-25: prismatic / all elements (author ruling). STATE.yaml + CLAUDE.md + ENTITY_STATE now agree." }
@@ -536,11 +592,14 @@ open_threads:
 # ============================================================================
 # CONFLICTS DETECTED (flag only — do not resolve)
 # ============================================================================
-conflicts: []   # No on-page contradictions in Bk3 Ch.1-4 against inherited canon.
+conflicts: []   # No on-page contradictions in Bk3 Ch.1-7 against inherited canon (Ch.5/6/7 continuity reports all CLEAN: 0 critical, 0 warning).
 # Raizen's affinity: RESOLVED prismatic/all-elements (2026-06-25) — docs reconciled.
 # CLAUDE.md lists it still-open. Surfaced under open_threads for a human to reconcile.
+# Two MINOR non-blocking timeline notes (log-only): Ch.6 'a Tuesday, or near enough' (no hard weekday calendar
+# elsewhere — soft, uncontradicted); the '~2 years of Amber's questions' vs '~1 year since rebirth' are
+# internally consistent (Amber's questioning relationship predates the rebirth; the core-feeling = ~1 year).
 
-knowledge_gaps: []   # No information-flow violations found in Ch.1-4.
+knowledge_gaps: []   # No information-flow violations found in Ch.1-7. The pull-reveal (ch-05) is Viridia's own inference; she has not told the others until the morning-after (ch-06), so no downstream leak.
 
 needs_review:
   - { entity: "mrs-zoran", reason: "author-ruled to RETURN but not yet on-page; escape beat unwritten." }
