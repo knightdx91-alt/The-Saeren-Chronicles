@@ -62,6 +62,9 @@ ALLOWLIST = [
     "you tell the difference from",                   # leading fragment of Amber's signature question refrain
     # Ch.6 deliberate bookend refrain (the chapter's resolve, stated twice on purpose):
     "would go to the source",                         # "She would go to the source." — the Ch.6 END-hook refrain
+    # Series-spine refrains carried Ch.5-7 (intentional, load-bearing):
+    "and she did not weep",                           # the grief-held-inward guardrail refrain (no one sees Viridia cry)
+    "to make the world whole",                        # the thematic-spine refrain (she wanted only to make the world whole)
 ]
 
 # n-gram repetition settings

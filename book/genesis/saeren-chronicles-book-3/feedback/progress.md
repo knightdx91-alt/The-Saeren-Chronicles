@@ -2,7 +2,15 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.7 ("The Rim, Read Whole") — END OF ACT ONE — Ch.1–6 DONE
+## ▶ RESUME HERE: draft Ch.8 ("The Man Who Picked Up the Chalk") — ACT TWO opens — Ch.1–7 DONE
+> ✅ ACT ONE COMPLETE (Ch.1–7), all gate-clean + continuity-clean. Ch.7 "The Rim, Read Whole" FINALIZED
+> (5,385w) — evaluator PASS (Floor 8.5/avg 8.87, Casual 8); continuity CLEAN (cavern matched Bk1 verbatim).
+> Scale measured whole from the fount (vastly wider + ACCELERATING); turn WEST to a MADE cut. No axis re-reveal.
+> ACT TWO — THE PULL (Ch.8–15): the lab; the gut-punch; the political crisis; the temptation to control.
+> Ch.8 = "The Man Who Picked Up the Chalk" (chronological ~4,900) — the western made-cause starts to take shape.
+> NOTE: Marick OPENS the bad working (Bk2 Ch.20 seed); Fen is his assistant who RUNS at the very end. Watch when
+> to bring them on-page (Act Two) vs keep abstract. Evaluator act-watch: #18 thematic density — seed plainer
+> texture; keep anaphora <=2/chapter.
 > Ch.6 "The Cost of Half-Sight" FINALIZED (5,417w) — book-evaluator PASS (Floor 8.5/avg 8.86, Casual 8->8.5);
 > continuity CLEAN (0 crit/0 warn/2 minor). Sela (the miller's wife, Alice's student) drained when half-sight
 > read the rim a beat too late; camera-cut; grief inward. Resolve: GO to the source cavern.
