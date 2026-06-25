@@ -52,7 +52,7 @@ characters:
       build: { value: "slight, fine-boned, 5'5\" (slight, NOT short)", source: "foundation" }
       age: { value: 16, at_chapter: 1, source: "ch-01:p9", note: "stated plainly on-page ('She was sixteen now', ch-01:p9). Book Three MAY state her age — the Book-Two no-number rule was only for the private 14->15 turn-beat. Was 14 leaving the burning school, turned 15 in Bk2 (no number)." }
     traits:
-      - { trait: "grief held inward — NO ONE sees her cry", source: "foundation", mutable: false, note: "the once-in-a-life sanctioned break was Book Two Ch.16 (Jazen's death); Book Three keeps grief inward." }
+      - { trait: "grief held inward — NO ONE sees her cry IN PUBLIC", source: "foundation", mutable: false, note: "TWO sanctioned breaks only: Bk2 Ch.16 (public, Jazen); Bk3 Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). Everyone else still never sees." }
       - { trait: "the 'cold working part' — does the arithmetic so the rest of her can survive the choosing; files things she is not ready to know", source: "ch-01:p57", mutable: false }
       - { trait: "the 'careful surface' / flat hard certainty — the voice/face that holds when nothing else does", source: "ch-01:p129", mutable: true }
       - { trait: "cannot turn away from a true thing", source: "ch-03:p57", mutable: true }
@@ -610,7 +610,7 @@ locked_guardrails:
     - "Lady Lightwell wore ROSE-TINTED spectacles (now dead)."
   viridia:
     - "Silver-blonde hair, GREEN eyes, slight build 5'5\" (slight, not short)."
-    - "GRIEF HELD INWARD — NO ONE sees Viridia cry. The once-in-a-life sanctioned break was Book Two Ch.16 (Jazen's death). Book Three keeps grief inward."
+    - "GRIEF HELD INWARD — NO ONE sees Viridia cry IN PUBLIC. TWO sanctioned breaks only: Bk2 Ch.16 (public, Jazen) and Bk3 Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). No third break."
     - "Age MAY be stated plainly in Bk3 (she is sixteen) — the Book-Two no-number rule was only the private 14->15 turn-beat device."
   raizen:
     - "HUMAN form; eyes DARK/ORDINARY BROWN — NOT lightning-blue. Lightning-blue = his DRAGON form AND Lor-ar's marker, never the human form. (Caught + fixed as a WARN on Ch.1.)"

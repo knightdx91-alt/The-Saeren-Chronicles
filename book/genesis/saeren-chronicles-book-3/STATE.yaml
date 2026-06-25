@@ -47,7 +47,7 @@ phase:
 
 chapters:
   total_planned: 22              # 3 acts: Unsettled World (1–7) / The Pull (8–15) / Balance (16–22)
-  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9]  # Ch.1-9 finalized, gates clean, on main
+  completed: [1,2,3,4,5,6,7,8,9,10]  # Ch.1-10 finalized (midpoint), gates clean, on main
   scores:
     1: {floor: 8.5, average: 8.9, verdict: PASS, continuity: "0 critical (Raizen-eyes WARN fixed vs Bk2 Ch.19)"}
     2: {floor: 8.5, average: 8.79, verdict: PASS, continuity: "0 critical/1 optional (softened); Death symbol correctly absent"}
@@ -58,20 +58,21 @@ chapters:
     7: {floor: 8.5, average: 8.87, verdict: PASS, continuity: "0 critical/0 warning/2 minor. END OF ACT ONE. Cavern matched Bk1 verbatim; differential measured vastly wider+ACCELERATING; re-task OK (no axis re-reveal); turn WEST. Act One coheres."}
     8: {floor: 8.5, average: 8.89, verdict: PASS, continuity: "0 critical/0 warning/2 minor. ACT TWO opens. Marick+Fen on-page (match Bk2 Ch.20 seed; Marick OPENER alive w/ new curiosity; Fen planted); void abstract; symptom-not-cause nailed (closing portal does NOT slow pull). Characters 9.0; Casual 8.5"}
     9: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/1 minor. Drake+Varissa on-page (verified vs Bk2 Ch.7/8/19); cosmology=BALANCE named (no mark for a pressure; held not won); no axis re-reveal. Characters 9.0 (Varissa); Casual 7.5 intentional valley before Ch.10 gut-punch"}
+    10: {floor: 8.6, average: 8.94, verdict: PASS, continuity: "0 critical/0 warning/2 minor. MIDPOINT GUT-PUNCH. Enacted overwhelm; the cost FELT not newly learned; SECOND sanctioned break = Raizen-alone private (mirror of Bk2 Ch.16 public), author decision 2026-06-25 - guardrail updated. Highest floor/avg yet."}
 
 genesis_score:
   current_floor: 8.5
   current_average: 8.85
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  chapters_passed: [1,2,3,4,5,6,7,8,9,10]
   chapters_escalated: []
 
 guardrails:
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
   - "Style gate: python3 tools/style_check.py must stay clean. rhythm_check: no flat reflective triplets (sanctioned anaphora only). em-dash <=4 per chapter (Book Two standard). Add Book-Three deliberate motifs to the ALLOWLIST."
   - "Word floor >= 95,000; verify with: wc -w manuscript/chapters/chapter-*.md."
-  - "VOICE: match Book One/Two — Viridia's quiet, observant, inward register; grief held inward (NO ONE sees her cry except the once-in-a-life sanctioned break — Book Two Ch.16 was that; Book Three keeps grief inward)."
+  - "VOICE: match Book One/Two — Viridia's quiet, observant, inward register; grief held inward (NO ONE sees her cry in public). TWO sanctioned breaks only: Book Two Ch.16 (public, Jazen); Book Three Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). Everyone else still never sees; no third break."
   - "YA TONE (series-wide): violence = consequence, never spectacle; cut the camera on the worst acts; no explicit sex / graphic torture / adult profanity; keep hope/connection load-bearing (Raizen, Alice, chosen family) between the dark beats."
   - "SERIES CANON (never violate): series name single-n **Saeren**; Alice **PEMBROOK**; spelling **JAZEN**; Lady Lightwell wore ROSE-TINTED spectacles (now dead); Viridia silver-blonde hair, green eyes, slight 5'5'; trains + motorcars exist."
   - "DO NOT introduce Johnathan Masters or the void woman in this trilogy (Masters of the Void is a separate series). The ONLY connection is the final image (below) — do not explain it."

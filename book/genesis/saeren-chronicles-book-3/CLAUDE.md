@@ -73,8 +73,11 @@ Match the Book One / Book Two Ch.1 voice.
   ROSE-TINTED spectacles (dead); Viridia silver-blonde, green eyes, slight 5'5'; trains + motorcars.
 - **YA tone (series-wide):** violence = consequence, cut the camera on the worst acts; no explicit
   sex / graphic torture / adult profanity; keep hope/connection (Raizen, Alice, chosen family)
-  load-bearing between dark beats. Grief held inward — NO ONE sees Viridia cry (the once-in-a-life
-  break was Book Two Ch.16).
+  load-bearing between dark beats. Grief held inward — NO ONE sees Viridia cry IN PUBLIC. Two
+  sanctioned breaks ONLY: (1) Book Two Ch.16 (Jazen's death, public grief torn out of her); (2) Book
+  THREE Ch.10 (the midpoint reckoning) — the FIRST time she lets ONE trusted person, RAIZEN, see her
+  break, private and singular, the deliberate counterpart to Ch.16. Everyone ELSE still never sees;
+  do not add a third break (author decision 2026-06-25).
 - **Do NOT introduce Johnathan Masters or the void woman** (Masters of the Void is a separate series).
   The ONLY connection is the final image — Viridia feeling a void for the first time — and the
   roadmap says **do not explain it; let it sit.**

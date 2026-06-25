@@ -2,7 +2,15 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.10 ("Absence Drawn to Presence") — THE GUT-PUNCH (~50%) — Ch.1–9 DONE
+## ▶ RESUME HERE: draft Ch.11 ("The Ledger Reopens") — Ch.1–10 DONE (MIDPOINT PASSED)
+> Ch.10 "Absence Drawn to Presence" FINALIZED (6,067w) — evaluator PASS (Floor 8.6/avg 8.94 = best yet,
+> Characters 9.1, Emotion 9.0); continuity CLEAN. Enacted overwhelm; the cost FELT not newly learned.
+> ★ CANON CHANGE (author 2026-06-25): SECOND sanctioned break = Bk3 Ch.10, witnessed by RAIZEN ALONE
+> (private, chosen; mirror of the public Bk2 Ch.16). Guardrail updated in CLAUDE.md/STATE/ENTITY_STATE;
+> logged in feedback/book3-canon-changes.md. Everyone else still never sees; NO third break.
+> ⚠ ACT-WATCH (evaluator, now a 2-chapter pattern): #18 thematic saturation — thesis-middles run texture-thin.
+> Ch.11 = "The Ledger Reopens" (chronological, QUIETER ~4,800) — good place to restore concrete texture / lower
+> the abstraction; anaphora <=2. ENTITY_STATE still detailed only through Ch.8 — FOLD IN Ch.9+10 next (batched).
 > Ch.9 "Drake's Daughter, Again" FINALIZED (5,487w) — evaluator PASS (Floor 8.5/avg 8.86, Characters 9.0=Varissa);
 > continuity CLEAN (Drake/Varissa verified vs Bk2 Ch.7/8/19). Cosmology=BALANCE named (void=counterpart; mark
 > closes a door not a pressure; can't be closed/won, only HELD; "it has your name on it"). No axis re-reveal.

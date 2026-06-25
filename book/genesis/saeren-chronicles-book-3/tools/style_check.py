@@ -81,6 +81,24 @@ ALLOWLIST = [
     "past a glass of water",                           # the Ch.7 whole-sight scale measurement refrain (the sea past a glass; Ch.7/8/9)
     "every living core there is",                      # canon phrase for the rebirth's reach (Ch.5/9)
     "the cold past the rim",                           # canon term for the abstract void/counterpart (Ch.8/9)
+    # Ch.10 (the gut-punch) deliberate motifs (load-bearing, recurring by design within the chapter):
+    "the thing eating the world",                      # the Ch.10 gut-punch refrain: the cure IS the thing eating the world (the chapter's spine image)
+    "the sea past a glass",                            # the Ch.7 whole-sight scale measurement (the sea past a glass of water; Ch.7/8/9/10) — longer form of allowlisted "past a glass of water"
+    "sea past a glass of",                             # same scale-measurement refrain, leading fragment
+    "the cold edge of everything",                     # series spine motif: the abstract void rim (Ch.1/2/10) — the cold leaning at the edge of everything
+    "cold edge of everything the",                     # same motif, trailing fragment
+    "braced at the far end",                           # the True-Bond anchor motif (Raizen braced at the far end of the bond; Bk2 Ch.18, Bk3 Ch.1/10)
+    "there is a difference between",                   # Viridia's recurring reflective pivot ("there is a difference between X and Y"; Ch.7/9/10)
+    "best thing she had ever done",                    # the Ch.10 gut-punch pivot ("...the best thing she had ever done. / The best thing she had ever done was eating the world.") — deliberate two-beat
+    "thing she had ever done",                         # same pivot, trailing fragment
+    # grief-held-inward spine refrain variants (the guardrail: no one sees her cry) — load-bearing, recurring by design:
+    "she did not weep because",                        # variant of allowlisted "and she did not weep"
+    "she did not weep she",                            # same grief-inward refrain
+    "because the not weeping was",                     # the Ch.10 elaboration of the no-weeping guardrail
+    # thematic-spine refrain variants ("she wanted only to make the world whole"; Ch.5/6/7/10):
+    "had wanted only to make the",                     # variant of allowlisted "to make the world whole"
+    "wanted only to make the world",                   # same thematic-spine refrain
+    "make the world whole and",                        # same thematic-spine refrain, trailing fragment
 ]
 
 # n-gram repetition settings
