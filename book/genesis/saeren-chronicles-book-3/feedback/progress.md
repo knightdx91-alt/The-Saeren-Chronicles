@@ -2,7 +2,12 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.8 ("The Man Who Picked Up the Chalk") — ACT TWO opens — Ch.1–7 DONE
+## ▶ RESUME HERE: draft Ch.9 ("Drake's Daughter, Again") — Ch.1–8 DONE
+> Ch.8 "The Man Who Picked Up the Chalk" FINALIZED (5,854w) — evaluator PASS (Floor 8.5/avg 8.89, Characters 9.0,
+> Casual 8.5); continuity CLEAN (Marick matches Bk2 Ch.20 seed; Fen planted; void abstract; symptom-not-cause spine correct).
+> Marick FOUND, portal closed, left ALIVE with a new dangerous curiosity ("the first one who'll work out what I am") = live thread.
+> Fen on-page (planted to run, not telegraphed). ENTITY_STATE updated for Ch.8 (Marick/Fen on-page, the-lab).
+> Ch.9 = "Drake's Daughter, Again" (chronological/interior ~4,800). Keep anaphora <=2; keep texture (avoid #18 density).
 > ✅ ACT ONE COMPLETE (Ch.1–7), all gate-clean + continuity-clean. Ch.7 "The Rim, Read Whole" FINALIZED
 > (5,385w) — evaluator PASS (Floor 8.5/avg 8.87, Casual 8); continuity CLEAN (cavern matched Bk1 verbatim).
 > Scale measured whole from the fount (vastly wider + ACCELERATING); turn WEST to a MADE cut. No axis re-reveal.
