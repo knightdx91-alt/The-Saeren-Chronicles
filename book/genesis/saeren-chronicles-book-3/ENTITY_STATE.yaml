@@ -1,0 +1,545 @@
+# ENTITY_STATE — The Saeren Chronicles — Book Three: The Weight of the Source
+# Built by entity-tracker, BUILD mode (was MISSING — forced continuity-guardian into fallback,
+# which let a Death-symbol provenance error slip through; this file is now the single source of truth).
+# Seeded from research/book2-ENTITY_STATE.yaml (end-of-Book-Two state) + extracted from
+# Book Three chapters 1-4 + STATE.yaml/CLAUDE.md + reconciliation note + Book Two Ch.8/10/18/20.
+
+meta:
+  version: "1.0"
+  book: "Book Three: The Weight of the Source"
+  last_updated: "2026-06-25"
+  last_updated_by: "entity-tracker"
+  mode: BUILD
+  chapters_tracked: [1, 2, 3, 4]
+  chapters_planned_total: 22
+  seeded_from: "research/book2-ENTITY_STATE.yaml (Book Two end state, last_updated_chapter 20)"
+  override_layer: "research/roadmap-vs-books-reconciliation.md (finished books win over the pre-final roadmap)"
+  notes: >
+    Where a Book Three chapter has updated an inherited Book Two entity, the new state is recorded
+    and the change is noted under `change_in_book3`. ENTITY_STATE is a SUMMARY — for how a returning
+    element was actually rendered (the source-cavern, the Death symbol), open the earlier book's prose.
+
+# ============================================================================
+# CHARACTERS
+# ============================================================================
+characters:
+
+  viridia-saeren:
+    canonical_name: "Viridia Saeren"
+    aliases: ["the girl", "the girl who remade the world", "little one (Raizen/Lor-ar only)"]
+    importance: major
+    physical:
+      hair: { value: "silver-blonde, worn loose", source: "foundation" }
+      eyes: { value: "green", source: "foundation" }
+      build: { value: "slight, fine-boned, 5'5\" (slight, NOT short)", source: "foundation" }
+      age: { value: 16, at_chapter: 1, source: "ch-01:p9", note: "stated plainly on-page ('She was sixteen now', ch-01:p9). Book Three MAY state her age — the Book-Two no-number rule was only for the private 14->15 turn-beat. Was 14 leaving the burning school, turned 15 in Bk2 (no number)." }
+    traits:
+      - { trait: "grief held inward — NO ONE sees her cry", source: "foundation", mutable: false, note: "the once-in-a-life sanctioned break was Book Two Ch.16 (Jazen's death); Book Three keeps grief inward." }
+      - { trait: "the 'cold working part' — does the arithmetic so the rest of her can survive the choosing; files things she is not ready to know", source: "ch-01:p57", mutable: false }
+      - { trait: "the 'careful surface' / flat hard certainty — the voice/face that holds when nothing else does", source: "ch-01:p129", mutable: true }
+      - { trait: "cannot turn away from a true thing", source: "ch-03:p57", mutable: true }
+    voice_markers:
+      ref: "foundation/voice-dna.md#viridia"
+    physical_items:
+      - { item: "dark-blue stone necklace (mother's)", source: "foundation" }
+      - { item: "Heart of the Spear pendant (Dangris, Kor-toh)", source: "foundation", note: "Pact-and-Dangris to be resolved lightly on-page / folded into the balance finale (STATE.yaml)." }
+    status_book3:
+      role: "the living VESSEL OF THE SOURCE — tied to the source the way the source is tied to everything"
+      sight: >
+        MANA-SIGHT SPENT to the wick in the Bk2 Ch.18 rebirth (temporary cost). RETURNING SLOWLY across
+        Book Three — flickered back in autumn, unfolded through winter a layer at a time; still NOT whole,
+        guttering at the edge of its reach. Reads further than a year ago, not yet as far as it will. The
+        returning sight is the vehicle by which she first reads the widened void-rim and the tears.
+      source_sense: >
+        With the returning sight came the deeper SOURCE-SENSE (underneath sight): an always-on pressure
+        under the breastbone that RISES when a core is born and EASES when one dies — the long low
+        respiration of every living core there is ('the tide'). Distant ones are faceless arithmetic;
+        near ones have faces (she knew old Tem went before the knock; ch-01:p61). She files it as 'weather.'
+      can_still_do: "WORK magic by intent (Moravian, opening seams by meaning it) — the GIFT is intact; only the passive always-on SIGHT guttered."
+      change_in_book3: "Bk2 ended with sight fully dark; by Bk3 it is partway back AND has surfaced the new source-sense (the always-on feel of births/deaths)."
+    knowledge:
+      - { fact: "she is whole, not broken; the severing was deliberate; she mended it for every living core at once (the rebirth)", learned: "Bk1/Bk2", method: "discovered" }
+      - { fact: "knows + has USED the Death symbol (see objects/the-death-symbol) — does NOT learn it fresh in Bk3", learned: "Bk2 ch-08 (Drake taught); first used Bk2 ch-10", method: "told_by:drake" }
+      - { fact: "the Horrors are PULLED toward the source she became (not attacking) — the half-finished thought she keeps filing and refusing to let arrive", learned: "ch-01 onward, refuses to fully think it", method: "inferred" }
+      - { fact: "there is a widened void-rim / cold edge of the world only she can read; tears wear open along it, escalating in number", learned: "ch-01:p123 (first), ch-02:p121, ch-04:p129", method: "witnessed" }
+      - { fact: "the capital is leaderless; factions; the 'stronger hand' argument (take the dark half from those who can't be trusted) — correct AND monstrous", learned: "ch-03 (stale broadsheets)", method: "discovered" }
+    arc_book3: >
+      The girl who refused to decide for everyone (the source's making) must now refuse a SECOND easy power:
+      Vale's plea to remake the city's cores (monstrous-easy, ch-03) AND the Death symbol (good-easy, ch-04).
+      Central tension: a free GOOD thing is how you lose yourself, not the obvious monstrous one. Balance,
+      not victory, is the destination (binding).
+    open_threads:
+      - "ATTEMPTS to follow Bella's-name thread, at a cost (~Ch.13 personal climax — STATE.yaml)."
+      - "Sight still recovering across the book."
+
+  raizen:
+    canonical_name: "Raizen"
+    aliases: ["the rabbit (Drake's old name for him)"]
+    importance: major
+    species_origin: "prismatic dragon; affinity = ALL ELEMENTS (prismatic) — unusual range, carried into human form"
+    physical:
+      form: { value: "HUMAN — lean, dark-haired young man, tall", source: "ch-01:p19", note: "transformed Bk2 Ch.19 after the rebirth." }
+      eyes:
+        value: "DARK / ORDINARY BROWN (a human brown)"
+        source: "ch-01:p19"
+        LOCKED: true
+        note: >
+          CANON-CRITICAL. His lightning-blue eyes were the DRAGON form; the change (Bk2 Ch.19) dimmed
+          them to ordinary brown. Lightning-blue belongs to (a) his dragon form and (b) Lor-ar's marker —
+          NEVER the human form. The only place the prismatic thing still shows is in the ATTENTION behind
+          the eyes, not their color.
+      apple_motif: { value: "carries/turns an apple; studies 'the middle' (the unripe between flower and rot) he doesn't understand because it is the human part", source: "ch-01:p19, ch-01:p21" }
+    traits:
+      - { trait: "new to being human — feet, cold, balance attended as a separate task; learning to breathe like a person", source: "ch-01:p19", mutable: true }
+      - { trait: "cannot stop being what he is — a faint prismatic shimmer runs off his fingers; in a fight he lets 'the light of it' off his hands (not the full dragon)", source: "ch-01:p25, ch-02:p79", mutable: false }
+      - { trait: "patient, in no hurry; unhurried stride; always knows where Viridia is (the bond)", source: "ch-01:p21", mutable: false }
+      - { trait: "speaks plainly, misses nothing; will not let Viridia keep saying 'I' as if alone", source: "ch-02:p21", mutable: false }
+    bond: { type: "TRUE BOND with Viridia (life-tied; dragons only); the anchor at the far end of the rebirth", source: "Bk2", current_status: "intact; warmth no longer has to stretch over miles" }
+    relationships:
+      viridia-saeren: { type: "True-Bonded; the one she does not lie to (except small mercies he lets her keep)", established: "Bk1", current_status: "central; they live in the shape of the word 'forever' (long-life weight)" }
+      drake: { type: "father", current_status: "Drake went to the mountain (Bk2 Ch.19); expects Raizen to visit" }
+      varissa: { type: "mother", current_status: "went to the mountain; 'bring him to the mountain when his feet stop offending him'" }
+    knowledge:
+      - { fact: "a Horror is the absence of body — not fought with steel/the body; it eats warmth; he draws its 'eye' by pouring out the brightest warmth in the field", learned: "ch-02:p67", method: "inferred" }
+      - { fact: "the Death symbol his father taught Viridia closes a tear and asks nothing — and the FREE GOOD thing is how you lose yourself", learned: "ch-04:p79", method: "inferred" }
+    arc_book3: "the load-bearing relief/connection beat AND the moral mirror — names the danger of the free good thing (ch-04)."
+
+  drake:
+    canonical_name: "Drake"
+    importance: supporting
+    species_origin: "ancient dragon, ~6000 winters; pitch black; jet-black DEATH flames; affinity = DEATH"
+    physical:
+      form: { value: "pitch black; enormous; single banked coal-eye", source: "Bk2 ch-08" }
+    traits:
+      - { trait: "gruff = grief; grieves loudly from a height; lost a daughter in the last war", source: "Bk2 ch-08", mutable: false }
+    role:
+      provenance_taught: >
+        TAUGHT VIRIDIA THE DEATH SYMBOL — Book Two Ch.8, alone on his mountain ('a thing you take like a
+        wound, alone'). Framed the lesson with HIS DAUGHTER'S DEATH (she flew at a torn standing door made
+        by the severing-hands and was unmade to nothing; he then shut that door with the symbol — 'one
+        stroke, one breath'). Warned: 'you will hate how easy it is' — a working that ends the worst making
+        and takes nothing you can feel has taken the cost somewhere you cannot watch it go. (See objects/the-death-symbol.)
+      killed_meros: "Bk2 Ch.17 — killed High Chancellor Erik Meros with a single aimed jet of death-flame (spent his worst gift on a human life to clear the rifleman from his son's bond)."
+    status_book3: "GONE to the mountain (Bk2 Ch.19) with Varissa. Off-page in Bk3 Ch.1-4 but vividly remembered (ch-04:p31-41 — the mountain lesson). NOT dead."
+    open_threads: ["Whether Drake/Varissa return for the balance finale (open author decision, STATE.yaml)."]
+
+  varissa:
+    canonical_name: "Varissa"
+    importance: minor
+    species_origin: "dragon, ~5000 winters; brilliant scarlet; breathes flame"
+    traits:
+      - { trait: "grieves close to the ground, quiet (the inverse of Drake's loud register)", source: "Bk2", mutable: false }
+    status_book3: "GONE to the mountain with Drake (Bk2 Ch.19). Off-page in Bk3 Ch.1-4."
+
+  lor-ar:
+    canonical_name: "Lor-ar"
+    aliases: ["little one (his own rationed phrase, said TO Viridia)"]
+    importance: minor
+    species_origin: "sylvan tiger, spirit walker, ~300 years"
+    physical:
+      form: { value: "7ft; sky-blue/forest-green fur; bone-white horns; saber fangs; LIGHTNING-BLUE eyes (his signature marker); shrinks to house-cat", source: "Bk2" }
+      note: "Lightning-blue is LOR-AR's marker (and Raizen's DRAGON form) — never Raizen's human eyes."
+    bond: { type: "summoned bond (not True-Bond)", current_status: "RELEASED to the forest (Bk2 Ch.19); worked the release by MEANING it (no sight needed); bond went QUIET, not broken — open onto a forest. Last word 'Little one,' at the tree-line, meant entire." }
+    status_book3: "RELEASED / GONE from the active cast as of Book Two Ch.19. NOT seen in Bk3 Ch.1-4."
+    open_threads: ["Whether Lor-ar returns for the balance finale (OPEN author decision, STATE.yaml)."]
+
+  alice-pembrook:
+    canonical_name: "Alice Pembrook"
+    aliases: []
+    importance: major
+    physical:
+      hair: { value: "long blond (lank when captive)", source: "foundation" }
+      eyes: { value: "green", source: "foundation" }
+      teeth: { value: "wide smile; ONE tooth turned out of line (the 'crooked tooth' — reappears when she forgets to be careful)", source: "foundation", note: "the change couldn't reach it; its return = her warmth coming back (ch-01:p71)." }
+      build: { value: "a bit heavier / heavyset", source: "foundation" }
+    traits:
+      - { trait: "healer's 'calm hands'; the healer's wrist-grip that is a reading, not a comfort", source: "ch-02:p107", mutable: false }
+      - { trait: "CHANGED/RECOVERING — calm, stilled, warmth banked-not-out, coming back a degree at a time across the year", source: "ch-01:p69-71", mutable: true }
+      - { trait: "puts the lid on the dry-things box instead of asking (her way of answering)", source: "ch-02:p7, ch-04:p111", mutable: true }
+    relationships:
+      viridia-saeren:
+        type: "closest friend; TAUGHT VIRIDIA MORAVIAN (Book One, over a desk) — the debt runs Alice -> Viridia, NOT the reverse"
+        source: "reconciliation note / Bk2 Ch.19"
+        current_status: "altered/banked-not-out; the not-looking kindness passes between them; Viridia has NOT told her she remade her core (carries the unaskedness)"
+    knowledge:
+      - { fact: "Viridia feels deaths before the knock comes; knows when to take her bag and go without asking how", learned: "ch-01:p61", method: "witnessed" }
+      - { fact: "the Death symbol / the 'fast way' Viridia now has — told plainly at the long table", learned: "ch-04:p115", method: "told_by:viridia-saeren" }
+    role_book3: >
+      THE SLOW-WAY HEALER and moral counterweight. Teaches frightened grown valley folk to hold BOTH halves
+      of the gift over bowls of water (the slow way that is theirs at the end of it). Her thesis (ch-04:p117):
+      'Count what it costs even when it costs nothing. Especially then. You have to be the wall.'
+    status_book3: "ALIVE, in Wend, teaching; came north with the party (ch-02)."
+
+  amber-summers:
+    canonical_name: "Amber Summers"
+    aliases: []
+    importance: major
+    physical:
+      hair: { value: "long black, ponytail", source: "foundation" }
+      nails: { value: "black, chipped/bitten", source: "foundation" }
+      age: { value: "~18-19 (was 17-18 in Bk2)", at_chapter: 1, source: "foundation" }
+    traits:
+      - { trait: "DEFLECTS the true thing in jokes/crossness (dresses the true thing in the small cross thing — beans, etc.)", source: "ch-01:p103, ch-02:p103", mutable: false }
+      - { trait: "THE MORAL CONSCIENCE — 'how do you tell the difference, from the inside, between you and them?' (the question with teeth)", source: "ch-01:p87", mutable: false }
+      - { trait: "goes quiet/useful the instant it counts; useful at exactly the cost of herself and no less", source: "ch-02:p77", mutable: false }
+      - { trait: "the keeper of the carrying — 'I see you carrying it'; demands the true thing 'at the start, not at noon'", source: "ch-01:p103, ch-04:p87", mutable: false }
+    backstory: "parents murdered at 8; shattered own light core to say goodbye; core sustained by a Lightwell-linked necklace"
+    relationships:
+      viridia-saeren: { type: "the one Viridia gives the true things to; appointed herself keeper of the one thing she trusts no one else to keep", established: "Bk1", current_status: "load-bearing; her question drives Viridia's Bk3 arc" }
+    status_book3: "ALIVE, in Wend; came north with the party; 'fierce ordinary contentment' — survived on purpose on the east road."
+
+  marick:
+    canonical_name: "Marick"
+    aliases: []
+    importance: supporting
+    needs_review: false
+    introduced: "Bk2 Ch.20 (final beat seed); pays off in Book Three (NOT YET on-page in Bk3 Ch.1-4)"
+    description: >
+      A forty-year 'candle' (thin true-light gift) in a low stone laboratory far to the WEST; resented his
+      small gift; hoarded bound volumes of deep severed-half mathematics. In the rebirth's grey morning he
+      was handed the WHOLE DARK HALF of the gift unearned (Viridia made every living core whole, his too)
+      and does not know why.
+    role_book3: >
+      RESOLVED (author 2026-06-24): MARICK is the one who OPENS the bad working/portal — finds the old
+      severed-half workings now open to him, reads a near-worn-away WARNING under an old symbol, decides
+      it doesn't matter, and PICKS UP THE CHALK. He is the Horror/portal TRIGGER. Distinct from Fen.
+    status: "off-page so far in Bk3 (the tears in Ch.1-4 are the consequence of his working); the bad mistake itself is UNEXPLAINED on purpose."
+
+  fen:
+    canonical_name: "Fen"
+    aliases: []
+    importance: supporting
+    needs_review: false
+    introduced: "NEW to Book Three (not yet on-page in Ch.1-4)"
+    description: "Marick's ASSISTANT in the lab."
+    role_book3: >
+      RESOLVED (author 2026-06-24): FEN is the assistant who RUNS at the very end — the roadmap's
+      final-image character. In the binding final image: a tentacle snaps back through a portal, severed;
+      Fen runs; and Viridia, far away, feels a VOID for the first time. (Do NOT explain — the thread to
+      Masters of the Void.) Two distinct people, one thread: Marick OPENS it / Fen SURVIVES + runs.
+    status: "not yet on-page; introduce as Marick's lab assistant."
+
+  mrs-zoran:
+    canonical_name: "Mrs. Zoran"
+    aliases: []
+    importance: supporting
+    needs_review: true
+    review_note: >
+      RETURNS per author decision (2026-06-24) but NOT YET on-page in Bk3 Ch.1-4. Bk1 Hazel growth-magic
+      teacher whom Viridia taught Moravian; escaped the Hazel attack (exact escape beat = OPEN author
+      decision). Spent the year teaching newly-whole mages to handle the dark half + preserving Moravian =
+      a RESPONSIBLE counterweight to Marick. Survival was unconfirmed in Books 1/2 — treat as an author
+      ruling, to be rendered on-page later.
+    status: "planned-return, off-page in Ch.1-4."
+
+# --- named Book-Three villagers (Wend) ---
+named_villagers:
+  old-tem:
+    canonical_name: "Tem ('old Tem')"
+    importance: minor
+    location: "third house up the lane, Wend"
+    status: "DEAD (ch-01) — failing all winter, core thinned and guttered like a lamp running dry; a NATURAL/clean death (a window closing), NOT a drained death. Viridia felt him go before the knock; Alice went to him."
+    note: "his clean death is the on-page CONTRAST against the WRONG (drained) death that opens the tear-arc."
+  the-millers-wife:
+    canonical_name: "the miller's wife (unnamed)"
+    importance: minor
+    status: "ALIVE — one of Alice's four bowl-of-water students; 'my mother would have called the dark half a sin' (ch-01:p77)."
+  dells-boy:
+    canonical_name: "Dell's boy (unnamed child)"
+    importance: minor
+    location: "Hallow bridge"
+    status: "DEAD (ch-04) — the SECOND Horror took him off the bridge wall (then the dog), core drained down the cold before they reached the span. Viridia knelt by the small shape; resolved to learn the name though it makes the weight heavier."
+  brutus:
+    canonical_name: "Brutus"
+    importance: minor
+    status: "DEAD — Book Two Ch.14, on the field, holding the burning roof-beam as 'the last roof' over the children. DO NOT resurrect."
+  mirelle:
+    canonical_name: "Mirelle"
+    importance: minor
+    status: "DEAD — Book Two Ch.11 (made her back into a table over the children). DO NOT resurrect."
+  hiram:
+    canonical_name: "Hiram Vell"
+    importance: minor
+    status: "DEAD — Book Two Ch.11 (set the camp's ward down slow to buy the children out; died at the anchor-post). DO NOT resurrect."
+  emptied-hamlet-folk:
+    canonical_name: "the hamlet (unnamed dead)"
+    importance: minor
+    location: "a hamlet north of Wend, past Hallow"
+    status: "EMPTIED, not killed (ch-02) — a dozen cores DRAINED through the first tear; Viridia felt them gone before arrival, did not feel them go. A child's wooden horse on its side in the lane (the kept image)."
+
+# --- the dead/gone, do not resurrect (carried canon) ---
+deceased_or_gone:
+  jazen: { status: "DEAD — beheaded by Erik Meros before both armies, Bk2 Ch.16 (the hinge). Spelling JAZEN, not Jasen." }
+  erik-meros: { status: "DEAD — High Chancellor; killed by Drake's death-flame, Bk2 Ch.17. Capital now LEADERLESS." }
+  lady-lightwell: { status: "DEAD — Bk1; Jazen's mother; wore ROSE-TINTED spectacles. Wrote the unsigned note unsigned-on-purpose; left the scored-out family-tree name." }
+  bella-saeren: { status: "DECEASED — Viridia's mother; line 'be careful who you let see you do it'; her NAME runs on a thread DOWN into the source (warm, unfollowable — open thread)." }
+  leon-saeren: { status: "DECEASED — Viridia's father; smell of soap and machine oil." }
+
+# ============================================================================
+# LOCATIONS
+# ============================================================================
+locations:
+
+  wend:
+    canonical_name: "Wend (the valley / settlement)"
+    aliases: ["the valley", "the settlement"]
+    facts:
+      - { fact: "a day and a half by the slow southern line from anywhere that ever mattered; a scatter of stone houses along a stream, terraced gardens up the slope, an orchard, a mill that still turns", source: "ch-01:p11" }
+      - { fact: "~200 people folded into a place that held 40 (the rescued/survivors from the east road); gardens doubled", source: "ch-01:p11" }
+      - { fact: "NOT hidden — no wards (the thing they hid from is gone). The long table behind the MILL is where Alice teaches the bowl-of-water lessons", source: "ch-01:p13, ch-01:p67" }
+      - { fact: "key spots: the orchard (almond tree at the garden bottom — flowers register in the source-sense), the mill, the long table, the terraced gardens up to the HIGH WALL at the top (where Viridia reads the cold rim north)", source: "ch-01:p5, ch-04:p121" }
+    distances:
+      - { to: "hallow", value: "the slow line runs to Hallow then stops (bridge let go in winter, unmended — no capital to mend it)", source: "ch-02:p31" }
+      - { to: "the-emptied-hamlet", value: "~3 days north on foot/horse past Hallow", source: "ch-02" }
+
+  the-source-cavern:
+    canonical_name: "the source-cavern (= the Book One cavern)"
+    aliases: ["the well of all magic (physical location)", "the cavern"]
+    DO_NOT_RE_RENDER: true
+    facts:
+      - { fact: "a LOW, ROUGH, UNWORKED-STONE chamber, older than old; a stone PEDESTAL holding a POOL that IS the source (not water). Reached by PORTAL/SEAM, not walked to.", source: "Bk1 Ch.14 / Bk2 Ch.18 (research/book2-chapter-18-rebirth.md)" }
+      - { fact: "where the rebirth happened (Bk2 Ch.18): Viridia portaled in, put her hand in the pool, mended the severing for every living core at once, ALONE with the source. Bella's-name thread touched again at the same pedestal (still unfollowable).", source: "Bk2 Ch.18" }
+    note: "ANY Book-Three return to the source must PORTAL there and MATCH the Book One Ch.14 / Book Two Ch.18 prose — do not invent a new chamber."
+
+  the-rim:
+    canonical_name: "the rim / 'the cold edge of the world'"
+    aliases: ["the cold edge of everything", "the void-rim"]
+    facts:
+      - { fact: "the place at the edge of everything where the world's warmth thins to nothing and the abstract cold (the void) begins. Only Viridia can read it, and only with returning sight. NOT a place you travel to — a quality at the edge of the source-sense.", source: "ch-01:p123" }
+      - { fact: "the void-rim DIFFERENTIAL widened 'a shade' as the weave ran full after the rebirth (Bk2 Ch.20 seed); the basis for the 'pressure differential' that PULLS the Horrors. ABSTRACT ONLY — no entity, no void woman.", source: "Bk2 Ch.20 / binding_beats" }
+      - { fact: "TEARS wear open along the rim — worn-open places, NOT made doors. Count is ESCALATING (3-4 felt at ch-02; ~6-7+ and rising at ch-04). The rim is WEARING; the whole edge is leaned on at once.", source: "ch-02:p123, ch-04:p129" }
+
+  the-hallow-bridge:
+    canonical_name: "the Hallow bridge"
+    facts:
+      - { fact: "the bridge past Hallow; let go in winter, unmended (rail rusting, two planks gone over the beck) — the slow line ends here", source: "ch-02:p31" }
+      - { fact: "site of the SECOND tear + Horror (ch-04): a tear twice the height of a man, still widening; took Dell's boy and the dog off the wall. Closed by Viridia with the Death symbol.", source: "ch-04" }
+
+  the-emptied-hamlet:
+    canonical_name: "the emptied hamlet (unnamed)"
+    facts:
+      - { fact: "a hamlet smaller than Wend, ~3 days north past Hallow — a dozen houses along a beck, a chapel with a fallen roof, a green with geese. EMPTIED of all cores (drained, not killed) through the FIRST tear/Horror (ch-02). Washing on a line, a pot gone to white ash, a child's wooden horse on its side.", source: "ch-02:p51-63" }
+
+  the-leaderless-capital:
+    canonical_name: "the capital (leaderless)"
+    aliases: ["the city with no head"]
+    facts:
+      - { fact: "did not fall — STOPPED. High Chancellor dead (Bk2 Ch.17); the cutting-council scattered/dead/in hiding; the light-supremacist order unmade FROM UNDERNEATH (everyone woke whole). Bridges unmended, schools closed, intelligence service gone.", source: "ch-03:p23-27" }
+      - { fact: "FACTIONS, all 'the same faction in different coats': (1) restore the old order; (2) want NO order; (3) the WORST — a 'stronger hand than the old one' to hold both halves for everyone (= the council's argument again).", source: "ch-03:p33" }
+      - { fact: "new kind of killing: 'deaths with no wound' (a hand reaching into a thing's warmth and taking). The river district has started CHECKING people's hands at bridges (the sorting growing back).", source: "ch-03:p31, ch-03:p63" }
+      - { fact: "news reaches Wend a WEEK STALE via two kinds of broadsheet (old grey 'Standard'/'Crown Register' vs. mismatched-type faction sheets).", source: "ch-03:p7" }
+
+# ============================================================================
+# OBJECTS / WORKINGS / RULES
+# ============================================================================
+objects:
+
+  the-death-symbol:
+    canonical_name: "the Death symbol (the buried mark)"
+    aliases: ["the mark", "the ending thing", "the symbol for Death", "the oldest one"]
+    status: chekhov_open    # carried, used twice, the central temptation of Bk3 — not resolved
+    PROVENANCE:    # <<< THE LOAD-BEARING RECORD — the error that slipped through in fallback
+      what_it_is: >
+        The buried mark that ENDS any magic / closes any portal / unmakes any made door / turns a tear in
+        the daylight into a place where nothing was ever wrong. It does NOT mend — it ENDS. Form: an UNJOINED
+        RING with a single line drawn INWARD from the gap toward (but not reaching) the center. 'A door that
+        will not close... and yet' — the inward line UNSAYS the making, reaching to the breath before the
+        thing was made and saying 'no, once.' It does not fight the thing; it unsays it. The simplest working
+        there has ever been — which is exactly why the cutting-order BURIED it (a council that means to rule
+        forever does not teach the shape that ends things).
+      taught_by: "DRAKE"
+      taught_when: "BOOK TWO Ch.8 ('Dust to Dust') — on Drake's mountain, Viridia learning it ALONE (no witness, by choice)"
+      taught_how: >
+        Drake framed the whole lesson with HIS DAUGHTER'S DEATH (she flew at a torn standing door made by the
+        severing-hands and was unmade to nothing; he later shut that same door with the symbol — 'one stroke,
+        one breath'). His warning, made her understand BEFORE he taught her hand: 'YOU WILL HATE HOW EASY IT
+        IS.' A working that ends the world's worst making and takes not one drop you can feel has taken the
+        cost somewhere you cannot watch it go. He did NOT make her swear over it ('a soul that needs to swear
+        over a thing this final should not hold it').
+      first_used: >
+        BOOK TWO Ch.10 ('The Almost') — Viridia drew it SMALL and clean in the air over the GOODS-SHED ROOF
+        to KILL A TRUE-SEER'S LENS (the glass went dark mid-drink). This was its first use. (Simultaneously
+        she put a spear through the window — two ways at once.)
+      uses_since_then:
+        - "Bk2 Ch.16: NOT spent — at Jazen's death 'the very end is not the kind the mark is for.'"
+        - "Bk2 Ch.17: NOT spent — she took her hand off Jazen's arm and turned to the source instead."
+        - "Bk3 Ch.2 (FIRST hamlet tear): NOT used — she closed that tear the COSTLY way (see the-two-tear-close-methods); she had carried the mark a year and refused to draw it."
+        - "Bk3 Ch.4 (Hallow bridge, SECOND tear): FIRST USE TO CLOSE A TEAR — drew the mark, the tear ceased to be a tear, cost her NOTHING, every ounce of warmth still whole. This is the eerie 'asks-nothing' close, contrasted against the costly close. Raizen: 'do not enjoy how little it costs.' Her reaction: RELIEF, then 'That was easy. I could do that all day' — and 'I already want to do it again.'"
+      CRITICAL_CORRECTION: >
+        Viridia KNOWS and has USED the Death symbol coming INTO Book Three. She does NOT learn it fresh in
+        Bk3, and it was NOT taught by Raizen. (A continuity error 'Death symbol taught by Raizen' was caught
+        as CRIT-001 on Ch.4 and reframed to FIRST USE; Drake taught it, Bk2 Ch.8 — STATE.yaml scores.4.)
+        In Bk3 Ch.4 Raizen only REMINDS/URGES her to draw the mark his father set in her hand.
+    danger: "It asks NOTHING. 'No one alive can make you afraid of a thing that does not hurt.' The FREE GOOD thing is how you lose yourself (Raizen, ch-04:p79) — you do not weigh what does not hurt. The Bk3 spine: she must BE the wall and 'count what it costs even when it costs nothing' (Alice, ch-04:p117)."
+    last_mentioned: "ch-04:p143"
+    resolution: null
+
+  the-two-tear-close-methods:
+    canonical_name: "the two ways to close a tear"
+    status: background    # a RULE, recorded as a tracked working-pair
+    methods:
+      costly:
+        description: >
+          Spend her OWN source-warmth into the gap, hand over hand, gathering the worn/parted threads and
+          holding the warmth in place until they 'remember they were once whole' — re-knitting, not filling
+          (the far side is too vast to fill). Leaves a SEAM that never goes smooth. HURTS — spends her at both
+          ends (Raizen drained at the far end of the bond + the tear drinking the near). Wrings her to the wick.
+        used: ["Bk2 (the rebirth = the giving writ large)", "Bk3 Ch.2 (the hamlet tear — went grey, 'spent yourself near to nothing,' per Alice)"]
+        source: "ch-02:p83-87"
+      free:
+        description: >
+          The DEATH MARK. Asks NOTHING — the tear simply ceases to be a tear; full warmth retained. 'The
+          mending asks everything... this asks nothing, and the gladness is the danger.' THAT is its danger.
+        used: ["Bk3 Ch.4 (the Hallow bridge tear)"]
+        source: "ch-04:p41, ch-04:p55-63"
+    note: "The COSTLY vs FREE contrast is the moral engine of Bk3 Act One. Mending is the harder/safer thing because it hurts and thus gets weighed; the mark gets used 'all day' because it doesn't."
+
+  the-horrors:
+    canonical_name: "the Horrors (the things through the tears)"
+    aliases: ["the thing of absence"]
+    status: chekhov_open
+    description: >
+      Man-height (and taller) MOVING ABSENCE the eye slides off and cannot hold; a place where light goes in
+      and does not come back. Makes NO SOUND. Where it touches, the world goes grey/ash in a slow ring; it
+      DRINKS warmth (drains cores sideways, the way water finds a drain). Has no word and is given none — the
+      'cold working part' that files everything finds no word for it (its own terror).
+    KEY_FACTS:
+      - { fact: "NOT attacking, NOT made doors — the tears are WORN-OPEN places (the weave leaned on from the far side until it parts). The Horror is the water; the tear is the drain.", source: "ch-02:p83" }
+      - { fact: "PULLED toward the source Viridia became — a PRESSURE DIFFERENTIAL vs the void (water finds a low place because the low place pulls; the direction is TOWARD the source = toward Viridia). This is the moral gut-punch: saving the world created its next threat. She keeps FILING this thought and refusing to let it arrive.", source: "ch-01:p135, ch-02:p85, binding_beats" }
+      - { fact: "not fought with the body/steel (it is the absence of body). Raizen draws its 'eye' by pouring out the brightest warmth in the field; once the tear is closed and it is cut off from the far side, it comes apart (silently).", source: "ch-02:p67, ch-02:p87" }
+    tear_count:
+      - { at: "ch-02", value: "3-4 faint along the rim (one further along, a current beginning)" }
+      - { at: "ch-04", value: "~6-7 and rising, plus a fainter one beyond and another breath beyond that — opening FASTER than she can close them" }
+    last_mentioned: "ch-04:p143"
+    resolution: null
+
+  bellas-name-thread:
+    canonical_name: "the thread with Bella's name"
+    status: chekhov_open
+    description: "A warm thread running DOWN into the source with Viridia's mother's (Bella's) name at the bottom; Viridia can sense it but cannot follow it (no bottom). Touched again at the rebirth pedestal (Bk2 Ch.18) and let go. Tied to the 'family-tree name that doesn't fit' (Lightwell's scored-out three words)."
+    introduced: "Bk1/Bk2"
+    last_mentioned: "carried into Bk3 (not yet on-page in Ch.1-4)"
+    resolution: null
+    book3_plan: "Viridia ATTEMPTS to follow it, at a cost (~Ch.13 personal climax — STATE.yaml)."
+
+  lightwell-family-tree-page:
+    canonical_name: "Lightwell's scored-out family-tree half-page"
+    status: chekhov_open
+    description: "Half a page of a family line in Lightwell's hand; one name does not sit in its box (the line in runs from nowhere; the line out stops); beside it three small words pencilled and SCORED OUT near to tearing — unreadable. The 'family-tree name that doesn't fit the pattern.' Was in Viridia's satchel (Bk2)."
+    introduced: "Bk2 Ch.10"
+    note: "Its Bk1 vehicle (the spellbook) burned in Ch.16; re-homed via Lightwell's papers. Open thread; tied to Bella's-name thread."
+    resolution: null
+
+  the-carried-tokens:
+    canonical_name: "Viridia's carried tokens"
+    status: background
+    description: "the dark-blue mother's stone + the Heart of the Spear (Dangris, Kor-toh)."
+    note: "Pact-and-Dangris resolved lightly on-page / folded into the balance finale (STATE.yaml)."
+
+# ============================================================================
+# WORLD RULES
+# ============================================================================
+world_rules:
+  - { rule: "Setting has TRAINS and MOTORCARS. The 'slow line' (rail) runs to Hallow then stops; bridges unmended (no capital to mend them).", source: "foundation / ch-02:p31" }
+  - { rule: "Magic = energy via a focus, OR Moravian writes intent directly (Viridia bypasses focus). Both-sided gift severed long ago, deliberately; mendable — and now MENDED (the rebirth).", source: "foundation" }
+  - { rule: "BOTH HALVES OF THE GIFT now carried by EVERYONE (the rebirth gave them) — the bright and the dark, giving and taking. Most never trained; many found the dark half by accident (soured milk, a cracked cup). This is the whole social engine of the leaderless world.", source: "ch-01:p75" }
+  - { rule: "THE SOURCE = the well of all magic; Viridia is its living VESSEL (tied to it the way it is tied to everything). Physical location = the Book One cavern (see locations/the-source-cavern). Reached by portal/seam.", source: "foundation / Bk2 Ch.18" }
+  - { rule: "THE VOID = the abstract counterpart to the source. The rebirth widened the source/void PRESSURE DIFFERENTIAL ('a held breath harder to hold the fuller the lung'). NO entity, NO void woman — abstract negative only. This pulls the Horrors.", source: "Bk2 Ch.20 / binding_beats" }
+  - { rule: "A made PORTAL has edges/a frame/a clean seam (someone meant it, held the Moravian steady). A TEAR has none — a worn-through place, frayed, the world stretched toward it. Ordinary eyes can see the wrongness (a heat-shimmer with no heat).", source: "ch-02:p59" }
+  - { rule: "DEATH-SENSE: a natural death is a 'window closing' (clean, breathes out and back). A DRAINED death is 'pulled out' — warmth not ending but going somewhere, into an absence with a current in it. Viridia reads the difference instantly.", source: "ch-01:p113-117" }
+  - { rule: "BONDING: summoned bond (Lor-ar; releasable by meaning it) vs TRUE BOND (Raizen; life-tied, dragons only). True-Bonded pair outlive almost everyone (the long-life weight).", source: "foundation" }
+  - { rule: "SHADOW-WALKING: Viridia can travel anywhere shadow reaches that she has already visited.", source: "foundation" }
+  - { rule: "TRUE-SEERS' lenses ('glasses of true seeing') read lit mages; the Death mark kills a lens (Bk2). Capital intelligence apparatus now defunct (leaderless).", source: "Bk2" }
+
+# ============================================================================
+# TIMELINE
+# ============================================================================
+timeline:
+  - chapter: 1
+    time: "~A YEAR after the Bk2 rebirth"
+    season: "spring (the almond tree has flowered TWICE since they came to the valley; second flowering now)"
+    note: "Viridia is 16 (stated on-page). Sight has been returning across the year (flicker in autumn, unfolding through winter). END: the FIRST drained death registers + she glimpses the first tear at the rim."
+  - chapter: 2
+    time: "the days immediately after Ch.1 (she did not sleep that night; tells them in the morning, then ~3 days' travel north)"
+    season: "spring"
+    note: "They reach the emptied hamlet on the morning of the third day; close the FIRST tear the costly way. END: she feels 3-4 more tears faint along the rim."
+  - chapter: 3
+    time: "the afternoon of the SECOND DAY AFTER the hamlet (parallel: settlement life / the stale-news capital)"
+    season: "spring"
+    note: "Corwin Vale + two colleagues arrive from the capital. The 'stronger hand' temptation named. Time-blends a winter of stale-broadsheet reading."
+  - chapter: 4
+    time: "still a half-day short of home (returning from the hamlet expedition)"
+    season: "spring"
+    note: "The SECOND tear/Horror at the Hallow bridge; FIRST use of the Death symbol to close a tear. END (that night, from the high garden wall): the tears have multiplied to ~6-7+ and are opening faster than she can close them."
+
+# ============================================================================
+# ORGANIZATIONS
+# ============================================================================
+organizations:
+  capital-factions:
+    canonical_name: "the capital factions"
+    aliases: ["restore-the-order faction", "no-order faction", "the 'stronger hand' faction", "the river district (hand-checkers)"]
+    facts:
+      - { fact: "three factions = 'the same faction in different coats' (restore old order / no order / a stronger hand than the old one). The 'stronger hand' argument is the cutting-council's argument reborn — correct AND monstrous.", source: "ch-03:p33" }
+      - { fact: "the RIVER DISTRICT faction checks people's hands at bridges (proof they can hold the dark half) — the sorting growing back.", source: "ch-03:p63" }
+  the-cutting-order:
+    canonical_name: "the old light-supremacist order / the cutting-council"
+    facts:
+      - { fact: "six hundred years ago a council cut the world in two (severed the dark half from every core), 'for everyone's good,' and buried the Death symbol so no one could hold the shape that ends things. UNMADE from underneath by the rebirth. The moral template Viridia must NOT become.", source: "ch-03:p23, ch-04:p33 / foundation" }
+
+# ============================================================================
+# LOCKED RULES / GUARDRAILS (run audits against these)
+# ============================================================================
+locked_guardrails:
+  canon_names:
+    - "Series name SINGLE-N: 'Saeren'."
+    - "Alice's surname is PEMBROOK."
+    - "Spelling is JAZEN (never Jasen)."
+    - "Lady Lightwell wore ROSE-TINTED spectacles (now dead)."
+  viridia:
+    - "Silver-blonde hair, GREEN eyes, slight build 5'5\" (slight, not short)."
+    - "GRIEF HELD INWARD — NO ONE sees Viridia cry. The once-in-a-life sanctioned break was Book Two Ch.16 (Jazen's death). Book Three keeps grief inward."
+    - "Age MAY be stated plainly in Bk3 (she is sixteen) — the Book-Two no-number rule was only the private 14->15 turn-beat device."
+  raizen:
+    - "HUMAN form; eyes DARK/ORDINARY BROWN — NOT lightning-blue. Lightning-blue = his DRAGON form AND Lor-ar's marker, never the human form. (Caught + fixed as a WARN on Ch.1.)"
+  death_symbol:
+    - "Viridia KNOWS + has USED the Death symbol coming into Bk3 (Drake taught it Bk2 Ch.8; first used Bk2 Ch.10 on the true-glass). She does NOT learn it fresh in Bk3, and Raizen did NOT teach it. Bk3 Ch.4 is its FIRST USE TO CLOSE A TEAR. (CRIT-001 'taught by Raizen' was caught + fixed.)"
+  void:
+    - "DO NOT introduce Johnathan Masters or the void woman (Masters of the Void is a separate series). The void stays ABSTRACT — no entity. The ONLY connection is the binding final image; do NOT explain it."
+  ya_tone:
+    - "Violence = consequence, never spectacle; cut the camera on the worst acts; no explicit sex / graphic torture / adult profanity. Keep hope/connection (Raizen, Alice, chosen family) load-bearing between dark beats."
+  binding_beats:
+    - "KEY REVELATION: the Horrors are PULLED toward the source (not attacking) — the rebirth made a pressure differential with the void; saving the world created its next threat."
+    - "RESOLUTION: BALANCE, not victory — source contained, void acknowledged as the necessary counterpart (neither good nor evil), world made sustainable. World CHANGED, not fixed."
+    - "ENDING: Raizen + Viridia take the long view (True-Bond = they outlive almost everyone; carried together)."
+    - "FINAL IMAGE (binding, do NOT explain): in a lab a tentacle snaps back through a portal, severed; a young man named FEN runs; and Viridia, far away, feels a VOID for the first time (a place where a core should be and is not). The thread to Masters of the Void. Let it sit."
+  continuity_discipline:
+    - "Before reusing any Book One/Two element (source-cavern, Death symbol, a returning character/rule), OPEN that book's prose and match it — this summary is not the source of truth for rendering. Run continuity-guardian vs BOTH earlier books before finalizing each Act-Three chapter."
+
+# ============================================================================
+# OPEN THREADS / MYSTERIES
+# ============================================================================
+open_threads:
+  - { thread: "Marick / the lab", state: "off-page; the Horror/portal TRIGGER (Bk2 Ch.20 seed — picked up the chalk over a worn warning). RESOLVED role: Marick OPENS the portal. The bad mistake itself UNEXPLAINED on purpose." }
+  - { thread: "Fen", state: "NEW to Bk3; Marick's assistant who RUNS in the binding final image. Not yet on-page." }
+  - { thread: "the void-rim differential", state: "widened 'a shade' (Bk2 Ch.20); read wider than remembered as Viridia's sight returns. Abstract only — no entity." }
+  - { thread: "Bella's-name thread", state: "warm, unfollowable, runs down into the source; Viridia ATTEMPTS to follow it at a cost (~Ch.13 personal climax — STATE.yaml). Tied to the off-pattern family-tree name." }
+  - { thread: "the family-tree name that doesn't fit", state: "Lightwell's scored-out three words; unreadable; held for Bk3 (and the wider trilogy/void thread)." }
+  - { thread: "Raizen's elemental affinity", state: "all elements/prismatic (Bk2 ruling) — listed as still-open in CLAUDE.md; unusual range in human form. FLAG: STATE.yaml resolves it prismatic; CLAUDE.md still lists it open — reconcile if it becomes load-bearing." }
+  - { thread: "Mrs. Zoran's status", state: "RETURNS per author (responsible counterweight to Marick) but exact escape-from-Hazel beat OPEN; not yet on-page. needs_review entity." }
+  - { thread: "the time-skip length", state: "CONFIRMED ~1 YEAR (so she is 16; sight returned across the year)." }
+  - { thread: "Pact + Dangris (Heart of the Spear)", state: "resolved lightly on-page / folded into the balance finale (author 2026-06-24)." }
+  - { thread: "Lor-ar return for the balance finale", state: "OPEN author decision." }
+  - { thread: "Drake/Varissa return for the finale", state: "implied possible (they expect Raizen to visit the mountain); not yet decided." }
+
+# ============================================================================
+# CONFLICTS DETECTED (flag only — do not resolve)
+# ============================================================================
+conflicts: []   # No on-page contradictions in Bk3 Ch.1-4 against inherited canon.
+# Note (not a prose conflict): STATE.yaml lists Raizen's affinity RESOLVED (prismatic) while
+# CLAUDE.md lists it still-open. Surfaced under open_threads for a human to reconcile.
+
+knowledge_gaps: []   # No information-flow violations found in Ch.1-4.
+
+needs_review:
+  - { entity: "mrs-zoran", reason: "author-ruled to RETURN but not yet on-page; escape beat unwritten." }
