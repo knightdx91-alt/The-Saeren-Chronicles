@@ -2,7 +2,14 @@
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
 
-## ▶ RESUME HERE: draft Ch.4 ("The Easy Mark") — Ch.1–3 DONE
+## ▶ RESUME HERE: draft Ch.5 ("What She Will Not Do") — Ch.1–4 DONE
+> Ch.4 "The Easy Mark" FINALIZED (5,095w) — book-evaluator PASS (Floor 8.5/avg 8.86); event-momentum
+> RESTORED (Casual 7->8). continuity-guardian caught CRIT-001 (Death symbol wrongly taught by Raizen as
+> new) -> book-editor REFRAMED to first USE of a symbol Drake taught her (Bk2 Ch.8); re-verified clean.
+> Ch.5 = 'What She Will Not Do' (parallel; the pull to rule / the trail to the source; DIALOGUE-HEAVY, ~5,000w).
+> TODO (recommended before deeper chapters): build Book-Three ENTITY_STATE.yaml (seed Death-symbol provenance =
+> Drake/Bk2 Ch.8) so audits run in primary-source mode and this error class can't recur.
+
 > Ch.3 "A City With No Head" FINALIZED (5,123w) — book-evaluator PASS (Floor 8.5/avg 8.84),
 > continuity CLEAN (0 crit/0 warn). Temptation named; end hook = she feels how easy it would be.
 > ⚠ EVALUATOR ACT-WATCH: Ch.3 was the 2nd consecutive interior/low-event chapter (Casual 7/10).
