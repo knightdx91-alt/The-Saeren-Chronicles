@@ -1,3 +1,25 @@
+## ▶ RESUME HERE: draft Ch.12 ("The Thing She Fought") — Ch.1–11 DONE
+
+> Ch.11 "The Ledger Reopens" FINALIZED (4,742w) — evaluator PASS (Floor 8.5/avg 8.81, Characters 9.0,
+> Casual 8.5); continuity CLEAN (0 critical/0 warning/4 minor). Concrete texture fully restored after
+> Ch.10's high-abstraction gut-punch (kitchen table, stuck drawer, burned lunch, starlings, the goat).
+> Amber's question lands as real dialogue scene, not summary. Un-mend temptation named, run by the cold
+> part, and refused on the council-crime principle. END HOOK: the Lest letter — burning-man, three hundred
+> in a schoolhouse, a formal "to intervene" — forces the train in the morning before she has an answer.
+> ⚠ ENTITY_STATE still needs updating through Ch.11: Lest summons thread, burning-man (unnamed), the
+>   un-mend temptation as first-named. Recommend entity-tracker pass before Ch.13.
+> EVALUATOR WATCH for Ch.12: second consecutive quieter chapter — Ch.12 must lift kinetic register at
+>   Lest; (a) pay off "can you fix this without deciding for them again?" and (b) honor her vow NOT to
+>   reach into the burning-man's core.
+
+### Ch.12 brief — "The Thing She Fought" · parallel · ~4,900w · temptation peaks
+The equalized-magic chaos erupts into a human conflict more dangerous than the Horrors. Viridia is pushed
+— by need, by a faction, by bodies — to seize control "for everyone's good," the exact crime of the council.
+She comes to the edge of it. The leash (Amber / Alice / Raizen — echo of Bk2 hand-on-arm) holds. END HOOK:
+she chooses NOT to rule — and is left with the harder problem: how do you fix a pressure without controlling
+anyone? AT LEST: pay off the burning-man thread from Ch.11 — show the Lest scene (the holding, the not-
+reaching-in, the hard cost of that line).
+
 # Progress — The Saeren Chronicles — Book Three: The Weight of the Source
 
 Scaffolded + seeded 2026-06-24. **Genesis-from-roadmap** (no prior author draft).
