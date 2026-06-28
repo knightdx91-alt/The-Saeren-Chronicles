@@ -1,3 +1,29 @@
+## ▶ RESUME HERE: draft Ch.13 ("Balance, Not Victory") — Ch.1–12 DONE
+
+> Ch.12 "The Thing She Fought" FINALIZED (6,227w) — evaluator PASS (Floor 8.5/avg 8.84, lowest dim
+> Pacing 8.5; #18 thematic-saturation RESOLVED, kinetic register lifted, Casual 8.5); continuity CLEAN
+> (0 critical/0 warning/5 minor). Temptation PEAKED at Lest: she comes to the literal edge of becoming
+> "the head the city had no head for" in the council's own "for everyone's good" words, recognizes the
+> crime, and the leash (Raizen's hand / Amber naming it / Alice at her back, NOT a leash-or-cage) holds.
+> Lest burning-man (Harl, a wheelwright) PAID OFF: she holds the doors with her own presence at
+> continuous cost, does NOT reach into his core (Ch.11 vow kept), Death symbol named-but-NOT-used,
+> camera cut on the worst. END HOOK in the human/political register: how do you fix a pressure without
+> controlling a single soul. Grief inward; no third sanctioned break. Fixed a craft-word leak ("camera"
+> → "whole of her"/"the telling"). New entities: Lest, Harl, Coyle, Renwick, the schoolhouse three hundred.
+> ⚠ ENTITY_STATE fold-in for Ch.9–12 STILL PENDING (Marick/Fen on-page, Drake+Varissa on-page, Lest
+>   cluster, un-mend temptation, Bk3 Ch.10 second sanctioned break). Recommend an entity-tracker UPDATE
+>   pass before Ch.13/the Bella-thread climax.
+
+### Ch.13 brief — "Balance, Not Victory" · essayistic→scene · ~4,800w
+The real answer forms: not un-mending, not control, not defeating the Horrors — **BALANCE**. Acknowledge
+the void as the necessary counterpart, CONTAIN the source's overflow, make the world sustainable.
+Research / Moravian / the cavern. **Bella's-name thread** tempts (author decision 2026-06-24: she
+ATTEMPTS to follow it, at a cost — this is the ~Ch.13 personal climax; precise cost still an open
+author decision). END HOOK: the cost of balance becomes clear, and it is terrible and personal.
+NOTE: do NOT re-reveal the pull axis (landed Ch.5/10); keep anaphora ≤2; this is a thesis-middle chapter
+so guard against #18 abstraction-saturation — ground it in cavern texture + the Bella-thread as scene.
+
+--- (history) ---
 ## ▶ RESUME HERE: draft Ch.12 ("The Thing She Fought") — Ch.1–11 DONE
 
 > Ch.11 "The Ledger Reopens" FINALIZED (4,742w) — evaluator PASS (Floor 8.5/avg 8.81, Characters 9.0,
