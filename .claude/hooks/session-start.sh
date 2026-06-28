@@ -124,9 +124,27 @@ done
 echo "Installed book pipeline agents into $AGENTS_DIR (maxTurns normalized to 120):"
 ls "$AGENTS_DIR"
 if [ "${#missing[@]}" -eq 0 ]; then
-  echo "OK: all ${#EXPECTED[@]} expected sub-agents installed and ready to dispatch."
+  echo "OK: all ${#EXPECTED[@]} agent files present in $AGENTS_DIR."
 else
-  echo "ERROR: ${#missing[@]} sub-agent(s) MISSING: ${missing[*]}" >&2
+  echo "ERROR: ${#missing[@]} sub-agent file(s) MISSING from $AGENTS_DIR: ${missing[*]}" >&2
+fi
+
+# 6b) IMPORTANT (web/remote): ~/.claude/agents is NOT dispatchable by name in cloud
+#     sessions — the Agent registry is built from the CLONED REPO at session start,
+#     before this hook runs. Only agents committed to the repo's .claude/agents/ are
+#     dispatchable as `subagent_type: <name>`. Those committed copies are the source
+#     of truth for dispatch; this step only REPORTS their state (it must NOT overwrite
+#     them, or every session would dirty the working tree).
+REPO_AGENTS="${CLAUDE_PROJECT_DIR:-$PWD}/.claude/agents"
+repo_missing=()
+for a in "${EXPECTED[@]}"; do
+  [ -f "$REPO_AGENTS/$a.md" ] || repo_missing+=("$a")
+done
+if [ "${#repo_missing[@]}" -eq 0 ]; then
+  echo "OK: all ${#EXPECTED[@]} agents committed in repo .claude/agents/ — dispatchable by name next session."
+else
+  echo "WARN: repo .claude/agents/ is missing ${#repo_missing[@]} agent(s): ${repo_missing[*]}" >&2
+  echo "      -> commit them to .claude/agents/ so they dispatch by name in web sessions." >&2
 fi
 
 # 7) Cross-model second-opinion tooling (Gemini). Only sets up when key is available.
