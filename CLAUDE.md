@@ -187,6 +187,17 @@ run this checklist as part of the gate:
     father" and HOLD it; never double a name (`"Bella Bella said"` → `"her mother said"`);
     make every speaker unambiguous.
 
+**MECHANICAL GATE (so this is enforced, not just intended):** every book has
+`tools/grammar_check.py`. Run it per chapter alongside `style_check.py` — it is a HARD GATE.
+- `python3 tools/grammar_check.py` → must report `RESULT: clean` (tier 1: doubled words,
+  space-before-punctuation, a/an mismatch — unambiguous typos; exits non-zero on any).
+- It also REPORTS (non-gating) the 3 longest sentences per chapter — use them to run rule A.1
+  (split at least one of the longest unless deliberately load-bearing).
+- Optional tier 2 (tense/agreement/dangling-modifier via LanguageTool, non-gating warnings):
+  `pip install language-tool-python` (needs Java + a one-time ~250MB engine download), then
+  `python3 tools/grammar_check.py --file manuscript/chapters/chapter-N.md --languagetool`.
+  Run it per-file (slow on a whole book). Treat as an assist, not an authority.
+
 (Full evidence + per-comment list: `book/genesis/saeren-chronicles/feedback/book1-reviewer-comments-2026-06-29.md`.)
 
 ## YA tone continuity (applies to every book in the trilogy)

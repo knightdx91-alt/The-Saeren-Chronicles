@@ -56,6 +56,12 @@ book/genesis/<slug>/
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
 - **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
   no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **Grammar check** — `python3 tools/grammar_check.py` must report `RESULT: clean` (HARD GATE:
+  doubled words, space-before-punct, a/an). Also reports the 3 longest sentences per chapter —
+  split at least one of them unless deliberately load-bearing. Optional tense/agreement layer:
+  `--file <chapter> --languagetool` (LanguageTool; needs Java + one-time download; non-gating).
+  Built 2026-06-29 after the Book One Ch.1 reviewer line-edit; see root CLAUDE.md "Recurring
+  craft mistakes".
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
