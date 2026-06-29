@@ -232,6 +232,36 @@ ALLOWLIST = [
     "warmth she had become and",                       #   same pull-mechanic, trailing fragment
     "on her own two feet",                             # the agency/witnessed motif (she walks at the front on her own two feet; Ch.15/16)
     "a thing you can't reach",                          # Alice's made-to-watch motif (Ch.15/16)
+    # Ch.20 (THE NEW SHAPE — the mosaic denouement) deliberate series-spine refrains (load-bearing, recurring by design):
+    "world coming and going across her",                # the living-throttle refrain (the world's traffic comes and goes across her; Ch.18/19/20)
+    "the world coming and going across",                #   same living-throttle refrain, leading fragment
+    "whole even traffic of the",                        # the living-throttle refrain (the whole even traffic of the world; Ch.18/19/20) — already a tail elsewhere
+    "a child was born somewhere far",                   # the living-throttle close (a child born somewhere far west, carried across the sill; Ch.18/19/20)
+    "burning came up behind her eyes",                  # the grief-inward guardrail (the burning comes up, she looks down; Ch.17/19/20)
+    "the seam where the cold leaned",                   # the Dangris staging refrain (the seam where the cold leaned thinnest; Ch.17/18/19/20)
+    "the cold leaned thinnest and",                     #   same Dangris staging refrain, trailing fragment
+    "laugh that had come back to",                      # canon: Alice's laugh "came back to her slowly across the year" (Bk2 + Ch.1/19/20) — the recovery payoff
+    "that had come back to her",                        #   same recovery motif, mid fragment
+    "come back to her slowly across",                   #   same recovery motif, trailing fragment
+    "her slowly across the year",                       #   same recovery motif, trailing fragment
+    "how you tell the difference",                      # Amber's signature evolving moral question (the book's spine; Ch.1/5/20)
+    "the way it had always",                            # the unchanged-world-keeps-going motif (the spring/the tree came up the way it always had; Ch.7/10/20)
+    "thing with no shadow in",                          # the Dangris standing-with motif (a thing with no shadow; Ch.15/16/17/20)
+    "she had crossed a continent",                      # the lesson-learned refrain (she had crossed a continent learning the free good thing; Ch.17/19/20)
+    "and did not look away",                            # the END-HOOK facing-it refrain (she looked at it and did not look away; Ch.18/19/20)
+    "the slow way that was theirs",                     # Alice's slow-way-healing motif (the slow way that is theirs at the end of it; Ch.4/20)
+    "the world she had made",                           # the maker-of-the-world refrain (a world that one hand made; Ch.6/10/20)
+    "the cold working part of her",                     # canon trait already allowlisted (the arithmetic-self; foundation; Ch.1/8/20)
+    "the door at the width that",                       # the door-mechanic refrain (holds the door at the width that lets the world keep what it made; Ch.17/18/19/20)
+    "that let the world keep",                          # the door-mechanic refrain, trailing fragment (Ch.17/19/20)
+    "true thing at the start",                          # Amber's signature line (the true thing at the start, not at noon; Ch.4/5/6/20)
+    "start and not at noon",                            #   same Amber signature line, trailing fragment
+    "slow way to its edge",                             # the recession-motif (the cold going the slow way back to its edge; Ch.18/19/20)
+    "leaned thinnest where they stood",                 # the Dangris staging refrain (the cold leaned thinnest where they stood; Ch.19/20)
+    "the black nailed hand loose",                      # Amber's signature gesture (the black-nailed hand loose at her side; Ch.19/20)
+    "world came and went across",                       # the living-throttle refrain (the world came and went across her; Ch.18/19/20)
+    "she had spent a year",                             # the lesson-learned refrain (she had spent a year cleaning up after the last who ruled; Ch.6/12/20)
+    "did not say the rest",                             # Viridia's withheld-truth motif (she did not say the rest, which was hers; Ch.6/12/20)
 ]
 
 # n-gram repetition settings
