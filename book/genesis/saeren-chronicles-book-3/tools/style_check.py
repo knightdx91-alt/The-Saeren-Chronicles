@@ -114,6 +114,30 @@ ALLOWLIST = [
     "so the pull comes to",                             # the valve mechanic refrain (the pull comes to one place, not a hundred towns; Ch.14/15)
     "and you do not draw",                              # the Death-mark refusal refrain (you do not draw a symbol against a pressure; Ch.5/9/15)
     "not a thing she would",                            # the do/be realization motif ("not a thing she would DO, a thing she would BE"; Ch.12/14/15)
+    # Ch.16 (Act Three open) deliberate canon callbacks (load-bearing, must MATCH Bk1 Ch.14 / Bk2 Ch.18 cavern prose):
+    "that had never had weather and",                  # cavern description matched to Bk2 Ch.18 (deep places that never had weather; Ch.7/16)
+    "thing the world is borrowed from",                # the source-definition motif, matched to Bk2 Ch.18 (Ch.7/16)
+    "its pool of pale even light",                     # the waiting-room cavern image matched to Bk2 Ch.18 (Ch.7/10/16)
+    "shining of its own accord",                       # the pool description matched to Bk2 Ch.18 (Ch.7/16)
+    "a clever tired first year banking",               # the cavern-callback ("a clever tired first-year banking her core to an ember"; Bk2 Ch.18, Ch.7/15/16)
+    "clever tired first year banking her",             #   same callback, mid fragment
+    "tired first year banking her core",               #   same callback, mid fragment
+    "first year banking her core to",                  #   same callback, trailing fragment
+    "the split symbol rose to",                        # the source mechanic matched to Bk2 Ch.18 (the split symbol rose to the surface; Ch.13/15/16)
+    "the far braced end of",                           # the True-Bond doorpost motif (Raizen braced at the far end; Bk2 Ch.18, Ch.15/16)
+    "at the far braced end",                           #   same motif, leading fragment
+    "the only freedom she had left",                   # the witnessed-cost spine (sacrifice vs crime, the only freedom she had left; Ch.14/15/16)
+    "only freedom she had left and",                   #   same spine, trailing fragment
+    "the whole of the difference between",             # the witnessed-cost spine (the difference between a sacrifice and a crime; Ch.6/15/16)
+    "the oldest balance there is",                     # the standing-with / pact motif (Ch.15/16)
+    "want to close a door",                            # the Death-mark wanting motif (Drake's cold-handed knowing; Ch.15/16)
+    "draw a symbol against a",                         # the Death-mark refusal refrain (Ch.5/9/15/16)
+    "the door does not close",                         # Marick's warning motif (the door, once opened, does not close; Ch.8/16)
+    "the place the warmth thinned toward",             # the Ch.1 re-read-reward callback refrain (Ch.2/5/16)
+    "drawing toward the warmth she had",               # the binding pull-mechanic phrase (Horrors pulled to the source; Ch.3/8/16)
+    "warmth she had become and",                       #   same pull-mechanic, trailing fragment
+    "on her own two feet",                             # the agency/witnessed motif (she walks at the front on her own two feet; Ch.15/16)
+    "a thing you can't reach",                          # Alice's made-to-watch motif (Ch.15/16)
 ]
 
 # n-gram repetition settings
