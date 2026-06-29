@@ -289,6 +289,37 @@ ALLOWLIST = [
     "degree at a time going",                           #   same recession-motif fragment
     "the men from the city",                            # the temptation-to-rule callback (the men from the city; Ch.20/21)
     "have to hold the door",                            # the living-throttle door-mechanic (she would have to hold the door at its width; Ch.17/21)
+    # Ch.22 (the FINALE) — deliberate trilogy-close spine refrains, reprised on purpose to land the ending (BINDING, load-bearing):
+    "a tired clever sort of trouble",                   # the let-go-country thread she leaves alone (the lab seed to the west; Ch.20/21/22)
+    "tired clever sort of trouble went",                #   same west-trouble refrain fragment
+    "clever sort of trouble went on",                   #   same west-trouble refrain fragment
+    "being trouble in its own low",                     #   same west-trouble refrain (in its own low way; Ch.20/21/22)
+    "trouble in its own low way",                       #   same west-trouble refrain fragment
+    "in the let go country",                            #   the let-go-country place-name (Ch.20/22)
+    "bridge alone and the city alone",                  # the not-the-world's-hand refrain (she left the bridge alone and the city alone; Ch.20/21/22)
+    "alone and the city alone because",                 #   same not-the-hand refrain fragment
+    "left the bridge alone and",                        #   same not-the-hand refrain fragment
+    "the city alone because she",                       #   same not-the-hand refrain fragment
+    "city alone because she was",                       #   same not-the-hand refrain fragment
+    "door and not the world's hand",                    # the lease-refrain: she is the door and not the world's hand (Ch.20/21/22)
+    "which was the point which",                        # the long-view close refrain (more than she could see the end of, which was the point; Ch.20/21/22)
+    "the point which was exactly",                      #   same long-view refrain fragment
+    "point which was exactly the point",                #   same long-view refrain fragment
+    "could see the end of which",                       #   same long-view refrain fragment
+    "somewhere far west and she carried",               # the living-throttle close refrain (a child born far west and she carried it across the sill; Ch.19/20/22)
+    "let the world keep what it",                        # the borrowed-world lease refrain (holds the door to let the world keep what it makes; Ch.19/20/22)
+    "traffic of the world coming",                      # the living-throttle refrain (the even traffic of the world coming and going across her; Ch.20/21/22)
+    "look down the whole drop",                         # the stair-not-the-drop refrain (you do not look down the whole drop; Ch.21/22)
+    "a spring before the war",                          # the almond-tree anchor (Edrick set it in a spring before the war; Ch.21/22)
+    "the far end of the wall",                          # the wall staging (Raizen at the far end of the wall, near, not on her; Ch.21/22)
+    "out across the throat of",                         # the living-throttle image (the valley breathing across the throat of her; Ch.17/19/22)
+    "and out across the throat",                         #   same throat-of-her living-throttle image fragment (Ch.17/19/22)
+    "breathing in and out across",                       #   same living-throttle image (the world breathing in and out across her; Ch.17/19/22)
+    "and she did not know",                              # the FINALE close-anaphora: "she did not know what it was, and she did not know where" (the unexplained void; deliberate, Ch.22 last beat)
+    "she heard herself say it",                          # Viridia's signature tell (flat hard certainty over a thing she is not sure of; Ch.1/11/22)
+    "i don't know she said",                             #   her plain-truth register ("I don't know," she said; Ch.13/21/22)
+    "the very long way off to",                          # the True-Bond long-life cost-motif (the very long way off; Ch.19/20/22)
+    "more than either of them",                          # the long-view close refrain (more than either of them could see the end of; Ch.1/21/22)
 ]
 
 # n-gram repetition settings
