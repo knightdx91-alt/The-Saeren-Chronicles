@@ -156,6 +156,39 @@ prose, names, places, or canon must be recorded** in `feedback/book1-r<N>-change
 the plural was inaccurate). Series name keeps the canonical single-n **Saeren**.
 Book Two remains **"The Resistance"**.
 
+## Recurring craft mistakes — NEVER repeat (applies to every book; read before drafting)
+
+Distilled from reviewer **Eilidh Locherty's** line-edit of Book One Ch.1 (Google Docs,
+2026-06-29) and corroborated by the standing external-review note across Books One & Two
+("too quiet / over-narrated / slow"). These are the things WE keep doing wrong. The root is
+one habit: **writing dense, atmospheric prose that serves the voice at the expense of the
+reader's plain comprehension.** The fix is NOT to flatten the voice (reviewers praise the
+atmosphere and humor) — it is to clarify without flattening. After drafting every chapter,
+run this checklist as part of the gate:
+
+**A. Structural / over-narration (the big one):**
+1. **Over-packed sentences** — "doing a lot in one breath." After drafting, find the 3
+   longest sentences per scene and SPLIT at least one unless it is deliberately load-bearing.
+   "We don't need to say everything."
+2. **Vague poetic reaches** — every "she knew / always / something / deep water"-type phrase
+   must name what it refers to, or be cut. If a reader can ask "knew WHAT?", fix it.
+3. **Cleverness over clarity** — any joke/wordplay or clever construction gets one plain
+   re-read; if a smart reader has to reparse it (e.g. the "character"/toast gag), rewrite it.
+4. **Unmarked scene/time jumps** — signal every time/place jump explicitly; don't cut from
+   kitchen to gate with no marker.
+
+**B. Line-craft tics (small, repeated, corrected again and again):**
+5. **Tense drift** — hold the tense; watch simple-past vs past-perfect (`went` vs `had come`).
+6. **Inconsistent contractions** in narration — pick a register and hold it.
+7. **Connective monotony** — don't lean on `then`/`while`; vary.
+8. **Telling adverbs** — prefer the shown action over `instinctively`/`-ly` tells.
+9. **Agreement & dangling modifiers** — every opening modifier must attach to a clear subject.
+10. **Name redundancy / dialogue attribution** — decide when a character is "Leon" vs "her
+    father" and HOLD it; never double a name (`"Bella Bella said"` → `"her mother said"`);
+    make every speaker unambiguous.
+
+(Full evidence + per-comment list: `book/genesis/saeren-chronicles/feedback/book1-reviewer-comments-2026-06-29.md`.)
+
 ## YA tone continuity (applies to every book in the trilogy)
 
 The series is **upper/mature YA** — the same register as Book One's school-attack
