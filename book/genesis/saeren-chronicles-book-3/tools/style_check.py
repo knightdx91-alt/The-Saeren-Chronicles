@@ -106,6 +106,14 @@ ALLOWLIST = [
     "the only pair of hands",                          # the Lest/Alice lesson echoed back at the cost (Ch.12 Alice -> Ch.13 Amber) — deliberate dialogue callback
     "that did the arithmetic so the",                  # variant of the allowlisted "the cold working part / arithmetic so the rest" canon trait (Ch.1 onward)
     "she had no name for",                             # the unnameable void guardrail (abstract, no entity; MotV NOT resolved) — deliberate, Ch.1/2/13
+    # Ch.14-15 deliberate series-spine motifs (load-bearing, recurring by design):
+    "a life with almost no end",                       # the True-Bond long-life / doorway-forever motif (Ch.13/14/15) — the named cost
+    "harder to even than a person",                    # the valve/wall mechanic Viridia taught Raizen ("a person in a wall is harder to even"; Ch.14/15)
+    "the mark closes a door",                          # Death-symbol mechanic, Ch.15's core teaching (the mark closes a DOOR, not a pressure; Ch.9/15)
+    "no mark for a pressure",                           # the Death-symbol-as-pressure spine (a pressure has no closing mark; Ch.9/11/15)
+    "so the pull comes to",                             # the valve mechanic refrain (the pull comes to one place, not a hundred towns; Ch.14/15)
+    "and you do not draw",                              # the Death-mark refusal refrain (you do not draw a symbol against a pressure; Ch.5/9/15)
+    "not a thing she would",                            # the do/be realization motif ("not a thing she would DO, a thing she would BE"; Ch.12/14/15)
 ]
 
 # n-gram repetition settings
