@@ -31,10 +31,12 @@ your `~` / `~/Downloads` files persist. If you come back later, just re-run Step
 **1. Open** https://shell.cloud.google.com and sign in. Wait for the black terminal.
 
 **2. Install the desktop + a browser.** Chromium is snap-broken in Cloud Shell and
-`firefox-esr` was removed from the repo, so we use **real Firefox from Mozilla**:
+`firefox-esr` was removed from the repo, so we use **real Firefox from Mozilla**.
+We use the full **XFCE** desktop (top panel, Applications menu, Thunar file
+manager) so you can confirm `~/Downloads` before uploading:
 
 ```
-sudo apt-get update -y && sudo apt-get install -y fluxbox tigervnc-standalone-server novnc websockify
+sudo apt-get update -y && sudo apt-get install -y xfce4 xfce4-goodies dbus-x11 tigervnc-standalone-server novnc websockify
 cd ~ && rm -rf firefox firefox.tar.xz
 wget --content-disposition -O firefox.tar.xz "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US"
 tar xf firefox.tar.xz
@@ -44,13 +46,13 @@ ls ~/firefox/firefox && echo "FIREFOX OK"
 (If Firefox later won't launch for missing libs, run:
 `sudo apt-get install -y libgtk-3-0 libdbus-glib-1-2 libx11-xcb1`.)
 
-**3. Start the GUI.** The `exec fluxbox` line is critical — if the xstartup script
-exits, TigerVNC tears the whole session down (that was the "startup immediately
-exiting" bug):
+**3. Start the GUI.** The `exec startxfce4` line is critical — if the xstartup
+script exits, TigerVNC tears the whole session down (that was the "startup
+immediately exiting" bug):
 
 ```
 mkdir -p ~/.vnc
-printf '#!/bin/sh\nxsetroot -solid grey 2>/dev/null\n%s/firefox/firefox &\nexec fluxbox\n' "$HOME" > ~/.vnc/xstartup
+printf '#!/bin/sh\nunset SESSION_MANAGER\nunset DBUS_SESSION_BUS_ADDRESS\n%s/firefox/firefox &\nexec startxfce4\n' "$HOME" > ~/.vnc/xstartup
 chmod +x ~/.vnc/xstartup
 tigervncserver -kill :1 2>/dev/null
 tigervncserver :1 -geometry 1280x800 -localhost no -SecurityTypes None --I-KNOW-THIS-IS-INSECURE
@@ -60,12 +62,20 @@ echo "started"
 ```
 
 - For a **phone-shaped (portrait)** screen, use `-geometry 800x1280` instead of 1280x800.
+- **XFCE gives you a full desktop** — a top panel, an Applications menu, and the
+  **Thunar file manager** so you can open `~/Downloads` and confirm the book files
+  are really there before the upload. `dbus-x11` is **required** or XFCE half-breaks
+  (no panel / no menus). If the desktop comes up grey, wait ~15s for the panel to
+  paint, or check `cat ~/.vnc/*.log` for errors. Cloud Shell wipes apt packages
+  between sessions, so XFCE is reinstalled each time you come back (re-run Steps 1–3),
+  but `~` files (including `~/.vnc/xstartup` and `~/.github_token`) persist.
 
 **4. Open the desktop in the phone browser.** Cloud Shell toolbar (top-right) →
 **Web Preview** (monitor/eye icon; may be under a `⋮` overflow on a narrow screen) →
 **Change port → 8080 → Change and Preview**. A new tab opens.
 - If it shows a **directory listing or 404**, add **`/vnc.html`** to that tab's URL.
-- Tap **Connect**. You'll see a grey desktop with Firefox.
+- Tap **Connect**. You'll see the XFCE desktop (top panel + Applications menu) with
+  Firefox already open.
 
 **5. If the desktop is hard to navigate on the phone:** open the small noVNC tab on
 the **left edge** → gear/Settings → **Scaling Mode → Local Scaling** (fits the whole
