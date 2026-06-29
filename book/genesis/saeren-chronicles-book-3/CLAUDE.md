@@ -113,6 +113,50 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
   (needs ~a year, not a few months, for her to be 16). (**Raizen's affinity RESOLVED 2026-06-25: prismatic / all-elements.**)
 
 ## Status (update as you go)
+
+> ### ▶ NEXT SESSION — START HERE: LINE-BY-LINE EDIT of Book Three (author directive 2026-06-29)
+> **Book Three is COMPLETE + structurally revised. Current build = r3** (20 ch, 112,046 w, 326 pp;
+> RGB + PDF/X-1a). All prior builds kept as history. Gates clean (style/grammar; rhythm 30).
+> **The next session's job is a full LINE-BY-LINE edit, chapter by chapter, Ch.1 → Ch.20.**
+>
+> **How to run it (same discipline as every revision here):**
+> 1. Read `feedback/book3-developmental-edit-2026-06-29.md` (the structural diagnosis) and the three
+>    change logs `feedback/book3-r{2,3}-changes.md` first, so you don't re-cut what's already cut.
+> 2. **Bump `REVISION` r3 → r4 BEFORE any rebuild.** Keep the r3 builds as history. Log every change
+>    in `feedback/book3-r4-changes.md` (chapter · what changed · any Bk1/2 touchpoint).
+> 3. Edit one chapter at a time. After each, run the HARD GATES: `python3 tools/style_check.py
+>    --max-emdash 4` (RESULT: clean), `python3 tools/grammar_check.py` (RESULT: clean, and use its
+>    3-longest-sentences report to split at least one over-packed sentence per scene), and
+>    `python3 tools/rhythm_check.py` (no NEW flat triplets vs the r3 baseline of 30).
+> 4. **The mandate is LITERARY-PRESERVING (author call 2026-06-29).** Clarify without flattening:
+>    split over-packed sentences, kill vague poetic reaches ("she knew / something / deep water" — name
+>    the referent or cut), de-tic, vary connectives, prefer the shown action over `-ly` tells. Do NOT
+>    strip the deliberate voice, the sanctioned anaphora, the allowlisted motifs, or the escalating
+>    temptation ladder. (See root `CLAUDE.md` "Recurring craft mistakes" — run that checklist per chapter.)
+> 5. Optional cross-model second opinions per chapter: `/gemini-second-opinion <ch>`, `/grok-second-opinion <ch>`.
+> 6. Continuity: nothing canon moves in a line edit; run `continuity-guardian` against Bk1+Bk2 only if a
+>    line touches a returning element. Rebuild (`assemble_manuscript.py` + `build_pdf.py` + `make_pdfx.sh`)
+>    and refresh deliverables at the end; bump REVISION first.
+>
+> **CARRYOVER — the deferred "heightening" half of the r3 review response (do alongside or after the
+> line edit, author-approved option A):**
+> - **Marick (Ch.8 "The Man Who Picked Up the Chalk")** — intensify his menace + give a brief motivation/
+>   backstory beat so he's a fuller foil; keep him consistent with the Bk2 Ch.20 seed (the forty-year
+>   candle handed a whole core, picks up the chalk). His "pleased" reaction is good — build on it.
+> - **Amber's peril (Ch.13–14)** — more visceral impact in the moment; but do NOT give her a lasting
+>   injury that contradicts her end-of-book arc (alive, going grey naturally on the wall in Ch.20).
+> - **Chapter-end hooks** — sharpen the 2–3 that trail off into meditation instead of pulling.
+> - Source review: `feedback/` external r2 review (pasted by author 2026-06-29) + the developmental edit.
+> - **NOT chosen:** the reviewer's commercial 15–25% trim / added action set-pieces — author declined
+>   (preserve the quiet-literary positioning, consistent with the Book Two call). Do not reintroduce it.
+>
+> **What's already done (don't redo):** r2 = denouement compression (former Ch.20/21/22 → one closing
+> Ch.20). r3 = literary-preserving consolidation (Ch.5 post-reveal pile trimmed; Ch.15 "fourteen chapters"
+> meta-slip fixed; Ch.1 "small true things" de-dup). The mid-book temptation ladder + Ch.13 synthesis are
+> load-bearing — left intact ON PURPOSE; do not cut them as "repetition."
+>
+> --- (drafting-phase history below) ---
+
 - Scaffolded + seeded + architect pass done (foundation.md + outline.md, 22 ch). Author decisions locked.
 - **DRAFTING IN PROGRESS — Ch.1 & Ch.2 FINALIZED on `main` (2026-06-24)** via the authentic agent
   pipeline. Both gate-clean, evaluator Floor 8.5 PASS, continuity clean. **READ `feedback/progress.md`
