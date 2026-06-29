@@ -125,8 +125,11 @@ api="https://api.github.com/repos/knightdx91-alt/The-Saeren-Chronicles/contents"
 get(){ curl -sL -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.raw" -o "$2" "$api/$1"; }
 
 # --- change these paths per book; Book-3 paths go under book/genesis/saeren-chronicles-book-3/ ---
-# Book One (barcode-fixed press-ready cover = r3 CMYK/no-ICC; interior r14 PDF/X-1a):
-#   get "book/genesis/saeren-chronicles/delivery/cover/Saeren-Book-One-FULL-WRAP-r3-CMYK-noicc.pdf" cover.pdf
+# Book One (barcode-fixed cover = r3 PDF/X-1a; interior r14 PDF/X-1a):
+#   USE THE -PDFX1a COVER, NOT -CMYK-noicc. The plain CMYK/no-ICC file previews BLANK/WHITE
+#   on IngramSpark (and phone viewers) because it has no OutputIntent. PDF/X-1a (CMYK +
+#   OutputIntent) is what IngramSpark expects and previews correctly.
+#   get "book/genesis/saeren-chronicles/delivery/cover/Saeren-Book-One-FULL-WRAP-r3-PDFX1a.pdf" cover.pdf
 #   get "book/genesis/saeren-chronicles/delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r14-PDFX1a.pdf" interior.pdf
 get "book/genesis/saeren-chronicles-book-2/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior-r7-GRAY-noicc.pdf" interior.pdf
 get "book/genesis/saeren-chronicles-book-2/delivery/cover/Saeren-Book-Two-FULL-WRAP-r2-CMYK-noicc.pdf" cover.pdf
