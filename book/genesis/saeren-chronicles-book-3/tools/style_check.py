@@ -262,6 +262,33 @@ ALLOWLIST = [
     "world came and went across",                       # the living-throttle refrain (the world came and went across her; Ch.18/19/20)
     "she had spent a year",                             # the lesson-learned refrain (she had spent a year cleaning up after the last who ruled; Ch.6/12/20)
     "did not say the rest",                             # Viridia's withheld-truth motif (she did not say the rest, which was hers; Ch.6/12/20)
+    # Ch.21 (THE LONG VIEW) deliberate trilogy-capstone refrains (load-bearing; the finale's quiet interiority echoes the established motifs ON PURPOSE):
+    "even traffic of the world",                        # canon living-throttle phrase (the whole even traffic of the world; Ch.18/19/20/21)
+    "warm all the way down",                            # Alice's mending refrain (warm all the way down now; Ch.19/20/21)
+    "all the way down now",                             #   same Alice-mending refrain, trailing fragment
+    "child was born somewhere far west",                # the living-throttle close refrain (a child born far west, carried across the sill; Ch.19/20/21)
+    "was born somewhere far west and",                  #   same close-refrain fragment
+    "born somewhere far west and she",                  #   same close-refrain fragment
+    "a tuesday or near enough",                         # the deliberate ugly-plain "It was a Tuesday or near enough" beat (Ch.6/20/21)
+    "the hand that made it",                            # the borrowed-world spine (a thing holds still to be ordered by the hand that made it; Ch.20/21)
+    "still to be ordered by",                           #   same borrowed-world spine fragment
+    "feel every living core there",                     # canon throttle-reach phrase (she can feel every living core there is; Ch.5/9/20/21)
+    "living core there is and",                         #   same throttle-reach fragment
+    "did not weep because she did",                     # the grief-held-inward guardrail refrain (she did not weep, because she did not; Ch.5/6/21)
+    "not weep because she did not",                     #   same guardrail-refrain fragment
+    "the burning behind her eyes",                      # the eye-burn-looked-down grief register (the burning behind her eyes; Ch.18/19/21)
+    "burning behind her eyes went",                     #   same grief-register fragment
+    "because the bond did not need",                    # the True-Bond motif (the bond did not need the saying; Ch.16/18/21)
+    "trusted no one else to keep",                      # Amber's keeper-of-the-one-thing refrain (Ch.1/20/21)
+    "she trusted no one else to",                       #   same keeper refrain fragment
+    "keeper of the one thing",                          #   same keeper refrain fragment
+    "almond tree at the bottom",                        # the garden anchor-image (the almond tree at the bottom of the garden; Ch.1/20/21)
+    "part of her that did",                             # the cold-working-self arithmetic refrain (the part of her that did the arithmetic; Ch.2/20/21)
+    "her that did the arithmetic",                      #   same arithmetic-self fragment
+    "going the slow way to",                            # the recession-motif (the slow way to its edge; Ch.20/21)
+    "degree at a time going",                           #   same recession-motif fragment
+    "the men from the city",                            # the temptation-to-rule callback (the men from the city; Ch.20/21)
+    "have to hold the door",                            # the living-throttle door-mechanic (she would have to hold the door at its width; Ch.17/21)
 ]
 
 # n-gram repetition settings
