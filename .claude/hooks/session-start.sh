@@ -42,6 +42,18 @@ if ! command -v gs >/dev/null 2>&1; then
     || echo "warn: ghostscript install failed; make_pdfx.sh (PDF/X-1a) will be unavailable." >&2
 fi
 
+# 1b) grammar_check.py tier-2 (tense/agreement/dangling modifiers via LanguageTool).
+#     Tier 1 of grammar_check.py is dependency-free and always gates; tier 2 is the optional
+#     --languagetool layer. Install the lightweight Python package here so it's ready; the
+#     ~250MB LanguageTool engine downloads lazily on first `--languagetool` use (NOT here, to
+#     keep session start fast). Needs Java, which the environment already provides.
+if ! python3 -c 'import language_tool_python' >/dev/null 2>&1; then
+  echo "Installing language-tool-python (grammar_check.py tier-2; engine downloads on first use)..."
+  pip install --quiet language-tool-python >/dev/null 2>&1 \
+    && echo "language-tool-python installed." \
+    || echo "warn: language-tool-python install failed; grammar_check.py --languagetool unavailable (tier 1 still gates)." >&2
+fi
+
 # 2) Fetch Best Seller Studio via curl tarball (git clone is 403-blocked by env proxy).
 #    Retry up to 3 times for flaky network on container start.
 BSS_READY=false
