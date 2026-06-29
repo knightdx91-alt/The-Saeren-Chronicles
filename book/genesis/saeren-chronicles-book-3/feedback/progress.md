@@ -1,4 +1,46 @@
-## ▶ RESUME HERE: draft Ch.13 ("Balance, Not Victory") — Ch.1–12 DONE
+## ▶ BOOK THREE COMPLETE IN DRAFT (2026-06-29) — all 22/22 chapters finalized on `main`
+
+> **Book Three ("The Weight of the Source") is DRAFT-COMPLETE: 22 chapters, 118,848 words**
+> (floor was 95k), full-book `style_check.py` and `grammar_check.py` BOTH clean, rhythm only
+> sanctioned anaphora, canon held throughout, YA tone held, grief inward held.
+>
+> **Act Three landed in full this session (Ch.13–22):**
+> - Ch.13 Balance-not-victory; she attempts the Bella-thread and pays (the cost = a DURATION: become
+>   the permanent valve; learns Bella was an earlier valve who reached past it and never came back).
+> - Ch.14 The Brink (eleven-door incursion; Death-mark temptation refused twice; Amber's near-loss,
+>   camera cut; she runs the live source-overflow as the valve for a half-second; commits to balance).
+> - Ch.15 What It Will Take (Drake = the death-mark closes a DOOR not a pressure; **Dangris pact
+>   RESOLVED** = standing-with not fighting, matched to Bk1 Ch.11/18; witnessed-cost; cost named aloud).
+> - Ch.16 The Approach (Marick's last working; Drake closes it, CAMERA CUT on his end; **Fen survives**,
+>   tasked to carry the true account; END: "She set her hand to the source.").
+> - Ch.17 THE CLIMAX (balance ENACTED, her hand the proximate cause, WITNESSED; she refuses to seal the
+>   void, holds the door open at the right width; Raizen the hand-over-hand anchor; cost begins to land).
+> - Ch.18 The Cost (interior, ENACTED via concrete births/deaths; the BIRTHS nearly break her; Horrors
+>   RECEDE not killed — "Released back. Not driven back.").
+> - Ch.19 What the World Keeps (the LEAVING of the cavern rendered; tether-at-distance; Drake north;
+>   cost permanent and hers).
+> - Ch.20 The New Shape (THE THEMATIC LANDING: she could rule and refuses — "It's not in the wanting.
+>   It's in the no."; Alice fully a healer; Dangris goodbye; world sustainable-not-fixed).
+> - Ch.21 The Long View (True-Bond long-life weight carried together; still-herself-because-of-the-no;
+>   private Raizen beat, eyes burn but NO weeping — guardrail held).
+> - Ch.22 FINALE (warm close, then hard CUT to the lab: Fen draws the symbol, the door snaps and severs
+>   the reaching thing, **Fen runs/survives**; cut to Viridia feeling the first **VOID** — "a place where
+>   a core should be and was not"; LAST LINE unexplained; the single MotV thread. No Masters/void-woman.)
+>
+> **▶ NEXT SESSION OPTIONS (Book Three draft is done; remaining work is review/production, author's call):**
+> 1. **Full-book continuity-guardian + book-evaluator pass** on Ch.1–22 (per-chapter Floor ≥8.5; cross-book
+>    canon audit vs Books One/Two). Recommended before the first PDF cut.
+> 2. **First PDF cut**: create `REVISION`=`r1` in book-3, then assemble_manuscript → build_pdf → make_pdfx
+>    (the pipeline is already mirrored here). Bump-before-rebuild policy applies.
+> 3. **entity-tracker UPDATE** fold-in (Ch.9–22) — was pending pre-Ch.13; do it now for a clean ENTITY_STATE.
+> 4. Optional external read (gemini/grok second-opinion tools) of the climax (Ch.17), the cost (Ch.18),
+>    and the finale (Ch.22).
+> 5. Open author decisions that were resolved in-flight per the outline (LOG for sign-off): Dangris pact =
+>    standing-with (Ch.15); Marick dies / Fen is the runner (Ch.16/22); Lor-ar did NOT return for the finale.
+>
+> --- (history below) ---
+
+## ▶ (history) RESUME HERE: draft Ch.13 ("Balance, Not Victory") — Ch.1–12 DONE
 
 > Ch.12 "The Thing She Fought" FINALIZED (6,227w) — evaluator PASS (Floor 8.5/avg 8.84, lowest dim
 > Pacing 8.5; #18 thematic-saturation RESOLVED, kinetic register lifted, Casual 8.5); continuity CLEAN
