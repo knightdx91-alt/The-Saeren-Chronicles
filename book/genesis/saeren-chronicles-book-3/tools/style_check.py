@@ -126,6 +126,34 @@ ALLOWLIST = [
     "a life with almost no end",                       # the True-Bond long-life / doorway-forever motif (Ch.13/14/15) — the named cost
     "harder to even than a person",                    # the valve/wall mechanic Viridia taught Raizen ("a person in a wall is harder to even"; Ch.14/15)
     "the mark closes a door",                          # Death-symbol mechanic, Ch.15's core teaching (the mark closes a DOOR, not a pressure; Ch.9/15)
+    # Ch.18 (THE COST — interior) deliberate spine refrains (BINDING, load-bearing, recurring by design):
+    "a burning you looked down",                       # the grief-held-inward guardrail: an eye-burn looked down until it passes does not count (no one sees her cry; Ch.16/17/18)
+    "you looked down until it",                         # same eye-burn grief-inward motif, trailing fragment
+    "no eyelid for",                                    # the Ch.18 cost-mechanic: there is no looking away from the traffic of the world (no eyelid for it) — the chapter's load-bearing image
+    "the company held the line they could see",         # the witnessed-but-cannot-feel mercy motif (the company holds the visible line; the door is hers alone to feel; Ch.16/17/18)
+    "held the line they could see",                     # same witnessed-mercy motif, trailing fragment
+    "the rebirth had run the world's lung full",        # the cost-mechanic premise: the rebirth ran the lung full, now she is the breathing of it (Ch.17/18)
+    "every birth and every death",                      # the LIVING-THROTTLE cost (already allowlisted above; the binding cost-statement; Ch.13/15/17/18)
+    "back to its edge",                                 # the END-HOOK recession motif: the cold going back to its edge (the Horrors RECEDE, not killed; Ch.18)
+    "where the stone began the doorpost",               # Raizen-as-doorpost staging (he braces at the threshold where the stone begins; Ch.17/18)
+    "the world's lung full and",                        # cost-mechanic continuity (the rebirth ran the world's lung full; Ch.17/18)
+    "she set herself across it",                         # the enacted door-holding mechanic from the climax (she sets herself across the sill; Ch.17/18)
+    "and she set herself across",                        # same door-holding mechanic, leading fragment
+    "and did not seal it",                               # the BINDING balance-not-victory beat (she does NOT seal the void; Ch.17/18)
+    "did not seal it and",                               # same balance refrain, trailing fragment
+    "in the pale even light",                            # the source-cavern staging refrain (she kneels in the pale even light of the pool; Ch.17/18)
+    "that was still a girl",                             # the not-yet-only-the-function motif (the part of her still a girl; Ch.17/18)
+    "line off the back of",                              # the True-Bond staging: the bond running rooted off the back of her (Ch.16/17/18)
+    "place to look when your eyes",                      # the eye-burn grief-inward motif, mid fragment (a good place to look when your eyes burned; Ch.16/17/18)
+    "to look when your eyes burned",                     # same eye-burn motif, mid fragment
+    "since that a burning you looked",                   # same eye-burn motif, lead fragment
+    "threshold where the stone began the",               # Raizen-as-doorpost staging (Ch.17/18)
+    "a good place to look when",                          # eye-burn grief-inward motif, lead fragment (Ch.16/17/18)
+    "good place to look when your",                       # same eye-burn motif
+    "look when your eyes burned and",                     # same eye-burn motif
+    "years since that a burning you",                     # same eye-burn motif, lead fragment
+    "burning you looked down until",                      # same eye-burn motif, mid fragment
+    "because that is what an",                            # the void balance-mechanic (the void leans because that is what an empty place does; Ch.17/18)
     "no mark for a pressure",                           # the Death-symbol-as-pressure spine (a pressure has no closing mark; Ch.9/11/15)
     "so the pull comes to",                             # the valve mechanic refrain (the pull comes to one place, not a hundred towns; Ch.14/15)
     "and you do not draw",                              # the Death-mark refusal refrain (you do not draw a symbol against a pressure; Ch.5/9/15)
