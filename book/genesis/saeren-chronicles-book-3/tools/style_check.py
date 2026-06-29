@@ -113,6 +113,56 @@ ALLOWLIST = [
     "the way it had taken",                             # the cavern-takes-her motif (the room/source took her, as it had taken her before; Ch.14/16/17)
     "there had only ever been",                         # the agency-spine: "there had only ever been her[s]" — the only hand at the rim (Ch.8/16/17)
     "the width that let the",                           # the central enacted-balance mechanic of Ch.17: holding the door to the width that lets the lean be a lean (the chapter's load-bearing working-refrain)
+    # Ch.18/19 (the cost interior + the denouement) deliberate door-mechanic motifs (BINDING, load-bearing, recurring by design):
+    "carried it across the sill",                       # the cost-mechanic: she carries every birth/death "across the sill" of the door she has become (Ch.18/19) — the enacted living-throttle image
+    "carried it across the sill of",                    # same sill-carrying motif, trailing fragment
+    "came and went across her",                         # the living-throttle refrain: the world's whole traffic comes and goes "across her" (the door she is, anywhere; Ch.17/18/19)
+    "the world come and go across",                     # same traffic-across-her motif, variant form
+    "door at the width that let",                       # the central door-mechanic refrain (holds the door at the width that lets the world keep what it makes; Ch.17/18/19)
+    "the very long way off and",                        # the cost-motif tail (the True-Bond life; Ch.15-19) — already-allowlisted "of the very long way off" tail-fragment
+    "very long way off and the",                        # same cost-motif, trailing fragment
+    "was going to feel every one",                      # the living-throttle refrain: she is going to feel every one begin and end (Ch.18/19)
+    "going to feel every one of",                       # same living-throttle refrain, trailing fragment
+    "had come back to her slowly",                      # canon: Alice's warmth/laugh "came back to her slowly across the year" (Bk2 + Ch.1/19) — the recovery motif
+    "looked down until it stopped did",                 # the grief-inward guardrail refrain (a burning you looked down until it stopped did not count; Ch.16/17/19)
+    "down until it stopped did not",                    # same grief-inward refrain, mid fragment
+    "until it stopped did not count",                   # same grief-inward refrain, trailing fragment
+    "when your eyes burned and because",                # same grief-inward elaboration (a good place to look when your eyes burned; Ch.17/18/19)
+    "settled it with herself years since",              # the grief-inward guardrail set-up (she had settled it with herself years since; Ch.17/18/19)
+    "with herself years since that a",                  # same grief-inward set-up, trailing fragment
+    "had settled it with herself years",                # same grief-inward set-up, lead fragment (she had settled it with herself years since; Ch.17/18/19)
+    "it with herself years since that",                 # same grief-inward set-up, mid fragment
+    "herself years since that a burning",               # same grief-inward set-up, mid fragment
+    "and because she had settled",                      # same grief-inward set-up, lead fragment
+    "because she had settled it",                       # same grief-inward set-up, mid fragment
+    "far end of the line",                              # the True-Bond anchor staging refrain (Raizen rooted on the far end of the line; Ch.16/18/19)
+    # Ch.19 (the denouement) deliberate spine refrains (BINDING, load-bearing, recurring by design across Act Three):
+    "far end of the bond",                              # the True-Bond anchor staging (she feels him on the far end of the bond; Ch.2/16/19)
+    "in the way that mattered",                         # canon tether-at-distance phrase: her hand stays in the source "in the way that mattered" (Ch.15/17/19)
+    "the burning came up behind",                       # the grief-inward guardrail: the burning comes up behind her eyes and she looks down (Ch.16/17/19)
+    "until it passed because the",                      # same grief-inward refrain, trailing fragment (looked down until it passed; Ch.16/17/19)
+    "the second warmth the doorpost",                   # Raizen-as-doorpost staging (the second warmth, the doorpost; Ch.16/18/19)
+    "she would never be able",                          # the cost-isolation refrain (she would never be able to say the half of it; Ch.17/18/19)
+    "would never be able to",                           # same cost-isolation refrain, trailing fragment
+    "width that let the world",                         # the door-mechanic refrain (the width that let the world keep what it made; Ch.17/19)
+    "the width it could survive",                       # the door-mechanic refrain (the width the world could survive; Ch.17/19)
+    "warmth she had become the",                        # the binding pull-mechanic (toward the warmth she had become; Ch.17/18/19)
+    "no end to a watch",                                # the watch-cost spine (no end to a watch but the end of the watcher; Ch.17/18/19)
+    "the cost of this one",                             # the cost-contrast refrain (the cost of this one was carried, not spent; Ch.17/19)
+    "cost of this one was",                             # same cost-contrast refrain, trailing fragment
+    "she was sixteen years old",                        # the age-fact refrain (she was sixteen years old; Ch.17/18/19) — age now stated plainly per author decision
+    "in her own two hands",                             # the taken-up-not-spent cost refrain (carried in her own two hands; Ch.17/19)
+    "the whole even traffic of",                        # the living-throttle refrain (the whole even traffic of the world's warmth; Ch.18/19)
+    "held the door and let",                            # the door-holding closing refrain (held the door and let the world come and go; Ch.18/19)
+    "door and let the world",                           # same closing refrain, trailing fragment
+    "the world came and went",                          # the living-throttle refrain (the world came and went across her; Ch.18/19)
+    "feel every one of them",                           # the living-throttle refrain (feel every one of them begin and end; Ch.18/19)
+    "the way she had set",                              # the set-it-down-as-a-fact motif (she set the age/arithmetic down where she could see it; Ch.18/19)
+    "the line off the back",                            # the True-Bond staging (the bond running off the back of her; Ch.16/17/18/19)
+    "smallest degree at a time",                        # the recession-motif (the cold leaning back the smallest degree at a time; Ch.18/19)
+    "where the cold leaned thinnest",                   # the Dangris staging refrain (the seam where the cold leaned thinnest; Ch.17/18/19)
+    "toward the source the way",                        # the binding pull-mechanic (drawn toward the source the way absence is drawn to presence; Ch.5/18/19)
+    "the only one who could",                           # the END-HOOK agency refrain: the cost is hers, she is the only one who could carry it (echoes the Ch.3 refuse-to-rule beat by design; Ch.3/19)
     "wanted only to make the world",                   # same thematic-spine refrain
     "make the world whole and",                        # same thematic-spine refrain, trailing fragment
     # Ch.13 deliberate series-spine motifs (load-bearing callbacks, recurring by design):
