@@ -39,15 +39,21 @@ word_floor:
   per_chapter_min_words: 4600    # match Book Two's per-chapter floor
 
 phase:
-  current: 2
-  status: "ARCHITECT PASS DONE (foundation.md + outline.md, 22 ch). NEXT: author confirms §6 open items + ALLOWLIST, then draft Ch.1."
+  current: 4   # DRAFT COMPLETE + REVISED. (1 scaffold, 2 architect, 3 drafting, 4 revision/delivery)
+  status: "BOOK COMPLETE + REVISED to r2. All chapters drafted, gate-clean, on main. Build r2 = 20 ch, 112,205 w, 328 pp (RGB + PDF/X-1a). NEXT (author's call): external beta read of r2; optional Tier-2 polish (thin the 'very long way off' motif cluster); fill any front/back-matter placeholders before print."
   history:
     - "2026-06-24: scaffolded + seeded; roadmap reconciled vs finished Books 1/2."
     - "2026-06-24: architect pass — foundation.md + outline.md (22 chapters, 3 acts; balance-not-victory)."
+    - "2026-06-24..25: drafted Ch.1-22 via the agent pipeline, each gate-clean; build r1 (22 ch, 118,848 w)."
+    - "2026-06-29: developmental edit (APODICTIC floor passes); Tier-1 fix = denouement compression."
+    - "2026-06-29: r2 cut — former Ch.20/21/22 merged into one closing Ch.20; book now 20 ch, 112,205 w; gates clean; r1 kept as history."
 
 chapters:
-  total_planned: 20              # r2 (2026-06-29): denouement compressed, former Ch.20/21/22 -> one closing Ch.20 ("A Place Where a Core Should Be"). Was 22 ch in r1. Book is fully drafted (this 'chapters:' block below is stale from the drafting phase).
-  completed: [1,2,3,4,5,6,7,8,9,10,11,12]  # Ch.1-12 finalized, gates clean, on main
+  total_planned: 20              # r2 (2026-06-29): denouement compressed, former Ch.20/21/22 -> one closing Ch.20 ("A Place Where a Core Should Be"). Was 22 ch in r1.
+  completed: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # ALL chapters finalized + revised to r2, gates clean, on main
+  # NOTE: per-chapter genesis scores below were recorded live during drafting for Ch.1-12 only;
+  #   Ch.13-22 were drafted gate-clean but their individual eval scores were not logged into this block.
+  #   After the r2 compression the closing chapter is Ch.20 (the former 20/21/22). The book is COMPLETE.
   scores:
     1: {floor: 8.5, average: 8.9, verdict: PASS, continuity: "0 critical (Raizen-eyes WARN fixed vs Bk2 Ch.19)"}
     2: {floor: 8.5, average: 8.79, verdict: PASS, continuity: "0 critical/1 optional (softened); Death symbol correctly absent"}
@@ -67,7 +73,7 @@ genesis_score:
   current_average: 8.85
 
 quality_gate:
-  chapters_passed: [1,2,3,4,5,6,7,8,9,10,11,12]
+  chapters_passed: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # all gate-clean at r2 (style/grammar/rhythm)
   chapters_escalated: []
 
 guardrails:
@@ -103,7 +109,7 @@ resolved_decisions:   # author rulings 2026-06-24
   - "BELLA'S-NAME THREAD: Viridia ATTEMPTS to follow it (2026-06-24), at a cost (~Ch.13 personal climax)."
   - "PACT + DANGRIS: resolved on-page lightly (2026-06-24), folded into the balance finale."
   - "RAIZEN AFFINITY: all elements/prismatic (Bk2 ruling), unusual range in human form."
-  - "CHAPTER COUNT: 22 (2026-06-24) — completes 18→20→22."
+  - "CHAPTER COUNT: 22 at draft (2026-06-24) — completes 18→20→22. SUPERSEDED at r2 (2026-06-29): 20, after the denouement compression merged former Ch.20/21/22 into one closing chapter."
 
 open_author_decisions:   # remaining, minor — decide in-flight
   - "Exact Mrs. Zoran escape beat (how she got out of Hazel)."
@@ -113,4 +119,4 @@ open_author_decisions:   # remaining, minor — decide in-flight
 decisions:
   - "Folder-per-book genesis project at book/genesis/saeren-chronicles-book-3/ (single-branch: everything to main)."
   - "Own PDF/production pipeline mirrored from Book Two (REVISION + tools/{assemble_manuscript,build_pdf,make_pdfx} + PDFX_def.ps + rhythm_check). Same revision policy: bump REVISION BEFORE any rebuild; keep prior builds as history."
-revision_cycles: 0
+revision_cycles: 1   # r1 (draft) -> r2 (2026-06-29, denouement compression). See feedback/book3-r2-changes.md.
