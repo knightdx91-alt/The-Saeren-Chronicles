@@ -97,6 +97,22 @@ ALLOWLIST = [
     "because the not weeping was",                     # the Ch.10 elaboration of the no-weeping guardrail
     # thematic-spine refrain variants ("she wanted only to make the world whole"; Ch.5/6/7/10):
     "had wanted only to make the",                     # variant of allowlisted "to make the world whole"
+    # Ch.16/17 (the approach + the climax working) deliberate spine refrains (BINDING, load-bearing, recurring by design):
+    "of the very long way off",                        # the cost-motif: she keeps her edges "for the whole of the very long way off" (the True-Bond means a very long life; Ch.15/16/17)
+    "whole of the very long way",                      # same cost-motif, leading fragment
+    "the threshold where the stone began",             # Raizen-as-doorpost staging motif (he braces at the threshold where the cavern stone begins; Ch.16/17)
+    "the difference between a sacrifice",               # the witnessed-not-alone spine: "the difference between a sacrifice and a crime" (the Bk2-climax-agency lesson; Ch.15/16/17)
+    "difference between a sacrifice and",               # same spine fragment
+    "front of everyone she loved",                      # the WITNESSED-climax motif: she does it "in front of everyone she loved" (the agency-witnessed lesson; Ch.15/16/17)
+    "far braced end of it",                             # the True-Bond anchor staging (Raizen at the far braced end of the bond; Bk2 Ch.18, Bk3 Ch.15/16/17)
+    "merged one core of her",                           # canon: her single merged light/dark core, thrown across the door (Ch.15/16/17)
+    "a thing with no shadow",                           # the Dangris standing-with motif (a thing with no shadow standing where the shadow leans through; Ch.15/16/17)
+    "the whole leaning weight of",                      # the climax pressure-mechanic: the whole leaning weight of two oceans through the door of her (Ch.16/17)
+    "hand up out of the pool",                          # the rebirth-counterpart contrast (a year ago she drew her hand up out of the pool free; this time she cannot; Ch.13/17)
+    "her hand up out of",                               # same contrast, leading fragment
+    "the way it had taken",                             # the cavern-takes-her motif (the room/source took her, as it had taken her before; Ch.14/16/17)
+    "there had only ever been",                         # the agency-spine: "there had only ever been her[s]" — the only hand at the rim (Ch.8/16/17)
+    "the width that let the",                           # the central enacted-balance mechanic of Ch.17: holding the door to the width that lets the lean be a lean (the chapter's load-bearing working-refrain)
     "wanted only to make the world",                   # same thematic-spine refrain
     "make the world whole and",                        # same thematic-spine refrain, trailing fragment
     # Ch.13 deliberate series-spine motifs (load-bearing callbacks, recurring by design):
