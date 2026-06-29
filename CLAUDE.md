@@ -200,6 +200,30 @@ run this checklist as part of the gate:
 
 (Full evidence + per-comment list: `book/genesis/saeren-chronicles/feedback/book1-reviewer-comments-2026-06-29.md`.)
 
+## APODICTIC — structural developmental-editing plugin (auto-loaded every session)
+
+A third-party Claude Code plugin (`anotherpanacea-eng/apodictic`, v2.6.2, CC-BY-NC-SA) that
+**diagnoses manuscript structure and NEVER rewrites** — reverse outline, pacing, character
+architecture, reveal economy, genre calibration, 37 audits, series-continuity tracking. It is
+the structural-diagnosis layer our own gates lack (style/grammar/rhythm are line-level;
+book-evaluator/continuity-guardian are lighter). Best used as a structural second opinion before
+locking a revision — exactly the "too quiet / over-narrated / passive / pacing" class of notes.
+
+**It is VENDORED into this repo and auto-enabled — no install step needed:**
+- Plugin lives at `tools/apodictic/` (marketplace root: `.claude-plugin/marketplace.json` +
+  `plugins/apodictic/`). Vendored because this env's proxy blocks `git clone` of non-Saeren repos.
+- `.claude/settings.json` declares it: `extraKnownMarketplaces.apodictic` → `{source: directory,
+  path: tools/apodictic}` and `enabledPlugins: {"apodictic@apodictic": true}`. Project-level
+  settings load every session for every clone (incl. cloud), so its commands/skills are present
+  automatically. A restart/fresh session may be needed the first time after this was added.
+- **Usage:** its slash commands — `/apodictic`, `/audit`, `/coach`, `/plot-coach`, `/ready`,
+  `/start`, `/triage-feedback`, `/world-bible`, etc. Point it at a manuscript, e.g.
+  `book/genesis/saeren-chronicles-book-3/manuscript/full-manuscript-r1.md`.
+- **Manual fallback** (if the auto-enable doesn't take in some client): `/plugin marketplace add
+  tools/apodictic` then `/plugin install apodictic@apodictic` (local path avoids the clone block).
+- **To update it:** re-vendor from the tarball (`codeload.github.com/anotherpanacea-eng/apodictic/
+  tar.gz/refs/heads/main`) into `tools/apodictic/`, keeping `.claude-plugin/` + `plugins/`.
+
 ## YA tone continuity (applies to every book in the trilogy)
 
 The series is **upper/mature YA** — the same register as Book One's school-attack

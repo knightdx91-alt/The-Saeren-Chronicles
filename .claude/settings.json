@@ -1,4 +1,15 @@
 {
+  "extraKnownMarketplaces": {
+    "apodictic": {
+      "source": {
+        "source": "directory",
+        "path": "tools/apodictic"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "apodictic@apodictic": true
+  },
   "hooks": {
     "SessionStart": [
       {
