@@ -28,6 +28,20 @@ She did not answer that, because it was true, and because there was no answer to
 
 * * *
 
+The war's count did not wait for hers, and on the second day it put a hand on her shoulder to remind her of it.
+
+It came in the middle of the afternoon, while she was at the boards with Brutus, in the shape of a scout coming up the east track at the particular flat trot of a person who has something that will not keep. Viridia set her board down and was at the council rail before the woman had finished giving her word, because she had read the trot for what it was, and what it told her was that a scout who has seen nothing does not run.
+
+The patrols had changed. That was the whole of it, and it was enough. For two years, the woman said, the columns east of Hazel had drifted the way they had always drifted, near and then gone again, wandering up close to a thing they could not see and wandering off it none the wiser, never the same ground twice. They were not drifting now. Since the burning of the school they had begun to quarter the country, working it in lines, a grid laid down over the empty miles and walked west to east and back, each pass a little nearer than the last, the unmistakable method of men who have been told there is a thing out here to find and have stopped expecting to stumble on it and started, patiently, to look.
+
+Viridia went out to the east rim while there was light to do it, and brought the sight up, and read the ground past the shivering wards, out into the false stillness of the painted trees, and found nothing yet, no column, no warmth on the move, only the empty country and the long even breath of the living world. She did not need to see the patrol to know the woman was right. She could feel the shape of the search the way she felt the shape of a thing she was waiting on, and the shape of it was a net being drawn slowly closed over a country, and the camp was somewhere inside the net, and the net was tightening by a measurable amount each day.
+
+She stayed there at the rim and did the arithmetic she did not want to do. The wait she had told herself was made of nothing had a second clock in it after all, running under the first. There was Alice's answer, two days out in the dark. And there was this, the grid coming on, nearer each pass, on a schedule the capital set and she did not, and the window she had been telling herself she could spend at her leisure had an edge to it now, and the edge belonged to the enemy.
+
+She went back in and told the council what she had read, plainly, the way Jazen had taught her a thing was worth more said plain than dressed, and Jazen heard her out and did not disagree, which from him was the same as agreement. And the war's count, which until that afternoon had been a thing of supplies and patrols happening somewhere over the trees, came into the room and sat down at the table beside the count of Alice's days, and the two of them ran on together after that, and neither would be hurried, and neither would wait.
+
+* * *
+
 On the third night Jazen came for her, and she knew the answer before he said a word, because of how he walked.
 
 By then she was out at the rim of the camp, where the air went thin and shivering, where she went in the evenings now to feel the bond pull and to stand where no one could read her. She saw him come up the lane in the last of the light. She read him the way she read everyone, by the one thing that did not fit. He did not walk like a man bringing nothing. A man bringing nothing walked loose, almost apologetic, the bad news of having no news. Jazen walked the other way, careful, level, the walk of a man carrying something full to the brim that would spill if he hurried. He was carrying an answer. She knew it the length of the lane away, and she had the whole of that lane to make her face, and she made it, coin by coin, so that by the time he reached her there was nothing on it at all.
