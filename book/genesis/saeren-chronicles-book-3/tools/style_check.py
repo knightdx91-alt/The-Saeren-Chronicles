@@ -99,6 +99,13 @@ ALLOWLIST = [
     "had wanted only to make the",                     # variant of allowlisted "to make the world whole"
     "wanted only to make the world",                   # same thematic-spine refrain
     "make the world whole and",                        # same thematic-spine refrain, trailing fragment
+    # Ch.13 deliberate series-spine motifs (load-bearing callbacks, recurring by design):
+    "source the way the source",                       # CANON: "tied to the source the way the source was tied to everything" (Bk1/Bk2; Ch.1/2/13) — Viridia-as-vessel definition
+    "way the source was tied",                         # same vessel-definition motif, mid fragment
+    "source was tied to everything",                   # same vessel-definition motif, trailing fragment
+    "the only pair of hands",                          # the Lest/Alice lesson echoed back at the cost (Ch.12 Alice -> Ch.13 Amber) — deliberate dialogue callback
+    "that did the arithmetic so the",                  # variant of the allowlisted "the cold working part / arithmetic so the rest" canon trait (Ch.1 onward)
+    "she had no name for",                             # the unnameable void guardrail (abstract, no entity; MotV NOT resolved) — deliberate, Ch.1/2/13
 ]
 
 # n-gram repetition settings
