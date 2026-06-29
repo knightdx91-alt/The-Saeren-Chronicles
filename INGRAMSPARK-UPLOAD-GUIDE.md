@@ -195,6 +195,46 @@ main page show it 3–4×; the files themselves are clean.
 
 ---
 
+## PART C½ — Getting files IN from WhatsApp (FRP-locked device, no native share)
+
+On an FRP-locked phone the native "Save to Drive"/file picker doesn't work, so you
+can't share a WhatsApp attachment to Drive directly. Instead, pull the file using
+**WhatsApp Web inside the Cloud Shell desktop** (the same desktop from Part A whose
+file picker DOES work), then push it to GitHub from the terminal. The phone stays
+just a screen. This uses WhatsApp's official **Linked Devices** feature — no
+third-party tools, no ToS risk.
+
+**1. Open WhatsApp Web in the Cloud Shell Firefox** (Part A desktop running):
+go to **https://web.whatsapp.com** — it shows a QR code.
+
+**2. Link from the phone:** WhatsApp → **⋮ menu → Linked devices → Link a device**
+→ point the phone camera at the QR code on the Cloud Shell Firefox screen. (FRP lock
+does NOT block this — the WhatsApp app and camera work normally.) Your chats load in
+the desktop Firefox.
+
+**3. Download the file into the desktop:** open the chat → click the file → the
+download arrow. It saves to **~/Downloads** in the Cloud Shell desktop.
+
+**4. Push it into GitHub** — in the Cloud Shell **terminal**:
+```
+source ~/.github_token; TOKEN=$GH_TOKEN
+cd ~ && rm -rf SC && git clone https://x:$TOKEN@github.com/knightdx91-alt/The-Saeren-Chronicles.git SC
+cd SC
+git config user.email noreply@anthropic.com; git config user.name "Claude"
+# copy the WhatsApp file in (change filename + destination folder as needed):
+cp ~/Downloads/THE_FILE.pdf  book/genesis/saeren-chronicles/delivery/cover/
+git add -A && git commit -m "add file from WhatsApp" && git push
+```
+Once pushed it's on `main` — Claude can then see it, rename/move it, or rebuild
+deliverables from it.
+
+- You re-link WhatsApp Web once per Cloud Shell session (the desktop resets between
+  sessions; ~/.github_token persists, so only the QR re-scan is needed).
+- Alternative to the git commands: in the same Firefox, go to github.com → the repo
+  → the target folder → **Add file → Upload files** and pick the file from ~/Downloads.
+
+---
+
 ## PART D — How the print/ebook files are produced (for Book 3, in this repo)
 
 Run these in the book's folder (`book/genesis/saeren-chronicles-book-3/`). Needs
