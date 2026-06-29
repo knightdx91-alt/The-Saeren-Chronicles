@@ -15,35 +15,35 @@ CHAPTER ONE: THE PATH TO HAZEL
 (Session 1, ~4,740 words)
 ================================================
 
-The last ordinary morning of Viridia's life smelled like scorched bread and her mother's tea.
+The last ordinary morning of Viridia's life smelled of scorched bread and her mother's tea.
 
-She had come down the stairs still half inside a dream, socks loose on her heels, and found the kitchen already awake. Her father stood at the stove in his work shirt, sleeves shoved past the elbow, scraping at a pan with the particular hopeful determination of a man losing a fight to his own breakfast. Smoke curled thin and grey toward the window. He waved it away with one big hand.
+She went down the stairs still half inside a dream, socks loose at the heels, and found the kitchen already awake. Her father stood at the stove in his work shirt, sleeves shoved past his elbow, scraping at a pan with the hopeful determination of a man losing a fight to his own breakfast. Smoke curled thin and grey toward the window. He waved it away with his big hand.
 
-"Don't tell your mother," he said, without turning around.
+"Don't tell your mother," he said without turning around.
 
-"Tell me what," her mother said.
+"Tell me what," Bella said.
 
-Bella was at the table with the newspaper creased into quarters and a cup of tea going cold beside her, and she had not looked up, and somehow she always knew. Viridia slid into her chair across from her. Her mother held a particular stillness — not the stillness of rest, but of deep water. Viridia had never had a word for it. She only knew it did not mean her mother's head was empty. It meant the opposite.
+Her mother was at the table with the newspaper creased into quarters and a cup of tea going cold beside her. She didn't look up. Somehow, she always knew. Viridia slid into the chair across from her. Her mother held a particular stillness, not the stillness of rest, but of deep water. There had never been a word for it. She only knew it did not mean her mother's head was empty.
 
-"Leon has invented a new color," Bella said, turning a page. "I believe it is called toast."
+"Leon invented a new color," Bella said, turning a page. "I believe it is called toast."
 
-"It's character," her father said. He set the plate down in front of Viridia with a flourish, dark crusts and all, and kissed the top of her head on the way past, smelling of soap and machine oil and the cold morning he'd already half walked through to fetch the milk. "Eat the character. It builds character."
+"It's character," her father said. He set the plate in front of Viridia with a flourish, dark crusts and all, then kissed the top of her head as he passed. He smelled of soap and machine oil, and of the cold morning he already half walked through to fetch the milk. "Eat the character. It builds character."
 
-Viridia ate the character. It was terrible. She said so, and her father pressed a hand to his chest as though she had run him through, and her mother laughed, a short, surprised sound, there and gone, the laugh of someone who did not give them away cheaply.
+Viridia ate the character. It was terrible. She said so, and her father pressed a hand to his chest as though she had run him through. Her mother laughed, a short, surprised sound, there and gone, the laugh of someone who did not give them away cheaply.
 
-For a moment the three of them simply existed in the small warm room while the smoke thinned and the kettle ticked as it cooled, and her mother reached across the table and tucked a loose strand of silver-blonde hair behind Viridia's ear without seeming to decide to do it, confirming it was still there.
+For a moment, the three of them simply existed in the small warm room as the kettle ticked while it cooled. Her mother reached across the table and tucked a loose strand of silver-blonde hair behind Viridia's ear instinctively, confirming it was still there.
 
-"You'll do something with all that quiet someday," Bella said. "All that watching. You see more than you let on." She held Viridia's eyes a beat longer than the moment asked for. "Just be careful who you let see you do it."
+"You'll do something with all that quiet someday," Bella said. "All that watching. You see more than you let on." She held Viridia's gaze a beat longer than the moment asked for. "Just be careful who you let see you do it."
 
-Viridia had thought it was an ordinary thing to say.
+Viridia thought it was an ordinary thing to say.
 
-She thought about it for the rest of her life.
+For a while, it was.
 
 * * *
 
-Viridia stared up at the building that was meant to be her home for the next four years.
+Viridia stared at the building that was meant to be her home for the next four years.
 
-The Hazel Preparatory School sat behind a high iron gate and a run of hedges trimmed so precisely they looked less grown than manufactured. The brochure her father had been so proud of called it an impressive institution, founded in 1735 by Hazel Greenwich, and it was impressive, in the way of things that are designed to make you feel small before they have spoken a single word to you. Grey stone the flat colorless grey of a sky that has not decided whether to rain. Tall windows that gave nothing back but a flat shine of morning light. Somewhere beyond the gate a bird sang two notes and stopped.
+The Hazel Preparatory School sat behind a high iron gate and a run of hedges trimmed so precisely they looked less grown than manufactured. The brochure her father had been so proud of called it an impressive institution, founded in 1735 by Hazel Greenwich. It looked like the sort of place designed to make you feel small before it had spoken a single word to you. It was built with grey stone, the flat, colorless grey of a sky that has not decided whether to rain. Its tall windows gave nothing back, only the dull shine of morning light. Somewhere beyond the gate, a bird sang two notes then stopped.
 
 She had been excited, once. Three days ago, a lifetime ago, she had torn open the letter with the Hazel sigil pressed into the wax and felt something lift in her chest for the first time in weeks.
 

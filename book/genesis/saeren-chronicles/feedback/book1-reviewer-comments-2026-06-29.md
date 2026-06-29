@@ -31,30 +31,46 @@ Fixes, grouped:
 - **Scene/time jump** — kitchen → arrival-at-school is "a huge jump… very confusing"; consider
   the kitchen as a short prologue ("___ Days Ago") to mark the gap.
 
-## Tracked-edit layer (reviewer's direct prose edits — opening scene only)
-NOTE: Google's API returns these as merged/garbled words (e.g. `oflike`, `thenand`), so
-**letter-level edits like a deleted trailing "s" can be swallowed and may not all be
-recoverable from this representation.** To capture s-endings/typos with certainty, export the
-`.docx` with suggestions intact and read it directly.
+## Tracked-edit layer — AUTHORITATIVE (parsed from the .docx, 2026-06-29)
+The exported `.docx` (saved in `reviewer-edits/`) was parsed directly from its Word
+insertion/deletion markup (55 ins / 55 del). This is the CLEAN source of truth and CORRECTS
+the earlier `read_file_content` API read, whose garbled merged anchors had several edits
+backwards. Format: ~~old~~ → **new**. (14 changed paragraphs; all in Ch.1's first two scenes.)
 
-Word-ending / agreement / spelling:
-- `"it had spoken"` → `"they have spoken"` (pronoun-number + verb agreement)
-- `"his elbow"` → `"the elbow"` (kept SINGULAR — did not pluralize)
-- `"smelled of"` → `"smelled like"`; `"She went"` → `"She had come"` (past perfect);
-  `"didn't"` → `"had not"` (tense / contraction-in-narration)
+Word-ENDING / verb-form (the author's specific question — these are tense endings, NOT plural-s;
+no plural-s fix appears in Ch.1):
+- ~~looked~~ → **look** ("she had not looked up" → "she didn't look up") — dropped **-ed**
+- ~~smelling~~ → **smelled** ("smelling of soap" → "smelled of soap") — **-ing → -ed**
+- ~~he'd~~ → **he** (dropped contraction)
 
-Connective monotony / telling:
-- `"then"` → `"and"` (x2: "two notes then stopped"; "crusts and all, then kissed");
-  `"while"`↔`"as"` swaps in the kettle sentence.
-- `"instinctively"` → `"without seeming to decide to do it"` (cut the telling adverb; show it).
+Wording / word-swaps:
+- ~~smelled like~~ → **smelled of**; ~~had come~~ → **went**; ~~loose on her heels~~ → **loose at the heels**;
+  ~~past the elbow~~ → **past his elbow**; ~~one big hand~~ → **his big hand**; ~~her chair~~ → **the chair**;
+  cut ~~particular~~; ~~her mother said~~ → **Bella said** + ~~Bella was at the table~~ → **Her mother was**
+  (name standardized: proper name in the tag, "her mother" in narration); ~~Leon has invented~~ → **Leon invented**;
+  ~~stared up at~~ → **stared at**.
+- Connectives varied: ~~and kissed~~ → **then kissed**; ~~two notes and stopped~~ → **two notes then stopped**;
+  kettle clause "while…as" swapped to "as…while".
 
-Naming / redundancy:
-- `"Bella Bella said"` → `"her mother said"`; redundant following "Bella" cut.
+Sentence splits / restructures (the over-packed habit):
+- "...beside her, and she had not looked up, and somehow she always knew" → three sentences.
+- "...ran him through, and her mother laughed" → split at "through. Her mother laughed".
+- "...ticked as it cooled, and her mother reached" → split; **cut "the smoke thinned"** ("we don't
+  need to say everything"). ~~Viridia had never had a word~~ → **There had never been a word**; cut "It meant the opposite."
+- School sentence rebuilt to fix the dangling modifier: "...by Hazel Greenwich. It looked like the
+  sort of place designed to make you feel small before it had spoken a single word to you. It was
+  built with grey stone…" (~~it was impressive, in the way of things that are~~ removed).
 
-Grammar / capitalization:
-- Dangling modifier reworked so the school is the clear subject ("Grey stone… Tall windows…").
-- Sentence-start capitalizations after splits (`grey`→`Grey`, `tall`→`Tall`); stray space
-  before a comma; em-dash vs comma before "not the stillness of rest."
+Two JUDGMENT-CALL edits flagged to the author (applied, easily reverted):
+- ~~"without seeming to decide to do it"~~ → **"instinctively"** — this REVERSES our own guardrail #8
+  (prefer shown action over -ly adverbs). Applied per reviewer, but it is the one edit that fights the guardrail.
+- ~~"She thought about it for the rest of her life."~~ → **"For a while, it was."** — softens the
+  foreshadow at the scene break; a real tonal change.
+
+Comment-only fix also applied: "held Viridia's eyes" → "held Viridia's **gaze**" (reviewer comment #19).
+
+Capitalization/punctuation: sentence-start caps after splits (grey→Grey, tall→Tall); added commas
+("flat, colorless grey"); `said , without` → `said without`; em-dash → comma before "not the stillness of rest."
 
 ## Action taken
 - Added "Recurring craft mistakes — NEVER repeat" to root `CLAUDE.md` (auto-loads every
