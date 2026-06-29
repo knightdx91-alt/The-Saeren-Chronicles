@@ -83,17 +83,51 @@ GitHub → **Settings → Developer settings → Personal access tokens → Toke
 → Generate new token (classic)** → scope **`repo`** → Generate → **copy it** (`ghp_…`).
 Keep it until all uploads are done, then revoke it (Settings → revoke).
 
+> **Use a CLASSIC token, not fine-grained.** A valid classic token is `ghp_` + 36
+> chars = **40 characters total**. If `echo -n "$TOKEN" | wc -c` prints anything
+> other than 40, the paste grabbed extra/missing characters — that's the usual
+> cause of **HTTP 401 "Bad credentials."** Tokens are case-sensitive; never paste
+> a token into a chat/log (treat any token that lands in one as compromised and
+> revoke it).
+
+**1a. (Recommended) Persist the token so you don't re-paste it every session.**
+Cloud Shell wipes apt packages + the desktop between sessions, but **`~` files
+survive**. Save the token once into your private home dir (NEVER into this repo —
+GitHub secret-scanning auto-revokes any token committed to a repo, so a token in
+these docs would be dead within minutes and flag the account):
+```
+echo 'export GH_TOKEN=PASTE_YOUR_TOKEN_HERE' > ~/.github_token
+chmod 600 ~/.github_token
+```
+Then on every future session, instead of pasting the token, just run:
+```
+source ~/.github_token
+TOKEN=$GH_TOKEN
+```
+and continue to Step 2. (Alternative: set it as an ENV SECRET in the web-environment
+config — same mechanism as `GEMINI_API_KEY` — which persists it to the container
+without it sitting in the repo.)
+
+**Sanity-check the token before downloading** (200 = good, 401 = bad paste, 404 = no access):
+```
+curl -sL -o /dev/null -w "HTTP %{http_code}\n" -H "Authorization: token $TOKEN" \
+  "https://api.github.com/repos/knightdx91-alt/The-Saeren-Chronicles"
+```
+
 **2. Download the files** — in the Cloud Shell **terminal**, paste this, replacing the
 token. (Always `rm -f ~/Downloads/*` first — stale/old files caused upload failures.)
 
 ```
 rm -f ~/Downloads/*
 cd ~/Downloads
-TOKEN=PASTE_YOUR_TOKEN_HERE
+TOKEN=PASTE_YOUR_TOKEN_HERE        # ...or if you saved it (Step 1a): source ~/.github_token; TOKEN=$GH_TOKEN
 api="https://api.github.com/repos/knightdx91-alt/The-Saeren-Chronicles/contents"
 get(){ curl -sL -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.raw" -o "$2" "$api/$1"; }
 
 # --- change these paths per book; Book-3 paths go under book/genesis/saeren-chronicles-book-3/ ---
+# Book One (barcode-fixed press-ready cover = r3 CMYK/no-ICC; interior r14 PDF/X-1a):
+#   get "book/genesis/saeren-chronicles/delivery/cover/Saeren-Book-One-FULL-WRAP-r3-CMYK-noicc.pdf" cover.pdf
+#   get "book/genesis/saeren-chronicles/delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r14-PDFX1a.pdf" interior.pdf
 get "book/genesis/saeren-chronicles-book-2/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior-r7-GRAY-noicc.pdf" interior.pdf
 get "book/genesis/saeren-chronicles-book-2/delivery/cover/Saeren-Book-Two-FULL-WRAP-r2-CMYK-noicc.pdf" cover.pdf
 get "book/genesis/saeren-chronicles-book-2/delivery/ebook/Saeren-Chronicles-Book-Two-The-Resistance.epub" book.epub
