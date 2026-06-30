@@ -150,6 +150,15 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
 > - **NOT chosen:** the reviewer's commercial 15–25% trim / added action set-pieces — author declined
 >   (preserve the quiet-literary positioning, consistent with the Book Two call). Do not reintroduce it.
 >
+> **SECOND external review came in (2026-06-30, of r3), score 8/10** — see
+> `feedback/book3-external-review-2026-06-30.md`. Convergent with the above (contemplative / repetition
+> in weight-grief introspection / wants more mid-book propulsion). **One NEW line-edit target to add:
+> "ensure each 'door' advances uniquely"** — differentiate the tear/Horror-closing incidents (Ch.2, 4, 6…)
+> by stakes/method/cost/revelation so the early-mid section reads as a rising series, not episodic
+> repetition. (Reviewer's "trim / more action" = the same commercial lever already DECLINED; act on it
+> as de-tic + door-differentiation + hook-sharpening, not a structural gut.) Comps for packaging:
+> N.K. Jemisin, Samantha Shannon.
+>
 > **What's already done (don't redo):** r2 = denouement compression (former Ch.20/21/22 → one closing
 > Ch.20). r3 = literary-preserving consolidation (Ch.5 post-reveal pile trimmed; Ch.15 "fourteen chapters"
 > meta-slip fixed; Ch.1 "small true things" de-dup). The mid-book temptation ladder + Ch.13 synthesis are

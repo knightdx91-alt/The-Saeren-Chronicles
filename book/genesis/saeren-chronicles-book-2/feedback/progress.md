@@ -1,5 +1,28 @@
 # Progress — Book Two: The Resistance
 
+> ## ▶ NEXT SESSION — START HERE: LINE-BY-LINE EDIT of Book Two (queued 2026-06-30)
+> **Book Two is COMPLETE + revised. Current build = r8** (20 ch, ~104k w, 308 pp; RGB + PDF/X-1a;
+> prior builds kept as history). Gates clean.
+> **A second external AI review came in (2026-06-30), score 8.5/10** — see
+> `feedback/book2-external-review-2026-06-30.md`. It converges with our developmental edit and the first
+> reviewer: repetitive introspection ("banking," "the count," "small true things"), mid-book reflective
+> sag, "tighten / more external beats."
+>
+> **Next session: run the SAME literary-preserving line edit queued for Book Three** (see
+> `../saeren-chronicles-book-3/CLAUDE.md` for the full procedure):
+> - Bump `REVISION` r8 → r9 BEFORE any rebuild; log in `feedback/book2-r9-changes.md`; keep r8 as history.
+> - Per chapter: `style_check.py --max-emdash 4` + `grammar_check.py` (use its longest-sentence report to
+>   split over-packed sentences) + `rhythm_check.py` (no new flat triplets), all clean.
+> - **Mandate = literary-preserving:** de-tic the named motifs, combine the 2–3 genuinely redundant
+>   reflective passages, clarify without flattening. Do NOT cut the Ch.9 moral-question payoff or the
+>   escalation, and do NOT reintroduce the declined commercial 10–15% trim / added set-pieces.
+> - Already done in r8 (don't redo): Act-One front-pressure (the search-grid probe in Ch.3) +
+>   Ch.3→5→9 reveal-laddering.
+> - **Packaging:** comps = N.K. Jemisin, Samantha Shannon; query hook = "Traumatized girl with dragon
+>   bond and world-ending power chooses restraint amid rising war." Feed to `book-packager`.
+>
+> --- (drafting-phase history below) ---
+
 ## ▶ RESUME HERE: write Chapter 14 (Act Three — "The First Hour", the battle opens)
 Architecture done (foundation.md, outline.md, ENTITY_STATE.yaml). **Chapters 1–13 on `main`, all
 gate-clean.** **65,779 words** so far (toward the 85,000 hard floor / 90–100k target).
