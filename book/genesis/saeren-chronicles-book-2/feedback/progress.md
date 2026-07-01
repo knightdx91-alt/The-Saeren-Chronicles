@@ -14,9 +14,18 @@
 > - Per chapter: `style_check.py --max-emdash 4` + `grammar_check.py` (use its longest-sentence report to
 >   split over-packed sentences) + `rhythm_check.py` (no new flat triplets), all clean.
 > - **REQUIRED — LanguageTool tier PER CHAPTER:** `python3 tools/grammar_check.py --file
->   manuscript/chapters/chapter-N.md --languagetool`. Tier-1 does NOT catch tense/verb-form or dangling
->   modifiers; the LanguageTool tier does — the exact class the Book One reviewer caught (looked→look,
->   smelling→smelled, dangling modifier). Assist, not authority: apply real fixes, ignore voice false-positives.
+>   manuscript/chapters/chapter-N.md --languagetool`. Catches true grammar (agreement, real tense
+>   errors, DANGLING MODIFIERS — Eilidh's one true grammar note). NOTE: it does NOT catch verb-form
+>   *preference* swaps on correct prose (looked→look, smelling→smelled) — those are grammatically valid,
+>   so no tool flags them; see the judgment sweep below.
+> - **REQUIRED — judgment sweeps via `python3 tools/tic_report.py --file <ch>` (ASSIST, not a gate):**
+>   (a) **verb-form / rhythm** — review the flagged "had -ed"/-ing clusters and decide, by ear, whether
+>   any tense/ending reads better changed (the Eilidh class; correct-but-reworkable; easily reverted).
+>   (b) **motif density** — `tic_report.py` (no --file) ranks chapters vs the book median; in HIGH
+>   outliers (e.g. Ch.11 ~8.2/1k) thin the INCIDENTAL repeats of "banking/count/small true things/…"
+>   while keeping the load-bearing instance. This is the AI-reviewers' "vary internal motifs" note.
+>   Do NOT bulk-cut a motif just for being frequent where the frequency is content-justified (e.g. Ch.1's
+>   banking scene). Judgment is Claude's; the tool only surfaces candidates.
 > - **Mandate = literary-preserving:** de-tic the named motifs, combine the 2–3 genuinely redundant
 >   reflective passages, clarify without flattening. Do NOT cut the Ch.9 moral-question payoff or the
 >   escalation, and do NOT reintroduce the declined commercial 10–15% trim / added set-pieces.
