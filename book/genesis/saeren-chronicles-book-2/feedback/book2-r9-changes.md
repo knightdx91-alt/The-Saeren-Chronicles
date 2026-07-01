@@ -93,3 +93,10 @@ intact as deliberate cadence. All gates clean; rhythm 16 (ch6 → 0 flags).
 man whose face she had never seen. That the whole of it turned on…"). Left the deliberate lush dragon
 descriptions (Raizen's prismatic arrival ~122 w; Varissa breathing fire) intact as voice-benchmark beats.
 All gates clean; rhythm 16 (ch7 → 0 flags).
+
+## Chapter 8 — "The Symbol and the Poster" ✅ DONE
+**LanguageTool:** clean (0 warnings). **Motif density:** 2.5/1k (at median). **Verb-form:** no changes.
+**Edits:** split the book's longest sentence — the 149-word broadsheet/propaganda run-on — into three
+(kept the deliberate "That… That…" anaphora and the "a plot to… to… to…" list; no em-dashes added).
+Left the remaining long beats intact as deliberate: Drake/Jazen dialogue (102 w) and the death-symbol
+first-use ritual ("She put the intent behind it, the *no, once,*…" 101 w). All gates clean; rhythm 16.
