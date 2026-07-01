@@ -44,7 +44,7 @@ Jazen regarded her a moment, the resistance leader and the slip of a girl who ha
 
 * * *
 
-She had stood on the dragons' ground exactly once, in Book One's last days, in the high cold place Drake had brought Raizen home to, and once was enough. Shadow-walking took her where shadow reached that she had stood, and she had stood on a windy ledge of black rock under a sky too big, and so the shadow could reach it, and so she could go.
+She had stood on the dragons' ground exactly once, weeks ago now, in the high cold place Drake had brought Raizen home to, and once was enough. Shadow-walking took her where shadow reached that she had stood, and she had stood on a windy ledge of black rock under a sky too big, and so the shadow could reach it, and so she could go.
 
 She took Jazen's hand, which he gave without performing anything about it, and she found the seam in the dim doorway of the hall where the shadow of the lintel lay long across the floor, and she walked them both into it.
 

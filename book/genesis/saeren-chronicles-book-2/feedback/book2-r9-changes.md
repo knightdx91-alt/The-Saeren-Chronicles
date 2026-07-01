@@ -109,3 +109,18 @@ the man on foot + the last door) — both narration, each into ~three. **Left th
 intact** — Amber's "I'm on the sheet… you can't leave me off the way you left off the dragon" landing
 (the 112-word "there was no arithmetic for that" sentence) is the strongest beat in the book; not touched.
 All gates clean; rhythm 16.
+
+## Chapter 10 — "The Almost" (peace meeting / the last door shuts) ✅ DONE
+**LanguageTool:** clean (3 false positives). **Motif density:** 1.0/1k (low). **Verb-form:** no changes.
+**Edits:** this chapter held the book's longest run-ons; split FOUR — the Lightwell-note reveal (186 w,
+the longest in the book), the family-tree/scored-out-words sentence (171 w), the Alice-woodcut/relief
+sentence (163 w), and the trackside "every road run out at once" sentence (160 w). Each split into
+3–5 sentences, keeping the deliberate anaphora/lists ("all of them tried, all of them honest…").
+**META-SLIP FIXED:** "the question that had sat open since **Book One's first weeks**" → "since her
+first weeks at Hazel" (a fourth-wall reference inside the prose).
+Left the councilor's speech (deliberate anaphora, pre-existing rhythm flag) intact. All gates clean.
+
+## Cross-chapter fix (found via meta-ref scan)
+**Chapter 7:** "she had stood on the dragons' ground exactly once, **in Book One's last days**" →
+"…exactly once, weeks ago now, …" — second fourth-wall "Book One" reference removed. Book-wide scan
+now confirms NO "Book One/Two/Three" references remain in any chapter's prose. Gates re-run clean.
