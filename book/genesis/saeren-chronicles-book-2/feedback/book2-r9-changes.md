@@ -194,3 +194,14 @@ Binding rebirth content and cost (sight spent) untouched. All gates clean; rhyth
 **Edits:** split three long denouement sentences — Raizen-human arrival (142 w), Lor-ar's departure /
 "grief gone back inward" (161 w), and the Alice-reunion "she did not say it" beat (142 w). All gates
 clean; rhythm 16.
+
+## Chapter 20 — "From the Ash" (finale; the Marick/lab seed) ✅ DONE
+**LanguageTool:** clean (0). **Motif density:** low. **Verb-form:** none.
+**Edits:** split three finale sentences — the "largest thing… made no sound" (112 w), the Amber's-
+question restatement (108 w), and the leaning-east sentence (104 w). Cleared one cross-chapter motif
+collision the split created ("said aloud" → "said out loud" vs Ch.9). The Marick/lab END-SEED passage
+(pre-existing deliberate anaphora) left untouched. All gates clean; rhythm 16.
+
+---
+# BOOK TWO r9 LINE EDIT — ALL 20 CHAPTERS COMPLETE.
+Next: rebuild (assemble_manuscript + build_pdf + make_pdfx) as r9; keep r8 as history.
