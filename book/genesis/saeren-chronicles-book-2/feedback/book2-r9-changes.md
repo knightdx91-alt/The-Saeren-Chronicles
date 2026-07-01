@@ -60,3 +60,10 @@ em-dash 0. Word count 5,001 → 4,998.
 (split at the semicolon), the "She kept it, banked…" run-on, and the closing dawn-vigil sentence. No
 canon/plot change; the r8 Act-One probe scene (search-grid) untouched. All gates clean; rhythm improved
 (ch3 1→0 flags, book total 16). 5,308 → 5,306 w.
+
+## Chapter 4 — "His Mother's Papers" ✅ DONE
+**LanguageTool:** clean (0 warnings). **Motif density:** 1.7/1k (below median) — nothing to thin.
+**Verb-form sweep:** no warranted changes (deliberate, correct tense).
+**Edits:** split one over-packed sentence — the chart-reading sentence (the dateless-name reveal) at
+"…did not fit. And there it was:" — keeping the deliberate accumulating "that… that… as though…" tail.
+Left the closing doorway-montage sentence intact (deliberate atmospheric close). All gates clean; rhythm 16.
