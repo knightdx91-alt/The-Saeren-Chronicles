@@ -53,3 +53,10 @@ are voice-benchmark images, not run-ons to break.
 
 **Result:** all four gates clean; book-wide rhythm unchanged at 16 (ch2's one flag is pre-existing);
 em-dash 0. Word count 5,001 → 4,998.
+
+## Chapter 3 — "Alive Is Not the Same as Safe" ✅ DONE
+**LanguageTool:** clean — 1 warning, a false positive (Raizen's colloquial "all of yesterday").
+**Edits:** split three over-packed sentences — the "*Calm hands.*… wrong detail to undo her" reflection
+(split at the semicolon), the "She kept it, banked…" run-on, and the closing dawn-vigil sentence. No
+canon/plot change; the r8 Act-One probe scene (search-grid) untouched. All gates clean; rhythm improved
+(ch3 1→0 flags, book total 16). 5,308 → 5,306 w.
