@@ -136,3 +136,10 @@ the Mirelle-shields-the-children sentence (208 w), the Hiram-eulogy sentence (19
 arrival (145 w). Kept the breathless single-breath quality and the deliberate anaphora; no em-dashes
 added (used colons/semicolons). Left the remaining intense action/death beats (Brutus's beam, the
 Mirelle-kneeling beat) as deliberate. All gates clean; rhythm 16 (ch11 → 0 flags).
+
+## Chapter 12 — "Goodbyes" (Drake/Varissa; the birthday; Lor-ar) ✅ DONE
+**LanguageTool:** clean (0). **Motif density:** 3.3/1k; "the count" 9× judged content-justified (the
+survivor head-count, the Mirelle counting-payoff, the private birthday arithmetic) — left intact.
+**Edits:** split the book's new longest sentence — Varissa memorizing Raizen (233 w) — plus Drake's
+grief (141 w) and the Brutus/field sentence (139 w), each into 3–4, preserving the flowing emotional
+breath (no em-dashes added). All gates clean; rhythm 16.
