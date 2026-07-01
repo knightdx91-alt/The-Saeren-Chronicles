@@ -180,3 +180,10 @@ climax beats — the long breathless sentence IS the technique here. All gates c
 **LanguageTool:** clean (1 false positive, "a child braces who has been told"). **Motif density:** 1.6/1k.
 **Edits:** split three long resolution sentences — Meros's-death-registering (160 w), the reaching-for-
 the-well/True-Bond beat (158 w), and Drake's-cost sentence (154 w), each into 3. All gates clean; rhythm 16.
+
+## Chapter 18 — "The Rebirth" (the binding beat: the source-mending) ✅ DONE
+**LanguageTool:** clean (1 false positive, "the overwhelm"). **Motif density:** 1.9/1k. **Verb-form:** none.
+**Edits:** split three long rebirth/aftermath sentences — the closing-reaches-for-the-dead-Jazen beat
+(195 w; the split surfaces the powerful staccato "The source did not mend the dead. The source could
+not."), the gunman-feels-the-wholeness sentence (168 w), and the blinded-aftermath sentence (174 w).
+Binding rebirth content and cost (sight spent) untouched. All gates clean; rhythm 16.
