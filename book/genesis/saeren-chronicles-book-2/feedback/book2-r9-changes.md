@@ -143,3 +143,9 @@ survivor head-count, the Mirelle counting-payoff, the private birthday arithmeti
 **Edits:** split the book's new longest sentence — Varissa memorizing Raizen (233 w) — plus Drake's
 grief (141 w) and the Brutus/field sentence (139 w), each into 3–4, preserving the flowing emotional
 breath (no em-dashes added). All gates clean; rhythm 16.
+
+## Chapter 13 — "The Road and the Walls" (the wall; Jazen's confession; Alice on the field) ✅ DONE
+**LanguageTool:** clean (0). **Motif density:** 2.9/1k. **Verb-form:** none.
+**Edits:** split the wall-goes-gold description (137 w) and the chained-line/Alice-reveal sentence
+(164 w), varying an "And…" cluster the reveal split created. Left Jazen's 178-word confession ("I envy
+you the arithmetic…") intact as load-bearing dialogue. All gates clean; rhythm 16.
