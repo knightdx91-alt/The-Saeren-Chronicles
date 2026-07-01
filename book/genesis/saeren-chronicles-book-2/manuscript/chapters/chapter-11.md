@@ -42,7 +42,7 @@ A great many things cared to look.
 
 * * *
 
-They came over the east ridge as the capital did everything now, all at once and to everyone, a line of them dark against the bright sky and then not a line but a falling, fire-mages mostly, the cheap brutal half of the gift the capital had spent six hundred years pretending was the whole of it. They did not parley and they did not demand a surrender and they did not, Viridia understood in the first half-second of seeing them, regard the camp as a thing to be taken, because you take a thing you want, and they did not want the camp. They wanted it gone. They had been sent to make a valley where a camp had been into a valley where one had not, and that is a simpler instruction than taking, and it is carried out faster.
+They came over the east ridge as the capital did everything now, all at once and to everyone, a line of them dark against the bright sky and then not a line but a falling, fire-mages mostly, the cheap brutal half of the gift the capital had spent six hundred years pretending was the whole of it. They did not parley and they did not demand a surrender and they did not, Viridia understood in the first half-second of seeing them, regard the camp as a thing to be taken, because you take a thing you want, and they did not want the camp; they wanted it gone. The order they carried was to make a valley where a camp had been into a valley where one had not, and that is a simpler instruction than taking, and it is carried out faster.
 
 The first fire came down on the loading-yard.
 
