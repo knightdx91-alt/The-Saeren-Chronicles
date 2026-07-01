@@ -70,11 +70,25 @@ insertion/deletion markup (55 ins / 55 del). This is the CLEAN source of truth a
 the earlier `read_file_content` API read, whose garbled merged anchors had several edits
 backwards. Format: ~~old~~ → **new**. (14 changed paragraphs; all in Ch.1's first two scenes.)
 
-Word-ENDING / verb-form (the author's specific question — these are tense endings, NOT plural-s;
-no plural-s fix appears in Ch.1):
+**Edit-layer taxonomy (re-parsed from the .docx XML, 2026-07-01 — settles "were a lot of them word
+endings?": NO, ~4 of ~55).** Counts of the ~55 tracked insertions/deletions by type:
+| Type | ~count | Examples |
+|---|---|---|
+| Sentence splits (punctuation/caps) | ~10 | run-ons broken at ". S…", ". H…", ". It…" |
+| Word swaps (precision) | ~8 | like→of, had come→went, stared up at→stared at, one big→his big |
+| Phrase deletions (tighten/over-narration) | ~6 | cut "It meant the opposite.", "for the rest of her life.", "while the smoke thinned" |
+| Article/possessive precision | ~5 | her chair→the chair, her→his, the→his |
+| Connective variation | ~4 | and→then, while/as swaps |
+| **Verb-form / word-ending** | **~4** | see below |
+| Name standardization | ~2 | "her mother said"→"Bella said" |
+
+Word-ENDING / verb-form (the author's specific earlier question — these are tense endings, NOT plural-s;
+no plural-s fix appears in Ch.1). Only ~4 of the ~55 edits, i.e. a small minority — the dominant edits
+were sentence-splitting and tightening, not morphology:
 - ~~looked~~ → **look** ("she had not looked up" → "she didn't look up") — dropped **-ed**
 - ~~smelling~~ → **smelled** ("smelling of soap" → "smelled of soap") — **-ing → -ed**
 - ~~he'd~~ → **he** (dropped contraction)
+- ~~has invented~~ → **invented** (dropped auxiliary; present-perfect → past)
 
 Wording / word-swaps:
 - ~~smelled like~~ → **smelled of**; ~~had come~~ → **went**; ~~loose on her heels~~ → **loose at the heels**;
