@@ -165,3 +165,13 @@ someone"). First genuine LanguageTool find of the pass.
 **Edits:** split three long climax-action sentences — the shadow-lurch (210 w, kept the "and then—"
 cliffhanger), the fire-across-the-lane sentence (175 w), and the "she understood… too late" realization
 (168 w). All gates clean; em-dash 2; rhythm 16.
+
+## Chapter 16 — "Before Both Armies" (THE HINGE: Jazen executed; the breakdown breaks) ✅ DONE
+**PROTECTED CHAPTER** (CLAUDE.md: the sanctioned emotional peak). **LanguageTool:** clean (1 false
+positive, "let out came out"). **Motif density:** 3.6/1k — MAXIMALLY load-bearing and NOT thinned:
+this is the chapter where the "careful face" and the "banked furnace" BREAK; the density is the payoff
+of the whole motif system. **Verb-form:** none.
+**Edits:** split ONLY the one analytical long sentence (the furnace/no-leash realization, 184 w) for
+readability. Deliberately LEFT the two pure-emotional dam-break sentences (the "she let them all see…
+and wept" 178 w; the "somewhere far down the line a fighter was watching her" 159 w) as single-breath
+climax beats — the long breathless sentence IS the technique here. All gates clean; rhythm 16.
