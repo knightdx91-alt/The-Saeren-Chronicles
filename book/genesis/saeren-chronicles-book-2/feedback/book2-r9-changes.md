@@ -124,3 +124,15 @@ Left the councilor's speech (deliberate anaphora, pre-existing rhythm flag) inta
 **Chapter 7:** "she had stood on the dragons' ground exactly once, **in Book One's last days**" →
 "…exactly once, weeks ago now, …" — second fourth-wall "Book One" reference removed. Book-wide scan
 now confirms NO "Book One/Two/Three" references remain in any chapter's prose. Gates re-run clean.
+
+## Chapter 11 — "The Cost of Hiding" (the camp burns; Mirelle & Hiram die) ✅ DONE
+**LanguageTool:** clean (1 false positive). **Motif density:** 8.2/1k → 8.0 (highest in book) —
+judged CONTENT-JUSTIFIED, not thinned: "counting" is the chapter's load-bearing motif and PAYS OFF
+(Mirelle counts the children → they come out "still counting" → Viridia counts the dead). Bulk-thinning
+would flatten the chapter's emotional architecture (same call as Ch.6). Trimmed only one incidental
+"the cold working part's count" → "her count" in passing.
+**Edits:** split the FOUR longest sentences in the whole book — the opening ward-reading run-on (207 w),
+the Mirelle-shields-the-children sentence (208 w), the Hiram-eulogy sentence (199 w), and the fire-mage
+arrival (145 w). Kept the breathless single-breath quality and the deliberate anaphora; no em-dashes
+added (used colons/semicolons). Left the remaining intense action/death beats (Brutus's beam, the
+Mirelle-kneeling beat) as deliberate. All gates clean; rhythm 16 (ch11 → 0 flags).
