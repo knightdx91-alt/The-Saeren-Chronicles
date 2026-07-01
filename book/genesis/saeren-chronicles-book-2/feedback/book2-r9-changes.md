@@ -75,3 +75,13 @@ Left the closing doorway-montage sentence intact (deliberate atmospheric close).
 out…" to avoid anaphora) and the "thing under Viridia's ribs… went quiet at that." sentence. Left the
 void-rim cosmic beat intact (deliberate Bk3 seed). The r8 reveal-laddering clause untouched. All gates
 clean; rhythm net-neutral (16; ch5's one flag is the pre-existing "severing was not one tree" anaphora).
+
+## Chapter 6 — "The Window Narrows" ✅ DONE
+**LanguageTool:** clean (3 warnings, all false positives — "painted shut", "foremost of the three",
+the deliberate "Four men is four men"). **Motif density:** 4.0/1k (HIGH) but CONTENT-JUSTIFIED —
+this is the bank-the-furnace / fight-small chapter, so "banking" (8×) and the council "arithmetic /
+did the sum" are the chapter's actual subject, not incidental repetition. Left intact per preserve-texture.
+**Verb-form:** no warranted changes.
+**Edits:** split two narration compounds — the seer-reads-the-wards sentence and the Hiram-with-the-blade
+sentence. Viridia's council dialogue (the "I can't hold it tight and do anything else…" speech) left
+intact as deliberate cadence. All gates clean; rhythm 16 (ch6 → 0 flags).
