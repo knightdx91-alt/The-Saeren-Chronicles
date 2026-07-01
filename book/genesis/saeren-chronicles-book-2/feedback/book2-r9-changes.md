@@ -35,3 +35,21 @@ gates clean; book-wide rhythm unchanged at 16 (ch1's one flag is the pre-existin
 **Deliberately NOT changed:** the "banking / count / small true things / careful face" motif density
 (these are the book's deliberate, allowlisted motifs — de-tic only where incidental, not here); the
 praised atmospheric opener (only its one over-long tail sentence was left as the deliberate 72-w beat).
+
+## Chapter 2 — "The Thread Pulled Taut" ✅ DONE
+**LanguageTool:** grammatically clean — the 3 tier-2 warnings are false positives on deliberate voice
+("came in his own time"; the litotes "did not pretend not to see it"; the stylistic "there was a someone").
+
+**Edits (all sentence-craft; no canon, no plot, voice preserved):**
+1. Split the Ferro-climbing sentence (120 w) into three (the climb / the church-window sight / "Ferro thought…").
+2. Split the "Behind her… the prismatic dragon lifted his head" sentence (~90 w) into two.
+3. Split the closing doorway sentence (106 w) into two ("…something crueller in its place." + "It was a
+   knowing she could not trust…").
+
+**Left intact (deliberate / load-bearing):** Jazen's climactic speech ("You feel all of it at once and it
+tears you…") — dialogue cadence; and the remaining long descriptive beats (Raizen's prismatic-core
+reveal 96 w; Drake's descent 81 w; the "seen by a dragon, a death-lizard, a scout" list 77 w) — these
+are voice-benchmark images, not run-ons to break.
+
+**Result:** all four gates clean; book-wide rhythm unchanged at 16 (ch2's one flag is pre-existing);
+em-dash 0. Word count 5,001 → 4,998.
