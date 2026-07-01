@@ -156,3 +156,12 @@ you the arithmetic…") intact as load-bearing dialogue. All gates clean; rhythm
 **Edits:** split three long battle beats — the unnamed-boy death (180 w), the Brutus-filing sentence
 (172 w), and the Jazen-breaking sentence (166 w) — each moderately, preserving the breathless combat
 intensity (no em-dashes added). All gates clean; rhythm 16.
+
+## Chapter 15 — "Through the Shadow" (the Alice rescue fails; Jazen breaks through) ✅ DONE
+**LanguageTool:** **one REAL catch fixed** — "the only fast road she had **went** to the rise" read as
+an ungrammatical/ambiguous "had went" → "the only fast road **left to her** went to the rise" (LT
+re-verified: agreement warning gone; 2 remaining warnings are false positives on "the somewhere"/"the
+someone"). First genuine LanguageTool find of the pass.
+**Edits:** split three long climax-action sentences — the shadow-lurch (210 w, kept the "and then—"
+cliffhanger), the fire-across-the-lane sentence (175 w), and the "she understood… too late" realization
+(168 w). All gates clean; em-dash 2; rhythm 16.
