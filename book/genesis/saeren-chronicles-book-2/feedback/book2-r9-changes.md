@@ -85,3 +85,11 @@ did the sum" are the chapter's actual subject, not incidental repetition. Left i
 **Edits:** split two narration compounds — the seer-reads-the-wards sentence and the Hiram-with-the-blade
 sentence. Viridia's council dialogue (the "I can't hold it tight and do anything else…" speech) left
 intact as deliberate cadence. All gates clean; rhythm 16 (ch6 → 0 flags).
+
+## Chapter 7 — "What She Tries First" (the mountain / dragons) ✅ DONE
+**LanguageTool:** clean (1 warning = "at the hall", idiomatic, not an error). **Motif density:** 2.3/1k
+(below median). **Verb-form:** no warranted changes.
+**Edits:** split the message-writing reflection ("…the most important conversation of her life with a
+man whose face she had never seen. That the whole of it turned on…"). Left the deliberate lush dragon
+descriptions (Raizen's prismatic arrival ~122 w; Varissa breathing fire) intact as voice-benchmark beats.
+All gates clean; rhythm 16 (ch7 → 0 flags).
