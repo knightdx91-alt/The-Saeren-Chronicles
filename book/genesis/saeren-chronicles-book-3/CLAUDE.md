@@ -114,10 +114,28 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: LINE-BY-LINE EDIT of Book Three (author directive 2026-06-29)
+> ### ▶ NEXT SESSION — START HERE: LINE-BY-LINE EDIT of Book Three (author directive 2026-06-29; confirmed 2026-07-01)
 > **Book Three is COMPLETE + structurally revised. Current build = r3** (20 ch, 112,046 w, 326 pp;
 > RGB + PDF/X-1a). All prior builds kept as history. Gates clean (style/grammar; rhythm 30).
 > **The next session's job is a full LINE-BY-LINE edit, chapter by chapter, Ch.1 → Ch.20.**
+>
+> **STATUS 2026-07-01:** Book TWO's full line edit (r8→r9) is DONE (see ../saeren-chronicles-book-2);
+> that pass proved the protocol — split over-packed sentences, run LanguageTool per chapter (verb-form
+> issues barely exist in this prose; nearly all LT flags are voice false-positives), keep motifs where
+> content-justified, scan for fourth-wall "Book One/Two/Three" meta-slips. Bring the SAME approach here.
+> A `book-evaluator` PACING+reviewer pass on r3 was run (`feedback/book3-evaluator-pacing-2026-07-01.md`):
+> **Genesis Floor 8.5 (Pacing), avg 8.77 — PASSES.** FOLD ITS THREE FINDINGS INTO THE LINE EDIT:
+>   1. **Highest-leverage fix — the Ch.10→11 interiority stack (the book's one real sag):** the un-mend
+>      deliberation lands fully in Ch.10 and is re-run at length in Ch.11 before the Lest letter; collapse
+>      the twice-told deliberation to one confirming beat and pull the Lest letter forward. (Consolidation,
+>      not new plot.)
+>   2. **Door-refrain cadence:** vary the rhyming chapter-ENDINGS of the tear/door incidents (Ch.2/4/6/8 —
+>      "door shut → pull unchanged → reads the rim → 'there would be more'"); the events already escalate,
+>      it's the closing refrain that reads episodic.
+>   3. **Motif over-saturation in Ch.17–19:** thin the eye-burn / "looked down until it passed" / "does not
+>      count" refrain and the "very long way off / doorpost / second warmth" cluster where events are thin.
+> Use `tools/tic_report.py` (already present) to target the motif clusters; Ch.11 flagged high (~8.2/1k).
+> All fixes are literary-preserving; do NOT reintroduce the DECLINED commercial trim / added set-pieces.
 >
 > **How to run it (same discipline as every revision here):**
 > 1. Read `feedback/book3-developmental-edit-2026-06-29.md` (the structural diagnosis) and the three
