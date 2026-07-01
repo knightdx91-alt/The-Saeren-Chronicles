@@ -128,6 +128,12 @@ is **abstract, no entity**; the source = the **physical Book One cavern**.
 >    --max-emdash 4` (RESULT: clean), `python3 tools/grammar_check.py` (RESULT: clean, and use its
 >    3-longest-sentences report to split at least one over-packed sentence per scene), and
 >    `python3 tools/rhythm_check.py` (no NEW flat triplets vs the r3 baseline of 30).
+>    **REQUIRED for this line edit — run the LanguageTool tier PER CHAPTER:** `python3
+>    tools/grammar_check.py --file manuscript/chapters/chapter-N.md --languagetool`. Tier-1 grammar_check
+>    does NOT catch tense/verb-form or dangling modifiers — the LanguageTool tier does, and those are
+>    exactly the class the Book One reviewer (Eilidh) caught (looked→look, smelling→smelled, the dangling
+>    modifier). Treat its output as an assist, not an authority: apply the true verb-form/tense/dangling
+>    fixes, ignore false positives on deliberate voice. (Installed this session; slow, so run per file.)
 > 4. **The mandate is LITERARY-PRESERVING (author call 2026-06-29).** Clarify without flattening:
 >    split over-packed sentences, kill vague poetic reaches ("she knew / something / deep water" — name
 >    the referent or cut), de-tic, vary connectives, prefer the shown action over `-ly` tells. Do NOT

@@ -13,6 +13,10 @@
 > - Bump `REVISION` r8 → r9 BEFORE any rebuild; log in `feedback/book2-r9-changes.md`; keep r8 as history.
 > - Per chapter: `style_check.py --max-emdash 4` + `grammar_check.py` (use its longest-sentence report to
 >   split over-packed sentences) + `rhythm_check.py` (no new flat triplets), all clean.
+> - **REQUIRED — LanguageTool tier PER CHAPTER:** `python3 tools/grammar_check.py --file
+>   manuscript/chapters/chapter-N.md --languagetool`. Tier-1 does NOT catch tense/verb-form or dangling
+>   modifiers; the LanguageTool tier does — the exact class the Book One reviewer caught (looked→look,
+>   smelling→smelled, dangling modifier). Assist, not authority: apply real fixes, ignore voice false-positives.
 > - **Mandate = literary-preserving:** de-tic the named motifs, combine the 2–3 genuinely redundant
 >   reflective passages, clarify without flattening. Do NOT cut the Ch.9 moral-question payoff or the
 >   escalation, and do NOT reintroduce the declined commercial 10–15% trim / added set-pieces.
