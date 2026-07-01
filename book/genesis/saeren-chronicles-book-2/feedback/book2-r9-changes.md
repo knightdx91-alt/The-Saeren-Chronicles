@@ -67,3 +67,11 @@ canon/plot change; the r8 Act-One probe scene (search-grid) untouched. All gates
 **Edits:** split one over-packed sentence — the chart-reading sentence (the dateless-name reveal) at
 "…did not fit. And there it was:" — keeping the deliberate accumulating "that… that… as though…" tail.
 Left the closing doorway-montage sentence intact (deliberate atmospheric close). All gates clean; rhythm 16.
+
+## Chapter 5 — "The Furnace and the Match" ✅ DONE
+**LanguageTool:** clean (1 warning = false positive, "let her hand shake" ≠ "handshake").
+**Motif density:** 2.4/1k (at median). **Verb-form:** no warranted changes.
+**Edits:** split two compound sentences — the letter-writing sentence (varied the "She set out… She set
+out…" to avoid anaphora) and the "thing under Viridia's ribs… went quiet at that." sentence. Left the
+void-rim cosmic beat intact (deliberate Bk3 seed). The r8 reveal-laddering clause untouched. All gates
+clean; rhythm net-neutral (16; ch5's one flag is the pre-existing "severing was not one tree" anaphora).
