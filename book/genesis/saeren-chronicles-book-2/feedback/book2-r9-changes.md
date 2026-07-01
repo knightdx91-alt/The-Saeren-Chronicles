@@ -175,3 +175,8 @@ of the whole motif system. **Verb-form:** none.
 readability. Deliberately LEFT the two pure-emotional dam-break sentences (the "she let them all see…
 and wept" 178 w; the "somewhere far down the line a fighter was watching her" 159 w) as single-breath
 climax beats — the long breathless sentence IS the technique here. All gates clean; rhythm 16.
+
+## Chapter 17 — "The Decision" (Drake kills Meros; she reaches for the well) ✅ DONE
+**LanguageTool:** clean (1 false positive, "a child braces who has been told"). **Motif density:** 1.6/1k.
+**Edits:** split three long resolution sentences — Meros's-death-registering (160 w), the reaching-for-
+the-well/True-Bond beat (158 w), and Drake's-cost sentence (154 w), each into 3. All gates clean; rhythm 16.
