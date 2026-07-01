@@ -149,3 +149,10 @@ breath (no em-dashes added). All gates clean; rhythm 16.
 **Edits:** split the wall-goes-gold description (137 w) and the chained-line/Alice-reveal sentence
 (164 w), varying an "And…" cluster the reveal split created. Left Jazen's 178-word confession ("I envy
 you the arithmetic…") intact as load-bearing dialogue. All gates clean; rhythm 16.
+
+## Chapter 14 — "The First Hour" (battle opens; Brutus dies) ✅ DONE
+**LanguageTool:** clean (1 false positive, "no one could accept"). **Motif density:** 2.6/1k;
+"counting" content-justified (she makes herself count the killing). **Verb-form:** none.
+**Edits:** split three long battle beats — the unnamed-boy death (180 w), the Brutus-filing sentence
+(172 w), and the Jazen-breaking sentence (166 w) — each moderately, preserving the breathless combat
+intensity (no em-dashes added). All gates clean; rhythm 16.
