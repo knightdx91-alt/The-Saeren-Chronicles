@@ -100,3 +100,12 @@ All gates clean; rhythm 16 (ch7 → 0 flags).
 (kept the deliberate "That… That…" anaphora and the "a plot to… to… to…" list; no em-dashes added).
 Left the remaining long beats intact as deliberate: Drake/Jazen dialogue (102 w) and the death-symbol
 first-use ritual ("She put the intent behind it, the *no, once,*…" 101 w). All gates clean; rhythm 16.
+
+## Chapter 9 — "The Right" (the moral-challenge PAYOFF) ✅ DONE
+**LanguageTool:** clean (2 false positives). **Motif density:** 0.9/1k (lowest in book — dialogue-heavy
+confrontation). **Verb-form:** no changes.
+**Edits:** split the opening sentence (the hall's two smells) and the closing sentence (the question +
+the man on foot + the last door) — both narration, each into ~three. **Left the protected payoff beat
+intact** — Amber's "I'm on the sheet… you can't leave me off the way you left off the dragon" landing
+(the 112-word "there was no arithmetic for that" sentence) is the strongest beat in the book; not touched.
+All gates clean; rhythm 16.
