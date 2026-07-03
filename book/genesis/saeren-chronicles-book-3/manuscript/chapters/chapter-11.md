@@ -110,15 +110,9 @@ She had not thought about what she would do when a specific burning-man had thre
 
 She did not answer Amber right away. The questions Amber asked were never questions that wanted an instant answer; they wanted the real one, and the real one had to be found.
 
-There was a thing she had been not-thinking about since the pedestal, a thing she had circled around in the bad sleep and the grey morning and Alice's good tea, and Amber's question cracked it open the rest of the way, so she sat with it for a moment in the kitchen, with the cold afternoon light coming through the small window and the smell of the lunch Amber had made, burned, as she had promised, along the edge.
+There was a thing she had been not-thinking about since the pedestal, the thought she had run once already in the cavern dark and shut behind a door, and Amber's question cracked the door the rest of the way. She sat with it a moment in the kitchen, with the cold afternoon light coming through the small window and the smell of the lunch Amber had made, burned, as she had promised, along the edge.
 
-She could un-mend it. That was the thought she had been keeping behind a door.
-
-The source would take what she asked it with. She had learned that in a cavern a year ago with everything she could see. She could go back to the pedestal and she could do what no hand had done in six hundred years, which was reach in and run the weave thin again, give the world back half of what it had been given, snuff the dark halves she had lit, strand by strand. The cold would stop leaning. The doors would stop tearing. Sela would still be dead, the eleven would still be eleven absences in the bright weave, but the next Sela would not happen, the next eleven would not happen, because the wall she had built too full would be thinner again and the cold would find less to lean against and the differential would ease, and the Horrors would find no door to pour through, and the burning-man in Lest would be a man with a stunted candle again, safe and half-made and none the wiser.
-
-She had let the cold part run it. It sat in her now, in the kitchen, with the letter on the table, the way the cold part always ran every sum whether she liked the outcome or not, holding it out for her to look at with the full detailed clarity of a thing she would not do.
-
-She would not do it. She was not going to do it. The thought was monstrous and she knew it was monstrous and it was still there, still in the bins, still the sum she could not spend, and she had learned enough about herself in sixteen years to know that the thoughts you most need to say out loud are the ones you are most ashamed to have thought.
+She could un-mend it. She had known that at the pedestal — that the source would take back what she asked it with, that she could run the weave thin again and snuff the dark halves she had lit, and the cold would stop leaning, and the doors would stop tearing, and the next Sela would not happen. The cold part had held the whole monstrous sum out for her a year ago and held it out again in the bad sleep last night, and it came out the same both times, the same shape the council's mercy had, and she had learned enough about herself in sixteen years to know that the thoughts you most need to say out loud are the ones you are most ashamed to have thought.
 
 She looked at Amber. "I thought about un-mending it," she said. "Giving the dark half back. Running the weave thin. Taking back what I gave."
 

@@ -138,6 +138,6 @@ And she was not going to be able to close them fast enough.
 
 She stood at the high wall with the cold rim wearing open faster than her hand could draw, and she did the arithmetic, the cold working part taking the six or the seven and the one beyond it and the breath beyond that, setting them beside the count and the weight and that other thought she had filed at the first tear and still would not let arrive, and the arithmetic came out the way it had been going to come out since the wall in Wend, since the first cold breath at the edge of the source-sense, and she stood with it in the dark and did not say it, even to herself.
 
-She only let herself know the small true thing, the one she always knew before she understood it.
+This time she let the sum arrive.
 
-There were more doors every day. And the mark would close any one of them, and ask nothing, and that would not be enough, because they were opening faster than one girl with a free and terrible gift could ever, in a single given night, draw them shut.
+It was not a count anymore. It was a rate. The doors were opening faster than one girl with a free and terrible gift could ever, in a single given night, draw them shut, and the gap between the opening and the closing widened every time she set her eye to it, and no mark that asked nothing of her could close a gap that grew. Whatever stopped this was going to be something else. Something she did not have yet, and did not want, and could already feel waiting for her at the far end of the arithmetic she had spent three countries refusing to finish.
