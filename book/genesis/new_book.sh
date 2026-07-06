@@ -55,5 +55,31 @@ Scaffolded $TODAY from book/genesis/_template.
 Nothing drafted yet.
 EOF
 
+# --- Ensure the book pipeline is available (from book-pipeline, the source of truth) ---
+# Installs the customized agents/commands/apodictic into ~/.claude, and drops a copy into
+# this repo root (belt-and-suspenders, so a fresh session here works even without the
+# environment setup script). Non-fatal if book-pipeline can't be reached.
+REPO_ROOT="$(git -C "$HERE" rev-parse --show-toplevel 2>/dev/null || echo "")"
+CFG="$HOME/.book-pipeline-src"
+if [[ -d "$CFG/.git" ]]; then
+  git -C "$CFG" fetch --depth 1 origin main >/dev/null 2>&1 && git -C "$CFG" reset --hard origin/main >/dev/null 2>&1 || true
+else
+  git clone --depth 1 https://github.com/knightdx91-alt/book-pipeline "$CFG" >/dev/null 2>&1 || true
+fi
+if [[ -d "$CFG/.claude" ]]; then
+  mkdir -p "$HOME/.claude/agents" "$HOME/.claude/commands"
+  cp -f "$CFG/.claude/agents/"*.md   "$HOME/.claude/agents/"   2>/dev/null || true
+  cp -f "$CFG/.claude/commands/"*.md "$HOME/.claude/commands/" 2>/dev/null || true
+  [[ -d "$CFG/tools/apodictic" ]] && { rm -rf "$HOME/.claude/apodictic"; cp -R "$CFG/tools/apodictic" "$HOME/.claude/apodictic"; }
+  if [[ -n "$REPO_ROOT" && ! -d "$REPO_ROOT/.claude/agents" ]]; then
+    cp -R "$CFG/.claude" "$REPO_ROOT/.claude" 2>/dev/null || true
+    mkdir -p "$REPO_ROOT/tools"; cp -R "$CFG/tools/apodictic" "$REPO_ROOT/tools/apodictic" 2>/dev/null || true
+    echo "Seeded pipeline into $REPO_ROOT/.claude + tools/apodictic (commit it)."
+  fi
+  echo "Pipeline ready: $(ls "$HOME/.claude/agents" 2>/dev/null | wc -l) agents in ~/.claude/agents."
+else
+  echo "note: book-pipeline not reachable — add it to this environment's repo scope for the full pipeline." >&2
+fi
+
 echo "Created $DEST"
 echo "Next: stage source into $DEST/research/, edit $DEST/STATE.yaml, then run the pipeline."
