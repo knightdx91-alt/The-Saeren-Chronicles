@@ -39,7 +39,6 @@ WORD = re.compile(r"[a-z']+", re.I)
 ALLOWLIST = [
     # Add THIS book's deliberate recurring motifs / canon terms here.
     "only what everyone saw",
-    "a country with one citizen",
     "eats voices",
     "survive to fight later",
 ]

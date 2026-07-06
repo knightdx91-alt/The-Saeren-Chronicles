@@ -74,7 +74,7 @@ resolved_author_decisions_r2:
   - "THE SECRET: Korvan carries the garden meeting ENTIRELY ALONE — no confidant. Reader is the only one who knows. (Overrides architect's 'confide to Selwyn' proposal.)"
   - "MAREN: CONFIRMED — add as Amelia's keeper/handmaid, the one human the Queen won't feed on (court-thread relationship + human stake)."
   - "ENDPOINT: accepted as architect proposed — Loric outlasted/contained at heavy cost (not negotiated); reader-only reveal the Queen never knew his name; bittersweet partial peace, sequel-optional."
-  - "STYLE MOTIFS: accepted — add to ALLOWLIST: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'."
+  - "STYLE MOTIFS: accepted — add to ALLOWLIST: 'only what everyone saw', 'eats voices', 'survive to fight later'."
   - "ROMANCE WEIGHT: strong B-plot. Politics/war is the spine; the Amelia/Korvan romance is a powerful, ever-present secondary thread (slow burn, 'parallel outsiders deeper than romance')."
   - "ROMANCE HEAT: open-door, MODERATE. On-page intimacy written sensually but not graphically; no explicit/graphic content. Tension and yearning carry most of the arc; the open-door beat(s) land where the two reconverge (Ch.18+)."
 
@@ -85,7 +85,7 @@ architect_proposals:
   - "Korvan confides the garden meeting: ONLY to Selwyn, late and partial (Ch.14) — gives the secret a witness + a betrayal risk, and a cause for the Ch.10 snap."
   - "ENDPOINT: single complete arc; Loric is OUTLASTED/contained at unrecoverable cost, NOT defeated by argument (canon: he can't be negotiated). Reveal-to-reader-only: the Queen never knew his name. Amelia chooses to be seen on her terms; Korvan authors the dragon as his own place. Bittersweet partial peace; sequel-optional. (Ch.19-20)"
   - "Maren: NEW supporting character (Amelia's keeper/handmaid, the human the Queen won't feed on) invented to give Amelia's court thread a relationship + human stake. Confirm or cut."
-  - "Style gate: ADD these deliberate motifs to tools/style_check.py ALLOWLIST before the chapter loop: 'only what everyone saw', 'a country with one citizen', 'eats voices', 'survive to fight later'/'later' (Chief's creed)."
+  - "Style gate: ADD these deliberate motifs to tools/style_check.py ALLOWLIST before the chapter loop: 'only what everyone saw', 'eats voices', 'survive to fight later'/'later' (Chief's creed)."
 
 decisions:
   - "Folder-per-book genesis project under book/genesis/rosalia/."

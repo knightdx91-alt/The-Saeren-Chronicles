@@ -282,9 +282,10 @@ only to Amelia.
 5. **Korvan's father letting go of his hand (swim memory).** Reads as warmth early;
    on reread it's the pragmatist's creed in miniature — *I let go so you'd learn to
    survive without me* — recast as the argument that fractures them.
-6. **The dragon as "clan of one."** Early, Amelia calls herself "a country with one
-   citizen." On reread, she described Korvan before either knew what he'd become — the
-   parallel-outsiders bond stated before the plot earns it.
+6. **The dragon as "clan of one."** Early, Amelia describes her own aloneness — the only
+   one of her kind — in plain language that, on reread, prefigures Korvan the dragon (a
+   clan of one) before either knew what he'd become: the parallel-outsiders bond stated
+   before the plot earns it.
 
 **Cultural vocabulary (CVI):** the phrase **"only what everyone saw"** — designed to
 enter the reader's mouth as shorthand for accusation-without-proof. Introduced as

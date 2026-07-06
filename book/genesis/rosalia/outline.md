@@ -107,8 +107,9 @@
 
 ### Chapter 6 — "The Garden" [K]
 - **Premise:** Korvan, escaping his own humiliation, finds Amelia in the garden; they talk.
-- **Function:** The bond — parallel outsiders, deeper than romance. "A country with one
-  citizen" line (re-read seed). The fountain eats their words (only seen, not heard).
+- **Function:** The bond — parallel outsiders, deeper than romance. Amelia names her
+  aloneness (the only one of her kind — a re-read seed for Korvan the "clan of one").
+  The fountain eats their words (only seen, not heard).
 - **Anchor:** Two people who've never had a place recognizing it in each other.
 - **Surprise:** A burst of real laughter in a book that's been about loneliness.
 - **Opening:** Single-scene, two-hander dialogue.
@@ -580,7 +581,7 @@
 - **Theme:** Present (inherit vs choose — left open, handed to the reader).
 - **Chaos:** Korvan builds a fire correctly; Amelia rates the silence's acoustics, content.
 - **Subtext:** "Now what?" = "we get to decide — for the first time."
-- **Re-read payoff:** "A country with one citizen" returns, now two.
+- **Re-read payoff:** Amelia's early "only one of my kind" aloneness echoes back — the "clan of one" is now two.
 - **Emotional residue:** Unsettled by how little truth mattered; quietly re-examining one's
   own certainty about people already judged.
 - **Beat subversion:** Genre expects restored-order epilogue; instead a deliberately *small*,

@@ -18,7 +18,6 @@ After each `python3 tools/style_check.py` run, log anything flagged below.
 
 ## Approved motifs (in ALLOWLIST — intentional, do NOT "fix")
 - "only what everyone saw"
-- "a country with one citizen"
 - "eats voices"
 - "survive to fight later"  (the Chief's creed)
 

@@ -140,7 +140,6 @@ formal) are separated by *measuring vs commanding* and *questions vs none*.
 
 **Deliberate motifs to ADD to `tools/style_check.py` ALLOWLIST** (intentional repetition):
 - "only what everyone saw" / "only said what everyone saw" (Loric's tic / cultural vocab)
-- "a country with one citizen" (the parallel-outsiders re-read seed)
 - "eats voices" / "ate the voices" (the fountain/acoustics motif)
 - "survive to fight later" / "later" as the Chief's creed
 These four are intended and tracked; do NOT let the gate flag them as accidental repeats.
