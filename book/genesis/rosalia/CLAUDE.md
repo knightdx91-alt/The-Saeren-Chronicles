@@ -76,6 +76,8 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - Spelling is **magyk** (not magic) for the in-world power.
 - **Vampires** descend from Atlanteans (a failed disease-cure experiment); feudal "protection"
   pact over humans; ruled by a **Queen** with **blood magyk**.
+- **The Queen's name is ROSALIA** (Amelia's mother). "Rosalia" is a CHARACTER name, not the
+  world/series name; the book's title is *Treaty of Blood and Ash*.
 - **Shifters**: human until the first full moon AFTER their 16th birthday; first shift assigns
   them to their animal's clan; ancestral memory trickles in **situationally** (never one info
   dump); all clans under a single **chief**.
