@@ -1,7 +1,7 @@
 project:
   title: "Treaty of Blood and Ash"   # author-chosen 2026-07-06. NOTE: "Rosalia" is the QUEEN's name (Amelia's mother), NOT the world/series name.
   genre: "Fantasy"
-  subgenre: "Epic / political fantasy with romance (dual-POV)"
+  subgenre: "New Adult epic/political fantasy romance (dual-POV)"   # category set 2026-07-06: NEW ADULT (leads ~18-22), warm/open-door heat
   language: "English"
   word_count_target: 150000   # ~500+ printed pages at ~250-300 words/page
   comp_titles: []
@@ -52,13 +52,13 @@ guardrails:
   # --- Settled author canon (from the bible — never violate) ---
   - "Spelling is 'magyk' (not magic) when naming the in-world power."
   - "Vampires descend from Atlanteans (a failed disease-cure experiment). Vampire society runs a feudal 'protection' pact over humans; ruled by a Queen with blood magyk."
-  - "Shifters: human until the first full moon AFTER their 16th birthday; first shift assigns them to the clan of their animal; ancestral memory trickles in situationally, never as one info dump. Ruled by a single chief over all clans."
+  - "Shifters: human until the first full moon AFTER their coming-of-age; first shift assigns them to the clan of their animal; ancestral memory trickles in situationally, never as one info dump. Ruled by a single chief over all clans. NOTE (NA recast 2026-07-06): most shift on time, but LATE/anomalous shifters exist and are rare/stigmatized — Korvan is one (still unshifted well past the usual age), which is why he is ~19-20 and an outsider, and why his eventual dragon-shift is a shock."
   - "The Treaty: no NEW vampires may be made (vampires had encroached on shifter lands). It is silent on natural-born vampires because none were thought possible."
   - "Amelia = Queen's daughter, first natural-born vampire in millennia, inherited blood magyk (which should not be heritable); hidden her whole life; want = to exist openly. No PROOF exists that she is born vs made."
   - "Korvan = chief's son; UNSHIFTED at the banquet; first shift happens on the journey home (calendar coincidence, NOT magically triggered) and he becomes a DRAGON — a clan of one, no elders/traditions."
   - "Loric = antagonist, shifter whose father the Queen killed in the last war; motive is emotional (wants the Queen to SUFFER), not strategic; cannot be bought/negotiated; exposes Amelia publicly so the chief loses either way."
   - "Inciting incident is public exposure at the banquet -> chief forced to declare war -> Korvan goes home under public suspicion."
-  - "ROMANCE: strong B-plot, slow burn; heat = open-door/MODERATE (sensual, not graphic). Built on 'parallel outsiders' recognition, not insta-love."
+  - "ROMANCE: strong B-plot, slow burn; heat = NEW-ADULT WARM / open-door (sensual, emotionally-driven on-page; tasteful, not hardcore-explicit). Built on 'parallel outsiders' recognition, not insta-love."
 
 # --- RESOLVED by author 2026-06-21 ---
 resolved_author_decisions:
@@ -76,7 +76,8 @@ resolved_author_decisions_r2:
   - "ENDPOINT: accepted as architect proposed — Loric outlasted/contained at heavy cost (not negotiated); reader-only reveal the Queen never knew his name; bittersweet partial peace, sequel-optional."
   - "STYLE MOTIFS: accepted — add to ALLOWLIST: 'only what everyone saw', 'eats voices', 'survive to fight later'."
   - "ROMANCE WEIGHT: strong B-plot. Politics/war is the spine; the Amelia/Korvan romance is a powerful, ever-present secondary thread (slow burn, 'parallel outsiders deeper than romance')."
-  - "ROMANCE HEAT: open-door, MODERATE. On-page intimacy written sensually but not graphically; no explicit/graphic content. Tension and yearning carry most of the arc; the open-door beat(s) land where the two reconverge (Ch.18+)."
+  - "ROMANCE HEAT: NEW-ADULT WARM / open-door (author-chosen 2026-07-06). On-page intimacy written sensually and adult-framed — warm and present, but tasteful rather than hardcore-explicit (ACOTAR-bk1 level). Tension/yearning carry most of the arc; the open-door beat(s) land where the two reconverge (Ch.18+)."
+  - "CATEGORY / AGES (author-chosen 2026-07-06): NEW ADULT, not YA. Leads ~18-22. Amelia is a young adult woman (adult-framed). Korvan is ~19-20, a rare LATE shifter (unshifted long past the usual age) — lean into it as outsider ache, do NOT write them as teenagers. Adult register/stakes; the Saeren trilogy YA guardrails do NOT apply to this book."
 
 # --- Architect PROPOSALS (2026-06-21) — flagged, NOT locked; confirm with author ---
 architect_proposals:

@@ -78,17 +78,22 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
   pact over humans; ruled by a **Queen** with **blood magyk**.
 - **The Queen's name is ROSALIA** (Amelia's mother). "Rosalia" is a CHARACTER name, not the
   world/series name; the book's title is *Treaty of Blood and Ash*.
-- **Shifters**: human until the first full moon AFTER their 16th birthday; first shift assigns
+- **Shifters**: human until the first full moon AFTER their coming-of-age; first shift assigns
   them to their animal's clan; ancestral memory trickles in **situationally** (never one info
-  dump); all clans under a single **chief**.
+  dump); all clans under a single **chief**. Most shift on time; **late/anomalous shifters are
+  rare and stigmatized** — Korvan is one.
 - **The Treaty**: no NEW vampires may be made; silent on natural-born vampires (thought impossible).
 - **Amelia**: Queen's daughter, first natural-born vampire in millennia, inherited blood magyk;
   hidden her whole life; want = to exist openly. No proof exists she's born vs made.
-- **Korvan**: chief's son, UNSHIFTED at the banquet; first shift on the journey home (calendar
-  coincidence, NOT magically triggered) → a **dragon**, a clan of one.
+- **Korvan**: chief's son, **~19-20**, a rare LATE shifter still UNSHIFTED at the banquet (an
+  outsider ache, not a teenager); first shift on the journey home (calendar coincidence, NOT
+  magically triggered) → a **dragon**, a clan of one.
 - **Loric**: shifter whose father the Queen killed in the last war; motive is emotional (wants
   the Queen to SUFFER); cannot be bought; exposes Amelia publicly so the chief loses either way.
-- **Resolved structure**: single ~100k novel; **dual parallel POV** (Amelia + Korvan); dragon
+- **CATEGORY (2026-07-06):** **NEW ADULT**, not YA. Leads ~18-22 (Amelia adult-framed; Korvan ~19-20).
+  Heat = **new-adult warm / open-door** (sensual, adult-framed, tasteful — ACOTAR-bk1 level, not
+  hardcore). Adult register/stakes; Saeren's YA guardrails do NOT apply here.
+- **Resolved structure**: single ~150k novel; **dual parallel POV** (Amelia + Korvan); dragon
   memory does NOT link to Atlantis; the Queen does NOT remember killing Loric's father.
 
 ## Open author decisions (ask, don't invent)
