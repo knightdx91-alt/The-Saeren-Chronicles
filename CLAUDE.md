@@ -19,6 +19,50 @@ git config user.email noreply@anthropic.com
 git config user.name Claude
 ```
 
+## Uploading a book (Cloud Shell → Downloads → VNC/Firefox)
+
+**When the author asks anything about "uploading a book" / "getting the book into
+Cloud Shell" / "putting the file in Downloads" / ACX / KDP / IngramSpark / Google
+Docs — give them the Cloud Shell workflow below.** The author already knows how to
+set up Cloud Shell and get Firefox running in the VNC; the ONLY part they need each
+time is **how to get the finished book file into the `~/Downloads` folder** so the
+VNC's Firefox file picker (Home → Downloads) can see it. Do NOT re-explain VNC/Firefox
+setup.
+
+Key mental model to restate every time: **the Cloud Shell terminal and the VNC
+desktop are the SAME machine.** The terminal writes the file to `~/Downloads`; the
+VNC's Firefox reads it from the same disk. So "getting it into the VNC" just means
+running the copy/build in the terminal FIRST, then uploading in Firefox SECOND. There
+is no separate transfer step.
+
+**The book files are committed in the repo** at `book/genesis/<slug>/delivery/ebook/`
+(and print PDFs under `delivery/production/`). So the fastest path is clone + copy —
+no rebuild needed:
+
+```bash
+# clone once (skip if already cloned), then copy the file into ~/Downloads:
+git clone https://github.com/knightdx91-alt/the-saeren-chronicles.git ~/the-saeren-chronicles
+cd ~/the-saeren-chronicles && mkdir -p ~/Downloads
+cp book/genesis/saeren-chronicles/delivery/ebook/<FILE>.docx ~/Downloads/
+ls -la ~/Downloads/*.docx      # confirm size matches
+```
+
+Which file to hand them depends on the destination:
+- **ACX (audiobook narration)** → the **`-narrator`** docx (double-spaced).
+- **Google Docs / KDP** → the plain (non-narrator) docx (print layout: title,
+  copyright, dedication each on its own page).
+- **IngramSpark (print)** → the PDF under `delivery/production/` (6×9 interior /
+  full-wrap), not a docx.
+
+To (re)build the Book One docx from the current revision instead of using the
+committed copy, run `bash book/genesis/saeren-chronicles/tools/make_docx.sh` — it
+pulls latest, builds BOTH the print and `-narrator` docx, and copies them into
+`~/Downloads` automatically. Details/troubleshooting live in
+`book/genesis/saeren-chronicles/delivery/ebook/README-docx-vnc.md`. For other books,
+the same `tools/build_docx.py` / `make_docx.sh` pattern applies (port it if a book
+lacks it). Always tell the author the file's **byte size** so they can confirm the
+copy landed (e.g. `ls -la ~/Downloads/<FILE>.docx`).
+
 ## Repository layout
 
 ```
