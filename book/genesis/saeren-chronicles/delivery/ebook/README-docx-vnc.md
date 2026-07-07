@@ -23,15 +23,29 @@ cd the-saeren-chronicles
 bash book/genesis/saeren-chronicles/tools/make_docx.sh
 ```
 
-When it finishes it prints the exact path, e.g.:
+It builds **both** versions, then copies them into `~/Downloads` (same hand-off
+as the IngramSpark file), and prints:
 
 ```
- DONE. Upload this file:
-   .../delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy-r15.docx
+ DONE. Both files copied to ~/Downloads :
+   ACX (double-spaced narrator):  Saeren-Chronicles-Book-One-Hazel-Academy-r15-narrator.docx
+   Print / Google Docs layout:    Saeren-Chronicles-Book-One-Hazel-Academy-r15.docx
 ```
 
-That `.docx` is what you upload. Done. The rest of this doc explains each piece
-and how to open/upload it inside the VNC.
+In the VNC's Firefox, the file picker → **Home → Downloads** now has them.
+
+- **For ACX (audiobook):** upload the **`-narrator`** file — it's double-spaced,
+  the format narrators expect.
+- **For Google Docs / KDP:** use the other one (print layout, title/copyright/
+  dedication pages).
+
+The rest of this doc explains each piece and the details.
+
+> **Important: build in the terminal FIRST, upload in the VNC SECOND.** The VNC
+> desktop and the terminal are the *same* Cloud Shell machine — the terminal
+> writes the files to `~/Downloads`, and the VNC's Firefox reads them from the
+> same disk. There is no separate transfer step; "getting it into the VNC" just
+> means running the build so the files exist before you open the file picker.
 
 ---
 

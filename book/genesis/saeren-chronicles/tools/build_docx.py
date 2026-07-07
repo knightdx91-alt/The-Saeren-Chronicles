@@ -29,7 +29,7 @@ Output: delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy-<REV>.docx
 Run:  python3 tools/build_docx.py
 (assemble the manuscript first: python3 tools/assemble_manuscript.py)
 """
-import os, re, html
+import os, re, html, sys
 
 from docx import Document
 from docx.shared import Pt, Inches, RGBColor
@@ -45,12 +45,19 @@ except FileNotFoundError:
     REV = ""
 _rev = f"-{REV}" if REV else ""
 SRC = os.path.join(ROOT, "manuscript", f"full-manuscript{_rev}.md")
+
+# --- mode -------------------------------------------------------------------
+# Default: print / Google-Docs layout (1.5 spacing).
+# --narrator: double-spaced ACX/audiobook manuscript (same content + page
+#             breaks, just 2.0 line spacing and a "-narrator" filename).
+NARRATOR = "--narrator" in sys.argv
+_suffix = "-narrator" if NARRATOR else ""
 OUT = os.path.join(ROOT, "delivery", "ebook",
-                   f"Saeren-Chronicles-Book-One-Hazel-Academy{_rev}.docx")
+                   f"Saeren-Chronicles-Book-One-Hazel-Academy{_rev}{_suffix}.docx")
 
 BODY_FONT = "Georgia"          # safe serif present in Google Docs + Word + LibreOffice
 BODY_SIZE = 12                 # pt
-LINE_SPACING = 1.5             # readable, editor-friendly (change to 2.0 for a narrator/ACX copy)
+LINE_SPACING = 2.0 if NARRATOR else 1.5
 BLACK = RGBColor(0, 0, 0)
 
 # ----- parsing (identical contract to build_pdf.py) -------------------------

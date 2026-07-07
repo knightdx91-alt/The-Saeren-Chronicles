@@ -41,14 +41,24 @@ echo "==> Current revision: $REV"
 cd "$BOOK_DIR"
 echo "==> Assembling manuscript ..."
 python3 tools/assemble_manuscript.py
-echo "==> Building Word document ..."
-python3 tools/build_docx.py
+echo "==> Building Word documents (print + ACX narrator) ..."
+python3 tools/build_docx.py              # print / Google-Docs layout (1.5 spacing)
+python3 tools/build_docx.py --narrator   # double-spaced ACX narrator manuscript
 
-# 5. Report the file to upload.
-OUT="$BOOK_DIR/delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy-${REV}.docx"
+# 5. Copy both into ~/Downloads (same as the IngramSpark hand-off) and report.
+EBOOK="$BOOK_DIR/delivery/ebook"
+PRINT="$EBOOK/Saeren-Chronicles-Book-One-Hazel-Academy-${REV}.docx"
+ACX="$EBOOK/Saeren-Chronicles-Book-One-Hazel-Academy-${REV}-narrator.docx"
+mkdir -p "$HOME/Downloads"
+cp "$PRINT" "$ACX" "$HOME/Downloads/"
+
 echo
 echo "======================================================================"
-echo " DONE. Upload this file:"
-echo "   $OUT"
+echo " DONE. Both files copied to ~/Downloads :"
+echo "   ACX (double-spaced narrator):  $(basename "$ACX")"
+echo "   Print / Google Docs layout:    $(basename "$PRINT")"
+echo
+echo " In the VNC's Firefox, the file picker -> Home -> Downloads has them."
+echo " For ACX, upload the  -narrator  file."
 echo "======================================================================"
-ls -la "$OUT"
+ls -la "$HOME/Downloads/"Saeren-Chronicles-Book-One-Hazel-Academy-${REV}*.docx
