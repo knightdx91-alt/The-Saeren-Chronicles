@@ -64,7 +64,7 @@ The closing reached for the dead, almost. She felt the spot where Jazen had stoo
 
 And the source, while she held the wound shut and the world ran whole up her arm, gave her back the thread.
 
-She did not reach for it. It found her, the way it had found her once before, surfacing out of the flood unlike the other lines, the line that ran not outward into the world but down, into the source's own deep memory, warmer than the rest and hers, personally, pointed, the way a letter has your name on it. And she felt it brush her in the middle of the closing, the warm familiar stillness at the far end of it, the deep-water stillness she had spent fourteen years living beside and a year and a month now grieving, and her whole opened heart said the name into the pool before she could decide whether to.
+She did not reach for it. It found her, the way it had found her once before, surfacing out of the flood unlike the other lines, the line that ran not outward into the world but down, into the source's own deep memory, warmer than the rest and hers, personally, pointed, the way a letter has your name on it. And she felt it brush her in the middle of the closing, the warm familiar stillness at the far end of it, the deep-water stillness she had spent all her life living beside and a year and a month now grieving, and her whole opened heart said the name into the pool before she could decide whether to.
 
 *Mother. Bella.*
 
